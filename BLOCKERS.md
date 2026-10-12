@@ -17,6 +17,7 @@ The cycle now runs on the reader's own machine. That changes the picture.
 | 4. Taylor and Francis and SAGE blocks | **Still there.** tandfonline.com and journals.sagepub.com return 403 from this machine too. Crossref covers their metadata by ISSN. |
 | 5. No vault access | **Repaired on the local route.** `tools/vault_notes.py` writes the intake notes into `raw/articles` from this machine. The cloud run still has no file access. |
 | 6. The route that works | **Kept as a fallback.** Web-search a publisher listing page, then fetch it. On the local route Crossref and OpenAlex are better: they give the DOI, the exact date and often the abstract, with no page to parse. |
+| 7. RSS feeds | **Partly repaired.** `tools/find_feeds.py` checks every site the reader wants and reads the feed address from the page head. Two sites publish one: ITD Alliance and Silicon Reckoner, and both are now in `meta/profile.rssFeeds`. ScienceGuide, SIA, NRO, Vereniging Hogescholen and CARN publish none. ScienceGuide is covered by its news index; the other three carry policy news, which the reader's own skip pattern marks as low value, so no scraper was built for them. |
 
 What this means in practice:
 

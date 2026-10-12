@@ -265,7 +265,18 @@
  "libraryOff": false,
  "libraryProxy": "windesheim.idm.oclc.org",
  "minScore": 3,
- "rssFeeds": [],
+ "rssFeeds": [
+  {
+   "label": "ITD Alliance",
+   "url": "https://itd-alliance.org/feed/",
+   "status": "ok 12 Oct - found by tools/find_feeds.py, declared in the page head"
+  },
+  {
+   "label": "Silicon Reckoner",
+   "url": "https://siliconreckoner.substack.com/feed",
+   "status": "ok 12 Oct - found by tools/find_feeds.py, declared in the page head"
+  }
+ ],
  "themes": [
   {
    "code": "eco",
@@ -379,5 +390,6 @@
   "rules": "Notes go to raw/articles as intake for /ingest. Never write or edit anything in wiki/ — the author's own pages. Never touch raw/fieldwork or raw/legacy. Frontmatter: title, source, authors, year, published, created, venue, doi, description, intake: reading-radar, ingested: false, radar_score, radar_themes, xray_confidence, thinker_candidates, tags.",
   "system": "Obsidian research wiki (wiki/ + raw/), /ingest pipeline",
   "thinkerPattern": "surname-firstname.md"
- }
+ },
+ "feedNote": "Checked on 12 October 2026 with tools/find_feeds.py: ScienceGuide, Regieorgaan SIA, NRO, Vereniging Hogescholen and CARN publish no RSS or Atom feed. ScienceGuide is covered by its news index in tools/harvest.py. The other three carry policy news, which the reader's own skip pattern marks as low value, so no scraper was built for them. Add a feed here if a site starts to publish one."
 }
