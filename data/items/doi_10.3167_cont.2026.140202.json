@@ -1,0 +1,21 @@
+{
+ "kind": "paper",
+ "title": "No Neutral Ground",
+ "authors": "Dönmez",
+ "venue": "Contention",
+ "date": "2026-12-01",
+ "url": "https://doi.org/10.3167/cont.2026.140202",
+ "doi": "10.3167/cont.2026.140202",
+ "themes": [
+  "par",
+  "dec"
+ ],
+ "score": 3,
+ "why": "Argues that emotional reflexivity is an epistemic resource in research under repression, with fieldwork among Istanbul food cooperatives. A counterweight to method sections that treat emotion as noise.",
+ "caveat": "The setting is repressive politics. The transfer to research in Dutch public space needs care.",
+ "lang": "en",
+ "wildcard": false,
+ "source": "Crossref topic: Transdisciplinary research",
+ "status": "new",
+ "run": "2026-10-12"
+}

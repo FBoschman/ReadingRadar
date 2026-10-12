@@ -1,0 +1,25 @@
+{
+ "id": "doi_10.1016_j.ijer.2026.103100",
+ "kind": "paper",
+ "title": "Effects of generative AI and translanguaging on second language writing complexity, accuracy, and fluency",
+ "authors": "Zhang, Yu, Yang",
+ "venue": "International Journal of Educational Research",
+ "date": "2027",
+ "url": "https://doi.org/10.1016/j.ijer.2026.103100",
+ "doi": "10.1016/j.ijer.2026.103100",
+ "lang": "en",
+ "source": "Journal watch: International Journal of Educational Research",
+ "run": "2026-10-12",
+ "abstract": "While generative artificial intelligence (GenAI) exhibits the potential to scaffold L2 students’ writing, research found that L2 students struggle to craft effective prompts for GenAI to produce high-quality feedback and responses. As such, there is a need to incorporate translanguaging into L2 students’ prompt engineering to capitalize on the learning potential of GenAI for L2 students. The present study, therefore, investigated whether the combined use of GenAI and translanguaging influenced L2 writing linguistic features. We adopted a 2 × 2 quasi-experimental design by assigning L2 writers to four groups: a control group, translanguaging - only, GenAI - only, and translanguaging + GenAI. Comparing the lexical complexity, syntactic complexity, accuracy, and fluency of the four groups, we found that GenAI had a significant positive impact on the lexical and syntactic complexity, accuracy, and fluency of L2 students’ writing, while translanguaging alone and the combination of GenAI and translanguaging did not yield significant positive impacts on most indices of the writing performance. L2 teachers are encouraged to integrate GenAI tools into writing instruction to improve students’ writing complexity, accuracy, and fluency, while providing scaffolding for translanguaging, as its benefits might not emerge automatically, particularly for advanced L2 writers.",
+ "themeGuess": [],
+ "found": "2026-10-12T11:37:23",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": "OpenAlex"
+}

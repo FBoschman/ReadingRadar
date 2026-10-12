@@ -1,0 +1,20 @@
+{
+ "kind": "paper",
+ "title": "An expert-informed framework for participatory soundscape design: From Interviews to co-design application",
+ "authors": "Fang, Aletta, Kang",
+ "venue": "Environmental Science & Policy",
+ "date": "2026-11",
+ "url": "https://doi.org/10.1016/j.envsci.2026.104511",
+ "doi": "10.1016/j.envsci.2026.104511",
+ "themes": [
+  "par"
+ ],
+ "score": 3,
+ "why": "A worked co-design experiment in participatory soundscape design, with the framework taken from expert interviews into application. A usable method template for participatory work in public space.",
+ "caveat": "The framework is expert-informed and applied once. Participant outcomes are underreported.",
+ "lang": "en",
+ "wildcard": false,
+ "source": "Crossref topic: Participatory action research, Journal watch: Environmental Science & Policy",
+ "status": "new",
+ "run": "2026-10-12"
+}

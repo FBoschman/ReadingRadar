@@ -1,0 +1,25 @@
+{
+ "id": "doi_10.1016_j.envsci.2026.104494",
+ "kind": "paper",
+ "title": "Ecological misreadings, landscape eligibility, and divergent environmental histories underpin complex vulnerabilities in Amazon-Cerrado interbiome politics",
+ "authors": "Dutra e Silva, Martin, Fonseca et al.",
+ "venue": "Environmental Science & Policy",
+ "date": "2026-11",
+ "url": "https://doi.org/10.1016/j.envsci.2026.104494",
+ "doi": "10.1016/j.envsci.2026.104494",
+ "lang": "en",
+ "source": "Journal watch: Environmental Science & Policy",
+ "run": "2026-10-12",
+ "abstract": "The Amazon and Cerrado biomes compose almost three-quarters of Brazil's territory. From 1985–2023, 16 million hectares were deforested in the Amazon biome, while in the Cerrado, which covers about half the size of the Amazon, over twice as much land was cleared. Amazonian forests and Cerrado savannas have different environmental histories, and the Brazilian government has employed varied approaches to develop them. The distinct economic, scientific, political, and governmental relationships of these biomes with Brazilian society have significantly influenced conservation and environmental policies. Furthermore, the ecological complexities of the interbiome zone between the Cerrado and Amazon are constantly changing, reflecting a complex climatic history and the challenge of defining clear conservation boundaries. As a result, what is considered the Amazon and what is labeled as the Cerrado are often disputed by different interested parties with diverging views and goals. This paper emphasizes that these biomes have been managed differently and continue to be treated unequally, based on historical environmental research and land-use change data. Given this asymmetric treatment, the paper argues that neglecting Cerrado systems and their functions—something familiar in many aspects of current environmental governance- poses severe climate and ecological risks, especially with the expansion of large-scale industrial agriculture. The main argument is that these two biomes share environmental functions and should be regarded politically as interdependent ecoregions. We assert that the current political division, which separates forests from non-forest areas, leaves the Cerrado unprotected and paradoxically increases the risk to the Amazon.",
+ "themeGuess": [],
+ "found": "2026-10-12T11:36:58",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": "OpenAlex"
+}

@@ -1,0 +1,25 @@
+{
+ "id": "doi_10.1016_j.geoforum.2026.104853",
+ "kind": "paper",
+ "title": "The uneven materialities of urbanization: resource access, caste politics and craft economies in South India",
+ "authors": "Bautès",
+ "venue": "Geoforum",
+ "date": "2027-01",
+ "url": "https://doi.org/10.1016/j.geoforum.2026.104853",
+ "doi": "10.1016/j.geoforum.2026.104853",
+ "lang": "en",
+ "source": "Journal watch: Geoforum",
+ "run": "2026-10-12",
+ "abstract": "This article examines terracotta pottery in South India as an entry point into the uneven materialities of contemporary urbanization. Drawing on multi-sited fieldwork conducted in Puducherry and the neighboring district of Villupuram, the analysis follows clay, pots and potters belonging to the specialized caste Kullalar across urban, peri-urban and rural environments to reveal how resource access, caste politics and shifting territorial configurations shape the everyday economies of ordinary producers. The study shows how restrictions on clay extraction, land pressures, infrastructural projects and temple-driven transformations reconfigure the spaces and temporalities of craft production. These changes expose a broader politics of materiality in which industrial actors benefit from regulatory leniencies while artisans face growing precarity and rising production costs. At the same time, pottery remains embedded in a dense political field structured by caste institutions, conflicts over communal properties, ritual obligations and emerging artisanal elites who promote new forms of creativity and market visibility. By foregrounding these intersecting dynamics, the article argues that craft economies provide crucial insights into how urbanization is assembled from below, through differentiated material flows, situated socio-spatial practices and contested forms of governance. Terracotta pottery appears not as a residual economy but as a vantage point from which to analyze the relational processes through which cities and their margins are continually reconfigured in India’s uneven urban transition.",
+ "themeGuess": [],
+ "found": "2026-10-12T11:37:20",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": "OpenAlex"
+}

@@ -1,0 +1,25 @@
+{
+ "id": "doi_10.1016_j.envsci.2026.104515",
+ "kind": "paper",
+ "title": "Practical application of a global biodiversity framework indicator for species protection in national policy",
+ "authors": "von Staden, Raimondo, van der Colff et al.",
+ "venue": "Environmental Science & Policy",
+ "date": "2026-11",
+ "url": "https://doi.org/10.1016/j.envsci.2026.104515",
+ "doi": "10.1016/j.envsci.2026.104515",
+ "lang": "en",
+ "source": "Journal watch: Environmental Science & Policy",
+ "run": "2026-10-12",
+ "abstract": "The Convention on Biological Diversity (CBD) sets the global agenda for biodiversity conservation, but achieving its targets depends on effective national implementation. Assessments of national implementation of the CBD highlight persistent gaps between global targets and national policy responses, which limit progress on halting and reversing biodiversity loss. Biodiversity indicators often function primarily as tools for tracking progress rather than mechanisms for guiding action. This paper examines how biodiversity indicators can function as policy instruments by embedding them within indicator-action cycles that link monitoring to implementation to address these implementation gaps. We illustrate this approach using South Africa’s species protection indicator (SASPI), a nationally developed indicator measuring the contribution of the national protected and conserved area network to species persistence. We use a comparative analysis of the SASPI and the Species Protection Index (SPI), a component indicator of Target 3 of the CBD’s Kunming-Montreal Global Biodiversity Framework, to demonstrate that indicator choice matters when indicators move beyond tracking change to actively shaping conservation priorities and interventions. Drawing on combined insights from the comparative analysis and observations from the South African case study of an indicator-action cycle in practice, we provide practical guidance on how national implementation of the KMGBF can be strengthened.",
+ "themeGuess": [],
+ "found": "2026-10-12T11:36:58",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": "OpenAlex"
+}

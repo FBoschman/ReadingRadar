@@ -1,0 +1,27 @@
+{
+ "id": "doi_10.1016_j.marpol.2026.107312",
+ "kind": "paper",
+ "title": "Epistemic justice and deep-sea mining: UNCLOS’s facilitation of epistemic diversity the International Seabed Authority’s decision-making process",
+ "authors": "Gipperth",
+ "venue": "Marine Policy",
+ "date": "2027-02",
+ "url": "https://doi.org/10.1016/j.marpol.2026.107312",
+ "doi": "10.1016/j.marpol.2026.107312",
+ "lang": "en",
+ "source": "Crossref topic: Decolonial & epistemic justice",
+ "run": "2026-10-12",
+ "abstract": "The paper discusses epistemic justice as a central justice framework to be considered in the regulatory process of exploitative deep sea mining, with the aim of bringing attention to the relevance of epistemic justice and diversity to deep sea mining scholarship. Epistemic justice is here understood as deeply connected to a broader social equity, and entails the fair treatment of different ’knowers’ and a creation, sharing, and validation of knowledge that is fundamentally diverse rather than based on one dominant knowledge-tradition. The paper reflects on epistemic justice in energy- and ocean governance, and asks whether and how United Nations Convention on the Law of the Sea (UNCLOS) facilitates that such justice is sought in the regulatory process of deep sea mining by focusing on procedural rules for the International Seabed Authority (ISA) and the representation of different knowers in the decision-making process, including its Council's structure, authority, and composition. It concludes that a very small number of individuals has the power to bring about a very large change in deep sea mining regulations, currently without legal requirements to include experiential, traditional or other forms of knowledges beyond the scientific method in the decision-making process.",
+ "themeGuess": [
+  "dec"
+ ],
+ "found": "2026-10-12T11:36:22",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": "OpenAlex"
+}

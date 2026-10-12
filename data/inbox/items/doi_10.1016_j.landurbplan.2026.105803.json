@@ -1,0 +1,25 @@
+{
+ "id": "doi_10.1016_j.landurbplan.2026.105803",
+ "kind": "paper",
+ "title": "Spatial allocation of urban roof multifunctional retrofits: A spatial optimization approach integrating potential, cost, and benefit trade-offs",
+ "authors": "Dong, Zhao, Li et al.",
+ "venue": "Landscape and Urban Planning",
+ "date": "2027-02",
+ "url": "https://doi.org/10.1016/j.landurbplan.2026.105803",
+ "doi": "10.1016/j.landurbplan.2026.105803",
+ "lang": "en",
+ "source": "Journal watch: Landscape and Urban Planning",
+ "run": "2026-10-12",
+ "abstract": "The sustainable development imperative in high-density cities with land constraints has elevated urban fifth-façade retrofitting strategies—including green roofs, rooftop photovoltaics (RPV), and photovoltaic-green roofs (PV-GR)—to a prominent position as feasible solutions. However, current urban roof space still lacks an effective spatially explicit configuration approach to address the competition among multiple functions and the trade-offs among multiple objectives. This study innovatively proposes a multi-objective optimization approach for the spatial layout of urban roof multifunctional retrofitting in high-density areas, balancing spatial potential, investment cost, and composite benefits. By integrating high-resolution remote sensing imagery, geographic information systems, benefit monetization models, and a multi-objective optimization algorithm (NSGA-III) to intelligently identify potentially retrofittable roofs and their suitable functional types. A multi-objective evaluation system is established to derive optimal configuration schemes for spatial layout and functional types of urban roof retrofitting, and explore optimal strategies under varying urban management preferences. A case study conducted in Beijing, a typical high-density in China, demonstrated the applicability and significance of the approach. The results indicated that roofs suitable for multifunctional retrofitting are predominantly distributed in highly built-up areas characterized by high building density, high floor area ratio, and dense populations, as well as in large-scale public, commercial, and industrial buildings where higher synergistic benefits can be achieved. The high-potential and high-benefit preference scenario tends to concentrate PV-GR and intensive green roofs in “high-demand, high-return” areas. The low-cost preference scenario tends to decentralized and targeted intervention in “short‑board” areas, allocating extensive green roofs (EGR) to locations with prominent environmental problems. The compromise scenario tends to increase the area of RPV, which offers superior cost-effectiveness, reflecting the fundamental configuration value of RPV retrofitting. Spatial pattern analysis further indicates that EGR forms a relatively uniform configuration pattern with ground-level blue–green spaces, RPV exhibits a decentralized layout, and PV-GR demonstrates a clustered distribution pattern. These differentiated spatial configuration strategies contribute to the synergistic optimization of potential, cost, and benefits. The proposed approach provides urban planners and policymakers with a spatial analysis tool that supports multifunctional allocation, multi-objective trade-offs, and multi-scenario optimization, thereby offering quantitative references and decision support for the formulation of specialized roof space plans and incentive policies in high-density cities.",
+ "themeGuess": [],
+ "found": "2026-10-12T11:37:17",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": "OpenAlex"
+}

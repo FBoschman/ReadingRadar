@@ -1,0 +1,25 @@
+{
+ "id": "doi_10.1016_j.envsci.2026.104507",
+ "kind": "paper",
+ "title": "Monitoring and evaluating the just transition: Reflections on a Theory of Change for Scotland, with lessons for beyond",
+ "authors": "Jenkins, Drabble, Copeland et al.",
+ "venue": "Environmental Science & Policy",
+ "date": "2026-11",
+ "url": "https://doi.org/10.1016/j.envsci.2026.104507",
+ "doi": "10.1016/j.envsci.2026.104507",
+ "lang": "en",
+ "source": "Journal watch: Environmental Science & Policy",
+ "run": "2026-10-12",
+ "abstract": "Just Transitions policies are gaining pace worldwide including a range of national, sub-national and sectoral Just Transition plans, with Scotland as a leading voice. The Scottish Government continue to develop a raft of strategic and policy responses to Just Transition. In the absence of finalised and fully funded plans, such as the final Energy Strategy and Just Transition plan, however, the Scottish Just Transition is largely positioned within a policy framework that is not yet fully functional or operational. Moreover, the Scottish Government is grappling with establishing operationalizable Just Transition monitoring and evaluation approaches. This reflects a core challenge in the literature: whilst the conceptual origins and framework for a Just Transition are well-accounted for and many empirical case studies exist, very few contributions set out how to determine whether Just Transition policy is being effective, if at all; approaches are unproven; data is complex, partial and overlapping, and what constitutes a Just Transition is contested. Reporting on mixed-methods research conducted alongside the Scottish Just Transition Commission, this paper begins to fill this gap with specific, measurable outcomes for the Scottish Just Transition. In so doing, we provide a Theory of Change framework for upcoming national, sectoral, and regional plans and evaluations. As core contributions, we justify the necessity of this conceptually, give context to the Scottish case, set out an approach relevant to other contexts, and, in reflecting on planned versus actual impacts, share experiential learnings for other researchers and practitioners developing and operationalizing monitoring and evaluation approaches.",
+ "themeGuess": [],
+ "found": "2026-10-12T11:36:58",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": "OpenAlex"
+}

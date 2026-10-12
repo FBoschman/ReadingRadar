@@ -25,6 +25,17 @@ Deterministic ids are what stop a re-run creating duplicates. Three rules:
 
 `https://consensus.app/papers/details/4d983246661e5d249ec39031a63cece9/` → `cons_4d983246661e`
 
+**Papers from OpenAlex with no DOI**
+
+```
+"oa_" + the OpenAlex work number
+```
+
+`https://openalex.org/W7170227333` → `oa_W7170227333`
+
+Added on 12 October 2026, when the paper search moved from the tool to OpenAlex. Most OpenAlex works
+carry a DOI, so the `doi_` rule applies to them and this rule stays rare.
+
 **Everything else (discourse, news, posts)**
 
 A short readable slug of the source URL, prefixed by the source: `sg-` for ScienceGuide,
@@ -58,6 +69,26 @@ One paper or discourse piece. 134 documents in this export.
 | `source` | string | e.g. `"Crossref"`, `"Journal watch: Futures"`, `"Consensus"`, `"RSS: <label>"`, `"Bluesky: @handle"`, `"Springer article listing: <journal>"` |
 | `status` | string | `new`, `keep`, `maybe`, `skip`. The agent only ever writes `new` |
 | `run` | string | `YYYY-MM-DD` of the run that added it |
+| `abstract` | string | Added 12 October 2026. The abstract of the paper, or `""` when no source carried one. |
+| `abstractSource` | string | Added 12 October 2026. `"OpenAlex"` when the abstract was filled by `tools/enrich.py`, else `""`. |
+
+---
+
+## Working folders (not collections)
+
+`data/inbox/` holds work that is not finished. It is not a collection and the dashboard does not
+read it.
+
+| Path | Content |
+| --- | --- |
+| `data/inbox/items/<id>.json` | A candidate from the harvest. It holds the metadata from the source and an empty `judgement` block. It becomes an item only after the judgement pass. |
+| `data/inbox/lineage/<id>.json` | A lineage draft with the reference list. It becomes a lineage document after the narrative and the strands are written. |
+| `data/inbox/judgement.json` | The decisions of the judgement pass, one entry for each candidate to promote. |
+| `data/inbox/lineage-judgement.json` | The strands, the narrative, the forYou and the absent text for each lineage draft. |
+| `data/inbox/run.json` | The state of every source in the last harvest, with a short reason when one failed. |
+
+The judgement pass reads and writes these files. `tools/promote.py` and `tools/complete_lineage.py`
+refuse a decision that breaks this schema, and they never overwrite a document that exists.
 
 ---
 

@@ -1,0 +1,26 @@
+{
+ "id": "doi_10.1002_kpm.70161",
+ "kind": "paper",
+ "title": "Knowledge‐Driven Supply Chain Digitalization and Fully Automated Baggage Handling System Success: The Mediating Role of Knowledge Integration Capability and the Moderating Role of Organizational Digital Readiness",
+ "authors": "Chafic, Alzoubi, Daneshkhah et al.",
+ "venue": "Knowledge and Process Management",
+ "date": "2026-10-11",
+ "url": "https://doi.org/10.1002/kpm.70161",
+ "doi": "10.1002/kpm.70161",
+ "lang": "",
+ "source": "Crossref topic: Transdisciplinary research",
+ "run": "2026-10-12",
+ "abstract": "ABSTRACT The growing use of intelligent digital technologies is reshaping airport supply chains, but technology adoption alone does not explain why automated baggage handling initiatives succeed. knowledge‐driven supply chain digitalization (KSCD) is defined here as the organizational capability to use connected digital technologies and real‐time data to share information, coordinate decisions, and integrate baggage‐handling activities across airport supply‐chain actors. Fully Automated Baggage Handling System Success (FABHSS) is conceptualized as a multidimensional operational outcome reflected in efficiency, timely and reliable processing, routing accuracy and traceability, cross‐functional coordination, and overall support for baggage operations. Drawing on the Knowledge‐Based View and Dynamic Capability Theory (DCT), the study tested a moderated mediation model using survey data from 220 employees in airport operations, logistics, information technology, engineering, and baggage handling at major international airports in the United Arab Emirates. Covariance‐based structural equation modelling showed that KSCD positively influenced Knowledge Integration Capability (KIC; beta = 0.724, p < 0.001) and FABHSS (beta = 0.321, p < 0.001), while KIC positively influenced FABHSS (beta = 0.486, p < 0.001). Bootstrapping confirmed that KIC partially mediates the relationship between KSCD and FABHSS (indirect beta = 0.352, p < 0.001), and Organizational Digital Readiness strengthened the positive KSCD–KIC relationship (interaction beta = 0.184, p < 0.001). The findings show that automated baggage‐handling success depends on converting digitally generated information into integrated operational knowledge within a digitally ready organization.",
+ "themeGuess": [
+  "td"
+ ],
+ "found": "2026-10-12T11:36:09",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ }
+}

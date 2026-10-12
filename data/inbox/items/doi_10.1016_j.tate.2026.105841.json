@@ -1,0 +1,25 @@
+{
+ "id": "doi_10.1016_j.tate.2026.105841",
+ "kind": "paper",
+ "title": "Motivation and professional agency among Teacher-Bloggers: An ethnography of teachers’ digital practice in a constrained context",
+ "authors": "Azizi, Barkhoda, Salimi et al.",
+ "venue": "Teaching and Teacher Education",
+ "date": "2026-12",
+ "url": "https://doi.org/10.1016/j.tate.2026.105841",
+ "doi": "10.1016/j.tate.2026.105841",
+ "lang": "en",
+ "source": "Journal watch: Teaching and Teacher Education",
+ "run": "2026-10-12",
+ "abstract": "While research has explored teachers' use of social media for professional learning, fewer studies have examined how teacher-bloggers cultivate professional agency and motivation in digital spaces. This qualitative digital ethnography investigated 11 Iranian teacher-bloggers’ motivations for sustained engagement on Instagram through one year of observation and interviews. Findings revealed two dimensions shaping their motivation: Reconstruction involved professional agency, strategic self-branding, and emotional expression, through which teachers redefined meaning in their pedagogical and personal lives; Emancipation encompassed resisting institutional constraints, enacting professional ideals, and challenging dominant norms, reflecting a pursuit of freedom and self-determination. The study contributes to understanding teacher learning and identity in constrained contexts, conceptualizing teacher-blogging as an ecology of digital motivation and professional growth across personal and institutional levels.",
+ "themeGuess": [],
+ "found": "2026-10-12T11:37:04",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": "OpenAlex"
+}

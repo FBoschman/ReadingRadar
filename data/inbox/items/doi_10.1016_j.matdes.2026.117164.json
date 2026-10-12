@@ -1,0 +1,27 @@
+{
+ "id": "doi_10.1016_j.matdes.2026.117164",
+ "kind": "paper",
+ "title": "Next generation 3–3 interpenetrating piezoelectric phase composites: design principles, process-structure-property relationships, multifunctional performance, and emerging applications",
+ "authors": "Shingare, Patil, Alkunte et al.",
+ "venue": "Materials & Design",
+ "date": "2026-11",
+ "url": "https://doi.org/10.1016/j.matdes.2026.117164",
+ "doi": "10.1016/j.matdes.2026.117164",
+ "lang": "en",
+ "source": "Crossref topic: Design-based research",
+ "run": "2026-10-12",
+ "abstract": "In recent years, architectured interpenetrating piezoelectric phase composites (IP 2 Cs), a class of multifunctional materials with 3D co-continuous piezoelectric and passive networks have attracted significant interest due to their excellent electromechanical performance, structural integrity, and functional reliability compared to conventional piezocomposites. Despite recent advances in various constituent materials, architecture design, fabrication techniques, and topology optimization, the unified process-structure–property-performance framework for rational design of high-performance IP 2 Cs remains largely elusive. The present review comprehensively consolidates recent progress by critically assessing the marked influence of constituent materials, phase connectivity, interfacial engineering, architectured 3D networks, and advanced manufacturing strategies on electromechanical performance and multifunctional characteristics of IP 2 Cs. The review emphasizes mainly on mechanistic understanding and underlying mechanisms for enhanced 3–3 interpenetrating connectivity, mechanical stress transfer efficiency, electric field distribution, and polarization efficiency followed by various fabrication methods and their influence on performance characteristics. Recent progress in Pb-free piezoelectric systems, MXene-based composites, and stretchable architectures along their fabrication techniques and computation modelling are further discussed, thereby highlighting emerging opportunities and current challenges. The comprehensive inclusion of above aspects positions this materials design framework to provide critical insights and future design guidelines for developing next-generation IP 2 Cs for sensor, actuators, SHM, wearable electronics, and self-powered energy harvesting applications.",
+ "themeGuess": [
+  "dbr"
+ ],
+ "found": "2026-10-12T11:36:14",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": "OpenAlex"
+}

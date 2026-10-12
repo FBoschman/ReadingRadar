@@ -1,0 +1,27 @@
+{
+ "id": "doi_10.1016_j.neucom.2026.134477",
+ "kind": "paper",
+ "title": "Enhancing large language models for knowledge-intensive question answering with dual-path knowledge integration",
+ "authors": "Wang, Guo, Zhang",
+ "venue": "Neurocomputing",
+ "date": "2026-11",
+ "url": "https://doi.org/10.1016/j.neucom.2026.134477",
+ "doi": "10.1016/j.neucom.2026.134477",
+ "lang": "",
+ "source": "Crossref topic: Transdisciplinary research",
+ "run": "2026-10-12",
+ "abstract": "",
+ "themeGuess": [
+  "td"
+ ],
+ "found": "2026-10-12T11:36:09",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": ""
+}

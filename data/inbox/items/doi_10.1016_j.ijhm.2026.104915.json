@@ -1,0 +1,27 @@
+{
+ "id": "doi_10.1016_j.ijhm.2026.104915",
+ "kind": "paper",
+ "title": "Operational constraints in professional kitchens: A theory of constraints perspective on food waste reduction",
+ "authors": "Hossin, Chung",
+ "venue": "International Journal of Hospitality Management",
+ "date": "2027-02",
+ "url": "https://doi.org/10.1016/j.ijhm.2026.104915",
+ "doi": "10.1016/j.ijhm.2026.104915",
+ "lang": "",
+ "source": "Crossref topic: Complexity in education",
+ "run": "2026-10-12",
+ "abstract": "",
+ "themeGuess": [
+  "cx"
+ ],
+ "found": "2026-10-12T11:36:11",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": ""
+}

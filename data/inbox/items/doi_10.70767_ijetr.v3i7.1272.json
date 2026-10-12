@@ -1,0 +1,26 @@
+{
+ "id": "doi_10.70767_ijetr.v3i7.1272",
+ "kind": "paper",
+ "title": "Design and Development of an AI-Based Teaching Platform for University Physics Experiment Courses",
+ "authors": "Yuguo Luan",
+ "venue": "International Journal of Educational Teaching and Research",
+ "date": "2026-10-08",
+ "url": "https://doi.org/10.70767/ijetr.v3i7.1272",
+ "doi": "10.70767/ijetr.v3i7.1272",
+ "lang": "",
+ "source": "Crossref topic: Design-based research",
+ "run": "2026-10-12",
+ "abstract": "To address the two major challenges prevalent in current university physics experiment instruction—namely, students' insufficient proficiency in experimental data processing and the relatively high cost of intelligent transformation—this paper designs and develops an auxiliary teaching platform for physics experiment courses based on retrieval-augmented generation (RAG) technology and a lightweight API invocation strategy. The platform adopts a hybrid technical architecture combining a local knowledge base with cloud-based API services. Centered on a self-constructed domain-specific knowledge base for physics experiments, and incorporating a lightweight invocation strategy for the Tongyi Qianwen (Qwen3.6-Plus/Max) API, the application system is deployed on existing university servers. The platform features core functionalities including intelligent Q&A on experimental principles, automated experimental data processing, intelligent assisted generation of experimental reports, and real-time diagnostic analysis of student learning progress. Furthermore, pilot teaching applications demonstrate that, with minimal additional cost, the platform effectively enhances students' experimental data processing capabilities and autonomous inquiry skills, thereby offering a replicable and affordable AI-empowered solution for experimental teaching in financially constrained local institutions.",
+ "themeGuess": [
+  "dbr"
+ ],
+ "found": "2026-10-12T11:36:14",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ }
+}

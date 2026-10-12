@@ -1,0 +1,25 @@
+{
+ "id": "doi_10.1016_j.geoforum.2026.104856",
+ "kind": "paper",
+ "title": "Fixing rice, moving buffalo: Interspecies infrastructure and agrarian transition in Northern Thailand",
+ "authors": "Lainé",
+ "venue": "Geoforum",
+ "date": "2027-01",
+ "url": "https://doi.org/10.1016/j.geoforum.2026.104856",
+ "doi": "10.1016/j.geoforum.2026.104856",
+ "lang": "en",
+ "source": "Journal watch: Geoforum",
+ "run": "2026-10-12",
+ "abstract": "This article examines agrarian transition in Ban Huai Phan, a village widely identified today as Lua in Nan Province, northern Thailand, through the history of Na Laek Pa, a locally remembered land-for-forest and irrigation transformation that helped move cultivation away from upland swidden fields and toward lowland wet-rice agriculture. Rather than treating this shift as a simple passage from mobility to settlement, or from forest use to conservation, the article follows a more uneven process. Na Laek Pa fixed rice, but it did not end mobility. It displaced mobility elsewhere. As rice fields, water channels and village land became increasingly stabilised in the lowlands, Nam Wa buffalo continued to move seasonally between post-harvest fields and forest grazing areas known as pang kwai. Drawing on ethnographic fieldwork with Lua buffalo herders, village leaders, livestock volunteers and local institutions, the article develops the concept of interspecies infrastructure to show how agrarian projects are held together not only by canals, land allocations and state categories, but also by animal movement, dung, salt, paths, herd memory, ritual timing and negotiated access to forest. Building on recent work on infrastructure and non-human life, the article argues that buffalo were not residual labour left over from an older agrarian system. They were part of the living infrastructure through which irrigated rice became workable. Their seasonal movement connected fixed fields to forest grazing, transformed rice residues into manure and animal value, and kept former swidden landscapes within village life. The article contributes to political ecology, agrarian geography and infrastructure studies by showing that infrastructure may stabilise one part of a landscape only by redistributing movement elsewhere.",
+ "themeGuess": [],
+ "found": "2026-10-12T11:37:20",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": "OpenAlex"
+}

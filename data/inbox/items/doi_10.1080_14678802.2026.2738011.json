@@ -1,0 +1,27 @@
+{
+ "id": "doi_10.1080_14678802.2026.2738011",
+ "kind": "paper",
+ "title": "Climate fragility at the margins: using community-based research to explore Bangladesh-India borderlands",
+ "authors": "Tasnia Khandaker Prova, Tabea Campbell Pauli, Era Robbani et al.",
+ "venue": "Conflict Security and Development",
+ "date": "2026-10-07",
+ "url": "https://doi.org/10.1080/14678802.2026.2738011",
+ "doi": "10.1080/14678802.2026.2738011",
+ "lang": "en",
+ "source": "OpenAlex: Participatory action research",
+ "run": "2026-10-12",
+ "abstract": "This paper advocates using community-based research methods to study complex interactions between climate change and border insecurities, which enables a deeper understanding of how layered fragilities and dispossession impede community pathways to resilience in climate-affected borderlands. By first providing a conceptual overview of climate-induced risks to fragility in borderlands and community-based participatory research methods, this paper touches upon an iteration of the method adopted by researchers at the Centre for Peace and Justice (CPJ), BRAC University, which has facilitated meaningful research partnerships with refugee populations displaced by active conflict in the south-east borderlands of Bangladesh. By adopting a similar analytical approach to explore a different border region, shared between Bangladesh and India in the south-west, where sporadic border violence and climate change appear as multipliers of structural fragility, this paper explains the value of community participation in producing knowledge within contested spaces. Considering reflective methodical adjustments based on contextual and observed climate-fragility risks, the paper presents relevant findings at the intersection of climate and security as it manifests in the Bangladesh-India borderlands.",
+ "themeGuess": [
+  "par"
+ ],
+ "found": "2026-10-12T11:37:24",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "openalex": "https://openalex.org/W7220864227"
+}

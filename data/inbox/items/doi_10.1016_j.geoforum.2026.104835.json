@@ -1,0 +1,25 @@
+{
+ "id": "doi_10.1016_j.geoforum.2026.104835",
+ "kind": "paper",
+ "title": "The territorial power of appearing and disappearing groundwater conflicts",
+ "authors": "Kuhn",
+ "venue": "Geoforum",
+ "date": "2027-01",
+ "url": "https://doi.org/10.1016/j.geoforum.2026.104835",
+ "doi": "10.1016/j.geoforum.2026.104835",
+ "lang": "en",
+ "source": "Journal watch: Geoforum",
+ "run": "2026-10-12",
+ "abstract": "• Hydrogeological and power relations keep groundwater conflicts latent. • Conflicts turning manifest require powerful shifts within hydrosocial territories. • This paper reveals how humans and other-than-humans influence conflicts’ trajectories. • Groundwater and long-distance water transfers can trigger, demobilise or shift conflicts. • Solved conflicts can appear again in the future and somewhere else. This article aims for an enhanced understanding of groundwater conflicts. Worldwide, people compete over groundwater. However, this rarely leads to manifest conflicts. Whether a groundwater conflict remains latent or turns manifest, i.e. into an open, direct and hence visible confrontation, relates to hydrogeological processes as well as societal power relations. This article investigates how manifest groundwater conflicts appear and disappear and with which effects for whom. The conceptual lens of hydrosocial territories applied to a groundwater conflict in the Südharz region, Germany, and the Júcar river basin, Spain, enables the deep investigation into the visible and invisible contestations around groundwater quality and quantity. In Südharz, a toxic event co-produced by uranium and a citizen initiative turned long-looming tensions around water supply into a manifest conflict. In Spain, a drought event co-produced by groundwater-river interaction and downstream users led to a manifest conflict between two regions. In both cases, the power of existing large water infrastructures and institutions contributed eventually to the disappearance of the manifest conflict by re-scaling the respective systems of water supply. Thereby, conflicts about the fundamental relations between societies and groundwater have been kept under the surface – for now. In the future, they are very likely to appear somewhere in the newly established hydrosocial territories.",
+ "themeGuess": [],
+ "found": "2026-10-12T11:37:20",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": "OpenAlex"
+}

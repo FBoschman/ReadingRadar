@@ -1,0 +1,21 @@
+{
+ "kind": "paper",
+ "title": "From Prediction Markets To Capability Markets: Epistemic Extractivism In Generative AI",
+ "authors": "Berman, Smithies",
+ "venue": "Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society",
+ "date": "2026-10-11",
+ "url": "https://doi.org/10.1609/aies.v9i1.43150",
+ "doi": "10.1609/aies.v9i1.43150",
+ "themes": [
+  "dec",
+  "ai"
+ ],
+ "score": 5,
+ "why": "Names epistemic extractivism inside the GenAI stack and links platform design to who gets to know what. It joins your AI strand to your epistemic-justice reading in one argument.",
+ "caveat": "A critical argument, not a measurement of extraction. The claims about platform behaviour rest on public statements.",
+ "lang": "en",
+ "wildcard": false,
+ "source": "Crossref topic: AI & curriculum",
+ "status": "new",
+ "run": "2026-10-12"
+}

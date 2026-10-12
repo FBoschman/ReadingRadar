@@ -1,0 +1,25 @@
+{
+ "id": "doi_10.1016_j.tate.2026.105827",
+ "kind": "paper",
+ "title": "Making explicit the distinctive metapedagogy of teacher educators",
+ "authors": "Philip, Jimenez-Silva, Lee et al.",
+ "venue": "Teaching and Teacher Education",
+ "date": "2026-12",
+ "url": "https://doi.org/10.1016/j.tate.2026.105827",
+ "doi": "10.1016/j.tate.2026.105827",
+ "lang": "en",
+ "source": "Journal watch: Teaching and Teacher Education",
+ "run": "2026-10-12",
+ "abstract": "This article addresses the limited scholarly attention given to the specialized expertise of teacher educators. Despite their critical role in supporting preservice teachers, the term “teacher educator” remains overly broad, often inclusive of anyone teaching teachers. To address this, the authors propose a framework that defines the metapedagogy of teacher educators as supporting preservice teachers in integrating theory, experience, and situated understanding to navigate the complex interplay between student learning and identity. The framework identifies three central loci of practice—(re)designing, analyzing, and (re)envisioning—which are essential for both teacher educators' metapedagogy with preservice teachers and their own professional development. By clearly articulating this specialized “second-order” knowledge, the authors aim to improve the selection, preparation, and ongoing professional learning of teacher educators. Through the framework, the authors argue that making the metapedagogy of teacher educators visible is both a scholarly and a political act.",
+ "themeGuess": [],
+ "found": "2026-10-12T11:37:04",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": "OpenAlex"
+}

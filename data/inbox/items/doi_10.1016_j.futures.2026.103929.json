@@ -1,0 +1,25 @@
+{
+ "id": "doi_10.1016_j.futures.2026.103929",
+ "kind": "paper",
+ "title": "Framing the futures of the UK livestock sector",
+ "authors": "Blair, Moran, Alexander",
+ "venue": "Futures",
+ "date": "2026-12",
+ "url": "https://doi.org/10.1016/j.futures.2026.103929",
+ "doi": "10.1016/j.futures.2026.103929",
+ "lang": "en",
+ "source": "Journal watch: Futures",
+ "run": "2026-10-12",
+ "abstract": "The future of the UK livestock sector is characterised by complexity, uncertainty, and contested visions of sustainability. Addressing these challenges requires participatory approaches that enable diverse actors to explore trade-offs, express values and build shared understandings of plausible futures. This study examines how frames and framing processes shape meaning making within two participatory co-design workshops for the UK Livestock Shared Socioeconomic Pathways, using observational notes and post-workshop reflections. Participants mobilised a wide range of diagnostic, prognostic and motivational frames relating to governance, economic survival, technology, environmental, human and animal wellbeing, responsibility, pride, justice and collective agency. The study also identifies examples of frame amplification, extension, transformation, and contestation within the workshops, showing how interpretations shifted through interaction and how both shared priorities and tensions emerged. The analysis further demonstrates that framing is conditioned by wider influences, including worldviews, values, knowledge systems, interactional dynamics and the structure of the co-design method itself. Overall, the findings show that incorporating framing analysis into participatory scenario co-design provides valuable insight into how futures are interpreted and negotiated, and can support more reflexive, transparent and inclusive approaches to co-designing futures in the livestock sector and beyond.",
+ "themeGuess": [],
+ "found": "2026-10-12T11:36:55",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": "OpenAlex"
+}

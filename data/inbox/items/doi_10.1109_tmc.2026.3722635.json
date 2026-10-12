@@ -1,0 +1,26 @@
+{
+ "id": "doi_10.1109_tmc.2026.3722635",
+ "kind": "paper",
+ "title": "Enabling Scalable Real-Time 3D Underwater Localization With Linear Computational Complexity",
+ "authors": "Li, Xu, Liu et al.",
+ "venue": "IEEE Transactions on Mobile Computing",
+ "date": "2026-11",
+ "url": "https://doi.org/10.1109/tmc.2026.3722635",
+ "doi": "10.1109/tmc.2026.3722635",
+ "lang": "",
+ "source": "Crossref topic: Complexity in education",
+ "run": "2026-10-12",
+ "abstract": "",
+ "themeGuess": [
+  "cx"
+ ],
+ "found": "2026-10-12T11:36:11",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ }
+}

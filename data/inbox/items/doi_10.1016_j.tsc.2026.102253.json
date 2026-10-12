@@ -1,0 +1,27 @@
+{
+ "id": "doi_10.1016_j.tsc.2026.102253",
+ "kind": "paper",
+ "title": "Examining critical thinking in EAP speaking assessment: An argument-based validation study",
+ "authors": "Yin",
+ "venue": "Thinking Skills and Creativity",
+ "date": "2026-12",
+ "url": "https://doi.org/10.1016/j.tsc.2026.102253",
+ "doi": "10.1016/j.tsc.2026.102253",
+ "lang": "en",
+ "source": "Crossref topic: Professional criticality",
+ "run": "2026-10-12",
+ "abstract": "• Argument based validation supported a new critical thinking rating scale for EAP speaking • Six trained raters scored 128 students’ EAP speaking performance on their critical thinking ability • Many Facets Rasch Measurement evaluated rater consistency, bias, and scale functioning • Results supported reliable scoring and validity for interpreting critical thinking scores • The scale foregrounds assessing and teaching meaning making and reasoning in EAP speaking It is widely believed that critical thinking (CT) ability should be part of any assessment of spoken English for academic purposes (EAP); however, few validated tools exist for evaluating it. Without validation, it would not be possible to draw meaningful, appropriate, and useful inferences from the assessment. In this study, CT is operationalized by validating a rating scale for a large-scale EAP speaking test in China, i.e., the College English Test - Spoken English Test. Guided by an argument-based validation approach, multiple sources of evidence were collected to validate the rating scale. Six trained raters assessed university students’ CT ability on 128 individual presentations and 64 paired discussions using a fully crossed rating design. Many-Facets Rasch Measurement was used to examine rater consistency, rater bias/interaction, scale functioning, and dimensionality. The findings revealed that the CT rating scale is a valid and reliable instrument. By systematically interrogating the underlying validity evidence, this study extends the limited body of CT validation research in the EAP context and offers empirical support for broadening the EAP speaking assessment construct to explicitly incorporate CT.",
+ "themeGuess": [
+  "pc"
+ ],
+ "found": "2026-10-12T11:36:24",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": "OpenAlex"
+}

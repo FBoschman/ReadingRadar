@@ -1,0 +1,25 @@
+{
+ "id": "doi_10.1016_j.caeai.2026.100683",
+ "kind": "paper",
+ "title": "A mixed-methods analysis of AI scaffolding patterns and student inquiry profiles in a middle-school agriculture-STEM classroom",
+ "authors": "Kilinc, Aldemir, Misiejuk et al.",
+ "venue": "Computers and Education: Artificial Intelligence",
+ "date": "2026-12",
+ "url": "https://doi.org/10.1016/j.caeai.2026.100683",
+ "doi": "10.1016/j.caeai.2026.100683",
+ "lang": "en",
+ "source": "Journal watch: Computers and Education: Artificial Intelligence",
+ "run": "2026-10-12",
+ "abstract": "This study examines how generative AI can support middle school scientific inquiry in a rural agriculture-STEM classroom. Using a mixed-methods design with concurrent data collection and sequential analytic integration, we analyzed 42 eighth-grade students, organized into 12 groups, as they used Aspen, a custom AI chatbot, to revise scientific research questions and hypotheses around a sustainable agriculture problem. Data sources included group project journals, AI interaction logs, and peer discussion transcripts. First, a two-dimensional profiling method categorized the 12 groups into four analytic profiles: Struggling, Most Improved, Perfectionists, and High Achievers, based on initial artifact quality and criterion-aligned revision. Second, Epistemic Network Analysis (ENA) modeled the structural patterns of Aspen's pedagogical support across profiles, and directed qualitative content analysis of peer discussions contextualized the ENA findings for low-initial-quality groups. Results indicate that AI-student interaction patterns varied across profiles. The Struggling profile exhibited a fragmented pattern, with ENA showing strong connections between foundational scaffolding and irrelevant/off-task responses, alongside frequent cognitive offloading and collaborative impasse. In contrast, the Most Improved profile showed a more integrated pattern, with strong ENA connections among coaching, modeling, and reflection and frequent model uptake in group discussion. These findings suggest that, in this context, effective AI support may depend not only on providing models but also on facilitating a complete pedagogical cycle that connects guidance, modeling, and metacognitive reflection.",
+ "themeGuess": [],
+ "found": "2026-10-12T11:37:13",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": "OpenAlex"
+}

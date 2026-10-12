@@ -1,0 +1,25 @@
+{
+ "id": "doi_10.1016_j.ijer.2026.103124",
+ "kind": "paper",
+ "title": "Beyond numbers: Spatial ability development through targeted training in Irish secondary level mathematics classrooms",
+ "authors": "Maquet, Dunbar, Duffy et al.",
+ "venue": "International Journal of Educational Research",
+ "date": "2027",
+ "url": "https://doi.org/10.1016/j.ijer.2026.103124",
+ "doi": "10.1016/j.ijer.2026.103124",
+ "lang": "en",
+ "source": "Journal watch: International Journal of Educational Research",
+ "run": "2026-10-12",
+ "abstract": "Research has consistently demonstrated a strong relationship between spatial ability and STEM achievement, with higher levels of spatial ability in early life linked to the attainment of advanced STEM degrees. With current reforms in Irish secondary level STEM subjects, questions remain as to how spatial ability development can be supported within the subject areas. This study investigated the impact of the Developing Spatial Thinking intervention on students’ spatial ability and mathematics achievement, as well as the extent to which teachers’ spatial ability mediated these outcomes. This study incorporates data from 1592 Irish secondary school students between the ages of 15 and 16 years old, from a range of socio-economic backgrounds. Students’ spatial ability and mathematics performance development was examined with reference to previous abilities, socio-economic status, gender, and teacher abilities through a range of ANCOVAs. This study indicated that targeted spatial ability training has a positive impact on participants’ spatial ability through the factor of mental rotations but no effect on the factor of visualisation. While no significant effect was observed for overall mathematics performance, a significant effect was identified among boys from lower socioeconomic backgrounds. Findings highlight the readiness of the DST course to support secondary level students in developing their spatial ability, but not as a tool to directly improve mathematics performance. Also highlighted is that teachers’ own spatial ability does not impact the efficacy of this training, which offers support for those of a naturally lower spatial ability. These findings suggest that spatial thinking can be effectively developed through classroom-based interventions at secondary level, providing evidence for the inclusion of spatial reasoning as a distinct educational outcome within STEM curricula.",
+ "themeGuess": [],
+ "found": "2026-10-12T11:37:23",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": "OpenAlex"
+}

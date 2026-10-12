@@ -1,0 +1,21 @@
+{
+ "kind": "paper",
+ "title": "Generative AI Literacy and Multidimensional AI Anxiety in Creative Higher Education",
+ "authors": "Yong, Wu, Wei",
+ "venue": "AI",
+ "date": "2026-10-11",
+ "url": "https://doi.org/10.3390/ai7100417",
+ "doi": "10.3390/ai7100417",
+ "themes": [
+  "ai",
+  "pc"
+ ],
+ "score": 3,
+ "why": "Separates practical AI literacy from several dimensions of AI anxiety among arts students. Useful if the CDC course has to address AI worry as well as AI skill.",
+ "caveat": "One country and one faculty of arts. The cross-sectional design cannot show whether literacy reduces anxiety or the reverse.",
+ "lang": "en",
+ "wildcard": false,
+ "source": "Crossref topic: AI & curriculum",
+ "status": "new",
+ "run": "2026-10-12"
+}

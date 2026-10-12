@@ -1,0 +1,26 @@
+{
+ "id": "doi_10.1186_s12939-026-02993-x",
+ "kind": "paper",
+ "title": "Healing our intergenerational wounds: a praxis of community healing envisioned by refugee young adults engaging in participatory avatar-based community circles",
+ "authors": "Thambinathan, Wylie, Ganesh et al.",
+ "venue": "International Journal for Equity in Health",
+ "date": "2026-10-05",
+ "url": "https://doi.org/10.1186/s12939-026-02993-x",
+ "doi": "10.1186/s12939-026-02993-x",
+ "lang": "",
+ "source": "Crossref topic: Participatory action research, OpenAlex: Participatory action research",
+ "run": "2026-10-12",
+ "abstract": "Refugee communities across the world have long gathered to connect and support one another during times of crisis, and this has been well-documented. Despite the vast amount of literature pertaining to coping and resiliency among refugee communities, there is limited knowledge about refugee community healing. Approximately one in three refugees experiences depression, anxiety, or post-traumatic stress that can persist long after displacement. Dominant approaches within Western, Educated, Industrialized, Rich, Democratic (WEIRD) psychologies tend to conceptualize trauma through an individualistic lens, often overlooking social, historical, and collective dimensions of suffering. This can result in siloed findings with limited relevance to refugee communities. Addressing this gap, this paper reports on the third phase of a Decolonizing Participatory Action Research (PAR) study examining historical trauma and intergenerational healing among second-generation Tamil refugee young adults in Toronto. This community-driven study foregrounds a praxis of healing envisioned with, by, and for refugee communities. Two research questions guided the inquiry: (1) What elements are important for community healing among Tamil young adults? and (2) What do community healing practices and therapeutic interventions look like in this context? Using storytelling and participatory avatar-based community circles, alongside reflexive thematic analysis, seven key elements of community healing were identified: (1) agency and self-determination; (2) historical trauma-informed approaches; (3) cultural safety; (4) intergenerational connectedness and belonging; (5) destigmatized access and delivery; (6) holistic and authentic healing practices; and (7) truth-telling as justice. Findings highlight community healing as a dynamic, dialectical process, requiring both resistance to intersecting systems of oppression and the cultivation of radical hope for justice and liberation. Findings also emphasize the importance of culturally grounded, community-led interventions in promoting mental well-being. This study contributes innovative, participatory methodology and actionable insights for practitioners and policymakers, advancing a shift toward liberatory approaches to refugee health.",
+ "themeGuess": [
+  "par"
+ ],
+ "found": "2026-10-12T11:36:17",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ }
+}

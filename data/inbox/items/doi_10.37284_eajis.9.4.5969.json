@@ -1,0 +1,27 @@
+{
+ "id": "doi_10.37284_eajis.9.4.5969",
+ "kind": "paper",
+ "title": "From Communication Policy to Participatory Governance: A Critical Review of Communication Policy and Practice at Makerere University",
+ "authors": "Peter Mwanja, Julius Kikooma, Richard Balikoowa et al.",
+ "venue": "East African Journal of Interdisciplinary Studies",
+ "date": "2026-10-09",
+ "url": "https://doi.org/10.37284/eajis.9.4.5969",
+ "doi": "10.37284/eajis.9.4.5969",
+ "lang": "",
+ "source": "OpenAlex: Participatory action research",
+ "run": "2026-10-12",
+ "abstract": "Effective institutional communication is central to transparent, inclusive, and participatory governance in higher education. This article examines communication policy and practice at Makerere University, focusing on stakeholder access to information, feedback, participation in decision-making, and the alignment between communication policy and implementation. Grounded in General Systems Theory and Critical Theory, the study conceptualises institutional communication as an interconnected system of information flows and as a mechanism through which inclusion, participation, and power relations are negotiated. The study adopted a qualitative critical review approach, drawing on peer-reviewed literature and relevant Makerere University institutional and policy documents. Documentary and literature evidence was systematically reviewed and thematically analysed to identify recurring patterns concerning communication policy, stakeholder engagement, accessibility, feedback mechanisms, and policy implementation. The findings reveal persistent gaps between formal communication policy intentions and communication practices, particularly regarding policy awareness, information accessibility, responsiveness, feedback, and meaningful stakeholder participation. The review further indicates that the coexistence of formal and informal communication channels can produce fragmented information flows and unequal access to institutional information. Although digital platforms have expanded the speed and reach of institutional communication, they have not automatically resulted in more participatory communication or inclusive decision-making. The article argues that effective university governance requires communication systems that move beyond one-way information dissemination towards coordinated, accessible, responsive, and participatory communication. It recommends strengthening institutional feedback mechanisms, adopting integrated multi-channel communication strategies, enhancing stakeholder awareness of communication policies, and harmonising communication practices across institutional units. These measures can strengthen transparency, accountability, inclusiveness, and stakeholder participation in higher education governance.",
+ "themeGuess": [
+  "par"
+ ],
+ "found": "2026-10-12T11:37:24",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "openalex": "https://openalex.org/W7221110218"
+}

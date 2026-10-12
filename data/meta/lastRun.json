@@ -1,46 +1,42 @@
 {
-  "date": "2026-10-12",
-  "harvested": 51,
-  "kept": 18,
-  "label": "Weekly run",
-  "notes": "Second consecutive run with the radar's main plumbing broken, and the diagnosis is now firm: in a scheduled run WebFetch will only load a URL that has appeared verbatim in a WebSearch result. That rules out every API (Crossref, Bluesky, any RSS feed) and any constructed query URL, and it is not a transient failure - clearing a host at one path does not clear another path on the same host. The shell is no help: the egress proxy denies CONNECT to api.crossref.org. ScienceDirect adds a second, separate block (robots.txt), so all 10 Elsevier journals on the watch list are dark. The fix is on the task side, not in the prompt: either give this scheduled task a permission mode that auto-approves fetches, or paste the Crossref, Bluesky and feed base URLs into the stored prompt in a form the permission layer accepts. Until then the working route is: web-search to surface a publisher listing page, then fetch it - which is how Sustainability Science and Systemic Practice and Action Research were swept this week. Because there is no from-pub-date filter on that route, the window was again widened to 'published in 2026 and not already on the radar'; the 7 items dated before October carry the exact date and a caveat saying so. Housekeeping: no skip items are older than 12 weeks, so nothing was deleted.",
-  "sources": [
-    {
-      "name": "Crossref topic search (8 themes)",
-      "status": "failed - api.crossref.org unreachable twice over: WebFetch returns PROVENANCE_REQUIRED because a scheduled run can only fetch a URL that appeared verbatim in a web-search result, and the container's egress proxy answers 403 to CONNECT api.crossref.org:443. Fetching the Crossref documentation page first did not clear the host; nor does a host already cleared at another path (tested with link.springer.com), so the rule is strictly per-URL"
-    },
-    {
-      "name": "Journal watch: 3/20 journals covered",
-      "status": "partial - Sustainability Science swept directly via its Springer online-first page (3 items); Educational Philosophy and Theory, EDeR and Computers and Education: AI covered indirectly via Consensus (3 items). The 10 Elsevier titles have no route at all: sciencedirect.com returns ROBOTS_DISALLOWED. The 5 Taylor & Francis titles and Action Research (SAGE) were not fetchable either. Journal of Participatory Research Methods is on a fetchable platform and goes first in the rotation next run"
-    },
-    {
-      "name": "Consensus: 2 searches (cx, dbr)",
-      "status": "ok - 8 items kept; fired one at a time, no rate limit. Next themes: par, then ai"
-    },
-    {
-      "name": "Bluesky",
-      "status": "failed - public.api.bsky.app refused by the same per-URL fetch rule; 0 accounts read, no list lookup. Second run in a row"
-    },
-    {
-      "name": "RSS feeds",
-      "status": "none configured - and no point adding any until the fetch restriction is lifted, since a feed URL would be refused the same way"
-    },
-    {
-      "name": "ScienceGuide",
-      "status": "partial - the news archive page was readable and gave 5 October headlines, but the individual article pages were refused, so the one item kept is headline-only"
-    },
-    {
-      "name": "Springer article and online-first listing pages (fallback route that worked)",
-      "status": "ok - this is the find of the run: a journal's /articles or /online-first page on link.springer.com is fetchable once its URL has been surfaced by a web search, and it gives title, authors and exact publication date for several papers at once. 5 items came from two such pages, and single article pages gave full metadata for 4 more"
-    },
-    {
-      "name": "Calls and events",
-      "status": "ok - RAAK-PRO November 2026 added (full application closes 17 November, but the mandatory intentieverklaring closed 3 September and the call page says new applications are not currently possible). Nothing new from NRO with a date that could be read on the source page"
-    },
-    {
-      "name": "ROOTS lineage",
-      "status": "partial - lineageRequests had no queued entries. Crossref reference lists were unavailable, so one lineage was built from the reference list printed on the Springer article page instead (24 refs, recorded as such in the source and method fields). Only 1 of up to 5 traced, because each trace costs a slow publisher-page fetch"
-    }
-  ],
-  "unique": 34
+ "date": "2026-10-12",
+ "label": "Catch-up run (local, from the reader's own machine)",
+ "harvested": 256,
+ "unique": 209,
+ "kept": 28,
+ "sources": [
+  {
+   "name": "Crossref topic search (8 themes)",
+   "status": "ok - 8 theme queries, 80 rows, from the reader's machine. The cloud task cannot reach this API at all, because a scheduled run may only fetch a URL that appeared in a web-search result."
+  },
+  {
+   "name": "Journal watch: 20 of 20 journals swept",
+   "status": "ok - all 20 titles that are switched on were swept by ISSN through Crossref, which also covers the publishers whose own sites block automation (ScienceDirect, Taylor and Francis, SAGE). This is the first complete sweep since 28 September."
+  },
+  {
+   "name": "OpenAlex paper search (2 themes: par, ai)",
+   "status": "ok - 11 candidates. OpenAlex replaces the semantic-search tool, which is not available on this machine. It needs no key and has no weekly quota, and it gives a DOI, an exact date and an abstract for most works. The next rotation index is 6 (dec, pc)."
+  },
+  {
+   "name": "Bluesky",
+   "status": "ok - 20 candidates from the 2 accounts in the profile. The list 'Reading Radar' does not exist on this account, so the account set cannot grow from a list yet."
+  },
+  {
+   "name": "ScienceGuide",
+   "status": "partial - the news index is readable and gave 5 links; the individual article pages were not needed for the metadata that an item keeps."
+  },
+  {
+   "name": "RSS feeds",
+   "status": "none configured - the 7 feeds the reader wants still need a real feed URL. The guesses ScienceGuide, NRO, Vereniging Hogescholen and SIA all return 404, so each site must be checked for a feed link. ITD Alliance does publish one."
+  },
+  {
+   "name": "Abstract enrichment (OpenAlex by DOI)",
+   "status": "ok - 37 abstracts were filled. 102 of the 209 candidates now hold an abstract. A candidate without one keeps a caveat that says the abstract was not read."
+  },
+  {
+   "name": "ROOTS lineage",
+   "status": "partial - 1 lineage document completed from the Crossref reference list (53 of 53 references read, 8 strands). 5 further drafts are ready in data/inbox/lineage and wait for the judgement pass. The reference list that the cloud run had to scrape from a publisher page came straight from the API here."
+  }
+ ],
+ "notes": "The second consecutive week that the cloud task was degraded, so this run moved the harvest to the reader's own machine. That repairs the two structural blockers: every API is reachable here (Crossref, OpenAlex, Bluesky, RSS), and the reference lists are reachable, so ROOTS works again. What stays broken is the full text of ScienceDirect, Taylor and Francis and SAGE, and the fetch rule of the cloud task itself. The window was widened to 5 October because the 5 and 12 October cloud runs covered little. 209 candidates came in and 28 were kept, which is the cap of PROJECT.md; 181 candidates stay in data/inbox/items as the backlog, and 5 lineage drafts stay in data/inbox/lineage. The judgement pass is the one step that a script cannot do."
 }

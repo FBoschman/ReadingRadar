@@ -1,0 +1,25 @@
+{
+ "id": "doi_10.1016_j.envsci.2026.104510",
+ "kind": "paper",
+ "title": "Towards a new generation of science-policy interfaces for biodiversity: Contributions from the State Biodiversity Strategies Initiative in Mexico",
+ "authors": "González-Lozada, Castillo, Cruz-Angón et al.",
+ "venue": "Environmental Science & Policy",
+ "date": "2026-11",
+ "url": "https://doi.org/10.1016/j.envsci.2026.104510",
+ "doi": "10.1016/j.envsci.2026.104510",
+ "lang": "en",
+ "source": "Journal watch: Environmental Science & Policy",
+ "run": "2026-10-12",
+ "abstract": "Science-Policy Interfaces (SPIs) are increasingly recognized as mechanisms for linking knowledge generation with biodiversity decision-making. However, little is known about how institutionalized SPIs operate at subnational levels, particularly in megadiverse countries of the Global South, a region characterized by political institutional weaknesses and significant socio-environmental challenges. Mexico offers an illustrative case for examining these dynamics through its State Biodiversity Strategies Initiative (SBS-Initiative), one of the most extensive subnational biodiversity planning experiences worldwide promoted by the Convention on Biological Diversity. This study analyzes the institutional design of the SPIs established through the SBS-Initiative, the barriers and enablers shaping their development, and their contributions to the credibility, relevance, and legitimacy of this planning process. Using the CRELE framework as an analytical lens, we conducted a qualitative analysis of 34 institutional documents and 31 semi-structured interviews with national and subnational government officials and researchers involved in these interfaces. Three main findings stand out: the initiative combines two complementary SPI configurations, a predominantly linear model for biodiversity diagnostics and a co-productive model for strategies and action plans; barriers and enablers are context- and phase-dependent; and credibility, relevance, and legitimacy emerge dynamically from the interaction among institutional arrangements, diverse stakeholders, and multiple governance conditions. We conclude that SPIs do not depend on choosing between linear or co-production models, but on developing adaptive and hybrid institutional arrangements capable of responding to dynamic and diverse subnational contexts. These findings offer practical insights for strengthening biodiversity planning and other sustainability governance processes.",
+ "themeGuess": [],
+ "found": "2026-10-12T11:36:58",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": "OpenAlex"
+}

@@ -1,0 +1,25 @@
+{
+ "id": "doi_10.1016_j.eist.2026.101195",
+ "kind": "paper",
+ "title": "From coal dependency to coal phase-out: Empirical multi-level policy examination in an urban energy system",
+ "authors": "Pasanen, Matschoss",
+ "venue": "Environmental Innovation and Societal Transitions",
+ "date": "2027-01",
+ "url": "https://doi.org/10.1016/j.eist.2026.101195",
+ "doi": "10.1016/j.eist.2026.101195",
+ "lang": "en",
+ "source": "Journal watch: Environmental Innovation and Societal Transitions",
+ "run": "2026-10-12",
+ "abstract": "Research on the politics and governance of coal phase-out has primarily concentrated on national-level policymaking and the role of coal in electricity generation. This study examines an urban transitions and multilevel policy mix impacting the Finnish energy company Helen’s transition away from coal, leading to a coal phase-out in the City of Helsinki. Heating presents a major challenge in the shift toward renewable energy sources due to long heating seasons and district heating relying on coal. We integrate a co-evolutionary framework of policy subsystems and socio-technical change with a framework of policy mixes. Our empirical investigation focuses on the effects of multi-level policies that accelerated energy transitions from 2016 to 2021. Through semi-structured interviews with municipal decision-makers, company representatives, and stakeholders, as well as document analysis, we examine the policy instrument mix to better understand multi-level policies and the political environment influencing the energy company. Our analysis points toward four key issues that jointly made a coal phase-out achievable despite significant challenges, and can act as lessons of transitions in other contexts. First, a robust mix of strong destructive policies at various levels rendered coal burning economically unfeasible, while innovative measures created a path forward. Second, personnel changes facilitated the transition. Third, viable technological alternatives to coal were emerging. Fourth, public demand for climate action was intensifying. Our findings suggest that the credibility and comprehensiveness of the policy mix are more crucial than coherence or consistency.",
+ "themeGuess": [],
+ "found": "2026-10-12T11:37:01",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": "OpenAlex"
+}

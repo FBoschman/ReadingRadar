@@ -1,0 +1,27 @@
+{
+ "id": "doi_10.1016_j.matdes.2026.117050",
+ "kind": "paper",
+ "title": "Inverse design of lightweight manufacturable TPMS structures based on a constitutive-aware neural operator",
+ "authors": "Wang, Yang, Nie et al.",
+ "venue": "Materials & Design",
+ "date": "2026-11",
+ "url": "https://doi.org/10.1016/j.matdes.2026.117050",
+ "doi": "10.1016/j.matdes.2026.117050",
+ "lang": "",
+ "source": "Crossref topic: Design-based research",
+ "run": "2026-10-12",
+ "abstract": "",
+ "themeGuess": [
+  "dbr"
+ ],
+ "found": "2026-10-12T11:36:14",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": ""
+}

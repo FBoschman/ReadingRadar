@@ -1,0 +1,27 @@
+{
+ "id": "doi_10.1016_j.jik.2026.101112",
+ "kind": "paper",
+ "title": "Integrating absorptive capacity into open innovation frameworks: Toward shared value co-creation and sustainable operational outcomes",
+ "authors": "Taghizadeh, Rahman, Huq et al.",
+ "venue": "Journal of Innovation & Knowledge",
+ "date": "2026-11",
+ "url": "https://doi.org/10.1016/j.jik.2026.101112",
+ "doi": "10.1016/j.jik.2026.101112",
+ "lang": "en",
+ "source": "Crossref topic: Transdisciplinary research",
+ "run": "2026-10-12",
+ "abstract": "In an era when innovation and sustainability are critical for organizational success, this study examines how the co-creation of shared value in open innovation drives sustainable operational performance, including via its mediating role between absorptive capacity and performance outcomes. It explores the pivotal role of absorptive capacity in enabling the co-creation of shared value in open innovation and investigates how knowledge management systems and organizational structure can enhance absorptive capacity, maximizing sustainability outcomes. Data were collected from 353 bank managers in Bangladesh and analyzed using structural equation modeling via SmartPLS. The findings reveal that the co-creation of shared value in open innovation significantly enhances sustainable operational performance. Moreover, absorptive capacity positively influences this co-creation process and is strengthened by effective knowledge management and robust organizational design. Notably, as the direct effect of potential absorptive capacity on sustainable operational performance was non-significant, the co-creation of shared value in open innovation plays a critical mediating role in translating potential absorptive capacity into sustainability outcomes. These results underscore the strategic importance of developing capabilities to foster open innovation and sustainability within the banking industry. From a managerial perspective, enhancing absorptive capacity through strategic investment in knowledge systems and organizational design can drive both open innovation and operational sustainability. By integrating the resource-based view and knowledge-based view, this study provides a comprehensive framework demonstrating that while absorptive capacity is a critical firm-level capability enabling open innovation, it is the co-creation of shared value in open innovation that mediates its impact on sustainable operational performance.",
+ "themeGuess": [
+  "td"
+ ],
+ "found": "2026-10-12T11:36:09",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": "OpenAlex"
+}

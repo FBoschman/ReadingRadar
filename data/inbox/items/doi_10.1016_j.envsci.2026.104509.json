@@ -1,0 +1,25 @@
+{
+ "id": "doi_10.1016_j.envsci.2026.104509",
+ "kind": "paper",
+ "title": "Mapping European land-use driven carbon losses and gains: How scenarios, indicators, and methods shape outcomes",
+ "authors": "Sarita Namasivayam, Riva, Verburg",
+ "venue": "Environmental Science & Policy",
+ "date": "2026-11",
+ "url": "https://doi.org/10.1016/j.envsci.2026.104509",
+ "doi": "10.1016/j.envsci.2026.104509",
+ "lang": "en",
+ "source": "Journal watch: Environmental Science & Policy",
+ "run": "2026-10-12",
+ "abstract": "Although land use plays a crucial role in tackling climate change, its contributions to the carbon balance under land-change dynamics are still not well understood. Current research is based on differing scenario paradigms, model approaches, and carbon sequestration indicators, making it difficult to ascertain what management policies would have the most beneficial outcomes. Here, we compared how future projections of carbon stock vary across four IPBES and IPCC land use scenarios (Nature for Nature, Nature for Society, Nature as Culture, and SSP2); two carbon sequestration indicators (carbon accumulation potential vs net carbon flux); and two model types (age-curve approach vs mixed-effect model). We found that the different land use scenarios most strongly determine the magnitude and direction of carbon stock outcomes, while indicator choices carry more uncertainty and drive divergences in estimates. Different forest carbon models produced similar outcomes but vary in their sensitivity to indicator type, with age-curve models consistently producing marginally higher estimates of stock change. Amongst the scenarios, Nature for Society is the most promising for total land-use related carbon stocks, followed by Nature for Nature and then Nature as Culture, whereas SSP2 has the lowest carbon stock outcomes. Finally, hotspots of carbon loss across all outcomes were due to forest and wetland loss, while hotspots of carbon gain emerge where forests, wetlands and mosaics are preserved, conserved, and restored, highlighting important opportunities for land use planning.",
+ "themeGuess": [],
+ "found": "2026-10-12T11:36:58",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": "OpenAlex"
+}

@@ -1,0 +1,25 @@
+{
+ "id": "doi_10.1016_j.caeai.2026.100651",
+ "kind": "paper",
+ "title": "From simulation to flight: Simulation-assisted drone learning with teacher-AI co-designed scaffolds for secondary students’ STEM knowledge and competencies",
+ "authors": "Yeung, Yeung, Sun et al.",
+ "venue": "Computers and Education: Artificial Intelligence",
+ "date": "2026-12",
+ "url": "https://doi.org/10.1016/j.caeai.2026.100651",
+ "doi": "10.1016/j.caeai.2026.100651",
+ "lang": "en",
+ "source": "Journal watch: Computers and Education: Artificial Intelligence",
+ "run": "2026-10-12",
+ "abstract": "A persistent challenge in drone-based STEM education is the scarcity of teacher-verified, interactive simulations that support both conceptual learning and competency development. Generative AI can accelerate content creation, but its outputs frequently lack pedagogical validity and contextual alignment. This study examines whether simulation-assisted drone instruction, anchored by teacher-AI co-designed simulations, yields superior learning outcomes compared to the same hands-on curriculum delivered without simulations. Using a quasi-experimental pretest–posttest design with 30 secondary students (aged 13 to 17), both groups completed identical drone tasks with the same instructor; however, the experimental group additionally utilized five interactive simulations. Quantitative analyses revealed significantly greater gains for the experimental group in STEM content knowledge and overall learning competencies (critical thinking, collaboration, communication, creativity). Qualitative interviews and observations indicated that simulations provided a low-stakes environment that reduced cognitive load, made causal flight mechanisms visible, supported hypothesis testing, and facilitated transfer to physical operation. Simulations can function as effective pre-flight, formative scaffolds that enhance learning visibility for teachers. The teacher-AI co-design model proves promising and potentially scalable for developing verified resources, though findings are bounded by the modest sample size and quasi-experimental design.",
+ "themeGuess": [],
+ "found": "2026-10-12T11:37:13",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": "OpenAlex"
+}

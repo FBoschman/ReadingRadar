@@ -1,0 +1,24 @@
+{
+ "id": "bs-3mx44xfu6qg23",
+ "kind": "discourse",
+ "title": "Transactions of the Complex Systems Society",
+ "authors": "Bluesky",
+ "venue": "Bluesky",
+ "date": "2026-10-05",
+ "url": "https://bsky.app/profile/css-conference.bsky.social/post/3mx44xfu6qg23",
+ "doi": "",
+ "lang": "",
+ "source": "Bluesky: @css-conference.bsky.social",
+ "run": "2026-10-12",
+ "abstract": "Transactions of the Complex Systems Society",
+ "themeGuess": [],
+ "found": "2026-10-12T11:37:27",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ }
+}

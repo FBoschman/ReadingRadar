@@ -1,0 +1,25 @@
+{
+ "id": "doi_10.1016_j.landurbplan.2026.105796",
+ "kind": "paper",
+ "title": "Urban residential cues to care in Detroit neighborhoods: A validated lot level virtual audit tool",
+ "authors": "Shewark, Sivak, Sampson et al.",
+ "venue": "Landscape and Urban Planning",
+ "date": "2027-02",
+ "url": "https://doi.org/10.1016/j.landurbplan.2026.105796",
+ "doi": "10.1016/j.landurbplan.2026.105796",
+ "lang": "en",
+ "source": "Journal watch: Landscape and Urban Planning",
+ "run": "2026-10-12",
+ "abstract": "High-quality built environments have potential to improve the mental and physical health of residents. Qualitatively, such environments are characterized by the visible evidence of human intervention and maintenance, including cues to care (CTC). However, to date, there has not been a validated way to quantify CTC that accounts for structure-inclusive lot types (i.e., residential, commercial). We present a validated tool that allows entire urban neighborhoods to be assessed (including occupied properties and vacant lots). We validated lot-scale physical CTC against measures of neighborhood conditions that have been widely associated with residents’ health. These measures include land use amenities and resident perceptions of neighborhood cohesion, attractiveness, and safety. We developed a novel coding tool that expands current geospatial CTC tools to quantitatively assess urban residential CTC. We applied Lot Level Cues to Care (LLCTC) to 781 lots across 245 street segments in Detroit, MI. We then investigated the relationship between LLCTC (where higher values indicate more CTC) and widely used as well as validated measures of neighborhood conditions, in a survey of 214 Detroit residents. We found negative correlations between LLCTC scores and signs of disorder and area deprivation. We also found significant associations between LLCTC scores and perceived neighborhood attractiveness. Although only approaching statistical significance, higher perceived cohesion and greater perceived safety were also associated with higher LLCTC scores. In conclusion, LLCTC is a valid quantitative geospatial measure of CTC in an urban residential environment, as validated by resident perceptions of their neighborhoods.",
+ "themeGuess": [],
+ "found": "2026-10-12T11:37:17",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": "OpenAlex"
+}

@@ -1,0 +1,27 @@
+{
+ "id": "doi_10.1007_s11423-026-10739-3",
+ "kind": "paper",
+ "title": "Exploring AI literacy in elementary classrooms: students’ perspectives on generative AI, fairness, and ethical use",
+ "authors": "Kosmas, Agesilaou",
+ "venue": "Educational technology research and development",
+ "date": "2026-10-06",
+ "url": "https://doi.org/10.1007/s11423-026-10739-3",
+ "doi": "10.1007/s11423-026-10739-3",
+ "lang": "",
+ "source": "Crossref topic: AI & curriculum",
+ "run": "2026-10-12",
+ "abstract": "",
+ "themeGuess": [
+  "ai"
+ ],
+ "found": "2026-10-12T11:36:20",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": ""
+}

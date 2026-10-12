@@ -1,0 +1,25 @@
+{
+ "id": "doi_10.1016_j.eist.2026.101193",
+ "kind": "paper",
+ "title": "Toward a Canadian agenda for sustainability transition research",
+ "authors": "Rosenbloom, Meadowcroft, Arcand et al.",
+ "venue": "Environmental Innovation and Societal Transitions",
+ "date": "2027-01",
+ "url": "https://doi.org/10.1016/j.eist.2026.101193",
+ "doi": "10.1016/j.eist.2026.101193",
+ "lang": "en",
+ "source": "Journal watch: Environmental Innovation and Societal Transitions",
+ "run": "2026-10-12",
+ "abstract": "Sustainability transitions research has expanded well beyond its original empirical settings, yet questions remain about how transition perspectives can be meaningfully translated across political economies with distinctive configurations of institutional, geographic, environmental, and historical characteristics. In Canada, these questions are especially salient, as political-economic particularities both complicate the application of transition frameworks and create opportunities for theoretical and practical advance. In response, this perspective develops a Canadian agenda for sustainability transition research grounded in an iterative co-development process involving scholars and practitioners from across the country. Through this process, we identify four interrelated themes based on the above particularities that structure this agenda: federalism, regional cleavages, geography, and environment; resource- and energy-intensive political economies; Indigenous sovereignty and reconciliation; and relations with and proximity to a global power. These themes not only capture central features shaping transition dynamics in Canada but also offer opportunities to advance broader debates in the field. For each theme, the paper illustrates how engagement with Canadian particularities can help illuminate extant research debates and areas of fruitful exchange, from the role of Indigenous leadership to geopolitical and economic dependencies. The perspective also identifies how these themes come together as a configuration, raising promising directions for the study of transitions. In this fashion, the central contribution of the perspective lies not in proposing a transition theory tied to national exceptionalism, but rather in showing how sustained engagement with Canadian particularities (and their interrelations) can generate opportunities for mutual enrichment through the translation and extension of transition ideas.",
+ "themeGuess": [],
+ "found": "2026-10-12T11:37:01",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": "OpenAlex"
+}

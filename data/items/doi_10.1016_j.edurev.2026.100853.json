@@ -1,0 +1,21 @@
+{
+ "kind": "paper",
+ "title": "Cultivating systems thinking through game-making: A systematic review on curriculum design",
+ "authors": "Fan",
+ "venue": "Educational Research Review",
+ "date": "2026-11",
+ "url": "https://doi.org/10.1016/j.edurev.2026.100853",
+ "doi": "10.1016/j.edurev.2026.100853",
+ "themes": [
+  "cx",
+  "dbr"
+ ],
+ "score": 4,
+ "why": "A PRISMA review of how K-12 game-making curricula are designed to build systems thinking. A design-principle source for the CDC Urban Innovation course.",
+ "caveat": "Only ten empirical reports met the criteria, so the design principles rest on a thin base.",
+ "lang": "en",
+ "wildcard": false,
+ "source": "Crossref topic: Design-based research",
+ "status": "new",
+ "run": "2026-10-12"
+}

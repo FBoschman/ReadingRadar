@@ -1,0 +1,21 @@
+{
+ "kind": "paper",
+ "title": "Securing extractive futures: unpacking the EU’s Critical Raw Materials Act",
+ "authors": "Lagunas, Chambers, Hajer et al.",
+ "venue": "Environmental Innovation and Societal Transitions",
+ "date": "2027-01",
+ "url": "https://doi.org/10.1016/j.eist.2026.101200",
+ "doi": "10.1016/j.eist.2026.101200",
+ "themes": [
+  "dec",
+  "td"
+ ],
+ "score": 4,
+ "why": "Reads the EU Critical Raw Materials Act as an extraction strategy under a just-transition label. Exactly the policy contradiction worth naming in transition work.",
+ "caveat": "A policy analysis of one act. Implementation evidence does not exist yet.",
+ "lang": "en",
+ "wildcard": false,
+ "source": "Journal watch: Environmental Innovation and Societal Transitions",
+ "status": "new",
+ "run": "2026-10-12"
+}

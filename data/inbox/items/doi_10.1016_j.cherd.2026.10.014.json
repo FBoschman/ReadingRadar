@@ -1,0 +1,27 @@
+{
+ "id": "doi_10.1016_j.cherd.2026.10.014",
+ "kind": "paper",
+ "title": "Structural design of a low-resistance air purifier for PM2.5 purification",
+ "authors": "Jia, Xu, Zhang et al.",
+ "venue": "Chemical Engineering Research and Design",
+ "date": "2026-11",
+ "url": "https://doi.org/10.1016/j.cherd.2026.10.014",
+ "doi": "10.1016/j.cherd.2026.10.014",
+ "lang": "",
+ "source": "Crossref topic: Design-based research",
+ "run": "2026-10-12",
+ "abstract": "",
+ "themeGuess": [
+  "dbr"
+ ],
+ "found": "2026-10-12T11:36:14",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": ""
+}

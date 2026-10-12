@@ -1,0 +1,27 @@
+{
+ "id": "doi_10.1016_j.rinam.2026.100782",
+ "kind": "paper",
+ "title": "Fixed point theory for variational inequalities with fractional functional constraints: A resolvent-regularized approach",
+ "authors": "Ali, Yahya",
+ "venue": "Results in Applied Mathematics",
+ "date": "2026-11",
+ "url": "https://doi.org/10.1016/j.rinam.2026.100782",
+ "doi": "10.1016/j.rinam.2026.100782",
+ "lang": "en",
+ "source": "Crossref topic: Complexity in education",
+ "run": "2026-10-12",
+ "abstract": "Classical variational inequality theory does not directly accommodate feasible sets defined by fractional (Caputo) functional constraints, since the associated projection operators lose the geometric structure available in the integer-order case. We introduce the fractional resolvent regularizer R λ α , built from the Mittag-Leffler representation of a fractional relaxation equation, and show it is nonexpansive on L 2 ( 0 , T ) for every regularization parameter and fractional order. Using this operator we formulate the Variational Inequality with Fractional Functional Constraints (VIFFC), establish existence, uniqueness and well-posedness via a composite nonexpansive fixed point map, and propose an extragradient-type algorithm with proven global linear convergence. A numerical example and applications to anomalous diffusion and viscoelastic contact are discussed.",
+ "themeGuess": [
+  "cx"
+ ],
+ "found": "2026-10-12T11:36:11",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": "OpenAlex"
+}

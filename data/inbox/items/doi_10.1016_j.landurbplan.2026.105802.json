@@ -1,0 +1,25 @@
+{
+ "id": "doi_10.1016_j.landurbplan.2026.105802",
+ "kind": "paper",
+ "title": "Comparing Strava and survey-based data for coastal recreation accounting",
+ "authors": "Hansen, Barton, Chen et al.",
+ "venue": "Landscape and Urban Planning",
+ "date": "2027-02",
+ "url": "https://doi.org/10.1016/j.landurbplan.2026.105802",
+ "doi": "10.1016/j.landurbplan.2026.105802",
+ "lang": "en",
+ "source": "Journal watch: Landscape and Urban Planning",
+ "run": "2026-10-12",
+ "abstract": "Coastal zones provide recreational ecosystem services across land and sea, yet spatial data for ecosystem accounting is limited. We compared Strava activity data with survey-based public participation GIS (PPGIS) data across the Oslofjord, Norway, to assess spatial and sociodemographic biases in crowdsourced recreation accounting. Strava over-represented activities along the coastal belt and across marine areas, while under-representing island visitation and leisure-oriented activities. Spatial bias was partly associated with age, gender, and income. Although Strava underestimated absolute recreation activity levels relative to PPGIS, the datasets showed strong agreement in relative spatial variation among municipalities. Our findings demonstrate that Strava data can support mapping of recreation patterns, but may misrepresent the magnitude and distribution of coastal recreation activity. These biases may influence the identification and prioritization of recreational areas in planning and accounting. Combining Strava data and representative survey-based approaches may improve recreation assessments for coastal planning and accounting for physical and monetary recreation services.",
+ "themeGuess": [],
+ "found": "2026-10-12T11:37:17",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": "OpenAlex"
+}

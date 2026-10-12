@@ -1,0 +1,25 @@
+{
+ "id": "doi_10.1007_s11625-026-01906-9",
+ "kind": "paper",
+ "title": "Contribution of subnational regions to national climate change mitigation targets",
+ "authors": "Gomi, Ochi, Mochihara et al.",
+ "venue": "Sustainability Science",
+ "date": "2026-10-05",
+ "url": "https://doi.org/10.1007/s11625-026-01906-9",
+ "doi": "10.1007/s11625-026-01906-9",
+ "lang": "en",
+ "source": "Journal watch: Sustainability Science",
+ "run": "2026-10-12",
+ "abstract": "This study developed a methodology for analyzing the mitigation measures expected of each region within a country, as well as the resulting regional energy supply–demand balances, given national decarbonization targets and assumed future energy system conditions. Using national-level values as an overarching framework, the method represents interregional energy flows and constructed two scenarios: (1) a scenario in which all regions make efforts of equal stringency to collectively achieve the national target (CN1) and (2) a scenario in which each region seeks to achieve carbon neutrality independently within its own jurisdiction (CN2). For each scenario, regional energy supply and demand, carbon absorption by forests, and greenhouse gas (GHG) emissions were calculated. The methodology was applied to Japan, treating the nation as a whole and its prefectures as regions, to estimate regional energy balances and GHG emissions under CN1 and CN2 in the context of Japan’s 2050 carbon neutrality target. Under CN1, prefectural GHG emissions relative to the baseline year ranged from 0% to 24%. Given that interregional transfers of renewable energy are prohibited under CN2, some prefectures retained substantial unused renewable energy potential, whereas many others were unable to achieve carbon neutrality within their own boundaries. These findings can support prefectural governments in formulating rational, long-term, and concrete targets by providing reference values for emission and absorption goals and for the specific measures required. The analysis also highlights the need for cooperation between regions where achieving carbon neutrality is relatively feasible and those where it is considerably more challenging.",
+ "themeGuess": [],
+ "found": "2026-10-12T11:36:31",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": "OpenAlex"
+}

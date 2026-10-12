@@ -1,0 +1,27 @@
+{
+ "id": "doi_10.1016_j.tranpol.2026.104459",
+ "kind": "paper",
+ "title": "Stakeholder attributes in maritime logistics ecosystem: a policy perspective for small island states",
+ "authors": "D'agostini, Attard",
+ "venue": "Transport Policy",
+ "date": "2027-01",
+ "url": "https://doi.org/10.1016/j.tranpol.2026.104459",
+ "doi": "10.1016/j.tranpol.2026.104459",
+ "lang": "en",
+ "source": "Crossref topic: Learning ecosystems",
+ "run": "2026-10-12",
+ "abstract": "Transport policies should aim to integrate the demands and expectations of all stakeholders, even in maritime logistics contexts where a mix of private and public interests play out, sometimes in conflicting situations. The added value of an ecosystem for transport policy largely depends on how effectively coordination amongst its stakeholders is managed. The study aims to define stakeholders’ attributes within a small maritime logistics ecosystem, using the case study of Malta, by analyzing how power, legitimacy and urgency are relationally constructed and hierarchically distributed. This is grounded in the Stakeholder Salience Theory and distinguish ecosystem participants based on the attribute positioning derived from individual traits. Data is collected through interviews with the stakeholders and analysed qualitatively using thematic analysis . The results show how legitimacy emerges as a key attribute; power is developed by inter-organizational relationships and urgency plays a more limited role. In aggregate, salience attributes are pivotal in building the ecosystem collective identity and when the ecosystem orchestrator lacks legitimacy in constrained environments, the overall ecosystem stability is affected. Policies should therefore focus on the understanding of stakeholder salience and dynamics, as well as the need for effective coordination in maritime logistics ecosystems to guarantee stability and collective value creation.",
+ "themeGuess": [
+  "eco"
+ ],
+ "found": "2026-10-12T11:36:05",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": "OpenAlex"
+}

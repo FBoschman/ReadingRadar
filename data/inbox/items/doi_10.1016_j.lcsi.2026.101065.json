@@ -1,0 +1,25 @@
+{
+ "id": "doi_10.1016_j.lcsi.2026.101065",
+ "kind": "paper",
+ "title": "Teacher agency and generative AI: A cultural-historical analysis of contradictions in planning, instruction, and assessment",
+ "authors": "Frøsig, Romero",
+ "venue": "Learning, Culture and Social Interaction",
+ "date": "2026-12",
+ "url": "https://doi.org/10.1016/j.lcsi.2026.101065",
+ "doi": "10.1016/j.lcsi.2026.101065",
+ "lang": "en",
+ "source": "Journal watch: Learning, Culture and Social Interaction",
+ "run": "2026-10-12",
+ "abstract": "Scholars have traced diverse contradictions of GenAI's potential to seemingly both help and harm education back to the origins of AI in Education (AIED), thereby broadening the discussion to include a cultural-historical perspective. Generative AI (GenAI) is being analyzed for its impact on student achievement through personalized learning, and concerns about the potential devaluation of educators' skills and expertise. However few studies have examined AIED's impact on teacher agency, particularly through the lens of its perceived exchange value. This pilot study applies a third-generation CHAT framework to explore how GenAI mediates teacher agency and generates contradictions across the activity systems of planning, instruction, and assessment. The answers were analyzed using Natural Language Processing (NLP) looking for the emotional valence (Sentiment Analysis) and linguistic cues contradicting teacher agency (Natural Language Inference). The results revealed that the activity of lesson planning had a positive perceived agency, while the activities of teaching and assessment displayed a neutral and a negative perceived agency. GenAI is perceived to increase teacher agency in planning, but constrains it during instruction and assessment due to emergent contradictions. A primary contradiction was identified indicating that AI is being perceived as a helpful tool in the delivery of learning while also being perceived as negating the development of teacher agency. A secondary contradiction consisting of a dilemma between efficiency and agency was also found.",
+ "themeGuess": [],
+ "found": "2026-10-12T11:37:11",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": "OpenAlex"
+}

@@ -1,0 +1,25 @@
+{
+ "id": "doi_10.1016_j.envsci.2026.104517",
+ "kind": "paper",
+ "title": "Bridging the cultural divide to improve drinking water security, sustainability and resilience in first nations communities: A case study from Australia",
+ "authors": "Jackson, Shrestha, Mackenzie et al.",
+ "venue": "Environmental Science & Policy",
+ "date": "2026-11",
+ "url": "https://doi.org/10.1016/j.envsci.2026.104517",
+ "doi": "10.1016/j.envsci.2026.104517",
+ "lang": "en",
+ "source": "Journal watch: Environmental Science & Policy",
+ "run": "2026-10-12",
+ "abstract": "First Nations communities (Aboriginal and Torres Strait Islander peoples) in remote Australia experience disproportionate risks to drinking water security, compounded by climate change. Community drinking water systems are operated predominantly by government service providers to meet regulatory requirements, yet many systems fail to meet quality standards. Safe, accessible drinking water is challenged by geography, environmental, and infrastructure factors, yet critical socio-cultural factors including Indigenous, traditional and cultural knowledge are often excluded from drinking water governance processes, thereby excluding skills, practices and innovations that have informed sustainable water governance for thousands of years. This study adopted mixed qualitative methods including community survey, yarning and interviews across six remote northern Australian First Nations communities. Community and management perspectives on sustainable drinking water issues and priorities for building community water security and climate resilience were explored. Thematic analysis revealed tensions between Indigenous and management agency understandings of water, low levels of trust in drinking water and highlighted the importance of drawing on local and cultural knowledge in identifying issues and co-designing locally relevant solutions. This paper contributes to the body of knowledge and practice on water governance, including novel, place-based contextualisation of traditional knowledge applications for meaningful First Nations engagement. The paper proposes five policy recommendations to create an enabling environment for resilient drinking water governance: community-led partnerships; integrate traditional and technical knowledge in decision processes; reframe community engagement to mutual, multi-way learning; improve coordination and accountability across relevant agencies; and deploy integrated water-energy-climate policy.",
+ "themeGuess": [],
+ "found": "2026-10-12T11:36:58",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": "OpenAlex"
+}

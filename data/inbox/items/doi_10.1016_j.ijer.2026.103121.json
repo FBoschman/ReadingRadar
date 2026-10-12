@@ -1,0 +1,25 @@
+{
+ "id": "doi_10.1016_j.ijer.2026.103121",
+ "kind": "paper",
+ "title": "Sleeper effects of a universal, school-based social and emotional learning intervention (Passport: Skills For Life) on internalising symptoms and related outcomes during the transition from childhood to adolescence: a cluster-randomised controlled trial",
+ "authors": "Humphrey, Boehnke, Santos et al.",
+ "venue": "International Journal of Educational Research",
+ "date": "2027",
+ "url": "https://doi.org/10.1016/j.ijer.2026.103121",
+ "doi": "10.1016/j.ijer.2026.103121",
+ "lang": "en",
+ "source": "Journal watch: International Journal of Educational Research",
+ "run": "2026-10-12",
+ "abstract": "Universal, school-based social and emotional learning interventions have been consistently shown to meaningfully improve a range of salient outcomes for children and young people in the short-term, but less is known about their longer-term effects. This study focuses on such effects in the context of a cluster-randomised controlled trial of the Passport: Skills for Life intervention in Greater Manchester, England. Passport is implemented by trained classroom teachers, who deliver 18 weekly lessons across 5 modules (emotions; relationships and helping each other; difficult situations; fairness, justice and what is right; change and loss). Mainstream primary schools (clusters, k = 62; trial cohort of N = 2,425 children, aged 8-9 years at baseline) were the unit of randomisation. Allocation took place following completion of baseline measures, with minimisation ensuring balance across trial arms in school size and the proportion of children eligible for free school meals. Intention-to-treat (ITT) analyses at immediate-post-intervention follow-up revealed no intervention effects for any trial outcome. Accordingly, the focus of this paper is on the potential emergence of so-called ‘sleeper’ effects at 12-month post-intervention follow-up, which coincided with the final year of primary school for the trial cohort. However, ITT analyses revealed no statistically significant impact of Passport on internalising symptoms (primary outcome; d = 0.06, 95% bootstrapped confidence interval, BCI -0.17, 0.27) or any of our secondary outcomes (emotion regulation, d = 0.00, 95% bootstrapped confidence interval, BCI -0.21, 0.21; wellbeing, d = 0.05, 95% BCI -0.18, 0.30; loneliness, d = -0.02, 95% BCI -0.24, 0.20; bullying, d = 0.01, 95% BCI -0.21, 0.23; peer support d = 0.05, 95% BCI -0.13, 0.25). Taken together with findings from related analyses of this trial, the present results do not provide evidence to support further scale-up of Passport. Our discussion focuses on whether the impending transition to secondary school was a sufficient or universally applicable catalytic event to trigger the application of skills acquired in Passport, or whether the intervention may simply have been insufficiently potent to provide a meaningful benefit over usual practice.",
+ "themeGuess": [],
+ "found": "2026-10-12T11:37:23",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": "OpenAlex"
+}

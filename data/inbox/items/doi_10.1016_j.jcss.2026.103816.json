@@ -1,0 +1,27 @@
+{
+ "id": "doi_10.1016_j.jcss.2026.103816",
+ "kind": "paper",
+ "title": "Parameterized complexity of feedback vertex set with connectivity constraints",
+ "authors": "Abhinav, Jana, Purohit et al.",
+ "venue": "Journal of Computer and System Sciences",
+ "date": "2026-11",
+ "url": "https://doi.org/10.1016/j.jcss.2026.103816",
+ "doi": "10.1016/j.jcss.2026.103816",
+ "lang": "",
+ "source": "Crossref topic: Complexity in education",
+ "run": "2026-10-12",
+ "abstract": "",
+ "themeGuess": [
+  "cx"
+ ],
+ "found": "2026-10-12T11:36:11",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": ""
+}

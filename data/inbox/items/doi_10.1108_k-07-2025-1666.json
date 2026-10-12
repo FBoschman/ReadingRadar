@@ -1,0 +1,26 @@
+{
+ "id": "doi_10.1108_k-07-2025-1666",
+ "kind": "paper",
+ "title": "Cybernetic resilience in human–AI crisis response networks: a theory of adaptive emergence with empirical validation framework",
+ "authors": "Sheela, Posarajan",
+ "venue": "Kybernetes",
+ "date": "2026-10-07",
+ "url": "https://doi.org/10.1108/k-07-2025-1666",
+ "doi": "10.1108/k-07-2025-1666",
+ "lang": "",
+ "source": "Crossref topic: Complexity in education",
+ "run": "2026-10-12",
+ "abstract": "Purpose This research addresses the following specific theoretical deficiency: while existing resilience frameworks do indeed consider the process of recovery or adaptation of crisis systems at the level of individuals, they fail to explain the ways in which human–artificial intelligence (AI) hybrid networks create emergent adaptive capacities not held by humans or AI alone. We develop the concept of cybernetic resilience to explain this emergent property. Design/methodology/approach This conceptual theory manuscript offers a process model based on second-order cybernetics, autopoietic systems theory and adaptive resilience frameworks. It employs three illustrative case vignettes – COVID-19 contact tracing in South Korea, California wildfire response and European flood management – to illustrate theoretical mechanisms before presenting a suggested validation framework with operationalized constructs. Findings We suggest that cybernetic resilience arises through three recursive mechanisms: (1) multi-level observation loops enabling systemic self-awareness, (2) structural couplings between human cognition and AI algorithms giving rise to hybrid cognitive capacities and (3) distributed coordination patterns yielding collective intelligence beyond the capability of individual agents. Originality/value This paper provides unique contributions. First, it reconceptualizes resilience as a dynamic recursive process and not as a static system property to overcome the limitations of both engineering and ecological models of resilience in human–AI systems. Second, socio-technical systems theory is extended by theorizing how hybrid human–AI configurations create emergent intelligence through unique structural-coupling mechanisms atypical from traditional human–technology interfaces.",
+ "themeGuess": [
+  "cx"
+ ],
+ "found": "2026-10-12T11:36:11",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ }
+}

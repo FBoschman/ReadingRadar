@@ -1,0 +1,25 @@
+{
+ "id": "doi_10.1016_j.ijer.2026.103127",
+ "kind": "paper",
+ "title": "Universities as regional innovation anchors: Pathways of engagement and mechanism building",
+ "authors": "Yan, Sun, Qian",
+ "venue": "International Journal of Educational Research",
+ "date": "2027",
+ "url": "https://doi.org/10.1016/j.ijer.2026.103127",
+ "doi": "10.1016/j.ijer.2026.103127",
+ "lang": "en",
+ "source": "Journal watch: International Journal of Educational Research",
+ "run": "2026-10-12",
+ "abstract": "Universities are increasingly framed as regional innovation anchors, yet the literature explains less clearly how anchoring capacity is built beyond discrete projects, technology-transfer outputs, or engagement intensity. Starting from the public-purpose conception of the university, this study develops a five-stage, mechanism-based model of anchoring. It analyzes 139 publicly available Innovation and Economic Prosperity (IEP) case narratives from 36 U.S. public and land-grant universities in the Association of Public and Land-grant Universities (APLU) network between 2013 and 2023, using storyline analysis and systematic qualitative coding. The findings identify five connected stages: (1) needs recognition and problem framing; (2) engagement pathway formation across place-based partnerships, education/workforce development, research translation, cross-boundary collaboration, and entrepreneurship support; (3) mechanism building through partnership governance and cross-sector coordination, talent and technical support, resource and funding architectures, ecosystem infrastructure, and operational routines; (4) outcome generation in innovation-system and public-value domains; and (5) diffusion and scaling through organizational expansion, geographic scaling, horizontal replication, ecosystem building, and benchmarking or demonstration. In this corpus, mechanism building functions as the central explanatory stage because it shows how episodic initiatives are represented as repeatable coordination capacity. The study contributes to anchor institution and regional innovation scholarship by theorizing anchoring as a staged institutional accomplishment grounded in public value, rather than as a simple accumulation of projects or outputs. It also shows how recognition-based institutional narratives can reveal the otherwise hidden coordination work through which universities build durable ecosystem roles. Policy implications point to investing in coordination capacity, governance infrastructures, and diffusion mechanisms for inclusive regional innovation.",
+ "themeGuess": [],
+ "found": "2026-10-12T11:37:23",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": "OpenAlex"
+}

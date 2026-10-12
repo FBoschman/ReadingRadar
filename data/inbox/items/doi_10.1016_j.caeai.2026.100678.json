@@ -1,0 +1,25 @@
+{
+ "id": "doi_10.1016_j.caeai.2026.100678",
+ "kind": "paper",
+ "title": "A hybrid collaborative filtering and knowledge graph-based cross-domain recommendation method for multimodal teaching resources",
+ "authors": "Liu, Sun, Song",
+ "venue": "Computers and Education: Artificial Intelligence",
+ "date": "2026-12",
+ "url": "https://doi.org/10.1016/j.caeai.2026.100678",
+ "doi": "10.1016/j.caeai.2026.100678",
+ "lang": "en",
+ "source": "Journal watch: Computers and Education: Artificial Intelligence",
+ "run": "2026-10-12",
+ "abstract": "This paper proposes a hybrid recommendation system that integrates collaborative filtering with a pedagogically structured knowledge graph for personalized multimodal English learning resource recommendation. Resources, concepts, and learner attributes are organized into four instructional dimensions, and user-dependent semantic similarities are derived from this structure. On the behavioral side, an interaction matrix is enriched with indices describing learner interest, ability, and progress, which are used to construct feature-based collaborative filtering predictions. An ability- and progress-aware fusion coefficient adaptively balances semantic and behavioral signals for each learner. The recommendation process starts from explicit instructional requirements, performs semantic expansion on the knowledge graph, refines candidates using collaborative filtering, and ranks resources using a hybrid scoring strategy. Experiments on the English subset of the MARS dataset compare the proposed model with six baselines (HMM, SAE, FR, BSA, MLP-DNN, and a deep learning recommender) using NDCG, hit rate, coverage, and cross-domain accuracy. Results show that the proposed model achieves superior offline ranking performance and higher system-level coverage. Additional modality-aware and modality-ablation analyses demonstrate robustness across text, video, and interactive resources, as well as under partial modality removal. Importantly, all evaluations are conducted on historical interaction logs, and the reported improvements reflect recommendation quality rather than educational or learning effectiveness.",
+ "themeGuess": [],
+ "found": "2026-10-12T11:37:13",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": "OpenAlex"
+}

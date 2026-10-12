@@ -5,6 +5,28 @@ before harvesting; it is the difference between a thin run and a wasted one.
 
 ---
 
+## Status after the local run of 12 October 2026
+
+The cycle now runs on the reader's own machine. That changes the picture.
+
+| Blocker | State now |
+| --- | --- |
+| 1. Fetch provenance rule in the cloud task | **Still there.** Every API and every constructed URL is refused inside a scheduled cloud run. The local route does not need the fetch tool, so the rule stops blocking the harvest. |
+| 2. Shell egress proxy | **Not relevant** on the local route. Both Crossref and OpenAlex answer from this machine. |
+| 3. ScienceDirect robots block | **Still there**, and it stays. All 10 Elsevier titles are unreachable as full text. The journal watch now sweeps them by ISSN through Crossref, which gives the metadata and often the abstract, so the titles are no longer dark. |
+| 4. Taylor and Francis and SAGE blocks | **Still there.** tandfonline.com and journals.sagepub.com return 403 from this machine too. Crossref covers their metadata by ISSN. |
+| 5. No vault access | **Repaired on the local route.** `tools/vault_notes.py` writes the intake notes into `raw/articles` from this machine. The cloud run still has no file access. |
+| 6. The route that works | **Kept as a fallback.** Web-search a publisher listing page, then fetch it. On the local route Crossref and OpenAlex are better: they give the DOI, the exact date and often the abstract, with no page to parse. |
+
+What this means in practice:
+
+- The journal watch is complete again (20 of 20 titles swept by ISSN on 12 October).
+- The paper search runs on OpenAlex, which needs no key, has no weekly quota, and returns a DOI and an
+  exact date. The 30-search monthly limit of the old tool is gone.
+- ROOTS works again: `api.crossref.org/works/<DOI>` returns the whole reference list (53 of 53 for the
+  first trace).
+- OpenAlex also fills the missing abstracts, so an item can be judged on evidence rather than on a title.
+
 ## 1. Fetch provenance rule (the big one)
 
 **Symptom:** every fetch returns `PROVENANCE_REQUIRED` — "the permission request for this URL was

@@ -1,0 +1,24 @@
+{
+ "id": "bs-3mxb5b4rav22k",
+ "kind": "discourse",
+ "title": "Transactions of the Complex Systems Society (TOCSS) is the official journal of the Complex Systems Society (CSS). The...",
+ "authors": "Bluesky",
+ "venue": "Bluesky",
+ "date": "2026-10-07",
+ "url": "https://bsky.app/profile/css-conference.bsky.social/post/3mxb5b4rav22k",
+ "doi": "",
+ "lang": "",
+ "source": "Bluesky: @css-conference.bsky.social",
+ "run": "2026-10-12",
+ "abstract": "Transactions of the Complex Systems Society (TOCSS) is the official journal of the Complex Systems Society (CSS). The journal is fully open access and does not charge any fees to authors or readers. tocss.cssociety.org/index.php/to...",
+ "themeGuess": [],
+ "found": "2026-10-12T11:37:27",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ }
+}

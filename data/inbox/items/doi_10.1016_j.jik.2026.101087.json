@@ -1,0 +1,27 @@
+{
+ "id": "doi_10.1016_j.jik.2026.101087",
+ "kind": "paper",
+ "title": "Driving environmental performance through eco-innovation: the roles of knowledge sharing, absorptive capacity, and circular supply chain integration under market turbulence",
+ "authors": "Xie, Ma",
+ "venue": "Journal of Innovation & Knowledge",
+ "date": "2026-11",
+ "url": "https://doi.org/10.1016/j.jik.2026.101087",
+ "doi": "10.1016/j.jik.2026.101087",
+ "lang": "en",
+ "source": "Crossref topic: Transdisciplinary research",
+ "run": "2026-10-12",
+ "abstract": "The rapid growth of industry, increased competition, and growing environmental concerns have placed greater pressure on Chinese manufacturing companies to balance economic growth with environmental sustainability. Eco-innovation and circular supply chain practices have been identified as key mechanisms that can help companies minimize environmental damage and remain competitive, particularly during market turbulence (MT). However, empirical understanding remains limited regarding how knowledge-based organizational capabilities influence environmental performance (EP) through these mechanisms. This study examines how absorptive capability (AC), knowledge-sharing climate (KSC), and supply chain collaboration (SCC) affect EP through eco-innovation performance (EIP) and circular supply chain integration (CSCI), as well as the moderating role of MT in the Chinese manufacturing industry. A quantitative, cross-sectional survey design was adopted, with data collected from 350 mid- and senior-level managers in manufacturing companies across major industrial regions in China. Direct, mediating, and moderating relationships were tested using partial least squares structural equation modeling (PLS-SEM), with reliability, validity, and robustness checks applied. The empirical results show that AC, KSC, and SCC positively affect EIP, which in turn positively affects CSCI and, ultimately, EP. EIP also plays a significant mediating role between AC, KSC, SCC, and CSCI. In addition, the moderating effect of MT on the relationship between circular integration and EP was positive but weak. The sequential mediation tests also provided limited support for the pathway through which organizational conditions affect environmental outcomes via eco-innovation and CSCI. This paper contributes to the literature on eco-innovation and the circular economy by introducing a capability-based model that connects knowledge resources, circular supply chains, and EP under MT. Based on context-specific evidence from China, it also explains strategic options that enable companies to improve EP in volatile markets.",
+ "themeGuess": [
+  "td"
+ ],
+ "found": "2026-10-12T11:36:09",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": "OpenAlex"
+}

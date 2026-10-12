@@ -1,0 +1,24 @@
+{
+ "id": "doi_10.1007_s11625-026-01909-6",
+ "kind": "paper",
+ "title": "Key factors of violent natural resource-related conflicts and their implications for post-conflict forest landscape restoration: a systematic review of the resource-conflict nexus using causal network analysis",
+ "authors": "Dawson, Schellens, Vesco",
+ "venue": "Sustainability Science",
+ "date": "2026-10-05",
+ "url": "https://doi.org/10.1007/s11625-026-01909-6",
+ "doi": "10.1007/s11625-026-01909-6",
+ "lang": "",
+ "source": "Journal watch: Sustainability Science",
+ "run": "2026-10-12",
+ "abstract": "Abstract A large body of research has explored linkages between natural resources and peace and conflict dynamics. However, despite progress towards nuanced representations of the resource-conflict nexus, a sufficiently integrated understanding of its complexity remains lacking. This paper applies a complex systems approach to explore direct and indirect causal relationships characterising this nexus. We conduct a systematic meta-analysis of 14 literature reviews on resources and organised violent conflict from the past 30 years, identifying a single integrated network comprising 329 factors and 1288 unique causal relationships. This network provides a holistic understanding of the current scientific discourse on resource-conflict relationships and represents a first step towards a systemic understanding of the drivers of natural resource-related conflicts for effective conflict prevention and peacebuilding. Network analysis identified 39 key factors at the core of the nexus, with political/institutional and economic factors accounting for 66% of nodes. Our analysis reveals a tendency to oversimplify linkages between natural resources and conflict, with over 90% of key factors directly linked to violent conflict. We interpret these findings through the lens of post-conflict forest landscape restoration (FLR), an emerging field that operates at the intersection of governance, livelihood, environmental, and social dynamics. The findings highlight the need to further investigate demographic, social/cultural, technological, and biophysical factors in resource-related conflicts and call for a more integrated understanding of human environment interactions across resource-conflict systems.",
+ "themeGuess": [],
+ "found": "2026-10-12T11:36:31",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ }
+}

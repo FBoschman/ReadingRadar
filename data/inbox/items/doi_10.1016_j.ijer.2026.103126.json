@@ -1,0 +1,25 @@
+{
+ "id": "doi_10.1016_j.ijer.2026.103126",
+ "kind": "paper",
+ "title": "The effect of Lexical-oriented vocabulary instruction on seventh-grade students' use of vocabulary in writing",
+ "authors": "Can, Sonkaya",
+ "venue": "International Journal of Educational Research",
+ "date": "2027",
+ "url": "https://doi.org/10.1016/j.ijer.2026.103126",
+ "doi": "10.1016/j.ijer.2026.103126",
+ "lang": "en",
+ "source": "Journal watch: International Journal of Educational Research",
+ "run": "2026-10-12",
+ "abstract": "Background Effective vocabulary use lies at the heart of successful writing, yet many students struggle to use words accurately and appropriately in context. Purpose This study examined the effect of Lexical-oriented vocabulary instruction on the lexical quality of seventh-grade students' writing. Method A quasi-experimental pre-test–post-test design with a control group was used, involving 80 seventh-grade students (39 experimental, 41 control). The experimental group received eight weeks of Lexical- oriented instruction, while the control group followed the regular Turkish language curriculum. Students' informative texts were evaluated using the vocabulary-use dimension of the Informative Text Writing Achievement Scale (Hamzadayı & Dölek, 2022). Results The experimental group significantly outperformed the control group on post-test vocabulary-use scores, even after pre-test differences were statistically controlled for, with the largest gains in contextual word use, topic-specific terminology, and the use of collocations and institutionalised expressions. Conclusion Lexical- oriented instruction was associated with a meaningful improvement in the lexical quality of two seventh-grade classes' writing relative to a comparison class; because the experimental and control classes were taught by different instructors and were not randomly assigned, these findings should be read as preliminary evidence consistent with the potential value of integrating lexical chunks and collocations into first-language vocabulary instruction, rather than as confirmatory evidence of the approach's effectiveness on its own.",
+ "themeGuess": [],
+ "found": "2026-10-12T11:37:23",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": "OpenAlex"
+}

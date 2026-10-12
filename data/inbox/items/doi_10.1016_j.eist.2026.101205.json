@@ -1,0 +1,25 @@
+{
+ "id": "doi_10.1016_j.eist.2026.101205",
+ "kind": "paper",
+ "title": "Enhancing the social innovation ecosystem: university-led incubation pathways for rural sustainability",
+ "authors": "Williams, Lam, Law",
+ "venue": "Environmental Innovation and Societal Transitions",
+ "date": "2027-01",
+ "url": "https://doi.org/10.1016/j.eist.2026.101205",
+ "doi": "10.1016/j.eist.2026.101205",
+ "lang": "en",
+ "source": "Journal watch: Environmental Innovation and Societal Transitions",
+ "run": "2026-10-12",
+ "abstract": "Universities are increasingly called upon to contribute to sustainability transitions, yet their roles as active intermediaries within social innovation ecosystems remain under-theorised. This study examines how universities can incubate social innovations that advance rural sustainability. Using an exploratory, theory-building case study, we draw on interviews, documents and observational materials from multiple rural revitalisation initiatives led by The University of Hong Kong to identify how incubation processes configure relationships, mobilise resources and reshape institutional environments. Our analysis reveals three distinct incubation pathways, stewardship, platforms and communities, which differ in their locus of intervention, the types of social capital they generate and the institutional roles the university performs. Stewardship initiatives cultivate bonding capital by transforming individuals into rural change agents through experiential learning and place-based engagement. Platform initiatives build bridging capital by providing shared infrastructures that connect rural and urban actors, lowering market and regulatory barriers. Community-focused initiatives mobilise linking capital, enabling collective governance arrangements and facilitating negotiation across local and institutional boundaries. Synthesising these findings, we develop a configurational framework of university supported social innovation incubation that elucidates how these pathways operate through different forms of institutional work across community and institutional boundaries. The framework demonstrates how universities, when locally embedded and institutionally trusted, can orchestrate multiple, complementary pathways that cumulatively reshape social innovation ecosystems. We discuss implications for sustainability transitions scholarship and for designing context-sensitive incubation strategies in underserved or peripheral regions.",
+ "themeGuess": [],
+ "found": "2026-10-12T11:37:01",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": "OpenAlex"
+}

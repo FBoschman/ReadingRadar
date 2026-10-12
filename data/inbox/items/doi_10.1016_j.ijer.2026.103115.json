@@ -1,0 +1,25 @@
+{
+ "id": "doi_10.1016_j.ijer.2026.103115",
+ "kind": "paper",
+ "title": "Classroom physical activity breaks and learning engagement in Chinese primary schools: A quasi-experimental study",
+ "authors": "Li, Zhou, Zhou et al.",
+ "venue": "International Journal of Educational Research",
+ "date": "2027",
+ "url": "https://doi.org/10.1016/j.ijer.2026.103115",
+ "doi": "10.1016/j.ijer.2026.103115",
+ "lang": "en",
+ "source": "Journal watch: International Journal of Educational Research",
+ "run": "2026-10-12",
+ "abstract": "Background Learning engagement is critical in primary education. This study examined the association between Classroom Physical Activity Breaks (CPAB) and learning engagement. Methods A class-level quasi-experimental pretest–posttest control-group design was used in Grade 4 mathematics classes. Based on timetable and organizational considerations, the school administration nonrandomly allocated two intact classes to the CPAB condition and two to the usual-instruction control condition. The intervention lasted eight weeks, with CPAB delivered twice daily during mathematics lessons for approximately 2–3 min per session. Individual-level repeated-measures general linear models and analyses of covariance (ANCOVAs), adjusted for baseline scores, were used as the primary analyses. Results Learning engagement scores in the experimental group were significantly higher at post-test than at pre-test (p < 0.001). After adjusting for baseline, post-test engagement was significantly higher in the experimental group than in the control group (ΔM = 6.91, p < 0.001), with a standardised effect size of Cohen’s d ≈ 0.62. No significant Group × Gender interaction was observed, indicating comparable associations across genders. Conclusions In Chinese primary school classrooms, CPAB were associated with higher student learning engagement, providing preliminary evidence that participation in CPAB was associated with higher learning engagement in Chinese primary school classrooms.",
+ "themeGuess": [],
+ "found": "2026-10-12T11:37:23",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": "OpenAlex"
+}

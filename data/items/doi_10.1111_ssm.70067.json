@@ -1,0 +1,21 @@
+{
+ "kind": "paper",
+ "title": "Developing Shared Network Vision in a Rural STEM Research‐Practice Partnership",
+ "authors": "Emilie Hancock, Allyson Rogan‐Klyve, Brent Hancock et al.",
+ "venue": "School Science and Mathematics",
+ "date": "2026-10-09",
+ "url": "https://doi.org/10.1111/ssm.70067",
+ "doi": "10.1111/ssm.70067",
+ "themes": [
+  "td",
+  "eco"
+ ],
+ "score": 3,
+ "why": "Asks how a research-practice partnership builds and keeps a shared vision in its early years. That is the practical question behind your living-lab work.",
+ "caveat": "One rural network in the United States. The findings are bound to that context.",
+ "lang": "en",
+ "wildcard": false,
+ "source": "OpenAlex: Participatory action research",
+ "status": "new",
+ "run": "2026-10-12"
+}

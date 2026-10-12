@@ -1,0 +1,27 @@
+{
+ "id": "doi_10.1016_j.compbiolchem.2026.109441",
+ "kind": "paper",
+ "title": "Integrating hypergraph representation learning and gradient-boosted classification for multi-omics glioblastoma gene prioritization: A multi-stage learning framework",
+ "authors": "Nowsheena, Qureshi",
+ "venue": "Computational Biology and Chemistry",
+ "date": "2027-02",
+ "url": "https://doi.org/10.1016/j.compbiolchem.2026.109441",
+ "doi": "10.1016/j.compbiolchem.2026.109441",
+ "lang": "en",
+ "source": "Crossref topic: Learning ecosystems",
+ "run": "2026-10-12",
+ "abstract": "Cancer continues to be a significant worldwide health concern, mostly resulting from modifications in genetic material at the molecular level. The research introduces a hybrid system that integrates raw gene-level multi-omics features with pathway-derived hypergraph embeddings to prioritize glioblastoma genes. The proposed pipeline aggregates gene-level expression, mutation, and copy-number features; constructs a gene-pathway hypergraph from curated pathway memberships; and trains an attention-based hypergraph encoder (HAGNet) to produce structure-aware gene embeddings, evaluated by an XGBoost classifier. We assess the framework using stratified 5-fold cross-validation, reporting ROC-AUC, PR-AUC, Precision@K, and Recall@K at K=50, 100, and 300. Using only raw multi-omics features, the model achieved an ROC-AUC of 0.611 ± 0.020 and a PR-AUC of 0.095 ± 0.017, whereas HAGNet embeddings improved these metrics to 0.768 ± 0.021 and 0.202 ± 0.021, respectively. The integrated model achieved superior overall performance, with ROC-AUC of 0.777 ± 0.021 and PR-AUC of 0.209 ± 0.030, demonstrating that raw omics signals and hypergraph-based structural representations are synergistic. Among the evaluated classifiers, HAGNet + XGBoost achieved the strongest overall discrimination, with ROC-AUC and PR-AUC of 0.7833 ± 0.0102 and 0.2180 ± 0.0122, respectively, outperforming Random Forest, SVM, and Decision Tree. We additionally delineate robustness, ranking, pathway enrichment, and external validation analyses to substantiate biological interpretation. The findings indicate that pathway-aware hypergraph representation learning is a practical and effective enhancement to traditional gene-level features for TCGA-GBM gene prioritization.",
+ "themeGuess": [
+  "eco"
+ ],
+ "found": "2026-10-12T11:36:05",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": "OpenAlex"
+}

@@ -1,0 +1,25 @@
+{
+ "id": "doi_10.1016_j.landurbplan.2026.105786",
+ "kind": "paper",
+ "title": "Conditional cooling from large-scale urban afforestation: ecosystem functioning and planning implications",
+ "authors": "Feng, Chen, Gu et al.",
+ "venue": "Landscape and Urban Planning",
+ "date": "2027-02",
+ "url": "https://doi.org/10.1016/j.landurbplan.2026.105786",
+ "doi": "10.1016/j.landurbplan.2026.105786",
+ "lang": "en",
+ "source": "Journal watch: Landscape and Urban Planning",
+ "run": "2026-10-12",
+ "abstract": "Large-scale urban afforestation is increasingly promoted as a Nature-Based Solution for reducing urban heat. Yet afforestation does not cool cities uniformly, and the conditions under which it delivers sustained thermal benefits remain poorly understood. This uncertainty limits the ability of planners to design and manage effective afforestation strategies. Using the Beijing Plain Area Afforestation Programme (BPAP) as a large-scale natural experiment, we combined satellite observations, a paired-site framework, and surface-energy-balance analysis to investigate how thermal responses to afforestation evolved between 2015 and 2023. Most afforested sites experienced progressive cooling, but approximately 37% followed warming trajectories. Cooling developed gradually through a maturation process and was consistently associated with increasing latent heat flux, whereas warming sites exhibited limited improvement in evapotranspirative functioning over time. These contrasting trajectories indicate that thermal performance depends not simply on tree establishment, but on the capacity of afforested ecosystems to develop and sustain key biophysical functions. Our findings indicate that cooling from large-scale urban afforestation is conditional rather than universal. They provide a transferable framework for landscape planning by shifting attention from tree-cover targets toward ecosystem performance, long-term monitoring, and site-specific management under increasing climatic and hydrological constraints.",
+ "themeGuess": [],
+ "found": "2026-10-12T11:37:17",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": "OpenAlex"
+}

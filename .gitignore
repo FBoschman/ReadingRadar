@@ -20,3 +20,6 @@ venv/
 # Local scratch files
 scratch/
 tmp/
+
+# Run logs of the weekly task
+logs/

@@ -1,0 +1,25 @@
+{
+ "id": "doi_10.1016_j.geoforum.2026.104855",
+ "kind": "paper",
+ "title": "From elimination to utilisation: the stabilisation of waste incineration and the transformation of mixed municipal waste in Finland",
+ "authors": "Pyyhtinen",
+ "venue": "Geoforum",
+ "date": "2027-01",
+ "url": "https://doi.org/10.1016/j.geoforum.2026.104855",
+ "doi": "10.1016/j.geoforum.2026.104855",
+ "lang": "en",
+ "source": "Journal watch: Geoforum",
+ "run": "2026-10-12",
+ "abstract": "Drawing on parliamentary debates and media coverage supplemented by documentary materials, the article traces the stabilisation of waste incineration as the predominant method for treating mixed municipal waste in Finland from the early 2000s to the present. It shows how waste incineration moved from controversy to normalisation in Finland during the 2010s, only to become contested again in the 2020s, particularly due to increasing problematisation of its sustainability at the EU level. The article argues that the transition of Finland’s waste infrastructure from landfilling to incineration enacted a fundamental transformation in the ontology and valuation of mixed municipal waste, as it came to be progressively configured not as unwanted residue but as a combustible, valuable, energy-bearing resource. By reconstructing how the understandings of both incineration and waste were transformed, the article contributes to debates in discard studies and STS on the making of waste, value and socio-technical order, illuminating how waste infrastructures become stabilised, how certain waste ontologies are normalised at the expense of others and how technologies of disposal may become reframed as technologies of resource recovery and utilisation. The Finnish case also demonstrates how difficult it may be to disengage from a socio-technical arrangement once it has become stabilised and infrastructurally embedded, even when that arrangement becomes dependent on the continued generation of the very waste it was intended to eliminate.",
+ "themeGuess": [],
+ "found": "2026-10-12T11:37:20",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": "OpenAlex"
+}

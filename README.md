@@ -41,16 +41,22 @@ The Health section computes its checks from the data. It does not call any servi
 
 ## The state that the app reports
 
-The export is from 12 October 2026. The app opens with the verdict **the radar runs degraded**.
+The export is from 12 October 2026, from a catch-up run on the reader's own machine. The app opens
+with the verdict **the radar runs degraded**, because the last run of record reported two failures.
 
-- Two sources failed in the last run: Crossref and Bluesky. Both failed for the second week in a row.
-- The cause is a fetch rule, not the sources: in a scheduled run the fetch tool loads a URL only when
-  that URL appeared word for word in a search result. No API and no constructed URL passes this rule.
-- Journal watch: 1 title swept, 3 partial, 16 not swept, of 20 titles that are switched on.
-- Triage: 1 keep, 0 maybe, 10 skip, 123 new. 11 of 134 items carry a decision from the reader.
-- 70 items at score 4 or 5 have no lineage document. The runbook allows 5 traces in a run.
-- The vault handover does not work: a cloud run has had no file access to the reader's machine since
-  5 October 2026.
+- Two sources failed in the cloud run of 12 October: Crossref and Bluesky.
+- The cause is a fetch rule, not the sources: in a scheduled cloud run the fetch tool loads a URL only
+  when that URL appeared word for word in a search result. No API and no constructed URL passes it.
+- **The cycle now runs on this machine, where every source answers.** The catch-up run of 12 October
+  swept 20 of 20 journals by ISSN, kept 28 of 209 candidates, filled 37 missing abstracts from
+  OpenAlex, completed one lineage document and wrote 26 intake notes into the vault.
+- Waiting for the reader: 181 candidates and 5 lineage drafts in `data/inbox/`, and 123 items with no
+  triage decision.
+- Still broken: the full text of ScienceDirect, Taylor and Francis and SAGE. Crossref and OpenAlex
+  cover their metadata. See `BLOCKERS.md` for the current state of each blocker.
+
+The dashboard reads the state from the data, so its Health section shows the picture of the last run
+of record. After the next cycle it reads the new one.
 
 ## How to update the data
 

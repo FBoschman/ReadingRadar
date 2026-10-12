@@ -1,0 +1,26 @@
+{
+ "id": "doi_10.54864_planarch.1959890",
+ "kind": "paper",
+ "title": "Process-Based Assessment of Creativity in Architectural Design Education: A Studio Study Based on Representational Tools",
+ "authors": "Şen, Yılmaz",
+ "venue": "PLANARCH - Design and Planning Research",
+ "date": "2026-10-10",
+ "url": "https://doi.org/10.54864/planarch.1959890",
+ "doi": "10.54864/planarch.1959890",
+ "lang": "",
+ "source": "Crossref topic: Design-based research",
+ "run": "2026-10-12",
+ "abstract": "Architectural design education constitutes a multi-layered learning environment in which students comprehend design problems, generate ideas, develop decisions, and externalize their thoughts through representational tools. This study examines how the stage-sensitive use of traditional and digital representational tools makes the creative development of architecture students visible through a process-based assessment framework. Designed as a small-scale exploratory case study, the research is based on a 16-week design studio conducted with second-year architecture students. A mixed-methods approach was adopted, combining pre-test and post-test applications, weekly process-monitoring records, and qualitative studio observations. Creativity was examined through cognitive, architectural, and representational dimensions, and students’ development was analyzed using a process assessment framework developed for the study. The findings indicate that all students demonstrated creative development by the end of the studio process, although its degree, quality, and continuity varied according to their use of representational tools. Students who used models consistently and holistically showed more systematic progress in conceptual continuity, representational diversity, and project development, while those who used representational tools mainly for final presentation displayed more limited development. The study argues that representational tools should be considered pedagogical components that make design thinking visible, traceable, and discussable. Given its single-studio and exploratory scope, the study does not seek generalizable causal results; instead, it proposes an applicable framework for monitoring and assessing creativity in architectural design education.",
+ "themeGuess": [
+  "dbr"
+ ],
+ "found": "2026-10-12T11:36:14",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ }
+}

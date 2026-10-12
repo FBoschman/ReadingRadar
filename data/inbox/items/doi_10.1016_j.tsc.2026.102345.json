@@ -1,0 +1,25 @@
+{
+ "id": "doi_10.1016_j.tsc.2026.102345",
+ "kind": "paper",
+ "title": "Examining primary students’ mathematical communication through the lens of de Bono’s practical thinking processes",
+ "authors": "Quane",
+ "venue": "Thinking Skills and Creativity",
+ "date": "2027-03",
+ "url": "https://doi.org/10.1016/j.tsc.2026.102345",
+ "doi": "10.1016/j.tsc.2026.102345",
+ "lang": "en",
+ "source": "Journal watch: Thinking Skills and Creativity",
+ "run": "2026-10-12",
+ "abstract": "Mathematical thinking is a complex, multi-faceted process that typically involves both intra-personal and interpersonal communication. While it has been described as messy and difficult, it can also show growth and insight into conceptual understanding and knowing. This paper explores the application of Edward de Bono's practical thinking processes to examine the mathematical thinking processes that primary school students use. de Bono’s perspective is relevant as it foregrounds thinking as an active developmental process, providing the metalanguage to describe children’s communication of their mathematical thinking. The research was conducted in a small regional South Australian school where the entire school population (n=36) was divided into two classes. The two-phase research first used participant (n=23) drawings, written descriptions, and interviews about their drawings to document retrospective accounts of the processes students used to engage and to communicate their mathematical thinking. Analysis of the data from this phase was then used to inform subsequent class observations (n=20) conducted to identify the processes of practical thinking used in-the-moment during mathematical learning experiences. By applying the foundations of de Bono's practical thinking, this paper offers insights into the potential benefits of integrating the tenets of practical thinking into mathematics education. The analysis identifies how primary students engage and use connect-up thinking, carry-on thinking, and porridge words as core processes which facilitate the communication and development of their mathematical understanding. Of note is the emergence of different forms of connect-up thinking, and students’ creative use of porridge words.",
+ "themeGuess": [],
+ "found": "2026-10-12T11:37:07",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": "OpenAlex"
+}

@@ -1,0 +1,27 @@
+{
+ "id": "doi_10.1016_j.jhtm.2026.101550",
+ "kind": "paper",
+ "title": "Lost in translation? How multi-ethnic cultural elements shape value co-creation in heritage hotels",
+ "authors": "Yu",
+ "venue": "Journal of Hospitality and Tourism Management",
+ "date": "2026-12",
+ "url": "https://doi.org/10.1016/j.jhtm.2026.101550",
+ "doi": "10.1016/j.jhtm.2026.101550",
+ "lang": "",
+ "source": "Crossref topic: Learning ecosystems",
+ "run": "2026-10-12",
+ "abstract": "",
+ "themeGuess": [
+  "eco"
+ ],
+ "found": "2026-10-12T11:36:05",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": ""
+}

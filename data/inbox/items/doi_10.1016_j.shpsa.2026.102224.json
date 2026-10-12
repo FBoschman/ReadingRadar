@@ -1,0 +1,27 @@
+{
+ "id": "doi_10.1016_j.shpsa.2026.102224",
+ "kind": "paper",
+ "title": "Patient's knowledge, doctor's ignorance: The production of knowledge about myalgic encephalomyelitis",
+ "authors": "de Canson",
+ "venue": "Studies in History and Philosophy of Science",
+ "date": "2026-12",
+ "url": "https://doi.org/10.1016/j.shpsa.2026.102224",
+ "doi": "10.1016/j.shpsa.2026.102224",
+ "lang": "en",
+ "source": "Crossref topic: Transdisciplinary research",
+ "run": "2026-10-12",
+ "abstract": "It is usually assumed that patient and doctor know strictly different things: the patient knows the phenomenological aspects of their illness, and the doctor knows its medical aspects. I present a case study, that of myalgic encephalomyelitis, wherein, due to severely dysfunctional institutional knowledge production and transmission mechanisms, the medical aspects of the illness are on the whole better understood by sick people than by their doctors. Indeed, lay scientists within the patient community disseminate and produce science on their disease, ensuring that patients as a whole have reliable knowledge about their disease. By contrast, systemically produced and systemically maintained ignorance on the part of medical professionals is the norm, and may be beyond the specific case study I present.",
+ "themeGuess": [
+  "td"
+ ],
+ "found": "2026-10-12T11:36:09",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": "OpenAlex"
+}

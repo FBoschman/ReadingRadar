@@ -1,0 +1,26 @@
+{
+ "id": "doi_10.59211_mjpjetl.v4i2.423",
+ "kind": "paper",
+ "title": "The Dynamics of Community Mobilization and Participation in Strengthening Ecological Awareness",
+ "authors": "Mulyono, Komar, Saepudin",
+ "venue": "Journal of Education and Teaching Learning",
+ "date": "2026-10-21",
+ "url": "https://doi.org/10.59211/mjpjetl.v4i2.423",
+ "doi": "10.59211/mjpjetl.v4i2.423",
+ "lang": "",
+ "source": "Crossref topic: Participatory action research",
+ "run": "2026-10-12",
+ "abstract": "Environmental issues in Cihampelas Village, West Bandung Regency, are related to the accumulation of household waste, the growth of water hyacinth, sedimentation, and the lack of optimal community involvement in preserving the ecosystems of the Citarum River and Saguling Reservoir. These conditions indicate that ecological problems are not merely technical in nature, but are related to public awareness, collective capacity, and community participation. This study is grounded in the perspectives of social mobilization and participatory learning, which position communities as agents of change. The study employs a qualitative approach using the Participatory Action Research (PAR) method through cycles of reflection, planning, action, and evaluation. Data were collected through participatory observation, interviews, focus group discussions, and documentation. The research findings indicate that the PAR process fosters increased ecological awareness, community engagement, the strengthening of social networks, and the emergence of collective action in environmental management. The study concludes that participation-based social mobilization can transform environmental awareness into more sustainable collective practices.",
+ "themeGuess": [
+  "par"
+ ],
+ "found": "2026-10-12T11:36:17",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ }
+}

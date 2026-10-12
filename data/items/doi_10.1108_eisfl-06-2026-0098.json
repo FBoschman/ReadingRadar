@@ -1,0 +1,21 @@
+{
+ "kind": "paper",
+ "title": "Crisis-induced hybrid learning, cognitive offloading, and generative AI reliance among Pakistani CS undergraduates",
+ "authors": "Ahmed, Khan, Fatima et al.",
+ "venue": "Education Innovations: Systems and Future Learning",
+ "date": "2026-10-06",
+ "url": "https://doi.org/10.1108/eisfl-06-2026-0098",
+ "doi": "10.1108/eisfl-06-2026-0098",
+ "themes": [
+  "ai",
+  "pc"
+ ],
+ "score": 3,
+ "why": "A rare account of GenAI offloading under an externally imposed crisis, when Pakistan mandated online teaching in 2026. It gives the offloading literature a context outside the usual coursework setting.",
+ "caveat": "No pre-crisis baseline and no control group, as the authors state themselves, so the sizes of the effects are not interpretable.",
+ "lang": "en",
+ "wildcard": false,
+ "source": "Crossref topic: AI & curriculum",
+ "status": "new",
+ "run": "2026-10-12"
+}

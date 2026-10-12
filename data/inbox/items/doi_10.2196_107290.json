@@ -1,0 +1,26 @@
+{
+ "id": "doi_10.2196_107290",
+ "kind": "paper",
+ "title": "Beyond AI Literacy: Understanding Health Care Workforce AI Enablement in the Generative AI Era",
+ "authors": "Liu, Ko",
+ "venue": "Journal of Medical Internet Research",
+ "date": "2026-10-05",
+ "url": "https://doi.org/10.2196/107290",
+ "doi": "10.2196/107290",
+ "lang": "",
+ "source": "Crossref topic: AI & curriculum",
+ "run": "2026-10-12",
+ "abstract": "Abstract The rapid diffusion of generative AI is transforming health care delivery, education, administration, and research. In response, health care organizations have invested heavily in AI literacy initiatives and workforce development programs. Existing frameworks primarily focus on whether health care professionals understand AI and whether they can engage with AI effectively. However, health care practice increasingly reveals that individuals with similar levels of AI literacy and AI engagement often contribute very differently to AI-enabled work and organizational adoption. Some professionals primarily use AI to improve their own work, whereas others facilitate AI adoption, coordinate stakeholders, and integrate AI into routine practice. This observation suggests that current perspectives may overlook an important dimension of workforce AI enablement. In this Viewpoint, we argue that AI literacy and AI engagement alone provide an incomplete explanation of how health care organizations realize the benefits of AI. Drawing upon literature from AI literacy, fluency theory, human-AI interaction, innovation diffusion, implementation science, and health care workforce development, we propose the health care workforce AI enablement matrix (HWAEM). HWAEM conceptualizes workforce AI enablement through 2 complementary capabilities: AI fluency and AI harnessing. AI fluency refers to the capability to engage with AI effectively, appropriately, and responsibly across professional contexts, whereas AI harnessing refers to the capability to identify opportunities for AI-enabled improvement, mobilize stakeholders, facilitate adoption, and integrate AI into collective work practices. The interaction of these capabilities generates 4 workforce profiles: AI novices, AI practitioners, AI facilitators, and AI leaders. Through HWAEM, this Viewpoint argues that health care workforce AI enablement is better understood through the complementary capabilities of AI fluency and AI harnessing than through AI literacy and AI engagement alone. We illustrate how these profiles manifest in health care practice and discuss implications for workforce development and AI implementation. HWAEM offers a new perspective for understanding health care workforce preparedness in the generative AI era and provides a foundation for future empirical research.",
+ "themeGuess": [
+  "ai"
+ ],
+ "found": "2026-10-12T11:36:20",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ }
+}

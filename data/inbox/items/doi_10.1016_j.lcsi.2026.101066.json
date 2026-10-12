@@ -1,0 +1,25 @@
+{
+ "id": "doi_10.1016_j.lcsi.2026.101066",
+ "kind": "paper",
+ "title": "Reframing picture book design for early mathematics: Integrating culture, cognition, and ethical insights from an indigenous context",
+ "authors": "Salsa, Taverna",
+ "venue": "Learning, Culture and Social Interaction",
+ "date": "2026-12",
+ "url": "https://doi.org/10.1016/j.lcsi.2026.101066",
+ "doi": "10.1016/j.lcsi.2026.101066",
+ "lang": "en",
+ "source": "Journal watch: Learning, Culture and Social Interaction",
+ "run": "2026-10-12",
+ "abstract": "This article presents a research-based design model for culturally grounded mathematics resources, developed through the creation of two number picture books in collaboration with a Wichi Indigenous community from the Argentine Gran Chaco region. The model integrates three complementary dimensions: (a) a cognitive-cultural framework that views learning and development as emerging from the dynamic relationships among culture, cognition, and language; (b) the systematic use of linguistic, developmental, and ethnographic evidence to inform pedagogical design decisions; and (c) a strong ethical commitment to participatory processes that position community members as co-creators of educational resources. By analyzing the conceptual, technical, and ethical decisions involved in the design process, we illustrate a research-to-design pathway for translating local knowledge systems, vernacular language practices, and culturally meaningful forms of participation into mathematics learning materials. The resulting resources are conceived as mediational artifacts designed to connect everyday and school-based early numeracy practices. More broadly, the proposed model may offer guidance for the co-construction of culturally grounded pedagogical resources in Indigenous, minoritized language, and other culturally diverse educational contexts.",
+ "themeGuess": [],
+ "found": "2026-10-12T11:37:11",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": "OpenAlex"
+}

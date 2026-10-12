@@ -1,0 +1,25 @@
+{
+ "id": "doi_10.1016_j.geoforum.2026.104858",
+ "kind": "paper",
+ "title": "Volumetric Waste: Containing Polymorphous Plastic in Bangkok’s Circular Economies",
+ "authors": "Meyer",
+ "venue": "Geoforum",
+ "date": "2027-01",
+ "url": "https://doi.org/10.1016/j.geoforum.2026.104858",
+ "doi": "10.1016/j.geoforum.2026.104858",
+ "lang": "en",
+ "source": "Journal watch: Geoforum",
+ "run": "2026-10-12",
+ "abstract": "This paper examines how volumetric reasoning permeates everyday practices in Bangkok’s circular economies. While circular economies calculate, value, and contain plastic waste, mobile waste flows are hidden from view and often evade regulation. As a result, circular economy initiatives struggle to account for low-value waste, microplastics, and chemicals that proliferate through land, water, air, and blood in bodies. In these instances, waste travels and transforms volumetrically without a traceable latitude and longitude. Similarly, the actual dimensions of plastic objects impact their ability to be valued in the circular economy. Drawing on seventeen months of ethnographic fieldwork in Bangkok, Thailand, this paper documents how circular economy practitioners manage waste that takes on new materialities as it moves through plastic circularity loops. Nonstate waste practitioners invoke volumetric reasoning as they grapple with circular economy solutions (e.g., recovering, repurposing, and upcycling plastics). My argument is twofold: first, I argue that practitioners’ everyday volumetric practices expose the limits of formal circular economy policy. Second, I argue that volumetric reasoning gives practitioners a set of techniques for reclaiming agency over the everyday management of waste. By attending to commonplace yet novel spatial dimensions of plastic circularity, this paper contributes to emerging scholarship at the intersection of political ecology and volumetric analyses of plastic pollution in Asia.",
+ "themeGuess": [],
+ "found": "2026-10-12T11:37:20",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": "OpenAlex"
+}

@@ -1,0 +1,27 @@
+{
+ "id": "doi_10.1080_17475759.2026.2741081",
+ "kind": "paper",
+ "title": "Addressing the Knowledge to Practice Gap in Cultural Safety Training Among Medical Students: The Beading Cultural Safety Project",
+ "authors": "Lana Ray, Jamie Thompson",
+ "venue": "Journal of Intercultural Communication Research",
+ "date": "2026-10-05",
+ "url": "https://doi.org/10.1080/17475759.2026.2741081",
+ "doi": "10.1080/17475759.2026.2741081",
+ "lang": "en",
+ "source": "OpenAlex: Participatory action research",
+ "run": "2026-10-12",
+ "abstract": "Indigenous ways of knowing and doing are well-situated to engage future health service providers in cultural safety, yet there has been limited research in this area. This paper reports findings from an Indigenous participatory research project exploring the impact of beadwork on the knowledge to practice gap of cultural safety training. Interviews and a focus group with medical students found that the beadwork supported positive client interactions, fostered responsibility, and heightened cultural safety awareness. Upon application of the Behavior Change Wheel, the study identified beadwork as a complex multi-modal behavior change intervention, encouraging further use for cultural safety training interventions.",
+ "themeGuess": [
+  "par"
+ ],
+ "found": "2026-10-12T11:37:24",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "openalex": "https://openalex.org/W7220362845"
+}

@@ -1,0 +1,25 @@
+{
+ "id": "doi_10.1016_j.futures.2026.103933",
+ "kind": "paper",
+ "title": "Imagineering urban waterscapes: The cultural and political spectacle of floodplain and riverfront development in Lucknow, India",
+ "authors": "Mollinga, Deekshit, Dutta",
+ "venue": "Futures",
+ "date": "2026-12",
+ "url": "https://doi.org/10.1016/j.futures.2026.103933",
+ "doi": "10.1016/j.futures.2026.103933",
+ "lang": "",
+ "source": "Journal watch: Futures",
+ "run": "2026-10-12",
+ "abstract": "",
+ "themeGuess": [],
+ "found": "2026-10-12T11:36:55",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": ""
+}

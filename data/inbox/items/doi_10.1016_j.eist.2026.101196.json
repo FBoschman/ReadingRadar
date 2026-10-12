@@ -1,0 +1,25 @@
+{
+ "id": "doi_10.1016_j.eist.2026.101196",
+ "kind": "paper",
+ "title": "Resources reconsidered: A network perspective on multi-system interactions in the underground",
+ "authors": "Pakizer, Sierro, Löhr",
+ "venue": "Environmental Innovation and Societal Transitions",
+ "date": "2027-01",
+ "url": "https://doi.org/10.1016/j.eist.2026.101196",
+ "doi": "10.1016/j.eist.2026.101196",
+ "lang": "en",
+ "source": "Journal watch: Environmental Innovation and Societal Transitions",
+ "run": "2026-10-12",
+ "abstract": "Due to growing resource demands in sustainability transitions, multi-system interactions (MSI) increasingly extend into extreme environments, such as the deep sea, outer space, and the underground, which harbour vast but largely untapped resource reservoirs. Access to these resources drives new interactions among systems, yet MSI research has paid limited attention to how the pursuit of these resources transforms sectoral dynamics and redefines system boundaries. We address this gap conceptually and empirically. Conceptually, we develop a resource typology distinguishing place-bound from transportable and renewable from finite resources. We argue that these material properties shape whether interactions between systems tend towards symbiosis or competition. Empirically, we investigate the underground as one such environment using 25 expert interviews, Social Network Analysis, and two in-depth case studies of interactions among the energy, mobility, water, and carbon management systems in Switzerland. Our findings show that underground resources are more often associated with conflict than synergy, largely due to finite availability and regulatory constraints. Groundwater emerges as the most conflict-prone resource in the network, given its strict regulatory protection, whereas transportation infrastructure and pipelines display the greatest potential for collaboration. The case studies further illustrate how regulatory uncertainty constrains symbiotic arrangements despite technical feasibility for resource flows. System entanglers attempt to bridge boundaries and enable collaboration but face institutional barriers that hinder system couplings. Our approach of combining network analysis with case studies provides a practical tool for identifying intervention points for symbiosis in complex multi-system contexts, offering insights for integrated resource governance and sustainable management.",
+ "themeGuess": [],
+ "found": "2026-10-12T11:37:01",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": "OpenAlex"
+}

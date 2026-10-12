@@ -1,0 +1,25 @@
+{
+ "id": "doi_10.1016_j.ijer.2026.103109",
+ "kind": "paper",
+ "title": "Understanding the policy–practice gap in early childhood health education: A multi-layer governance analysis across five countries",
+ "authors": "Hesari, Ayati, Shokohi Fard et al.",
+ "venue": "International Journal of Educational Research",
+ "date": "2027",
+ "url": "https://doi.org/10.1016/j.ijer.2026.103109",
+ "doi": "10.1016/j.ijer.2026.103109",
+ "lang": "en",
+ "source": "Journal watch: International Journal of Educational Research",
+ "run": "2026-10-12",
+ "abstract": "The policy–practice gap in early childhood health education is not simply a consequence of weak implementation; rather, it emerges from misalignments among policy coherence, institutional capacity, and delivery structures. Using a qualitative comparative design and a directed content analysis approach, this study examines how this gap is produced and sustained across five educational systems—Finland, Singapore, Ontario (Canada), Türkiye, and Iran. These contexts represent a spectrum of governance arrangements, enabling a systematic comparison of structural differences shaping implementation. Findings show that the gap widens when coherent policy frameworks are not matched by adequate institutional capacity or operational guidance. Finland and Singapore display the lowest misalignment due to clear operational standards, continuous professional development, and integrated monitoring. Ontario, despite having robust conceptual frameworks, exhibits fragmented implementation because of the absence of unified quantitative standards. Iran and Türkiye show the highest levels of misalignment, driven by limited teacher training, weak family engagement mechanisms, and the lack of clear operational guidelines. By introducing the concept of the Systemic Misalignment Gap (SMG), this study offers an analytical lens for understanding and comparing the structural roots of the policy–practice gap. The IMHEG framework provides a tool for designing more coherent and implementable early childhood health education policies.",
+ "themeGuess": [],
+ "found": "2026-10-12T11:37:23",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": "OpenAlex"
+}

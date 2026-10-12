@@ -1,0 +1,25 @@
+{
+ "id": "doi_10.1016_j.caeai.2026.100663",
+ "kind": "paper",
+ "title": "A hybrid reasoning framework for artificial intelligence assessment rubric generation in human and automated contexts: Evidence from an undergraduate programming course",
+ "authors": "Mendonça, Quintal, Figueiredo et al.",
+ "venue": "Computers and Education: Artificial Intelligence",
+ "date": "2026-12",
+ "url": "https://doi.org/10.1016/j.caeai.2026.100663",
+ "doi": "10.1016/j.caeai.2026.100663",
+ "lang": "en",
+ "source": "Journal watch: Computers and Education: Artificial Intelligence",
+ "run": "2026-10-12",
+ "abstract": "Developing assessment rubrics is resource-intensive, limiting frequent formative assessment. This study introduces HARMOGEN-R (Hybrid Assessment Rubric Model Generation with Reasoning), a framework that uses reasoning-enhanced Large Language Models (LLMs) for initial rubric generation and standard models for synthesis. It supports two generation approaches, namely, structured, with predefined evaluation criteria, and free-form, with Artificial Intelligence (AI) defined criteria. Using a within-subjects design, four AI-generated rubrics and a human-created baseline were compared across 308 open-ended responses (text and code) from three formative programming assignments in an undergraduate computer science course. Four human evaluators and three LLM evaluators scored all responses under each rubric. When applied by human evaluators, all AI-generated rubrics met pooled equivalence within an operational ±5-point margin (±1 point on the Portuguese 0-20 scale, 5% of the maximum), with correlations from 0.948 to 0.973 and quadratic weighted kappa for grade agreement from 0.929 to 0.988. At the assignment and question-type level, five cells exceeded this margin, and OpenAI Structured was the only source meeting equivalence across all assignments. In automated evaluation, equivalence depended on the evaluator model. DeepSeek V3 met equivalence for all rubric sources, whereas GPT-4.1 and GPT-4o showed systematic negative deviations. Open-weight (DeepSeek) and proprietary (OpenAI) models produced equivalent rubrics in most conditions, with structured generation showing higher cross-model consistency. These findings indicate that AI-generated rubrics can achieve scoring comparability with human-created rubrics for technical content, although outcomes depend on rubric format, evaluator model, and assessment context; the evidence concerns scoring comparability rather than broader rubric validity.",
+ "themeGuess": [],
+ "found": "2026-10-12T11:37:13",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": "OpenAlex"
+}

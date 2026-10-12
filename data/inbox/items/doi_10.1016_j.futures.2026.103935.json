@@ -1,0 +1,25 @@
+{
+ "id": "doi_10.1016_j.futures.2026.103935",
+ "kind": "paper",
+ "title": "The spectrum of thought: A cognitive framework for anticipatory futures",
+ "authors": "Cirella",
+ "venue": "Futures",
+ "date": "2026-12",
+ "url": "https://doi.org/10.1016/j.futures.2026.103935",
+ "doi": "10.1016/j.futures.2026.103935",
+ "lang": "en",
+ "source": "Journal watch: Futures",
+ "run": "2026-10-12",
+ "abstract": "Anticipatory reasoning—the cognitive capacity through which societies imagine, negotiate, and enact their futures—remains undertheorized in futures studies. This Short Communication introduces the Spectrum of Thought , a conceptual framework for understanding how ideas move from imagination to institutionalization. It positions artistic reasoning, technical realization, and communicative translation as distinct yet interdependent modes of anticipatory cognition. The model highlights translation distance—the conceptual gap between novelty and prevailing norms—as a measure of an idea's trajectory from conception to acceptance. By interpreting anticipation as a distributed process of cognitive translation, the framework connects futures literacy to the social dynamics of creativity, knowledge mediation, and legitimacy building. The Spectrum of Thought sets a new agenda for interdisciplinary inquiry by connecting cognitive science, communication studies, and foresight practice to examine how collective intelligence shapes long-term societal learning. It invites futures scholarship to consider not only what futures are imagined, but how imagination itself is translated into shared anticipatory action.",
+ "themeGuess": [],
+ "found": "2026-10-12T11:36:55",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": "OpenAlex"
+}

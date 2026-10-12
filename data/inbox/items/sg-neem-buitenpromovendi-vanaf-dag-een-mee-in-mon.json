@@ -1,0 +1,24 @@
+{
+ "id": "sg-neem-buitenpromovendi-vanaf-dag-een-mee-in-mon",
+ "kind": "discourse",
+ "title": "‘Neem buitenpromovendi vanaf dag één mee in monitoring’",
+ "authors": "ScienceGuide",
+ "venue": "ScienceGuide",
+ "date": "2026-10",
+ "url": "https://www.scienceguide.nl/2026/10/neem-buitenpromovendi-vanaf-dag-een-mee-in-monitoring/",
+ "doi": "",
+ "lang": "nl",
+ "source": "ScienceGuide",
+ "run": "2026-10-12",
+ "abstract": "‘Neem buitenpromovendi vanaf dag één mee in monitoring’",
+ "themeGuess": [],
+ "found": "2026-10-12T11:37:30",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ }
+}

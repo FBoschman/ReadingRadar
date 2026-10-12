@@ -1,0 +1,27 @@
+{
+ "id": "doi_10.1016_j.nerpsj.2026.100045",
+ "kind": "paper",
+ "title": "Beyond the human victim: decolonizing justice and reimagining pluriversal accountability in Colombia’s transitional peace process",
+ "authors": "Medina Rico",
+ "venue": "Peace and Sustainability",
+ "date": "2026-12",
+ "url": "https://doi.org/10.1016/j.nerpsj.2026.100045",
+ "doi": "10.1016/j.nerpsj.2026.100045",
+ "lang": "en",
+ "source": "Crossref topic: Decolonial & epistemic justice",
+ "run": "2026-10-12",
+ "abstract": "Traditional transitional justice mechanisms have historically prioritized an anthropocentric and liberal lens, treating crimes against individual human victims as the sole violations warranting redress while often disregarding underlying ecological and structural violence. This paper examines a profound paradigm shift in Colombia’s transitional peace process, specifically within the Special Jurisdiction for Peace (JEP), which formally recognizes ecosystems, collective territories, and rivers as victims of armed conflict. Drawing on the complementary theoretical frameworks of ecocentrism and political ontology, the study challenges Western legal dualisms and advocates for a decolonized, pluriversal approach to accountability. Through a qualitative, comparative case study design, the paper analyzes three distinct dimensions of non human victimhood: the Cauca River, the Awá Indigenous territory (Katsa Su), and the Nasa Indigenous communities. While Colombia's evolving jurisprudence demonstrates the transformative potential of addressing environmental and collective harms, critical analysis reveals significant practical and epistemological limitations. These include the severe gap between granting legal personhood and practical enforceability , the risks of translating complex Indigenous cosmologies into rigid state legal categories , and the critical necessity of bottom-up, community-led ecological restoration. Ultimately, the paper argues that while Colombia provides a pioneering template for an expanded legal imagination, genuine pluriversal justice requires sustained structural transformation alongside deep respect for Indigenous and Afro-descendant agency.",
+ "themeGuess": [
+  "dec"
+ ],
+ "found": "2026-10-12T11:36:22",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": "OpenAlex"
+}

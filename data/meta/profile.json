@@ -1,376 +1,383 @@
 {
-  "bluesky": {
-    "accounts": [
-      "css-conference.bsky.social",
-      "yrcss.bsky.social"
-    ],
-    "handle": "fboschman.bsky.social",
-    "listName": "Reading Radar",
-    "maxAccounts": 40,
-    "status": "not read 12 Oct: public.api.bsky.app refused again - a scheduled run can only fetch a URL that appeared verbatim in a web-search result, so no API host is reachable. 0 accounts read, no list lookup. Second run in a row."
+ "bluesky": {
+  "accounts": [
+   "css-conference.bsky.social",
+   "yrcss.bsky.social"
+  ],
+  "handle": "fboschman.bsky.social",
+  "listName": "Reading Radar",
+  "maxAccounts": 40,
+  "status": "ok 12 Oct (local run): the two named accounts were read from public.api.bsky.app and gave 20 candidates. The list 'Reading Radar' does not exist on this account, so the account set cannot grow from a list. Create the list on Bluesky, or add handles to accounts[] in this profile."
+ },
+ "cadence": "Weekly, Monday 06:00 (Amsterdam)",
+ "consensus": {
+  "monthlyQuota": 30,
+  "nextTheme": 6,
+  "note": "OpenAlex now does this work, from the reader's own machine. It needs no key, has no weekly quota, and returns a DOI, an exact date and an abstract for most works, which the semantic-search tool did not. The rotation runs two themes for each weekly cycle and advances nextTheme after every run. 12 Oct 2026: themes par and ai searched, 11 candidates, next index 6 (dec, pc). Keep perWeek at 2: two of eight themes each week covers every theme once a month.",
+  "on": true,
+  "perWeek": 2
+ },
+ "editedAt": "2026-10-12T00:00:00.000Z",
+ "exclusions": [
+  "community-service reports without research design",
+  "journals flagged as questionable",
+  "ideological-political education (China) curriculum papers"
+ ],
+ "feeds": [
+  "ScienceGuide (NL)",
+  "Regieorgaan SIA",
+  "NRO",
+  "Vereniging Hogescholen",
+  "td-net / ITD Alliance",
+  "CARN",
+  "Silicon Reckoner (Michael Harris)"
+ ],
+ "journalWatch": [
+  {
+   "issn": "0965-0792",
+   "name": "Educational Action Research",
+   "on": true,
+   "publisher": "Taylor & Francis",
+   "status": "ok 12 Oct via Crossref by ISSN (local run from the reader's machine)",
+   "why": "CARN's own journal; PAR in education"
   },
-  "cadence": "Weekly, Monday 06:00 (Amsterdam)",
-  "consensus": {
-    "monthlyQuota": 30,
-    "nextTheme": 4,
-    "note": "Free plan: 30 searches/month, shared with Ferry's own use. Quota resets on the 1st. 12 Oct 2026: 2 searches run one at a time (cx, dbr), no rate limit this time - keep firing them singly. Next up: par (index 4), then ai. With Crossref unreachable, Consensus is currently the only working paper-discovery route, so it is carrying the run; it returns no DOI and no month, which is why several items are stored under cons_ ids with a year-only date.",
-    "on": true,
-    "perWeek": 2
+  {
+   "issn": "1862-4065",
+   "name": "Sustainability Science",
+   "on": true,
+   "publisher": "Springer",
+   "status": "ok 12 Oct via Crossref by ISSN (local run from the reader's machine)",
+   "why": "Transdisciplinarity and co-production"
   },
-  "editedAt": "2026-09-19T21:00:09.216Z",
-  "exclusions": [
-    "community-service reports without research design",
-    "journals flagged as questionable",
-    "ideological-political education (China) curriculum papers"
-  ],
-  "feeds": [
-    "ScienceGuide (NL)",
-    "Regieorgaan SIA",
-    "NRO",
-    "Vereniging Hogescholen",
-    "td-net / ITD Alliance",
-    "CARN",
-    "Silicon Reckoner (Michael Harris)"
-  ],
-  "journalWatch": [
-    {
-      "issn": "0965-0792",
-      "name": "Educational Action Research",
-      "on": true,
-      "publisher": "Taylor & Francis",
-      "status": "not swept 12 Oct: Crossref API blocked and tandfonline.com not fetchable in a scheduled run - no route available",
-      "why": "CARN's own journal; PAR in education"
-    },
-    {
-      "issn": "1862-4065",
-      "name": "Sustainability Science",
-      "on": true,
-      "publisher": "Springer",
-      "status": "ok 12 Oct via the journal's Springer online-first page (Crossref API blocked); 3 items kept",
-      "why": "Transdisciplinarity and co-production"
-    },
-    {
-      "issn": "2511-0667",
-      "name": "EDeR. Educational Design Research",
-      "on": true,
-      "publisher": "Hamburg Univ. Press (open access)",
-      "status": "partial 12 Oct: the 2026 issue page gave no readable table of contents; one article picked up via Consensus instead",
-      "why": "Design-based research"
-    },
-    {
-      "issn": "0307-5079",
-      "name": "Studies in Higher Education",
-      "on": true,
-      "publisher": "Taylor & Francis",
-      "status": "not swept 12 Oct: Crossref API blocked and tandfonline.com not fetchable in a scheduled run - no route available",
-      "why": "Higher-education policy and curriculum"
-    },
-    {
-      "issn": "0013-1857",
-      "name": "Educational Philosophy and Theory",
-      "on": true,
-      "publisher": "Taylor & Francis",
-      "status": "partial 12 Oct: Crossref API and tandfonline.com both unavailable; 1 item picked up via Consensus",
-      "why": "Complexity, critical and decolonial theory"
-    },
-    {
-      "issn": "1476-7503",
-      "name": "Action Research",
-      "on": true,
-      "publisher": "SAGE",
-      "status": "not swept 12 Oct: Crossref API blocked and journals.sagepub.com not fetchable - no route available",
-      "why": "Action research across fields"
-    },
-    {
-      "issn": "1861-1303",
-      "name": "International Journal of Action Research",
-      "on": true,
-      "publisher": "Barbara Budrich",
-      "status": "not swept 12 Oct: Crossref API blocked; publisher site not reached this run",
-      "why": "Critical and Latin American PAR"
-    },
-    {
-      "issn": "2688-0261",
-      "name": "Journal of Participatory Research Methods",
-      "on": true,
-      "publisher": "University of Massachusetts (open access)",
-      "status": "not swept 12 Oct: Crossref API blocked; the site is fetchable, so put this one first in the rotation next run",
-      "why": "Participatory methods"
-    },
-    {
-      "issn": "0729-4360",
-      "name": "Higher Education Research & Development",
-      "on": true,
-      "publisher": "Taylor & Francis",
-      "status": "not swept 12 Oct: Crossref API blocked and tandfonline.com not fetchable in a scheduled run - no route available",
-      "why": "Teaching and AI in higher education"
-    },
-    {
-      "issn": "1350-4622",
-      "name": "Environmental Education Research",
-      "on": true,
-      "publisher": "Taylor & Francis",
-      "status": "not swept 12 Oct: Crossref API blocked and tandfonline.com not fetchable in a scheduled run - no route available",
-      "why": "Sustainability learning"
-    },
-    {
-      "issn": "0016-3287",
-      "name": "Futures",
-      "on": true,
-      "publisher": "Elsevier",
-      "status": "not swept 12 Oct: Crossref API blocked (agent proxy answers 403 to CONNECT) and sciencedirect.com returns ROBOTS_DISALLOWED to WebFetch - no route to Elsevier journals from a scheduled run",
-      "why": "Classic venue for transdisciplinarity (Pohl, Polk)"
-    },
-    {
-      "issn": "1462-9011",
-      "name": "Environmental Science & Policy",
-      "on": true,
-      "publisher": "Elsevier",
-      "status": "not swept 12 Oct: Crossref API blocked (agent proxy answers 403 to CONNECT) and sciencedirect.com returns ROBOTS_DISALLOWED to WebFetch - no route to Elsevier journals from a scheduled run",
-      "why": "Knowledge co-production and science-policy work"
-    },
-    {
-      "issn": "2210-4224",
-      "name": "Environmental Innovation and Societal Transitions",
-      "on": true,
-      "publisher": "Elsevier",
-      "status": "not swept 12 Oct: Crossref API blocked (agent proxy answers 403 to CONNECT) and sciencedirect.com returns ROBOTS_DISALLOWED to WebFetch - no route to Elsevier journals from a scheduled run",
-      "why": "Sustainability transitions and regional ecosystems"
-    },
-    {
-      "issn": "0742-051X",
-      "name": "Teaching and Teacher Education",
-      "on": true,
-      "publisher": "Elsevier",
-      "status": "not swept 12 Oct: Crossref API blocked (agent proxy answers 403 to CONNECT) and sciencedirect.com returns ROBOTS_DISALLOWED to WebFetch - no route to Elsevier journals from a scheduled run",
-      "why": "Professional learning of educators"
-    },
-    {
-      "issn": "1871-1871",
-      "name": "Thinking Skills and Creativity",
-      "on": true,
-      "publisher": "Elsevier",
-      "status": "not swept 12 Oct: Crossref API blocked (agent proxy answers 403 to CONNECT) and sciencedirect.com returns ROBOTS_DISALLOWED to WebFetch - no route to Elsevier journals from a scheduled run",
-      "why": "Critical thinking research - a foil for Professional Criticality"
-    },
-    {
-      "issn": "2210-6561",
-      "name": "Learning, Culture and Social Interaction",
-      "on": true,
-      "publisher": "Elsevier",
-      "status": "not swept 12 Oct: Crossref API blocked (agent proxy answers 403 to CONNECT) and sciencedirect.com returns ROBOTS_DISALLOWED to WebFetch - no route to Elsevier journals from a scheduled run",
-      "why": "Sociocultural learning in practice and communities"
-    },
-    {
-      "issn": "2666-920X",
-      "name": "Computers and Education: Artificial Intelligence",
-      "on": true,
-      "publisher": "Elsevier (open access)",
-      "status": "partial 12 Oct: Elsevier site blocked to WebFetch; 1 item picked up via Consensus",
-      "why": "AI in education"
-    },
-    {
-      "issn": "0169-2046",
-      "name": "Landscape and Urban Planning",
-      "on": true,
-      "publisher": "Elsevier",
-      "status": "not swept 12 Oct: Crossref API blocked (agent proxy answers 403 to CONNECT) and sciencedirect.com returns ROBOTS_DISALLOWED to WebFetch - no route to Elsevier journals from a scheduled run",
-      "why": "Participatory design of public space"
-    },
-    {
-      "issn": "0016-7185",
-      "name": "Geoforum",
-      "on": true,
-      "publisher": "Elsevier",
-      "status": "not swept 12 Oct: Crossref API blocked (agent proxy answers 403 to CONNECT) and sciencedirect.com returns ROBOTS_DISALLOWED to WebFetch - no route to Elsevier journals from a scheduled run",
-      "why": "Critical and decolonial geography"
-    },
-    {
-      "issn": "0883-0355",
-      "name": "International Journal of Educational Research",
-      "on": true,
-      "publisher": "Elsevier",
-      "status": "not swept 12 Oct: Crossref API blocked (agent proxy answers 403 to CONNECT) and sciencedirect.com returns ROBOTS_DISALLOWED to WebFetch - no route to Elsevier journals from a scheduled run",
-      "why": "Broad educational research"
-    },
-    {
-      "issn": "0959-3780",
-      "name": "Global Environmental Change",
-      "on": false,
-      "publisher": "Elsevier",
-      "why": "High-impact sustainability social science"
-    },
-    {
-      "issn": "1877-3435",
-      "name": "Current Opinion in Environmental Sustainability",
-      "on": false,
-      "publisher": "Elsevier",
-      "why": "Short reviews on TD and transformations"
-    },
-    {
-      "issn": "1747-938X",
-      "name": "Educational Research Review",
-      "on": false,
-      "publisher": "Elsevier",
-      "why": "Systematic reviews in education"
-    },
-    {
-      "issn": "0264-2751",
-      "name": "Cities",
-      "on": false,
-      "publisher": "Elsevier",
-      "why": "Urban policy and innovation"
-    },
-    {
-      "issn": "0305-750X",
-      "name": "World Development",
-      "on": false,
-      "publisher": "Elsevier",
-      "why": "Development studies, Global South"
-    },
-    {
-      "issn": "0040-1625",
-      "name": "Technological Forecasting and Social Change",
-      "on": false,
-      "publisher": "Elsevier",
-      "why": "Innovation ecosystems (high volume)"
-    },
-    {
-      "issn": "0743-0167",
-      "name": "Journal of Rural Studies",
-      "on": false,
-      "publisher": "Elsevier",
-      "why": "Rural knowledge and transitions (e.g. Flevoland)"
-    }
-  ],
-  "journals": [
-    "Educational Action Research",
-    "Sustainability Science",
-    "EDeR. Educational Design Research",
-    "Studies in Higher Education",
-    "Educational Philosophy and Theory",
-    "Action Research",
-    "International Journal of Action Research",
-    "Journal of Participatory Research Methods",
-    "Higher Education Research & Development",
-    "Environmental Education Research"
-  ],
-  "libraryOff": false,
-  "libraryProxy": "windesheim.idm.oclc.org",
-  "minScore": 3,
-  "rssFeeds": [],
-  "themes": [
-    {
-      "code": "eco",
-      "keywords": [
-        "learning ecosystem",
-        "multi-stakeholder learning",
-        "living lab",
-        "co-creation",
-        "triple/quadruple helix",
-        "leren in ecosystemen"
-      ],
-      "name": "Learning ecosystems"
-    },
-    {
-      "code": "td",
-      "keywords": [
-        "transdisciplinary",
-        "knowledge co-production",
-        "knowledge integration",
-        "societal actors",
-        "transdisciplinair"
-      ],
-      "name": "Transdisciplinary research"
-    },
-    {
-      "code": "cx",
-      "keywords": [
-        "complexity theory",
-        "enabling constraints",
-        "emergence",
-        "complexiteit onderwijs"
-      ],
-      "name": "Complexity in education"
-    },
-    {
-      "code": "dbr",
-      "keywords": [
-        "design-based research",
-        "educational design research",
-        "design principles",
-        "ontwerpgericht onderzoek"
-      ],
-      "name": "Design-based research"
-    },
-    {
-      "code": "par",
-      "keywords": [
-        "participatory action research",
-        "co-design",
-        "community-based",
-        "actieonderzoek"
-      ],
-      "name": "Participatory action research"
-    },
-    {
-      "code": "ai",
-      "keywords": [
-        "generative AI",
-        "epistemic agency",
-        "cognitive offloading",
-        "AI literacy"
-      ],
-      "name": "AI & curriculum"
-    },
-    {
-      "code": "dec",
-      "keywords": [
-        "epistemic justice",
-        "decolonising curriculum",
-        "ecology of knowledges",
-        "pluriversal"
-      ],
-      "name": "Decolonial & epistemic justice"
-    },
-    {
-      "code": "pc",
-      "keywords": [
-        "critical thinking",
-        "professional judgement",
-        "onderzoekend vermogen",
-        "professioneel kritisch oordelen"
-      ],
-      "name": "Professional criticality"
-    }
-  ],
-  "vault": {
-    "auto": true,
-    "autoMin": 4,
-    "dropFolder": "Downloads\\radar-vault-inbox",
-    "filePattern": "surname-year-short-title.md",
-    "folders": [
-      "raw/articles",
-      "wiki/sources",
-      "wiki/concepts",
-      "wiki/thinkers",
-      "wiki/themes",
-      "wiki/tensions",
-      "wiki/fleeting",
-      "wiki/outputs",
-      "wiki/instruments",
-      "wiki/conjectures",
-      "wiki/cycles",
-      "wiki/frames"
-    ],
-    "inbox": "raw\\articles",
-    "lastWrite": "2026-10-05: vault folder access denied, notes not written - 12 notes prepared and delivered in the chat instead",
-    "name": "FUNGI",
-    "noteKind": "intake",
-    "path": "C:\\Users\\fb0068674\\OneDrive - Windesheim Office365\\Documents\\Educational Sciences",
-    "pdfFolder": "Downloads\\radar-inbox",
-    "rules": "Notes go to raw/articles as intake for /ingest. Never write or edit anything in wiki/ — the author's own pages. Never touch raw/fieldwork or raw/legacy. Frontmatter: title, source, authors, year, published, created, venue, doi, description, intake: reading-radar, ingested: false, radar_score, radar_themes, xray_confidence, thinker_candidates, tags.",
-    "system": "Obsidian research wiki (wiki/ + raw/), /ingest pipeline",
-    "thinkerPattern": "surname-firstname.md"
+  {
+   "issn": "2511-0667",
+   "name": "EDeR. Educational Design Research",
+   "on": true,
+   "publisher": "Hamburg Univ. Press (open access)",
+   "status": "ok 12 Oct via Crossref by ISSN (local run from the reader's machine)",
+   "why": "Design-based research"
+  },
+  {
+   "issn": "0307-5079",
+   "name": "Studies in Higher Education",
+   "on": true,
+   "publisher": "Taylor & Francis",
+   "status": "ok 12 Oct via Crossref by ISSN (local run from the reader's machine)",
+   "why": "Higher-education policy and curriculum"
+  },
+  {
+   "issn": "0013-1857",
+   "name": "Educational Philosophy and Theory",
+   "on": true,
+   "publisher": "Taylor & Francis",
+   "status": "ok 12 Oct via Crossref by ISSN (local run from the reader's machine)",
+   "why": "Complexity, critical and decolonial theory"
+  },
+  {
+   "issn": "1476-7503",
+   "name": "Action Research",
+   "on": true,
+   "publisher": "SAGE",
+   "status": "ok 12 Oct via Crossref by ISSN (local run from the reader's machine)",
+   "why": "Action research across fields"
+  },
+  {
+   "issn": "1861-1303",
+   "name": "International Journal of Action Research",
+   "on": true,
+   "publisher": "Barbara Budrich",
+   "status": "ok 12 Oct via Crossref by ISSN (local run from the reader's machine)",
+   "why": "Critical and Latin American PAR"
+  },
+  {
+   "issn": "2688-0261",
+   "name": "Journal of Participatory Research Methods",
+   "on": true,
+   "publisher": "University of Massachusetts (open access)",
+   "status": "ok 12 Oct via Crossref by ISSN (local run from the reader's machine)",
+   "why": "Participatory methods"
+  },
+  {
+   "issn": "0729-4360",
+   "name": "Higher Education Research & Development",
+   "on": true,
+   "publisher": "Taylor & Francis",
+   "status": "ok 12 Oct via Crossref by ISSN (local run from the reader's machine)",
+   "why": "Teaching and AI in higher education"
+  },
+  {
+   "issn": "1350-4622",
+   "name": "Environmental Education Research",
+   "on": true,
+   "publisher": "Taylor & Francis",
+   "status": "ok 12 Oct via Crossref by ISSN (local run from the reader's machine)",
+   "why": "Sustainability learning"
+  },
+  {
+   "issn": "0016-3287",
+   "name": "Futures",
+   "on": true,
+   "publisher": "Elsevier",
+   "status": "ok 12 Oct via Crossref by ISSN (local run from the reader's machine)",
+   "why": "Classic venue for transdisciplinarity (Pohl, Polk)"
+  },
+  {
+   "issn": "1462-9011",
+   "name": "Environmental Science & Policy",
+   "on": true,
+   "publisher": "Elsevier",
+   "status": "ok 12 Oct via Crossref by ISSN (local run from the reader's machine)",
+   "why": "Knowledge co-production and science-policy work"
+  },
+  {
+   "issn": "2210-4224",
+   "name": "Environmental Innovation and Societal Transitions",
+   "on": true,
+   "publisher": "Elsevier",
+   "status": "ok 12 Oct via Crossref by ISSN (local run from the reader's machine)",
+   "why": "Sustainability transitions and regional ecosystems"
+  },
+  {
+   "issn": "0742-051X",
+   "name": "Teaching and Teacher Education",
+   "on": true,
+   "publisher": "Elsevier",
+   "status": "ok 12 Oct via Crossref by ISSN (local run from the reader's machine)",
+   "why": "Professional learning of educators"
+  },
+  {
+   "issn": "1871-1871",
+   "name": "Thinking Skills and Creativity",
+   "on": true,
+   "publisher": "Elsevier",
+   "status": "ok 12 Oct via Crossref by ISSN (local run from the reader's machine)",
+   "why": "Critical thinking research - a foil for Professional Criticality"
+  },
+  {
+   "issn": "2210-6561",
+   "name": "Learning, Culture and Social Interaction",
+   "on": true,
+   "publisher": "Elsevier",
+   "status": "ok 12 Oct via Crossref by ISSN (local run from the reader's machine)",
+   "why": "Sociocultural learning in practice and communities"
+  },
+  {
+   "issn": "2666-920X",
+   "name": "Computers and Education: Artificial Intelligence",
+   "on": true,
+   "publisher": "Elsevier (open access)",
+   "status": "ok 12 Oct via Crossref by ISSN (local run from the reader's machine)",
+   "why": "AI in education"
+  },
+  {
+   "issn": "0169-2046",
+   "name": "Landscape and Urban Planning",
+   "on": true,
+   "publisher": "Elsevier",
+   "status": "ok 12 Oct via Crossref by ISSN (local run from the reader's machine)",
+   "why": "Participatory design of public space"
+  },
+  {
+   "issn": "0016-7185",
+   "name": "Geoforum",
+   "on": true,
+   "publisher": "Elsevier",
+   "status": "ok 12 Oct via Crossref by ISSN (local run from the reader's machine)",
+   "why": "Critical and decolonial geography"
+  },
+  {
+   "issn": "0883-0355",
+   "name": "International Journal of Educational Research",
+   "on": true,
+   "publisher": "Elsevier",
+   "status": "ok 12 Oct via Crossref by ISSN (local run from the reader's machine)",
+   "why": "Broad educational research"
+  },
+  {
+   "issn": "0959-3780",
+   "name": "Global Environmental Change",
+   "on": false,
+   "publisher": "Elsevier",
+   "why": "High-impact sustainability social science",
+   "status": ""
+  },
+  {
+   "issn": "1877-3435",
+   "name": "Current Opinion in Environmental Sustainability",
+   "on": false,
+   "publisher": "Elsevier",
+   "why": "Short reviews on TD and transformations",
+   "status": ""
+  },
+  {
+   "issn": "1747-938X",
+   "name": "Educational Research Review",
+   "on": false,
+   "publisher": "Elsevier",
+   "why": "Systematic reviews in education",
+   "status": ""
+  },
+  {
+   "issn": "0264-2751",
+   "name": "Cities",
+   "on": false,
+   "publisher": "Elsevier",
+   "why": "Urban policy and innovation",
+   "status": ""
+  },
+  {
+   "issn": "0305-750X",
+   "name": "World Development",
+   "on": false,
+   "publisher": "Elsevier",
+   "why": "Development studies, Global South",
+   "status": ""
+  },
+  {
+   "issn": "0040-1625",
+   "name": "Technological Forecasting and Social Change",
+   "on": false,
+   "publisher": "Elsevier",
+   "why": "Innovation ecosystems (high volume)",
+   "status": ""
+  },
+  {
+   "issn": "0743-0167",
+   "name": "Journal of Rural Studies",
+   "on": false,
+   "publisher": "Elsevier",
+   "why": "Rural knowledge and transitions (e.g. Flevoland)",
+   "status": ""
   }
+ ],
+ "journals": [
+  "Educational Action Research",
+  "Sustainability Science",
+  "EDeR. Educational Design Research",
+  "Studies in Higher Education",
+  "Educational Philosophy and Theory",
+  "Action Research",
+  "International Journal of Action Research",
+  "Journal of Participatory Research Methods",
+  "Higher Education Research & Development",
+  "Environmental Education Research"
+ ],
+ "libraryOff": false,
+ "libraryProxy": "windesheim.idm.oclc.org",
+ "minScore": 3,
+ "rssFeeds": [],
+ "themes": [
+  {
+   "code": "eco",
+   "keywords": [
+    "learning ecosystem",
+    "multi-stakeholder learning",
+    "living lab",
+    "co-creation",
+    "triple/quadruple helix",
+    "leren in ecosystemen"
+   ],
+   "name": "Learning ecosystems"
+  },
+  {
+   "code": "td",
+   "keywords": [
+    "transdisciplinary",
+    "knowledge co-production",
+    "knowledge integration",
+    "societal actors",
+    "transdisciplinair"
+   ],
+   "name": "Transdisciplinary research"
+  },
+  {
+   "code": "cx",
+   "keywords": [
+    "complexity theory",
+    "enabling constraints",
+    "emergence",
+    "complexiteit onderwijs"
+   ],
+   "name": "Complexity in education"
+  },
+  {
+   "code": "dbr",
+   "keywords": [
+    "design-based research",
+    "educational design research",
+    "design principles",
+    "ontwerpgericht onderzoek"
+   ],
+   "name": "Design-based research"
+  },
+  {
+   "code": "par",
+   "keywords": [
+    "participatory action research",
+    "co-design",
+    "community-based",
+    "actieonderzoek"
+   ],
+   "name": "Participatory action research"
+  },
+  {
+   "code": "ai",
+   "keywords": [
+    "generative AI",
+    "epistemic agency",
+    "cognitive offloading",
+    "AI literacy"
+   ],
+   "name": "AI & curriculum"
+  },
+  {
+   "code": "dec",
+   "keywords": [
+    "epistemic justice",
+    "decolonising curriculum",
+    "ecology of knowledges",
+    "pluriversal"
+   ],
+   "name": "Decolonial & epistemic justice"
+  },
+  {
+   "code": "pc",
+   "keywords": [
+    "critical thinking",
+    "professional judgement",
+    "onderzoekend vermogen",
+    "professioneel kritisch oordelen"
+   ],
+   "name": "Professional criticality"
+  }
+ ],
+ "vault": {
+  "auto": true,
+  "autoMin": 4,
+  "dropFolder": "Downloads\\radar-vault-inbox",
+  "filePattern": "surname-year-short-title.md",
+  "folders": [
+   "raw/articles",
+   "wiki/sources",
+   "wiki/concepts",
+   "wiki/thinkers",
+   "wiki/themes",
+   "wiki/tensions",
+   "wiki/fleeting",
+   "wiki/outputs",
+   "wiki/instruments",
+   "wiki/conjectures",
+   "wiki/cycles",
+   "wiki/frames"
+  ],
+  "inbox": "raw\\articles",
+  "lastWrite": "2026-10-12: the local run has file access again. The vault step is active from the reader's machine; the cloud run still has none.",
+  "name": "FUNGI",
+  "noteKind": "intake",
+  "path": "C:\\Users\\fb0068674\\OneDrive - Windesheim Office365\\Documents\\Educational Sciences",
+  "pdfFolder": "Downloads\\radar-inbox",
+  "rules": "Notes go to raw/articles as intake for /ingest. Never write or edit anything in wiki/ — the author's own pages. Never touch raw/fieldwork or raw/legacy. Frontmatter: title, source, authors, year, published, created, venue, doi, description, intake: reading-radar, ingested: false, radar_score, radar_themes, xray_confidence, thinker_candidates, tags.",
+  "system": "Obsidian research wiki (wiki/ + raw/), /ingest pipeline",
+  "thinkerPattern": "surname-firstname.md"
+ }
 }

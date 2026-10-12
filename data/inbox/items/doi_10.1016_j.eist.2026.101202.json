@@ -1,0 +1,25 @@
+{
+ "id": "doi_10.1016_j.eist.2026.101202",
+ "kind": "paper",
+ "title": "Imagining transformation across systems: institutional logics and their dynamics within a cross-sectoral food-health pilot",
+ "authors": "Hepping, Breeman, Cuppen",
+ "venue": "Environmental Innovation and Societal Transitions",
+ "date": "2027-01",
+ "url": "https://doi.org/10.1016/j.eist.2026.101202",
+ "doi": "10.1016/j.eist.2026.101202",
+ "lang": "",
+ "source": "Journal watch: Environmental Innovation and Societal Transitions",
+ "run": "2026-10-12",
+ "abstract": "",
+ "themeGuess": [],
+ "found": "2026-10-12T11:37:01",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": ""
+}

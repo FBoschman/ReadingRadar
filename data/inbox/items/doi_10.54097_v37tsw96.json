@@ -1,0 +1,27 @@
+{
+ "id": "doi_10.54097_v37tsw96",
+ "kind": "paper",
+ "title": "Cognitive Outsourcing in Digital-Intelligent Education: Hidden Educational Risks and Regulatory Paths",
+ "authors": "Zhiyue Jin",
+ "venue": "Journal of Education Humanities and Social Sciences",
+ "date": "2026-10-05",
+ "url": "https://doi.org/10.54097/v37tsw96",
+ "doi": "10.54097/v37tsw96",
+ "lang": "",
+ "source": "OpenAlex: AI & curriculum",
+ "run": "2026-10-12",
+ "abstract": "The deep integration of artificial intelligence in classroom teaching reorganises learners' internal cognition and technologically mediated external cognition through the mechanism of cognitive offloading, fundamentally reshaping how knowledge is accessed and thinking is processed. Yet algorithmic limitations and misaligned learner orientations are driving this offloading toward risks of hollowed classroom interaction, flattened cognitive depth, and distorted feedback. This study systematically classifies these risks to fill a critical gap. Based on a four-dimensional framework of thinking, subject, knowledge, and practice, the risks are categorised as follows: at the thinking dimension, algorithmic opacity and data bias reduce instruction from thinking cultivation to answer retrieval, obstructing higher-order goals through a black-box trap that masks reasoning processes; at the subject dimension, the quasi-subjectivity of intelligent systems encroaches upon the learner's agency, triggering subject alienation and hollowing out authentic classroom interaction; at the knowledge dimension, fragmented algorithmic outputs are mistaken for systematic understanding, leaving comprehension at a superficial level; at the practice dimension, instant system responsiveness dissolves productive ambiguity and interrupts situated practical activities, disrupting human-machine synergy in situated learning. Through analysing these risks, this study proposes mitigation strategies across teaching, learning, and assessment: rebuilding classroom thinking space through generative dialogue between teachers and students; requiring independent learner reasoning before critical scrutiny of algorithmic outputs; and establishing a process-trace-centred evaluation mechanism that values drafts and revision histories to reflect genuine thinking development.",
+ "themeGuess": [
+  "ai"
+ ],
+ "found": "2026-10-12T11:37:26",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "openalex": "https://openalex.org/W7220436606"
+}

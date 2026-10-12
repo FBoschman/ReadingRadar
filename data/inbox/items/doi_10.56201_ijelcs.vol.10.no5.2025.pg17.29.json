@@ -1,0 +1,27 @@
+{
+ "id": "doi_10.56201_ijelcs.vol.10.no5.2025.pg17.29",
+ "kind": "paper",
+ "title": "Exploring the Role of Traditional Knowledge in Climate Change Adaptation among Rural Communities in Kogi State: Implications for Climate Communication and Policy",
+ "authors": "Promise Emmanuel",
+ "venue": "INTERNATIONAL JOURNAL OF ENGLISH LANGUAGE AND COMMUNICATION STUDIES",
+ "date": "2026-10-06",
+ "url": "https://doi.org/10.56201/ijelcs.vol.10.no5.2025.pg17.29",
+ "doi": "10.56201/ijelcs.vol.10.no5.2025.pg17.29",
+ "lang": "",
+ "source": "OpenAlex: Participatory action research",
+ "run": "2026-10-12",
+ "abstract": "The environmental and economic difficulties arising from climate change affect developing world rural populations with increasing intensity. Traditional knowledge serves as the main focus for understanding climate change adaptation processes in Kogi State’s rural populace while contributing to policy frameworks and climate messaging strategies. The study examines how traditional knowledge supports rural communities during climate change adaptation and it examines the performance of communication methods for weaving indigenous understanding into official adaptation procedures. The study employed surveys as well as interviews and focus group discussions to obtain data from 255 participants in nine rural communities of Kogi State. The analysis focused on 246 responses collected during this research. It showed traditional adaptation techniques used by local communities extensively since they exist as integrated parts of their cultural practices. The research demonstrated that traditional community communication practices of storytelling and communal meetings alongside folklore serve as essential forces behind both climate awareness growth and community engagement development. The gap between traditional knowledge and national climate policy frameworks remains large because there is inadequate documentation and inadequate involvement of traditional leaders. Through the application of the Indigenous Knowledge Systems (IKS) Theory, the study validated indigenous climate governance practices for their relevance and sustainability. Due to cultural needs, the research endorses integrating traditional practices into science-based adaptation systems in conjunction with relevant community communication methods. It showed that effective climate policy implementation with rural resilience depends on the empowerment of Indigenous voices by documenting their traditions and involving them in shared communication. By highlighting traditional knowledge, this study advances discussions about sustainable development since it demonstrates how local-specific climate adaptation plans should be developed.",
+ "themeGuess": [
+  "par"
+ ],
+ "found": "2026-10-12T11:37:24",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "openalex": "https://openalex.org/W7220740084"
+}

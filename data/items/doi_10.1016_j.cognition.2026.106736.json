@@ -1,0 +1,20 @@
+{
+ "kind": "paper",
+ "title": "Postural configurations as micro-ecological constraints: How embodied arrangements shape the emergence of bodily-visual communication",
+ "authors": "Placiński, Nölle, Sibierska et al.",
+ "venue": "Cognition",
+ "date": "2027-01",
+ "url": "https://doi.org/10.1016/j.cognition.2026.106736",
+ "doi": "10.1016/j.cognition.2026.106736",
+ "themes": [
+  "cx"
+ ],
+ "score": 3,
+ "why": "Wildcard: a cognitive-science paper that treats posture as a micro-ecological constraint on how a problem is posed. An unusual empirical companion to the enabling-constraints idea you take to CARN.",
+ "caveat": "Experimental cognitive psychology. The link to educational design is analogical, and only the abstract was read.",
+ "lang": "en",
+ "wildcard": true,
+ "source": "Crossref topic: Complexity in education",
+ "status": "new",
+ "run": "2026-10-12"
+}

@@ -1,0 +1,27 @@
+{
+ "id": "doi_10.56201_ijelcs.vol.10.no6.2025.pg64.82",
+ "kind": "paper",
+ "title": "Participatory Communication for Sustainable Community Transformation in Abia State: A Paradigm Shift in Development Practice",
+ "authors": "Confidence Chinazaekpere Obiakor",
+ "venue": "INTERNATIONAL JOURNAL OF ENGLISH LANGUAGE AND COMMUNICATION STUDIES",
+ "date": "2026-10-06",
+ "url": "https://doi.org/10.56201/ijelcs.vol.10.no6.2025.pg64.82",
+ "doi": "10.56201/ijelcs.vol.10.no6.2025.pg64.82",
+ "lang": "",
+ "source": "OpenAlex: Participatory action research",
+ "run": "2026-10-12",
+ "abstract": "Transformation in Abia State using a Paradigm Shift in Development Practice. To achieve this, a problem statement was formulated, with three research objectives and questions guiding the inquiry. Abia State was adopted as the unit of study. The research was anchored on two theories: Participatory Communication Theory and Empowerment Communication Theory. The study adopted the survey method. The total population of Abia State was 4,196,935 (projected from the 2006 census of 2,845,380 using a 2.5% growth rate). Taro Yamane’s formula produced a sample size of 400. Quantitative data were analyzed with frequency tables and Weighted Mean Score (WMS) from a four-point Likert scale, while qualitative responses from interviews were examined using Yin’s Building Techniques, which allowed for thematic organization and explanation building. Findings revealed that participatory communication, social mobilization, advocacy, capacity-building programmes, and public meetings are central to participatory communication in Abia State. Respondents also acknowledged the use of participatory rural appraisal, focus group discussions, community forums, folk media, and participatory video/ICT platforms. The study concluded that participatory communication in Abia State is largely driven by inclusive participatory strategies. It recommended that government and development agencies institutionalize participatory communication in project design and implementation, while paying greater attention to women and youth participation to foster inclusive and sustainable outcomes.",
+ "themeGuess": [
+  "par"
+ ],
+ "found": "2026-10-12T11:37:24",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "openalex": "https://openalex.org/W7220706279"
+}

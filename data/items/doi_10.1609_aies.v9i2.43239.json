@@ -1,0 +1,21 @@
+{
+ "kind": "paper",
+ "title": "Epistemic Trustworthiness in Generative AI: A Normative Framework for Warranted Reliance in High-Stakes Workflows",
+ "authors": "Karnatak, Kleek, Shadbolt",
+ "venue": "Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society",
+ "date": "2026-10-11",
+ "url": "https://doi.org/10.1609/aies.v9i2.43239",
+ "doi": "10.1609/aies.v9i2.43239",
+ "themes": [
+  "pc",
+  "ai"
+ ],
+ "score": 4,
+ "why": "Asks when reliance on a generative output is epistemically warranted rather than merely induced. That is the normative half of professional criticality in high-stakes work.",
+ "caveat": "A conceptual framework from computer ethics. The professional cases are illustrative, not studied.",
+ "lang": "en",
+ "wildcard": false,
+ "source": "Crossref topic: AI & curriculum",
+ "status": "new",
+ "run": "2026-10-12"
+}

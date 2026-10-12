@@ -1,0 +1,171 @@
+{
+ "doi_10.3390_jintelligence14100254": {
+  "score": 5,
+  "themes": ["ai", "pc"],
+  "why": "Twenty-five university teachers describe how they delegate cognitive work to GenAI and how they defend their judgement while doing it. This is the closest thing on the radar this week to your own question about professional judgement under generative AI.",
+  "caveat": "Every participant came through one AI-focused learning community in China, so the accounts show a committed minority rather than a whole sector."
+ },
+ "doi_10.1609_aies.v9i1.43150": {
+  "score": 5,
+  "themes": ["dec", "ai"],
+  "why": "Names epistemic extractivism inside the GenAI stack and links platform design to who gets to know what. It joins your AI strand to your epistemic-justice reading in one argument.",
+  "caveat": "A critical argument, not a measurement of extraction. The claims about platform behaviour rest on public statements."
+ },
+ "doi_10.3390_jintelligence14100247": {
+  "score": 4,
+  "themes": ["ai", "pc"],
+  "why": "Proposes a relational model of epistemic agency for advanced learners, which gives your AI-and-professional-criticality papers a frame for the problem that performance stops being evidence of independent competence once GenAI is in the loop.",
+  "caveat": "A theoretical synthesis from a structured database search. The model is not tested with students."
+ },
+ "doi_10.1016_j.caeai.2026.100637": {
+  "score": 4,
+  "themes": ["ai", "cx"],
+  "why": "Uses Engestrom's activity theory to treat GenAI as a runaway object that reconfigures roles, tools and boundaries across teaching and research. A systems reading that fits the complexity line you are taking to CARN.",
+  "caveat": "One mathematics department in one institution. The runaway-object framing is suggestive rather than measured."
+ },
+ "doi_10.1609_aies.v9i2.43239": {
+  "score": 4,
+  "themes": ["pc", "ai"],
+  "why": "Asks when reliance on a generative output is epistemically warranted rather than merely induced. That is the normative half of professional criticality in high-stakes work.",
+  "caveat": "A conceptual framework from computer ethics. The professional cases are illustrative, not studied."
+ },
+ "doi_10.1002_sce.70106": {
+  "score": 4,
+  "themes": ["pc", "dbr"],
+  "why": "Unpacks epistemic agency into distinguishable facets of epistemic cognition. It sharpens any claim that a design gives students agency, which your Professional Criticality papers need.",
+  "caveat": "A conceptual clarification in science education. The facets are not yet turned into measures."
+ },
+ "doi_10.1016_j.edurev.2026.100853": {
+  "score": 4,
+  "themes": ["cx", "dbr"],
+  "why": "A PRISMA review of how K-12 game-making curricula are designed to build systems thinking. A design-principle source for the CDC Urban Innovation course.",
+  "caveat": "Only ten empirical reports met the criteria, so the design principles rest on a thin base."
+ },
+ "doi_10.1016_j.envsci.2026.104513": {
+  "score": 4,
+  "themes": ["dec", "eco"],
+  "why": "Follows Dutch-Kenyan waste relations to show how circular-economy projects move value and harm across borders. The critical frame your urban-innovation work needs on circularity.",
+  "caveat": "One bilateral case. The mechanism claims are not tested against other material flows."
+ },
+ "doi_10.1016_j.eist.2026.101200": {
+  "score": 4,
+  "themes": ["dec", "td"],
+  "why": "Reads the EU Critical Raw Materials Act as an extraction strategy under a just-transition label. Exactly the policy contradiction worth naming in transition work.",
+  "caveat": "A policy analysis of one act. Implementation evidence does not exist yet."
+ },
+ "doi_10.1016_j.eist.2026.101194": {
+  "score": 4,
+  "themes": ["eco", "td"],
+  "why": "Shows what happens when a municipality tries to govern through values instead of rules, in Gothenburg's Sustainable Lifestyles Strategy. Directly useful to the Almere and Flevoland work.",
+  "caveat": "One city and one strategy, so the findings about the turn to values stay illustrative."
+ },
+ "doi_10.1177_14767503261490029": {
+  "score": 5,
+  "themes": ["par", "dec"],
+  "why": "A four-year participatory action research project that turns its critical lens on itself: research dependency became a crutch for the community it was meant to serve. Read this before you promise participation again.",
+  "caveat": "One Italian community-supported agriculture initiative over four years. The dependency pattern may belong to that funding and governance arrangement."
+ },
+ "oa_W7170227333": {
+  "score": 4,
+  "themes": ["par", "dec"],
+  "why": "Communities in south-west Colombia define security through territorio and their own practices. It is the vernacular, pluriversal counterpoint to participation designed from outside, with empirical grounding.",
+  "caveat": "An accepted manuscript in a repository with no DOI. Check the version of record before you cite it."
+ },
+ "doi_10.1111_tran.70098": {
+  "score": 4,
+  "themes": ["dec"],
+  "why": "Shows how journal hierarchies reproduce the power geometry of knowledge production, and names pluriversal alternatives. Relevant to how your own FUNGI corpus is assembled.",
+  "caveat": "Written from geography. The bibliometric part depends on the indices the authors could see."
+ },
+ "doi_10.30676_jfas.156408": {
+  "score": 4,
+  "themes": ["dec", "par"],
+  "why": "Uses anticolonial artistic practice to open pluriversal space inside a growth-bound institution. The closest thing this week to a method for pluralising your own workshops.",
+  "caveat": "An anthropological argument from workshop practice. No transferable evaluation is offered."
+ },
+ "doi_10.1108_eisfl-06-2026-0098": {
+  "score": 3,
+  "themes": ["ai", "pc"],
+  "why": "A rare account of GenAI offloading under an externally imposed crisis, when Pakistan mandated online teaching in 2026. It gives the offloading literature a context outside the usual coursework setting.",
+  "caveat": "No pre-crisis baseline and no control group, as the authors state themselves, so the sizes of the effects are not interpretable."
+ },
+ "doi_10.3390_ai7100417": {
+  "score": 3,
+  "themes": ["ai", "pc"],
+  "why": "Separates practical AI literacy from several dimensions of AI anxiety among arts students. Useful if the CDC course has to address AI worry as well as AI skill.",
+  "caveat": "One country and one faculty of arts. The cross-sectional design cannot show whether literacy reduces anxiety or the reverse."
+ },
+ "doi_10.18261_uniped.49.3.6": {
+  "score": 3,
+  "themes": ["pc", "dbr"],
+  "why": "A Nordic teacher-education study on simulation, critical thinking and professional judgement, close to the teacher-education work this radar already follows.",
+  "caveat": "Only the title and the metadata were read. The abstract was not available from Crossref or OpenAlex, so method and sample are unverified."
+ },
+ "doi_10.3167_cont.2026.140202": {
+  "score": 3,
+  "themes": ["par", "dec"],
+  "why": "Argues that emotional reflexivity is an epistemic resource in research under repression, with fieldwork among Istanbul food cooperatives. A counterweight to method sections that treat emotion as noise.",
+  "caveat": "The setting is repressive politics. The transfer to research in Dutch public space needs care."
+ },
+ "doi_10.1016_j.cognition.2026.106736": {
+  "score": 3,
+  "themes": ["cx"],
+  "wildcard": true,
+  "why": "Wildcard: a cognitive-science paper that treats posture as a micro-ecological constraint on how a problem is posed. An unusual empirical companion to the enabling-constraints idea you take to CARN.",
+  "caveat": "Experimental cognitive psychology. The link to educational design is analogical, and only the abstract was read."
+ },
+ "doi_10.1108_vjikms-12-2025-0544": {
+  "score": 3,
+  "themes": ["td", "eco"],
+  "why": "Tests knowledge integration as the path from project governance and inclusive leadership to team wellbeing in multi-project work. Relevant to how the Digital Twin Flevoland consortium is run.",
+  "caveat": "A self-report survey in a corporate project setting. The governance constructs are proxies."
+ },
+ "doi_10.1111_ssm.70067": {
+  "score": 3,
+  "themes": ["td", "eco"],
+  "why": "Asks how a research-practice partnership builds and keeps a shared vision in its early years. That is the practical question behind your living-lab work.",
+  "caveat": "One rural network in the United States. The findings are bound to that context."
+ },
+ "doi_10.1016_j.envsci.2026.104511": {
+  "score": 3,
+  "themes": ["par"],
+  "why": "A worked co-design experiment in participatory soundscape design, with the framework taken from expert interviews into application. A usable method template for participatory work in public space.",
+  "caveat": "The framework is expert-informed and applied once. Participant outcomes are underreported."
+ },
+ "doi_10.15826_csp.2026.10.3.403": {
+  "score": 3,
+  "themes": ["par", "eco"],
+  "why": "An Indonesian neighbourhood-association case that links participation to local economic empowerment. A comparison point for the neighbourhood work in the CDC course.",
+  "caveat": "Qualitative and single-site. The empowerment claims are the authors' reading of participant accounts."
+ },
+ "doi_10.1177_30497515261492733": {
+  "score": 3,
+  "themes": ["dec", "eco"],
+  "why": "Reframes climate governance from harm to care, drawing on Indigenous environmental justice and urban political ecology. A normative frame for urban-nature work.",
+  "caveat": "A conceptual contribution. No governance arrangement is evaluated."
+ },
+ "doi_10.63379_wte8mz58": {
+  "score": 4,
+  "themes": ["pc", "dbr"],
+  "why": "A Dutch practice report on threading onderzoekend vermogen through a whole pabo curriculum. The closest published template to what Windesheim is building in its own teacher education.",
+  "caveat": "A practice description by the designers themselves, and the first of a pair. No effect data."
+ },
+ "doi_10.63379_mbrjqx82": {
+  "score": 4,
+  "themes": ["pc", "dbr"],
+  "why": "The second half of the same pair, on the graduation phase of the pabo. Together the two give a two-part curriculum model for onderzoekend vermogen.",
+  "caveat": "A practice description. Student learning is illustrated rather than measured."
+ },
+ "doi_10.3828_tpr.2026.20": {
+  "score": 3,
+  "themes": ["dec", "dbr"],
+  "why": "Opens the conversation about decolonising European planning education, which is the curriculum-side twin of your epistemic-justice reading.",
+  "caveat": "No abstract was available from Crossref or OpenAlex, so only the title and metadata were read. It is a conversation piece by its own description."
+ },
+ "sg-hva-bestuurder-henk-geveke-wil-verplichte-ai-c": {
+  "score": 3,
+  "themes": ["ai", "pc"],
+  "why": "A leader of a Dutch university of applied sciences argues for a compulsory AI course for all staff, which is the sector-level version of the question your own institution is asking about AI and professional work.",
+  "caveat": "Discourse, not research: a news report of one administrator's position."
+ }
+}

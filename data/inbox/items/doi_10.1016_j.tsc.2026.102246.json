@@ -1,0 +1,27 @@
+{
+ "id": "doi_10.1016_j.tsc.2026.102246",
+ "kind": "paper",
+ "title": "Mind the gap: Perceived academic self-efficacy, creativity, and critical thinking with and without ChatGPT",
+ "authors": "Meishar-Tal, Amzalag",
+ "venue": "Thinking Skills and Creativity",
+ "date": "2026-12",
+ "url": "https://doi.org/10.1016/j.tsc.2026.102246",
+ "doi": "10.1016/j.tsc.2026.102246",
+ "lang": "en",
+ "source": "Crossref topic: Professional criticality",
+ "run": "2026-10-12",
+ "abstract": "This study investigates the effects of students’ ChatGPT use on their academic self-efficacy in higher education. With the increasing adoption of generative AI (GenAI) tools such as ChatGPT in learning environments, concerns have emerged about their influence on learners’ academic self-efficacy. Using a quantitative design, the study collected data through a structured online questionnaire completed by 296 higher education students. The findings indicate that perceived independent academic self-efficacy (without ChatGPT) is, in most cases, higher than their perceived technology-mediated academic self-efficacy (with ChatGPT). Nevertheless, while ChatGPT increases students perceived self-efficacy when used, it simultaneously decreases their confidence in completing tasks without its assistance. In addition, while perceived academic self-efficacy without using ChatGPT is significantly correlated with students’ perceived creativity and critical thinking, perceived academic self-efficacy with ChatGPT is not. These findings raise concerns about potential overreliance on GenAI tools and their impact on the relationship between self-efficacy and personal cognitive traits. The study concludes by emphasizing the need for balanced GenAI integration in education to foster independent learning skills, creativity, and critical thinking, while preventing dependency and promoting responsible, reflective technology use.",
+ "themeGuess": [
+  "pc"
+ ],
+ "found": "2026-10-12T11:36:24",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": "OpenAlex"
+}

@@ -1,0 +1,25 @@
+{
+ "id": "doi_10.1016_j.landurbplan.2026.105795",
+ "kind": "paper",
+ "title": "Urban forest cooling efficiency and heat exposure inequity under extreme heat: Evidence from 550 global cities",
+ "authors": "Wang, Miao, Ren et al.",
+ "venue": "Landscape and Urban Planning",
+ "date": "2027-02",
+ "url": "https://doi.org/10.1016/j.landurbplan.2026.105795",
+ "doi": "10.1016/j.landurbplan.2026.105795",
+ "lang": "en",
+ "source": "Journal watch: Landscape and Urban Planning",
+ "run": "2026-10-12",
+ "abstract": "Extreme heat has become a key factor affecting urban residents’ quality of life, existing studies on urban forest have focused on their average cooling effects, overlooking whether and how variations in cooling efficiency affect heat exposure inequity. To address these gaps, this study selected 550 cities worldwide with a main urban area exceeding 100 km 2 to analyze the relationship between urban forest cooling efficiency and heat exposure inequity over the past 24 years. We found that although tree coverage increased in most cities, the enhanced vegetation index (EVI) deteriorated in nearly half of them, revealing a polarizing pattern: “High coverage turning green, low coverage turning brown.” Notably, tree coverage and EVI were particularly fragile in tropical climates and low Human Development Index (HDI) cities. We found that each 1 % increase in tree coverage reduces the average land surface temperature during extreme heat by 0.31 °C. However, this cooling efficiency is distributed extremely unevenly. The study utilized the population-weighted temperature Gini coefficient to represent the inequity of urban heat exposure. About 25.2 % of cities experienced increased heat exposure inequity, particularly in developed cities, as increasing tree coverage unintentionally exacerbated spatial inequity. At the same time, about 5.6 % of cities even exhibit a forest warming effect, especially in the desert climate zones and low HDI areas. About 66 % of the cities showed that as the cooling efficiency of urban forest increased, there was a corresponding increase in heat exposure equity. The study proposed the concept of the equity potential index and compared the possibility of achieving equity potential for the cooling efficiency of urban forest under the three scenarios: SSP1-2.6, SSP2-4.5, and SSP3-7.0. The study showed that SSP1-2.6 is more favorable for temperate climate zones and low-HDI cities, whereas SSP2-4.5 is more beneficial for tropical, continental climates, and very high HDI cities. This study provides a scientific, equity-oriented framework for designing place-specific urban forest strategies that enhance thermal resilience and social sustainability.",
+ "themeGuess": [],
+ "found": "2026-10-12T11:37:17",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": "OpenAlex"
+}

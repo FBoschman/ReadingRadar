@@ -1,0 +1,24 @@
+{
+ "id": "bs-3mxh4bnh7gc2e",
+ "kind": "discourse",
+ "title": "#CCS2026 kicking off with the yrCSS Warm-Up session!",
+ "authors": "Bluesky",
+ "venue": "Bluesky",
+ "date": "2026-10-09",
+ "url": "https://bsky.app/profile/css-conference.bsky.social/post/3mxh4bnh7gc2e",
+ "doi": "",
+ "lang": "",
+ "source": "Bluesky: @css-conference.bsky.social, Bluesky: @yrcss.bsky.social",
+ "run": "2026-10-12",
+ "abstract": "#CCS2026 kicking off with the yrCSS Warm-Up session!",
+ "themeGuess": [],
+ "found": "2026-10-12T11:37:27",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ }
+}

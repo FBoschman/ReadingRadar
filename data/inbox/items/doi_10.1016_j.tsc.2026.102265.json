@@ -1,0 +1,27 @@
+{
+ "id": "doi_10.1016_j.tsc.2026.102265",
+ "kind": "paper",
+ "title": "Promoting critical thinking in Vietnamese EFL classrooms: Teachers’ perceptions and challenges",
+ "authors": "Nguyen, Nguyen",
+ "venue": "Thinking Skills and Creativity",
+ "date": "2026-12",
+ "url": "https://doi.org/10.1016/j.tsc.2026.102265",
+ "doi": "10.1016/j.tsc.2026.102265",
+ "lang": "en",
+ "source": "Crossref topic: Professional criticality",
+ "run": "2026-10-12",
+ "abstract": "Critical thinking (CT) is widely promoted in English language teaching, yet evidence on how in-service teachers conceptualize and enact CT in non-Anglophone secondary settings remains limited. This study offers an embedded mixed-methods approximate replication of prior CT work to examine Vietnamese secondary EFL teachers’ CT perceptions, perceived barriers, and context-sensitive solutions. A survey of 122 in-service teachers (8 CT-perception items; 24 barrier items across six domains) was paired with open-ended prompts. Given Likert data and non-normality, we report medians/IQRs and use Mann–Whitney , Kruskal–Wallis (ε²), and Friedman with Wilcoxon follow-ups (Holm), alongside effect sizes. Scale reliability was examined at the domain level. CT perceptions were favourable (composite Mdn = 4.00, IQR = 0.50 ; α = 0.88) with mild ceiling tendencies. Perceptions did not differ by gender ( U = 1743.50, p = .626, r = 0.04 ) but varied by experience ( H(3) = 17.96, p < .001, ε² = 0.13); teachers with 10+ years scored higher than those with 4–6 years ( p_Holm = 0.003, r = 0.41 ) and 7–10 years (p_Holm = 0.026, r = 0.29). Barriers differed within-person (Friedman χ²(5) = 221.73, p < .001, Kendall’s W = 0.36 ): Student Readiness ranked highest, followed by Resource Availability and Teacher Training. Domain reliability was high for Student Readiness (α = 0.95) and acceptable for Cultural Influences (α = 0.73) but weak for several barrier composites, indicating heterogeneous content. Qualitative themes emphasized language scaffolding , assessment signals that reward reasoning, targeted professional development (PD), and resource provision. Teachers expressed strong conceptual support for CT, yet systemic and classroom constraints,especially student language andreadiness, limit enactment. Strengthening CT integration in EFL requires PD that couples CT with language scaffolds, alignment of assessments with reasoning, and resourcing for CT-rich tasks. Regional, snowball sampling (Mekong Delta), self-report measures, and mixed-valence barrier items constrain generalizability; classroom observations and instrument refinement are recommended.",
+ "themeGuess": [
+  "pc"
+ ],
+ "found": "2026-10-12T11:36:24",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": "OpenAlex"
+}

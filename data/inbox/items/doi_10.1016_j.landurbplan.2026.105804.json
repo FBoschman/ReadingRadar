@@ -1,0 +1,25 @@
+{
+ "id": "doi_10.1016_j.landurbplan.2026.105804",
+ "kind": "paper",
+ "title": "Nature- versus non-nature-based recreation: A comparative assessment of self-reported anxiety alleviation",
+ "authors": "Wu, Liu, Li et al.",
+ "venue": "Landscape and Urban Planning",
+ "date": "2027-02",
+ "url": "https://doi.org/10.1016/j.landurbplan.2026.105804",
+ "doi": "10.1016/j.landurbplan.2026.105804",
+ "lang": "en",
+ "source": "Journal watch: Landscape and Urban Planning",
+ "run": "2026-10-12",
+ "abstract": "Nature-based recreation delivers vital ecosystem services that shape human physical and psychological well-being, representing a core category of nature’s contributions to people within urban and peri -urban social-ecological landscapes. While non-nature-based recreational activities can also improve people’s quality of life by mitigating anxiety, the relative contributions of nature- and non-nature-based recreation to people’s mental health, and the factors that influence them, remain largely unknown. Here, we conducted a survey of 15,522 respondents across China and applied structural equation modeling to show that nature-based recreation is associated with significantly stronger self-reported anxiety alleviation than non-nature-based recreation. A longer time allocation to nature-based recreational activities during holidays and weekends was also associated with greater self-reported alleviation of anxiety from nature-based recreation. Furthermore, predictors including environmental pressure, anxiety-related attributes, and socioeconomic status were associated with the relative contributions of nature- and non-nature-based anxiety alleviation, with these associations partly mediated via recreation engagement. This empirical evidence improves integrated landscape and urban planning frameworks by providing context-specific guidance for sustainable urban recreational space design and cross-regional governance focused on public health.",
+ "themeGuess": [],
+ "found": "2026-10-12T11:37:17",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": "OpenAlex"
+}

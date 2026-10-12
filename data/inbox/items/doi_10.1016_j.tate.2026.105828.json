@@ -1,0 +1,25 @@
+{
+ "id": "doi_10.1016_j.tate.2026.105828",
+ "kind": "paper",
+ "title": "Relationships between institutional support, research accessibility and teachers’ perceived need for scientific advancement: Domain-specific professional interest as a modest mediator",
+ "authors": "Mallén-Berdejo, Latorre-Cosculluela, Quílez-Robres",
+ "venue": "Teaching and Teacher Education",
+ "date": "2026-12",
+ "url": "https://doi.org/10.1016/j.tate.2026.105828",
+ "doi": "10.1016/j.tate.2026.105828",
+ "lang": "en",
+ "source": "Journal watch: Teaching and Teacher Education",
+ "run": "2026-10-12",
+ "abstract": "Despite efforts to promote evidence-based education, teachers’ engagement with research remains limited and shaped by institutional, professional and motivational factors. This study explored the perceptions of 780 Spanish teachers across educational levels regarding the relationship between research and teaching practice. Institutional support, research accessibility, interest in professional development and the perceived need for scientific advancement were examined through a structural equation model with latent variables (SEM-LV). Results indicate that, although teachers report positive attitudes towards professional learning and scientific advancement, they experience limited institutional support and difficulties in accessing, understanding and contextualising educational research. Domain-specific interest may help explain a modest indirect association between research accessibility and the perceived need for scientific advancement. Furthermore, teachers reported high interest in research-based professional learning addressing educational challenges such as school climate, diversity and bullying prevention. Findings suggest that access to research may be insufficient unless evidence is relevant, useful and contextually grounded.",
+ "themeGuess": [],
+ "found": "2026-10-12T11:37:04",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": "OpenAlex"
+}

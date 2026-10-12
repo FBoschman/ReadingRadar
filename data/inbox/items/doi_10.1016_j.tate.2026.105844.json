@@ -1,0 +1,25 @@
+{
+ "id": "doi_10.1016_j.tate.2026.105844",
+ "kind": "paper",
+ "title": "Does teacher-student closeness mediate the effect of teacher enthusiasm on self-efficacy? A diary study among Chinese teachers",
+ "authors": "Qu, Sun, Ju et al.",
+ "venue": "Teaching and Teacher Education",
+ "date": "2026-12",
+ "url": "https://doi.org/10.1016/j.tate.2026.105844",
+ "doi": "10.1016/j.tate.2026.105844",
+ "lang": "en",
+ "source": "Journal watch: Teaching and Teacher Education",
+ "run": "2026-10-12",
+ "abstract": "Teacher self-efficacy is critical for effective teaching, highlighting the importance of identifying its predictors. Drawing on the Broaden-and-Build Theory of positive emotions and the Prosocial Classroom Model, this study examined whether teacher enthusiasm predicts teacher self-efficacy and whether teacher-student closeness mediates this association. A two-week diary study was conducted with 132 Chinese primary and secondary school teachers, yielding 1293 daily reports. Data were analyzed using multilevel structural equation modeling and residual dynamic structural equation modeling. Teacher enthusiasm positively predicted teacher self-efficacy at both the between-person and same-day within-person levels, and teacher-student closeness mediated this association. However, lagged analyses showed that teacher enthusiasm negatively predicted next-day teacher self-efficacy, and teacher-student closeness did not mediate this association. These findings suggest that the relationship between teacher enthusiasm and teacher self-efficacy differs across temporal levels, highlighting the importance of adopting multilevel and temporal perspectives to understand teachers’ emotional and motivational functioning.",
+ "themeGuess": [],
+ "found": "2026-10-12T11:37:04",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": "OpenAlex"
+}

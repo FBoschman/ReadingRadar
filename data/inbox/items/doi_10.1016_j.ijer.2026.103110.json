@@ -1,0 +1,25 @@
+{
+ "id": "doi_10.1016_j.ijer.2026.103110",
+ "kind": "paper",
+ "title": "Teachers learning to guide classroom discussions on controversial issues: a study of a professional development program",
+ "authors": "Schuitema, Kruit, Knezic et al.",
+ "venue": "International Journal of Educational Research",
+ "date": "2027",
+ "url": "https://doi.org/10.1016/j.ijer.2026.103110",
+ "doi": "10.1016/j.ijer.2026.103110",
+ "lang": "en",
+ "source": "Journal watch: International Journal of Educational Research",
+ "run": "2026-10-12",
+ "abstract": "Classroom discussions on controversial issues are widely regarded as an essential part of democratic citizenship education, yet there is limited knowledge about how teachers can be supported in facilitating them. This study evaluates a professional development program (PDP) aimed at supporting in-service teachers in guiding classroom discussions on controversial issues. The program involved peer-coaching sessions where teachers experimented with discussion strategies and reflected on their experiences. The study adopted a mixed-methods design, combining a quasi-experimental study (N = 54) to assess effects on teachers’ self-efficacy regarding an open and safe classroom climate, co-construction, and content quality, with stimulated recall interviews (N = 8) to explore how teachers experienced the PDP and applied it in their classroom practice. The results showed that participation in the PDP was associated with significantly greater growth in teachers’ self-efficacy for supporting an open and safe classroom climate and co-construction, compared to a control group. No significant effects were found for teacher self-efficacy with respect to promoting content quality. The qualitative findings mirrored these results and provided further insight into teachers’ perceptions of how the PDP supported their approaches to classroom discussions, while also highlighting persistent challenges, particularly in balancing neutrality with normative guidance during discussions. The findings suggest that practice-oriented professional development, combined with structured opportunities for collaborative reflection, can strengthen teachers’ confidence in guiding such discussions and support teachers in reflecting on and further developing their approaches to classroom discussions on controversial issues.",
+ "themeGuess": [],
+ "found": "2026-10-12T11:37:23",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": "OpenAlex"
+}

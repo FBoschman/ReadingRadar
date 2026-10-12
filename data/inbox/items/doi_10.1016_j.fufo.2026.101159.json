@@ -1,0 +1,27 @@
+{
+ "id": "doi_10.1016_j.fufo.2026.101159",
+ "kind": "paper",
+ "title": "Developing vegan spreads with fish-like sensory attributes through co-creation",
+ "authors": "Ubiparip, Županjac, Ikonić et al.",
+ "venue": "Future Foods",
+ "date": "2026-12",
+ "url": "https://doi.org/10.1016/j.fufo.2026.101159",
+ "doi": "10.1016/j.fufo.2026.101159",
+ "lang": "en",
+ "source": "Crossref topic: Learning ecosystems",
+ "run": "2026-10-12",
+ "abstract": "Pulses and seaweed offer significant potential as alternative protein sources in the plant-based food sector. However, their combined use remains underexplored in participatory food innovation, particularly at the early stages of product development. This study addresses this gap by applying hands-on co-creation using LEGO® Serious Play® methodology to the development of vegan spreads. A three-phase collaborative framework was implemented to co-create vegan spreads with fish-like sensory attributes using pulses, seaweed, and essential oils. Online survey (n = 1000) identified key sensory drivers, market expectations, and opportunities for this type of plant-based spreads. Subsequently, 17 diverse stakeholders co-created 4 pulse-seaweed spread concepts through structured workshop activities. Expert panels evaluated developed prototypes through rapid sensory screening and quality assessment (n = 3) and technological assessments (n = 3). Two prototypes demonstrated superior sensory acceptability and commercial potential, characterized by balanced umami notes and seafood-reminiscent flavour profiles. The originality of this research lies in the integration of large-scale consumer insights obtained through a survey with multi-stakeholder, hands-on co-creation using the LEGO® Serious Play® methodology, complemented by expert-driven evaluation, forming a comprehensive early-stage innovation framework. Findings suggest that early-stage multidisciplinary co-creation can support consumer-informed product development in plant-based food sector by translating consumer expectations into practical formulation. Open innovation approach helped connect market insights with technical feasibility, but further research is needed to address the prototypes. The findings provide insights for the development of sustainable fish alternatives that better align with growing demand for vegan and plant-based diets, and consumer expectations regarding familiarity, ingredients and sensory direction.",
+ "themeGuess": [
+  "eco"
+ ],
+ "found": "2026-10-12T11:36:05",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": "OpenAlex"
+}

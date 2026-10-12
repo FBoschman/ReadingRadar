@@ -1,0 +1,27 @@
+{
+ "id": "doi_10.1016_j.jik.2026.101072",
+ "kind": "paper",
+ "title": "Crossing the valley of death: A fault and coupling verification framework for technology-business integration in dual-node incubation systems",
+ "authors": "Chen, Wang",
+ "venue": "Journal of Innovation & Knowledge",
+ "date": "2026-11",
+ "url": "https://doi.org/10.1016/j.jik.2026.101072",
+ "doi": "10.1016/j.jik.2026.101072",
+ "lang": "en",
+ "source": "Crossref topic: Transdisciplinary research",
+ "run": "2026-10-12",
+ "abstract": "In high-complexity innovation, the rhythm gap between slow technology validation (technology readiness level [TRL] linear advancement) and fast market validation (minimum viable product [MVP]/minimum viable experiment [MVE] rapid iteration) is often the primary cause of the ‘valley of death’. However, the institutional explanation for how this gap can be bridged organisationally remains limited. Considering the unique dual-node verification system of the Blue Bay Science and Technology Innovation Platform, this study conducted embedded comparative case studies on four projects with different complexities, revealing a reconfigurable verification rhythm mechanism for coupling technical and commercial validation. TRL and MVP/MVE can be integrated into a dynamic two-loop coupling structure. Such integration is achieved by forward-leaning commercial validation for early requirement convergence, backward-leaning technical validation for small-scale controllable testing and platform-based ‘rhythm choreography’ to coordinate the two originally separate verification cycles. This structure can yield demand-led, bi-directional-interactive or technology-led pathways under different industrial complexities. This study provides a new institutional explanation for the valley of death and proposes principles for verification arrangements suitable for industries with high complexity and strong regulation using rhythm as the analysis unit. These contributions offer operational governance implications for incubators, science and technology innovation platforms and innovation policies. Results orchestrate TRL and MVP/MVE into a co-performing verification cycle, challenging the traditional perception of them as independent paths.",
+ "themeGuess": [
+  "td"
+ ],
+ "found": "2026-10-12T11:36:09",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": "OpenAlex"
+}

@@ -1,0 +1,21 @@
+{
+ "kind": "paper",
+ "title": "Between Human and Machine: University Teachers’ Accounts of Judgment, Metacognitive Defense, and Cognitive Offloading in Generative AI Use",
+ "authors": "Qiang, Wang",
+ "venue": "Journal of Intelligence",
+ "date": "2026-10-10",
+ "url": "https://doi.org/10.3390/jintelligence14100254",
+ "doi": "10.3390/jintelligence14100254",
+ "themes": [
+  "ai",
+  "pc"
+ ],
+ "score": 5,
+ "why": "Twenty-five university teachers describe how they delegate cognitive work to GenAI and how they defend their judgement while doing it. This is the closest thing on the radar this week to your own question about professional judgement under generative AI.",
+ "caveat": "Every participant came through one AI-focused learning community in China, so the accounts show a committed minority rather than a whole sector.",
+ "lang": "en",
+ "wildcard": false,
+ "source": "Crossref topic: AI & curriculum",
+ "status": "new",
+ "run": "2026-10-12"
+}

@@ -1,0 +1,24 @@
+{
+ "id": "doi_10.1007_s11625-026-01913-w",
+ "kind": "paper",
+ "title": "Rethinking what resilience means for Caribbean coasts: a critical review",
+ "authors": "Sands, Seenath",
+ "venue": "Sustainability Science",
+ "date": "2026-10-05",
+ "url": "https://doi.org/10.1007/s11625-026-01913-w",
+ "doi": "10.1007/s11625-026-01913-w",
+ "lang": "",
+ "source": "Journal watch: Sustainability Science",
+ "run": "2026-10-12",
+ "abstract": "Abstract Caribbean coasts face compounding ecological, social, historical, and economic pressures that current resilience conceptualizations do not fully capture. Existing resilience conceptualizations often emphasize resistance, recovery, adaptation, or self-organization while giving limited attention to the Caribbean-specific relationships among colonial histories, tourism-based economic dependence, fragmented governance, and ecological degradation. We treat Caribbean coasts as coupled systems in which sandy beaches, coral reefs, mangroves, marine waters, settlements, infrastructure, and livelihoods are connected through ecological processes and socioeconomic dependence. In this critical review, we trace the evolution of resilience theory across disciplines and examine how its application to coastal systems reveals the limitations of prevailing resilience building approaches in the Caribbean. We show how colonial histories, economic dependencies, and ecological degradation complicate resilience building in Caribbean coastal contexts. We argue for a regionally grounded reconceptualization of coastal resilience that is functional, holistic, adaptable, and evolutionary. This reconceptualization should explicitly integrate ecological, social, and economic realities while centering justice and inclusivity. We conclude by identifying the principles that should guide such reconceptualization and associated policy development and coastal management in the Caribbean.",
+ "themeGuess": [],
+ "found": "2026-10-12T11:36:31",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "id": "doi_10.1080_0142159x.2026.2746558",
+ "kind": "paper",
+ "title": "Twelve tips for using participatory action research in medical education research",
+ "authors": "Hamzavizarghani, Do, Rashid",
+ "venue": "Medical Teacher",
+ "date": "2026-10-10",
+ "url": "https://doi.org/10.1080/0142159x.2026.2746558",
+ "doi": "10.1080/0142159x.2026.2746558",
+ "lang": "",
+ "source": "Crossref topic: Participatory action research",
+ "run": "2026-10-12",
+ "abstract": "",
+ "themeGuess": [
+  "par"
+ ],
+ "found": "2026-10-12T11:36:17",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ }
+}

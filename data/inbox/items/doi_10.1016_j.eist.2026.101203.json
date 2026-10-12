@@ -1,0 +1,25 @@
+{
+ "id": "doi_10.1016_j.eist.2026.101203",
+ "kind": "paper",
+ "title": "Processes of multi-system co-evolution: Insights from carbon capture and storage in Norway",
+ "authors": "Mäkitie, Andersen, Veldhuizen",
+ "venue": "Environmental Innovation and Societal Transitions",
+ "date": "2027-01",
+ "url": "https://doi.org/10.1016/j.eist.2026.101203",
+ "doi": "10.1016/j.eist.2026.101203",
+ "lang": "en",
+ "source": "Journal watch: Environmental Innovation and Societal Transitions",
+ "run": "2026-10-12",
+ "abstract": "Net-zero solutions such as carbon capture and storage (CCS) require the creation of whole new clusters of innovations rather than “merely” a transition in existing systems or the diffusion of single technologies. While prior work highlights negative cross-system interdependencies (e.g., chicken and egg problems), this paper presents a theorization and an empirical study of the processes of multi-system co-evolution that contribute to the formation and development of multi-system complexes. To do this, a framework that integrates the concepts of a meta-rule, structural couplings (institutional, technological, organizational) and complementarity formation mechanisms — synchronization, amplification, and integration — is developed. The framework is illustrated through a qualitative case study of two Norwegian carbon capture and storage projects, Mongstad (2006–2013) and Longship (2016–), drawing on a broad range of media and documentary sources, including policy documents and funding agreements, and 20 interviews. The analysis shows how, in Longship, actors have sought to realize CCS by, for example, (i) fostering coordination and simultaneous co-development between CCS systems via contracts and standards, (ii) enabling CCS systems to expand and diffuse via a scalable ship-to-terminal transport design; and (iii) creating robustness in CCS multi-system complex by involving multiple actors, user sectors and business cases. This differed from Mongstad, where actors failed to prioritize the management of CCS system couplings and related uncertainties. The paper proposes how the processes of multi-system co-evolution can be conceptualized, and explores how actors may seek to deal with the issue of system interdependencies in sustainability transitions.",
+ "themeGuess": [],
+ "found": "2026-10-12T11:37:01",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": "OpenAlex"
+}

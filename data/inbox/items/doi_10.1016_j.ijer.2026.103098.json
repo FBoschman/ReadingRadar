@@ -1,0 +1,25 @@
+{
+ "id": "doi_10.1016_j.ijer.2026.103098",
+ "kind": "paper",
+ "title": "Classroom desertification: Understanding university attendance through students' perspectives using a mixed-methods approach",
+ "authors": "Sallés, Jubany, Jabardo-Camprubí",
+ "venue": "International Journal of Educational Research",
+ "date": "2027",
+ "url": "https://doi.org/10.1016/j.ijer.2026.103098",
+ "doi": "10.1016/j.ijer.2026.103098",
+ "lang": "en",
+ "source": "Journal watch: International Journal of Educational Research",
+ "run": "2026-10-12",
+ "abstract": "Student absenteeism in higher education is associated with poorer academic outcomes, weaker social integration, and increased dropout risk. Beyond individual motivation, attendance decisions are increasingly understood as dynamic evaluations influenced by pedagogical practices, structural constraints, and students’ lived experiences. Within this broader perspective, and drawing on embodiment and power-oriented perspectives, this study examines how physiotherapy students experience the classroom, make attendance decisions, and interpret their presence or absence. A sequential explanatory mixed-methods design was used. Quantitative data were collected through surveys and attendance records from 184 physiotherapy students (2022–2023). The qualitative phase included five focus groups with 35 students (2024–2025). Data were analysed descriptively and through abductive thematic analysis informed by sociological theory. Quantitative findings showed that evaluative activities, practical exercises, and doubt resolution were primary motivators, while lectures were least valued. Non-attendance was influenced by the perceived efficiency of independent study, preparation for other courses, limited exam relevance, and external commitments. Recorded sessions (n = 91) showed average attendance of 63.7 % in the first half of the class and 57.8 % in the second half, with lower participation in theoretical courses and higher participation in practical subjects. Qualitative analysis revealed that absenteeism arises from interactions among structural conditions, relational experiences, pedagogical strategies, and personal agency. Three themes emerged: modes of engagement (responsive vs. non-responsive students), power and emotional climate, and relational misalignments. Findings suggest that attendance is a situated and strategic decision rather than a simple indicator of motivation or disengagement. Students weigh the academic, relational, and personal value of attending, while pedagogical design and classroom climate influence engagement. However, many determinants of attendance extend beyond instructors’ control. Understanding these interacting factors may support more realistic, equitable, and effective approaches to student engagement.",
+ "themeGuess": [],
+ "found": "2026-10-12T11:37:23",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": "OpenAlex"
+}

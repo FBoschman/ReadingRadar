@@ -1,0 +1,500 @@
+{
+ "itemId": "doi_10.1016_j.caeai.2026.100670",
+ "title": "Teachers as reflective regulators of cognition: Understanding cognitive offloading in AI-augmented practice",
+ "doi": "10.1016/j.caeai.2026.100670",
+ "refs": [
+  {
+   "a": "Asad",
+   "y": 2024,
+   "t": "ChatGPT as artificial intelligence-based generative multimedia for English writing pedagogy: Challenges and opportunities from an educator's perspective",
+   "j": "The International Journal of Information and Learning Technology",
+   "d": "10.1108/IJILT-02-2024-0021"
+  },
+  {
+   "a": "Baddeley",
+   "y": 2012,
+   "t": "Working memory: Theories, models, and controversies",
+   "j": "Annual Review of Psychology",
+   "d": "10.1146/annurev-psych-120710-100422"
+  },
+  {
+   "a": "Biagini",
+   "y": 2025,
+   "t": "Towards an AI-literate future: A systematic literature review exploring education, ethics, and applications",
+   "j": "International Journal of Artificial Intelligence in Education",
+   "d": "10.1007/s40593-025-00466-w"
+  },
+  {
+   "a": "Braun",
+   "y": 2006,
+   "t": "Using thematic analysis in psychology",
+   "j": "Qualitative Research in Psychology",
+   "d": "10.1191/1478088706qp063oa"
+  },
+  {
+   "a": "",
+   "y": 2004,
+   "t": "",
+   "j": "",
+   "d": ""
+  },
+  {
+   "a": "Chandel",
+   "y": 2025,
+   "t": "Generative AI and literacy development in the language classroom: A systematic review of literature",
+   "j": "Ubiquitous Learning: An International Journal",
+   "d": "10.18848/1835-9795/CGP/v18i02/31-49"
+  },
+  {
+   "a": "Cheng",
+   "y": 2023,
+   "t": "Leading digital transformation and eliminating barriers for teachers to incorporate artificial intelligence in basic education in Hong Kong",
+   "j": "Computers and Education: Artificial Intelligence",
+   "d": ""
+  },
+  {
+   "a": "Chiu",
+   "y": 2024,
+   "t": "The impact of Generative AI (GenAI) on practices, policies and research direction in education: A case of ChatGPT and Midjourney",
+   "j": "Interactive Learning Environments",
+   "d": "10.1080/10494820.2023.2253861"
+  },
+  {
+   "a": "Córdova-Esparza",
+   "y": 2025,
+   "t": "AI-Powered educational agents: Opportunities, innovations, and ethical challenges",
+   "j": "Information",
+   "d": "10.3390/info16060469"
+  },
+  {
+   "a": "Datnow",
+   "y": 2016,
+   "t": "Teacher capacity for and beliefs about data-driven decision making: A literature review of international research",
+   "j": "Journal of Educational Change",
+   "d": "10.1007/s10833-015-9264-2"
+  },
+  {
+   "a": "Dunn",
+   "y": 2016,
+   "t": "Toward a metacognitive account of cognitive offloading",
+   "j": "Cognitive Science",
+   "d": "10.1111/cogs.12273"
+  },
+  {
+   "a": "Garcia",
+   "y": 2025,
+   "t": "Teaching and learning computer programming using ChatGPT: A rapid review of literature amid the rise of generative AI technologies",
+   "j": "Education and Information Technologies",
+   "d": "10.1007/s10639-025-13452-5"
+  },
+  {
+   "a": "García-López",
+   "y": 2025,
+   "t": "Challenges of implementing ChatGPT on education: Systematic literature review",
+   "j": "International Journal of Educational Research Open",
+   "d": "10.1016/j.ijedro.2024.100401"
+  },
+  {
+   "a": "Gilbert",
+   "y": 2015,
+   "t": "Strategic offloading of delayed intentions into the external environment",
+   "j": "Quarterly Journal of Experimental Psychology",
+   "d": "10.1080/17470218.2014.972963"
+  },
+  {
+   "a": "",
+   "y": 2023,
+   "t": "",
+   "j": "",
+   "d": ""
+  },
+  {
+   "a": "Grinschgl",
+   "y": 2021,
+   "t": "Consequences of cognitive offloading: Boosting performance but diminishing memory",
+   "j": "Quarterly Journal of Experimental Psychology",
+   "d": "10.1177/17470218211008060"
+  },
+  {
+   "a": "Henriksen",
+   "y": 2025,
+   "t": "Social-Emotional Learning and Generative AI: A critical literature review and framework for teacher education",
+   "j": "Journal of Teacher Education",
+   "d": "10.1177/00224871251325058"
+  },
+  {
+   "a": "Ho",
+   "y": 2025,
+   "t": "Principals' ethical leadership in the AI era: A narrative literature review of emerging challenges, strategies, and outcomes",
+   "j": "Computers & Education",
+   "d": ""
+  },
+  {
+   "a": "Ho",
+   "y": 2025,
+   "t": "From intuition to action: Exploring teachers' ethical awareness in the use of AI tools in education",
+   "j": "Computers and Education: Artificial Intelligence",
+   "d": ""
+  },
+  {
+   "a": "Hollan",
+   "y": 2000,
+   "t": "Distributed cognition: Toward a new foundation for human-computer interaction research",
+   "j": "ACM Transactions on Computer-Human Interaction",
+   "d": "10.1145/353485.353487"
+  },
+  {
+   "a": "Holmes",
+   "y": 2019,
+   "t": "Artificial intelligence in education: Promises and implications for teaching and learning",
+   "j": "Center for Curriculum Redesign",
+   "d": ""
+  },
+  {
+   "a": "Huang",
+   "y": 2026,
+   "t": "Unpacking teachers' engagement in generative AI-facilitated workplace learning: Insights from the AIDUA model",
+   "j": "Education and Information Technologies",
+   "d": "10.1007/s10639-026-13901-9"
+  },
+  {
+   "a": "Ifenthaler",
+   "y": 2020,
+   "t": "Utilising learning analytics to support study success in higher education: A systematic review",
+   "j": "Educational Technology, Research and Development",
+   "d": "10.1007/s11423-020-09788-z"
+  },
+  {
+   "a": "Kildė",
+   "y": 2024,
+   "t": "The integration of generative AI in foreign language teacher education: A systematic literature review",
+   "j": "Pedagogika",
+   "d": "10.15823/p.2024.154.1"
+  },
+  {
+   "a": "Koriat",
+   "y": 2012,
+   "t": "The self-consistency model of subjective confidence",
+   "j": "Psychological Review",
+   "d": "10.1037/a0025648"
+  },
+  {
+   "a": "Kvale",
+   "y": 2009,
+   "t": "",
+   "j": "",
+   "d": ""
+  },
+  {
+   "a": "Lee",
+   "y": 2024,
+   "t": "I see you: Teacher analytics with GPT-4 vision-powered observational assessment",
+   "j": "Smart Learning Environments",
+   "d": "10.1186/s40561-024-00335-4"
+  },
+  {
+   "a": "Mandinach",
+   "y": 2016,
+   "t": "",
+   "j": "",
+   "d": ""
+  },
+  {
+   "a": "",
+   "y": 2021,
+   "t": "",
+   "j": "",
+   "d": ""
+  },
+  {
+   "a": "Neupane",
+   "y": 2024,
+   "t": "Threading the GenAI needle: Unpacking the ups and downs of GenAI for higher education stakeholders",
+   "j": "Journal of Applied Learning & Teaching",
+   "d": "10.37074/jalt.2024.7.2.4"
+  },
+  {
+   "a": "Overono",
+   "y": 2025,
+   "t": "The use of AI disclosure statements in teaching: Developing skills for psychologists of the future",
+   "j": "Teaching of Psychology",
+   "d": "10.1177/00986283241275664"
+  },
+  {
+   "a": "Park",
+   "y": 2024,
+   "t": "Exploring the role of ChatGPT in science education for Asia-Pacific and beyond: A systematic review",
+   "j": "Asia-Pacific Science Education",
+   "d": "10.1163/23641177-bja10079"
+  },
+  {
+   "a": "Park",
+   "y": 2024,
+   "t": "Role of AI in blended learning: A systematic literature review",
+   "j": "International Review of Research in Open and Distance Learning",
+   "d": "10.19173/irrodl.v25i1.7566"
+  },
+  {
+   "a": "Patton",
+   "y": 2015,
+   "t": "",
+   "j": "",
+   "d": ""
+  },
+  {
+   "a": "Risko",
+   "y": 2015,
+   "t": "Storing information in-the-world: Metacognition and cognitive offloading in a short-term memory task",
+   "j": "Consciousness and Cognition",
+   "d": "10.1016/j.concog.2015.05.014"
+  },
+  {
+   "a": "Risko",
+   "y": 2016,
+   "t": "Cognitive offloading",
+   "j": "Trends in Cognitive Sciences",
+   "d": "10.1016/j.tics.2016.07.002"
+  },
+  {
+   "a": "Samala",
+   "y": 2025,
+   "t": "Unveiling the landscape of generative artificial intelligence in education: A comprehensive taxonomy of applications, challenges, and future prospects",
+   "j": "Education and Information Technologies",
+   "d": "10.1007/s10639-024-12936-0"
+  },
+  {
+   "a": "Sattelmaier",
+   "y": 2025,
+   "t": "Be AIware! an AI competency model for K–12 education",
+   "j": "Social Sciences & Humanities Open",
+   "d": "10.1016/j.ssaho.2025.101838"
+  },
+  {
+   "a": "Schildkamp",
+   "y": 2019,
+   "t": "Data-based decision-making for school improvement: Research insights and gaps",
+   "j": "Educational Research",
+   "d": "10.1080/00131881.2019.1625716"
+  },
+  {
+   "a": "Schön",
+   "y": 2017,
+   "t": "",
+   "j": "",
+   "d": ""
+  },
+  {
+   "a": "Schwendimann",
+   "y": 2016,
+   "t": "Perceiving learning at a glance: A systematic literature review of learning dashboard research",
+   "j": "IEEE Transactions on Learning Technologies",
+   "d": "10.1109/TLT.2016.2599522"
+  },
+  {
+   "a": "Severiano",
+   "y": 2025,
+   "t": "Selection of participants in qualitative research",
+   "j": "",
+   "d": ""
+  },
+  {
+   "a": "Shulman",
+   "y": 1986,
+   "t": "Those who understand: Knowledge growth in teaching",
+   "j": "Educational Researcher",
+   "d": "10.3102/0013189X015002004"
+  },
+  {
+   "a": "Shulman",
+   "y": 1987,
+   "t": "Knowledge and teaching: Foundations of the new reform",
+   "j": "Harvard Educational Review",
+   "d": "10.17763/haer.57.1.j463w79r56455411"
+  },
+  {
+   "a": "Tan",
+   "y": 2025,
+   "t": "Artificial intelligence in teaching and teacher professional development: A systematic review",
+   "j": "Computers and Education: Artificial Intelligence",
+   "d": ""
+  },
+  {
+   "a": "Vanlommel",
+   "y": 2019,
+   "t": "How do teachers make sense of data in the context of high-stakes decision making?",
+   "j": "American Educational Research Journal",
+   "d": "10.3102/0002831218803891"
+  },
+  {
+   "a": "Verbert",
+   "y": 2014,
+   "t": "Learning dashboards: An overview and future research opportunities",
+   "j": "Personal and Ubiquitous Computing",
+   "d": ""
+  },
+  {
+   "a": "Viberg",
+   "y": 2018,
+   "t": "The current landscape of learning analytics in higher education",
+   "j": "Computers in Human Behavior",
+   "d": "10.1016/j.chb.2018.07.027"
+  },
+  {
+   "a": "Wang",
+   "y": 2025,
+   "t": "Generative artificial intelligence in pedagogical practices: A systematic review of empirical studies (2022–2024)",
+   "j": "Cogent Education",
+   "d": ""
+  },
+  {
+   "a": "Wanyonyi",
+   "y": 2025,
+   "t": "A systematic review of Gen-AI applications in education: Rewards, challenges and future prospects",
+   "j": "Pan-African Journal of Education and Social Sciences",
+   "d": "10.56893/pajes2025v06i01.01"
+  },
+  {
+   "a": "Xia",
+   "y": 2026,
+   "t": "A systematic literature review on designing self-regulated learning using generative artificial intelligence and its future research directions",
+   "j": "Computers & Education",
+   "d": "10.1016/j.compedu.2025.105465"
+  },
+  {
+   "a": "Yin",
+   "y": 2018,
+   "t": "",
+   "j": "",
+   "d": ""
+  },
+  {
+   "a": "Zhang",
+   "y": 2025,
+   "t": "Advancing the overall digital transformation of regional education with the “Foundation+ Ecosystem” approach",
+   "j": "",
+   "d": ""
+  }
+ ],
+ "refCount": 53,
+ "parsed": 53,
+ "median": 2023,
+ "earliest": 1986,
+ "tracedAt": "2026-10-12",
+ "source": "Crossref reference list for 10.1016/j.caeai.2026.100670 (mailto fb0068674@windesheim.nl)",
+ "method": "Parsed the Crossref reference array for 10.1016/j.caeai.2026.100670. Author, year and title were taken from the structured fields where Crossref carried them, and from the unstructured string where it did not. No reference was reconstructed from memory.",
+ "confidence": "medium",
+ "strands": [
+  {
+   "name": "Cognitive offloading: the frame",
+   "kind": "frame",
+   "note": "The core theory the paper works with. Offloading is defined as the use of external resources to lower cognitive demand (Risko and Gilbert, 2015), given a metacognitive account (Dunn and Risko, 2016), shown to be strategic when a future need is expected (Gilbert, 2015), and measured as a trade: immediate performance rises while memory for the offloaded content falls (Grinschgl et al., 2021).",
+   "refs": [
+    34,
+    35,
+    13,
+    10,
+    15
+   ]
+  },
+  {
+   "name": "Working memory and subjective confidence",
+   "kind": "root",
+   "note": "The cognitive-psychology roots: the limits of working memory (Baddeley, 2012) and the confidence judgement that decides when a person stops thinking and starts delegating (Koriat, 2012).",
+   "refs": [
+    1,
+    24
+   ]
+  },
+  {
+   "name": "Distributed cognition and the reflective practitioner",
+   "kind": "root",
+   "note": "The older education and human-computer interaction roots: cognition distributed across people and tools (Hollan et al., 2000), reflection in action (Schon, 2017), and Shulman's (1986, 1987) account of teacher knowledge and reasoning, which is the bridge from cognition to teaching.",
+   "refs": [
+    19,
+    39,
+    42,
+    43
+   ]
+  },
+  {
+   "name": "Teacher data use, judgement and learning analytics",
+   "kind": "context",
+   "note": "The neighbouring literature that supplies the teacher-as-regulator vocabulary: data-based decision-making (Datnow, 2016; Mandinach, 2016; Schildkamp, 2019; Vanlommel, 2019) and the learning-analytics and dashboard work (Ifenthaler, 2020; Schwendimann, 2016; Verbert, 2014; Viberg, 2018).",
+   "refs": [
+    9,
+    27,
+    38,
+    45,
+    22,
+    40,
+    46,
+    47
+   ]
+  },
+  {
+   "name": "Generative AI in teaching: a young review literature",
+   "kind": "context",
+   "note": "The field the study positions itself against. Mostly systematic reviews of GenAI in education, with 2025 the heaviest year (Chiu, 2024; Holmes, 2019; Samala, 2025; Wang, 2025; Wanyonyi, 2025; Tan, 2025; Xia, 2026; Zhang, 2025, and others). The median reference year of the whole list is 2023, which shows how quickly this literature has grown.",
+   "refs": [
+    0,
+    2,
+    5,
+    6,
+    7,
+    8,
+    11,
+    12,
+    20,
+    21,
+    23,
+    26,
+    29,
+    31,
+    32,
+    36,
+    37,
+    44,
+    48,
+    49,
+    50,
+    52
+   ]
+  },
+  {
+   "name": "Ethics, disclosure and AI literacy: the normative debate",
+   "kind": "debate",
+   "note": "The controversy the paper enters: ethical leadership in the AI era (Ho, 2025), teachers' ethical awareness (Ho, 2025), disclosure statements in teaching (Overono, 2025) and a critical review of social-emotional learning with GenAI (Henriksen, 2025).",
+   "refs": [
+    17,
+    18,
+    30,
+    16
+   ]
+  },
+  {
+   "name": "Method: qualitative research",
+   "kind": "method",
+   "note": "The method sources: thematic analysis (Braun and Clarke, 2006), interview research (Kvale, 2009), qualitative research practice (Patton, 2015), participant selection (Severiano, 2025) and case study design (Yin, 2018). A qualitative design is still unusual in this review-heavy field.",
+   "refs": [
+    3,
+    25,
+    33,
+    41,
+    51
+   ]
+  },
+  {
+   "name": "Entries that could not be parsed",
+   "kind": "context",
+   "note": "Crossref gave neither an author nor a title for these entries. They are listed exactly as they arrived, and no attempt was made to complete them from memory.",
+   "refs": [
+    4,
+    14,
+    28
+   ]
+  }
+ ],
+ "narrative": "The frame comes from the cognitive-offloading line. Risko and Gilbert (2015, 2016) define offloading as the use of external resources to reduce cognitive demand, Dunn and Risko (2016) give it a metacognitive account, and Gilbert (2015) shows that people offload strategically when they expect a future need for the material. Grinschgl et al. (2021) supply the warning that runs through the study: offloading lifts immediate performance while lowering later memory for the content that was delegated. Two older traditions sit underneath, the working-memory and confidence research (Baddeley, 2012; Koriat, 2012) and the education and human-computer interaction roots in distributed cognition and reflective practice (Hollan et al., 2000; Schon, 2017), with Shulman's (1986, 1987) account of teacher knowledge as the bridge to teachers.\n\nThe rest of the list is the context the study argues with. Much of it is the fast-growing GenAI-in-education review literature (Chiu, 2024; Samala, 2025; Wang, 2025; Wanyonyi, 2025; Xia, 2026), next to the teacher data-use and learning-analytics work (Schildkamp, 2019; Vanlommel, 2019; Verbert, 2014; Viberg, 2018) and a normative strand on ethics, disclosure and AI literacy (Ho, 2025; Overono, 2025; Henriksen, 2025). The median reference year is 2023 and the earliest is 1986, so the list is young with a thin older spine. The method sources (Braun and Clarke, 2006; Kvale, 2009; Patton, 2015) mark the paper's own approach: a qualitative study in a field that mostly reviews itself.",
+ "forYou": "This is the literature base under your Professional Criticality argument. The offloading frame gives you the mechanism, the data-use and analytics work gives you the teacher context, and the review layer shows how crowded the space around you already is.",
+ "absent": "Nothing is written from outside the English-language literature, and there is no source on epistemic justice or decolonial critique of AI, although your own corpus now holds one (Berman and Smithies, 2026). No workplace or Dutch source appears either, so the transfer to a hogeschool setting is untested by this list."
+}

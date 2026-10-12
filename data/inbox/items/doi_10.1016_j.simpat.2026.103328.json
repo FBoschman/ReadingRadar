@@ -1,0 +1,27 @@
+{
+ "id": "doi_10.1016_j.simpat.2026.103328",
+ "kind": "paper",
+ "title": "Structural and topological complexity analysis in HLA object models",
+ "authors": "Topçu",
+ "venue": "Simulation Modelling Practice and Theory",
+ "date": "2026-11",
+ "url": "https://doi.org/10.1016/j.simpat.2026.103328",
+ "doi": "10.1016/j.simpat.2026.103328",
+ "lang": "",
+ "source": "Crossref topic: Complexity in education",
+ "run": "2026-10-12",
+ "abstract": "",
+ "themeGuess": [
+  "cx"
+ ],
+ "found": "2026-10-12T11:36:11",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": ""
+}

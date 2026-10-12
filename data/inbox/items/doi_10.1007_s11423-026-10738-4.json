@@ -1,0 +1,27 @@
+{
+ "id": "doi_10.1007_s11423-026-10738-4",
+ "kind": "paper",
+ "title": "A systems approach to address cognitive dimensions through design deliberation",
+ "authors": "Stefaniak",
+ "venue": "Educational technology research and development",
+ "date": "2026-10-06",
+ "url": "https://doi.org/10.1007/s11423-026-10738-4",
+ "doi": "10.1007/s11423-026-10738-4",
+ "lang": "",
+ "source": "Crossref topic: Design-based research",
+ "run": "2026-10-12",
+ "abstract": "",
+ "themeGuess": [
+  "dbr"
+ ],
+ "found": "2026-10-12T11:36:14",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": ""
+}

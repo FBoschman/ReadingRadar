@@ -1,0 +1,25 @@
+{
+ "id": "doi_10.1016_j.futures.2026.103921",
+ "kind": "paper",
+ "title": "Exploring Experts’ discourses in Corporate Foresight: Unveiling the temporal tension between past-present-future",
+ "authors": "Zoccarato, Lettieri, Toletti",
+ "venue": "Futures",
+ "date": "2026-12",
+ "url": "https://doi.org/10.1016/j.futures.2026.103921",
+ "doi": "10.1016/j.futures.2026.103921",
+ "lang": "en",
+ "source": "Journal watch: Futures",
+ "run": "2026-10-12",
+ "abstract": "The role of experts in foresight and corporate foresight has become increasingly debated, as empirical evidence suggests that expert predictions often underperform alternative approaches. This has shifted attention from what experts predict to how they construct and articulate futures. The objective of this study is to examine how experts discursively construct future-oriented narratives and how these processes are shaped by different types of informational input. Specifically, it advances four contributions: it conceptualizes expertise as a situated and practice-based activity, it reframes expertise as a performative and discursive accomplishment, it shows how temporal reasoning structures expert discourse, and it demonstrates how material inputs influence the way futures are constructed. Empirically, the study focuses on patient empowerment in healthcare, a domain undergoing significant technological and societal transformation. Drawing on a qualitative research design inspired by corporate foresight practices, we conducted semi-structured interviews with 21 Italian experts, divided into two groups, one of which was exposed to ChatGPT-generated foresight prompts. The findings show that experts construct futures through the dynamic mobilization of experience, contextual knowledge, and evaluative judgment. Moreover, AI-generated inputs do not simply affect the content of expert views, but shape how experts organize their reasoning and position themselves toward future developments. Overall, the study contributes to a more nuanced understanding of foresight as a practice and offers insights into how expert knowledge and material inputs jointly shape the construction of futures.",
+ "themeGuess": [],
+ "found": "2026-10-12T11:36:55",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": "OpenAlex"
+}

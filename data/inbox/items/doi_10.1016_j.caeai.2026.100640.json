@@ -1,0 +1,25 @@
+{
+ "id": "doi_10.1016_j.caeai.2026.100640",
+ "kind": "paper",
+ "title": "Creating an AI-powered platform for generating modelling problems: A case study on direct variation in secondary school mathematics",
+ "authors": "Lo, Huang, Cheung et al.",
+ "venue": "Computers and Education: Artificial Intelligence",
+ "date": "2026-12",
+ "url": "https://doi.org/10.1016/j.caeai.2026.100640",
+ "doi": "10.1016/j.caeai.2026.100640",
+ "lang": "en",
+ "source": "Journal watch: Computers and Education: Artificial Intelligence",
+ "run": "2026-10-12",
+ "abstract": "Integrating mathematical modelling into school curricula is essential for connecting school mathematics with real-world applications. However, teachers often lack the time and resources to design high-quality modelling tasks. While generative artificial intelligence (GenAI) can rapidly produce educational content, existing tools typically generate conventional word problems or routine mathematics exercises rather than resources that foster modelling competencies. This study reports on the design and evaluation of an AI-powered platform that generates mathematical modelling problems and associated pedagogical recommendations grounded in established design principles and retrieval-augmented generation. Using direct variation in secondary school mathematics as an illustrative topic, we conducted a mixed-methods case study involving a focal teaching intervention with 49 students and an evaluation study with 36 in-service teachers. The students' pre- and post-tests indicate statistically significant learning gains in school mathematics and modelling competencies, and they reported high levels of engagement. However, unlike behavioural and emotional engagement, cognitive engagement did not show a significant association with students' achievement, indicating scope to refine the instructional design. Classroom discourse analysis suggests that the resources supported the instructor's mathematical discourse but that opportunities for student contributions remained limited. The findings from teacher evaluations reveal both strengths (e.g., authentic everyday-life scenarios) and limitations (e.g., lacking data realism) of the AI-generated educational resources, informing directions for subsequent improvement (e.g., incorporating randomness into data preparation). We propose that AI-powered platforms can function as co-design partners that reduce teachers' workload while still requiring professional judgement to refine cognitive demand and classroom use of AI-generated content, particularly for more advanced, application-oriented mathematics teaching.",
+ "themeGuess": [],
+ "found": "2026-10-12T11:37:13",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": "OpenAlex"
+}

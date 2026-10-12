@@ -1,0 +1,25 @@
+{
+ "id": "doi_10.1016_j.tate.2026.105832",
+ "kind": "paper",
+ "title": "“Liu Mama,” “flower vase,” and “outsider”: The construction and negotiation of professional, cultural, and national identity in a volunteer Chinese teacher",
+ "authors": "Xu, Sun",
+ "venue": "Teaching and Teacher Education",
+ "date": "2026-12",
+ "url": "https://doi.org/10.1016/j.tate.2026.105832",
+ "doi": "10.1016/j.tate.2026.105832",
+ "lang": "en",
+ "source": "Journal watch: Teaching and Teacher Education",
+ "run": "2026-10-12",
+ "abstract": "This longitudinal narrative inquiry explores the construction and negotiation of professional, cultural, and national identities of a volunteer Chinese teacher in an intercultural context. Interviews, field observations, and social media posts were primary sources of data. Through the emergent metaphors of “Liu Mama,” “flower vase”, and “outsider,” findings reveal distinct identity trajectories: professional identity underwent pragmatic reconstruction based on pedagogical adaptability, while cultural identity involved performative compromise to navigate objectification. Conversely, national identity was characterized by persistent and less negotiable boundaries. The study introduces the concept of situational coercive salience, showing how external discursive boundaries and perceived environmental threats can coercively make national identity salient, in contrast to the more agentic negotiation of professional and cultural identities.",
+ "themeGuess": [],
+ "found": "2026-10-12T11:37:04",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": "OpenAlex"
+}

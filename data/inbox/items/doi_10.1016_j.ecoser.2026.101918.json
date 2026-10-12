@@ -1,0 +1,27 @@
+{
+ "id": "doi_10.1016_j.ecoser.2026.101918",
+ "kind": "paper",
+ "title": "Stakeholder perspectives on ecosystem services in truffle-producing systems: Insights from Spain",
+ "authors": "Barou, Varela, Rincón et al.",
+ "venue": "Ecosystem Services",
+ "date": "2026-12",
+ "url": "https://doi.org/10.1016/j.ecoser.2026.101918",
+ "doi": "10.1016/j.ecoser.2026.101918",
+ "lang": "en",
+ "source": "Crossref topic: Learning ecosystems",
+ "run": "2026-10-12",
+ "abstract": "Truffle-cultivating systems represent a distinctive type of Mediterranean agroforestry that combines high-value fungal production with open woodland management. While truffle cultivation has been widely studied from biological and technical perspectives, less is known about how stakeholders perceive the ecosystem services (ES) that it provides. This study investigates stakeholders’ priorities for provisioning, regulating and cultural ES in truffle-producing landscapes in Spain and explores how these priorities vary across stakeholders along a continuum of preferences, together with environmental worldviews. For this, we conducted an online survey using the Analytic Hierarchy Process (AHP) to elicit ES priorities, while environmental attitudes of the respondents were obtained by employing the New Ecological Paradigm (NEP). In addition, we elicited stakeholders’ perspectives on the main constraints affecting truffle cultivation and the incentives for integrating intercropping systems into truffle production. Truffle production was ranked as the most important ES, reflecting the high economic value of this fungus, while wildfire regulation was the most valued regulating service. Stakeholder heterogeneity was characterised by a continuum rather than a neat separation between production-oriented and cultural-and-landscape-oriented preference gradients, though their separation was shallow and boundaries between them should be interpreted with caution. These differences were also associated with environmental worldviews: respondents more strongly oriented toward truffle production and fire regulation exhibited more ecocentric attitudes. Limited access to affordable irrigation was identified as the main constraint on truffle cultivation, whereas intercropping was primarily supported as a strategy for income diversification, with additional perceived benefits for soil quality. Overall, our results highlight truffle agroforestry as a financially viable pathway for delivering public ecosystem services in marginal Mediterranean regions. While exploratory, this study provides an initial, reproducible, stakeholder-based mapping of how ecosystem services, constraints and diversification options are perceived in this under-studied agroforestry system, offering basis for future more targeted assessments.",
+ "themeGuess": [
+  "eco"
+ ],
+ "found": "2026-10-12T11:36:05",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": "OpenAlex"
+}

@@ -1,0 +1,26 @@
+{
+ "id": "doi_10.1007_s11409-026-09500-1",
+ "kind": "paper",
+ "title": "Effects of a self-regulated learning training on adolescents’ metacognitive awareness, learning processes and outcomes: a multi-method perspective",
+ "authors": "Athavale, Lim, Bannert",
+ "venue": "Metacognition and Learning",
+ "date": "2026-10-05",
+ "url": "https://doi.org/10.1007/s11409-026-09500-1",
+ "doi": "10.1007/s11409-026-09500-1",
+ "lang": "",
+ "source": "Crossref topic: Learning ecosystems",
+ "run": "2026-10-12",
+ "abstract": "Abstract Adolescence represents an important developmental phase for self-regulated learning (SRL), marked by uneven growth in metacognitive knowledge, awareness, and regulatory skills. Research on supporting adolescents’ emerging SRL is particularly relevant in online learning environments (OLEs), where autonomous regulation is essential, but remains limited. This quasi-experimental field study examined immediate effects of a brief digital SRL training on secondary school students’ metacognitive awareness, learning outcomes, and regulatory processes during an online essay-writing task. The experimental group (EG; n = 37) received SRL training before the task, while a control group (CG; n = 32) received comparable training on ergonomics. Results showed significantly higher metacognitive awareness in the EG, but no effects on essay performance, domain-knowledge gains, or learning transfer. Process analyses revealed that the EG spent more time on task orientation, and prior domain knowledge (PK) moderated training effects on cognitive processes; in the EG, rereading and writing frequencies decreased with increasing PK, whereas they showed slight increases in the CG. Within-group associations showed more consistent positive links between PK and learning outcomes in the EG. Sequence analyses further suggested that successful EG students with different PK levels followed partly distinct regulatory pathways: high-PK students displayed metacognitive process sequences, whereas low-PK students relied more on planning-intensive mixed sequences. Overall, findings suggest that a brief SRL training can foster metacognitive awareness and selected regulatory behaviors, while highlighting the need for adaptive and temporally sensitive SRL support for adolescent learners. The study demonstrates the value of multi-method, process-oriented perspectives for informing future SRL intervention designs.",
+ "themeGuess": [
+  "eco"
+ ],
+ "found": "2026-10-12T11:36:05",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ }
+}

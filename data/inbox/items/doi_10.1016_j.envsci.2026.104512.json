@@ -1,0 +1,25 @@
+{
+ "id": "doi_10.1016_j.envsci.2026.104512",
+ "kind": "paper",
+ "title": "Anticipating research impact for natural resource management: Impact-orientation in interdisciplinary contexts",
+ "authors": "Pfeifer, Ferse, Helming",
+ "venue": "Environmental Science & Policy",
+ "date": "2026-11",
+ "url": "https://doi.org/10.1016/j.envsci.2026.104512",
+ "doi": "10.1016/j.envsci.2026.104512",
+ "lang": "en",
+ "source": "Journal watch: Environmental Science & Policy",
+ "run": "2026-10-12",
+ "abstract": "Research faces increasing expectations to address societal challenges, such as climate change, biodiversity loss, and sustainable development. To better understand how and under which conditions research is most likely to meet these expectations, Research Impact Assessment (RIA) methods are required. While the contribution of transdisciplinary research processes to societal challenges is well researched, interdisciplinary research has received less attention. For agricultural and marine research, this study developed and pilot-tested an ex ante participatory RIA approach aimed at addressing the societal impact of interdisciplinary natural resource management (NRM) research. This RIA approach integrates established impact indicator sets and impact pathways to anticipate and plan for these impacts. The approach applies three levels of impact: context-specific impacts, system-level impacts across sustainability dimensions, and transformational impacts on the Sustainable Development Goals (SDGs). By adopting impact indicator sets established for sustainability assessment studies (i.e. CICES, SAFA, SDG Global Indicator Framework), the approach provides a comprehensive, structured, comparative assessment of research impact potentials enabling improved contributions of research to environmental management objectives. Across four heterogeneous case studies, the approach fostered a unified understanding among interdisciplinary teams, enabling them to systematically anticipate societal impacts, and supported the explication of impact pathways and key enablers and barriers. The use of established indicator sets broadened participants’ perspectives beyond environmental impacts to include social, economic, and governance dimensions. Ex ante RIA built on externally legitimized criteria and indicators that translate across research contexts can thus strengthen interdisciplinary NRM research and make potential contributions to impacts comparable across cases.",
+ "themeGuess": [],
+ "found": "2026-10-12T11:36:58",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": "OpenAlex"
+}

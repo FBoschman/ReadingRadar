@@ -1,0 +1,27 @@
+{
+ "id": "doi_10.1016_j.profnurs.2026.08.028",
+ "kind": "paper",
+ "title": "Generative AI in professional nursing education: Implications for learning, assessment, clinical preparation, and AI literacy",
+ "authors": "Ibrahim, Shahrour",
+ "venue": "Journal of Professional Nursing",
+ "date": "2026-11",
+ "url": "https://doi.org/10.1016/j.profnurs.2026.08.028",
+ "doi": "10.1016/j.profnurs.2026.08.028",
+ "lang": "",
+ "source": "Crossref topic: AI & curriculum",
+ "run": "2026-10-12",
+ "abstract": "",
+ "themeGuess": [
+  "ai"
+ ],
+ "found": "2026-10-12T11:36:20",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": ""
+}

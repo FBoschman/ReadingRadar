@@ -1,0 +1,27 @@
+{
+ "id": "doi_10.1016_j.tsc.2026.102302",
+ "kind": "paper",
+ "title": "Teaching critical thinking through a lecture-performance: Analysis of a bimodal teaching format",
+ "authors": "Falque, Pondeville, Romainville",
+ "venue": "Thinking Skills and Creativity",
+ "date": "2026-12",
+ "url": "https://doi.org/10.1016/j.tsc.2026.102302",
+ "doi": "10.1016/j.tsc.2026.102302",
+ "lang": "",
+ "source": "Crossref topic: Professional criticality",
+ "run": "2026-10-12",
+ "abstract": "",
+ "themeGuess": [
+  "pc"
+ ],
+ "found": "2026-10-12T11:36:24",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": ""
+}

@@ -1,0 +1,334 @@
+{
+ "itemId": "doi_10.1007_s10212-026-01089-y",
+ "title": "Towards a framework for understanding and assessing critical thinking in generative AI-enhanced learning environments: a scoping review",
+ "doi": "10.1007/s10212-026-01089-y",
+ "refs": [
+  {
+   "a": "BS",
+   "y": 1956,
+   "t": "Handbook I: Cognitive domain",
+   "j": "",
+   "d": ""
+  },
+  {
+   "a": "N",
+   "y": 2024,
+   "t": "Chaparro-Banegas, N., Mas-Tur, A., & Roig-Tierno, N. (2024). Challenging critical thinking in education: New paradigms of artificial intelligence. Cogent Education, 11(1), Article ",
+   "j": "Cogent Education",
+   "d": "10.1080/2331186X.2024.2437899"
+  },
+  {
+   "a": "Darwin",
+   "y": 2024,
+   "t": ". Critical thinking in the AI era: An exploration of EFL students’ perceptions, benefits, and limitations",
+   "j": "",
+   "d": "10.1080/2331186X.2023.2290342"
+  },
+  {
+   "a": "MA",
+   "y": 2025,
+   "t": "de La Puente Pacheco, M. A., Torres, J., Blanco Troncoso, A. L., Guzmán Murillo, H. J., & Carrascal, J. X. M. (2025). Enhancing critical thinking and argumentation skills in Colomb",
+   "j": "Journal of Political Science Education",
+   "d": "10.1080/15512169.2025.2449936"
+  },
+  {
+   "a": "M",
+   "y": 2024,
+   "t": "de La Puente, M., Torres, J., Troncoso, A. L. B., Meza, Y. Y. H., & Carrascal, J. X. M. (2024). Investigating the use of ChatGPT as a tool for enhancing critical thinking and argum",
+   "j": "Smart Learning Environments",
+   "d": "10.1186/s40561-024-00347-0"
+  },
+  {
+   "a": "M",
+   "y": 2025,
+   "t": "Drushlyak, M., Lukashova, T., Shamonia, V., & Semenikhina, O. (2025). ChatGPT-based simulation helps to develop the pre-service mathematics teachers’ critical thinking. Internation",
+   "j": "International Journal of Instruction",
+   "d": "10.29333/iji.2025.1819a"
+  },
+  {
+   "a": "H",
+   "y": 2024,
+   "t": "Elsayed, H. (2024). The impact of hallucinated information in large language models on student learning outcomes: A critical examination of misinformation risks in AI-assisted educ",
+   "j": "Northern Reviews on Algorithmic Research, Theoretical Computation, and Complexity",
+   "d": ""
+  },
+  {
+   "a": "R",
+   "y": 2011,
+   "t": "Ennis, R. (2011). Critical thinking: Reflection and perspective part II. Inquiry (Mount Vernon, Wash.), 26(2), 5–19. https://doi.org/10.5840/inquiryctnews201126215",
+   "j": "Inquiry (Mount Vernon, Wash.)",
+   "d": "10.5840/inquiryctnews201126215"
+  },
+  {
+   "a": "A",
+   "y": 2024,
+   "t": "Essien, A., Bukoye, O. T., O’Dea, X., & Kremantzis, M. (2024). The influence of AI text generators on critical thinking skills in UK business schools. Studies in Higher Education, ",
+   "j": "Studies in Higher Education",
+   "d": "10.1080/03075079.2024.2316881"
+  },
+  {
+   "a": "RA",
+   "y": 2025,
+   "t": "Fabio, R. A., Plebe, A., & Suriano, R. (2025). AI-based chatbot interactions and critical thinking skills: An exploratory study. Current Psychology, 44(9), 8082–8095. https://doi.o",
+   "j": "Current Psychology",
+   "d": "10.1007/s12144-024-06795-8"
+  },
+  {
+   "a": "PA",
+   "y": 2011,
+   "t": "Facione, P. A. (2011). Critical thinking: What it is and why it counts. Insight Assessment, 1(1), 1–23.",
+   "j": "Insight Assessment",
+   "d": ""
+  },
+  {
+   "a": "G",
+   "y": 2024,
+   "t": "Falloon, G. (2024). Investigating pedagogical, technological and school factors underpinning effective ‘critical thinking curricula’ in K-6 education. Thinking Skills and Creativit",
+   "j": "Thinking Skills and Creativity",
+   "d": "10.1016/j.tsc.2023.101447"
+  },
+  {
+   "a": "M",
+   "y": 2025,
+   "t": "Gerlich, M. (2025). AI tools in society: Impacts on cognitive offloading and the future of critical thinking. Societies, 15, Article 6. https://doi.org/10.3390/soc15010006",
+   "j": "Societies",
+   "d": "10.3390/soc15010006"
+  },
+  {
+   "a": "NR",
+   "y": 2015,
+   "t": "Haddaway, N. R., Collins, A. M., Coughlin, D., & Kirk, S. (2015). The role of Google Scholar in evidence reviews and its applicability to grey literature searching. PLoS One, 10(9)",
+   "j": "PLoS One",
+   "d": "10.1371/journal.pone.0138237"
+  },
+  {
+   "a": "DF",
+   "y": 1998,
+   "t": "Halpern, D. F. (1998). Teaching critical thinking for transfer across domains: Disposition, skills, structure training, and metacognitive monitoring. American Psychologist, 53(4), ",
+   "j": "American Psychologist",
+   "d": "10.1037/0003-066X.53.4.449"
+  },
+  {
+   "a": "G-J",
+   "y": 2025,
+   "t": "Hwang, G.-J., Cheng, P.-Y., & Chang, C.-Y. (2025). Facilitating students’ critical thinking, metacognition and problem-solving tendencies in geriatric nursing class: A mixed-method",
+   "j": "Nurse Education in Practice",
+   "d": "10.1016/j.nepr.2025.104266"
+  },
+  {
+   "a": "G-J",
+   "y": 2018,
+   "t": "Hwang, G.-J., Lai, C.-L., Liang, J.-C., Chu, H.-C., & Tsai, C.-C. (2018). A long-term experiment to investigate the relationships between high school students’ perceptions of mobil",
+   "j": "Educational Technology Research and Development",
+   "d": "10.1007/s11423-017-9540-3"
+  },
+  {
+   "a": "N",
+   "y": 2025,
+   "t": "Imjai, N., Yordudom, T., Yaacob, Z., Saad, N. H. M., & Aujirapongpan, S. (2025). Impact of AI literacy and adaptability on financial analyst skills among prospective Thai accountan",
+   "j": "Technological Forecasting and Social Change",
+   "d": "10.1016/j.techfore.2024.123889"
+  },
+  {
+   "a": "X-H",
+   "y": 2024,
+   "t": "Jia, X.-H., & Tu, J.-C. (2024). Towards a new conceptual model of AI-enhanced learning for college students: The roles of artificial intelligence capabilities, general self-efficac",
+   "j": "Systems",
+   "d": "10.3390/systems12030074"
+  },
+  {
+   "a": "MA",
+   "y": 2025,
+   "t": "Kofahi, M. A., & Husain, A. (2025). ChatGPT for operating systems: Higher-order thinking in focus. Journal of Information Technology Education: Research, 24, Article 001. https://d",
+   "j": "Journal of Information Technology Education: Research",
+   "d": "10.28945/5382"
+  },
+  {
+   "a": "Kumar",
+   "y": 2025,
+   "t": ". Fundamentals of generative AI",
+   "j": "",
+   "d": "10.1007/978-981-95-1561-5_2"
+  },
+  {
+   "a": "H-Y",
+   "y": 2024,
+   "t": "Lee, H.-Y., Chen, P.-H., Wang, W.-S., Huang, Y.-M., & Wu, T.-T. (2024). Empowering ChatGPT with guidance mechanism in blended learning: Effect of self-regulated learning, higher-or",
+   "j": "International Journal of Educational Technology in Higher Education",
+   "d": "10.1186/s41239-024-00447-4"
+  },
+  {
+   "a": "Lee",
+   "y": 2025,
+   "t": ". Large language models (LLMs) and generative artificial intelligence (GenAI)",
+   "j": "",
+   "d": "10.1007/978-981-96-3208-4_10"
+  },
+  {
+   "a": "T",
+   "y": 2024,
+   "t": "Li, T., Ji, Y., & Zhan, Z. (2024). Expert or machine? Comparing the effect of pairing student teacher with in-service teacher and ChatGPT on their critical thinking, learning perfo",
+   "j": "Asia Pacific Journal of Education",
+   "d": "10.1080/02188791.2024.2305163"
+  },
+  {
+   "a": "W",
+   "y": 2024,
+   "t": "Liang, W., & Wu, Y. (2024). Exploring the use of ChatGPT to foster EFL learners’ critical thinking skills from a post-humanist perspective. Thinking Skills and Creativity, 54, Arti",
+   "j": "Thinking Skills and Creativity",
+   "d": "10.1016/j.tsc.2024.101645"
+  },
+  {
+   "a": "H",
+   "y": 2024,
+   "t": "Lijie, H., Kun, T., Leng, C. H., & Salleh, U. K. B. M. (2024). The mediating effects of critical thinking on the motivation and creativity of Business English learners in the age o",
+   "j": "Thinking Skills and Creativity",
+   "d": "10.1016/j.tsc.2024.101578"
+  },
+  {
+   "a": "H",
+   "y": 2025,
+   "t": "Lijie, H., Mat Yusoff, S., & Mohamad Marzaini, A. F. (2025). Influence of AI-driven educational tools on critical thinking dispositions among university students in Malaysia: A stu",
+   "j": "Education and Information Technologies",
+   "d": "10.1007/s10639-024-13150-8"
+  },
+  {
+   "a": "C-C",
+   "y": 2023,
+   "t": "Liu, C.-C., Liu, S.-J., Hwang, G.-J., Tu, Y.-F., Wang, Y., & Wang, N. (2023). Engaging EFL students’ critical thinking tendency and in-depth reflection in technology-based writing ",
+   "j": "Education and Information Technologies",
+   "d": "10.1007/s10639-023-11697-6"
+  },
+  {
+   "a": "W",
+   "y": 2024,
+   "t": "Liu, W., & Wang, Y. (2024). The effects of using AI tools on critical thinking in English literature classes among EFL learners: An intervention study. European Journal of Educatio",
+   "j": "European Journal of Education",
+   "d": "10.1111/ejed.12804"
+  },
+  {
+   "a": "K",
+   "y": 2025,
+   "t": "Lu, K., Zhu, J., Pang, F., & Shadiev, R. (2025). Understanding the relationship between colleges students’ artificial intelligence literacy and higher order thinking skills using t",
+   "j": "Educational Technology Research and Development",
+   "d": "10.1007/s11423-024-10434-1"
+  },
+  {
+   "a": "HS",
+   "y": 2024,
+   "t": "Mahdi, H. S., & Sahari, Y. M. (2024). Exploring the relationship between critical thinking, attitude, and anxiety in shaping the adoption of artificial intelligence in translation ",
+   "j": "Journal of Pedagogical Research",
+   "d": "10.33902/JPR.202423345"
+  },
+  {
+   "a": "Muthmainnah",
+   "y": 2022,
+   "t": ". Playing with AI to investigate human-computer interaction technology and improving critical thinking skills to pursue 21st century age",
+   "j": "",
+   "d": "10.1155/2022/6468995"
+  },
+  {
+   "a": "Onwuegbuzie",
+   "y": 2015,
+   "t": ". Qualitative analysis techniques for the review of the literature",
+   "j": "",
+   "d": "10.46743/2160-3715/2012.1754"
+  },
+  {
+   "a": "N",
+   "y": 2024,
+   "t": "Pellas, N. (2024). The role of students’ higher-order thinking skills in the relationship between academic achievements and machine learning using generative AI chatbots. Research ",
+   "j": "Research and Practice in Technology Enhanced Learning",
+   "d": "10.58459/rptel.2025.20036"
+  },
+  {
+   "a": "D",
+   "y": 2024,
+   "t": "Sharma, D. (2024). Critical thinking and problem-solving in the age of ChatGPT: Experiential-bibliotherapy-blogging project. Business and Professional Communication Quarterly, 87(4",
+   "j": "Business and Professional Communication Quarterly",
+   "d": "10.1177/23294906241254780"
+  },
+  {
+   "a": "X",
+   "y": 2024,
+   "t": "Shen, X., & Teng, M. F. (2024). Three-wave cross-lagged model on the correlations between critical thinking skills, self-directed learning competency and AI-assisted writing. Think",
+   "j": "Thinking Skills and Creativity",
+   "d": "10.1016/j.tsc.2024.101524"
+  },
+  {
+   "a": "Sok",
+   "y": 2025,
+   "t": ". Do interactions with ChatGPT influence L2 learners’ oral speaking ability, summarization ability, and perceptions of generative AI tasks? TESOL Quarterly, 59(S1)",
+   "j": "",
+   "d": "10.1002/tesq.70001"
+  },
+  {
+   "a": "EM",
+   "y": 2013,
+   "t": "Sosu, E. M. (2013). The development and psychometric validation of a Critical Thinking Disposition Scale. Thinking Skills and Creativity, 9, 107–119. https://doi.org/10.1016/j.tsc.",
+   "j": "Thinking Skills and Creativity",
+   "d": "10.1016/j.tsc.2012.09.002"
+  },
+  {
+   "a": "R",
+   "y": 2025,
+   "t": "Suriano, R., Plebe, A., Acciai, A., & Fabio, R. A. (2025). Student interaction with ChatGPT can promote complex critical thinking skills. Learning and Instruction, 95, 1–8. https:/",
+   "j": "Learning and Instruction",
+   "d": "10.1016/j.learninstruc.2024.102011"
+  },
+  {
+   "a": "Vygotsky",
+   "y": 1978,
+   "t": ". Mind in society",
+   "j": "",
+   "d": ""
+  },
+  {
+   "a": "P",
+   "y": 2025,
+   "t": "Wang, P., Yin, K., Zhang, M., Zheng, Y., Zhang, T., Kang, Y., & Feng, X. (2025a). The effect of incorporating large language models into the teaching on critical thinking dispositi",
+   "j": "Education and Information Technologies",
+   "d": "10.1007/s10639-024-13244-3"
+  },
+  {
+   "a": "P",
+   "y": 2025,
+   "t": "Wang, P., Yin, K., Zhang, M., Zheng, Y., Zhang, T., Kang, Y., & Feng, X. (2025b). The effect of incorporating large language models into the teaching on critical thinking dispositi",
+   "j": "Education and Information Technologies",
+   "d": "10.1007/s10639-024-13244-3"
+  },
+  {
+   "a": "H-C",
+   "y": 2025,
+   "t": "Yeh, H.-C. (2025). The synergy of generative AI and inquiry-based learning: Transforming the landscape of English teaching and learning. Interactive Learning Environments, 33(1), 8",
+   "j": "Interactive Learning Environments",
+   "d": "10.1080/10494820.2024.2335491"
+  },
+  {
+   "a": "A",
+   "y": 2024,
+   "t": "Yusuf, A., Bello, S., Pervin, N., & Tukur, A. K. (2024). Implementing a proposed framework for enhancing critical thinking skills in synthesizing AI-generated texts. Thinking Skill",
+   "j": "Thinking Skills and Creativity",
+   "d": "10.1016/j.tsc.2024.101619"
+  },
+  {
+   "a": "X",
+   "y": 2024,
+   "t": "Zhou, X., Teng, D., & Al-Samarraie, H. (2024). The mediating role of generative AI self-regulation on students’ critical thinking and problem-solving. Education Sciences, 14(12), A",
+   "j": "Education Sciences",
+   "d": "10.3390/educsci14121302"
+  }
+ ],
+ "refCount": 45,
+ "parsed": 45,
+ "median": 2024,
+ "earliest": 1956,
+ "tracedAt": "2026-10-12",
+ "source": "Crossref reference list for 10.1007/s10212-026-01089-y (mailto fb0068674@windesheim.nl)",
+ "method": "Parsed the Crossref reference array for 10.1007/s10212-026-01089-y. Author, year and title were taken from the structured fields where Crossref carried them, and from the unstructured string where it did not. No reference was reconstructed from memory.",
+ "confidence": "medium",
+ "strands": [],
+ "narrative": "",
+ "forYou": "",
+ "absent": ""
+}

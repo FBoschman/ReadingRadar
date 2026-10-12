@@ -1,0 +1,27 @@
+{
+ "id": "doi_10.1007_s12528-026-09507-2",
+ "kind": "paper",
+ "title": "The association between AI usage and critical thinking in AI contexts: examining the mediating roles of automation bias and cognitive offloading",
+ "authors": "Yurt, Kuşci",
+ "venue": "Journal of Computing in Higher Education",
+ "date": "2026-10-08",
+ "url": "https://doi.org/10.1007/s12528-026-09507-2",
+ "doi": "10.1007/s12528-026-09507-2",
+ "lang": "",
+ "source": "Crossref topic: AI & curriculum",
+ "run": "2026-10-12",
+ "abstract": "",
+ "themeGuess": [
+  "ai"
+ ],
+ "found": "2026-10-12T11:36:20",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": ""
+}

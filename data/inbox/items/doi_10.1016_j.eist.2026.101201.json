@@ -1,0 +1,25 @@
+{
+ "id": "doi_10.1016_j.eist.2026.101201",
+ "kind": "paper",
+ "title": "Entrepreneurial agency in mission oriented innovation policies",
+ "authors": "Korsgaard, Thrane",
+ "venue": "Environmental Innovation and Societal Transitions",
+ "date": "2027-01",
+ "url": "https://doi.org/10.1016/j.eist.2026.101201",
+ "doi": "10.1016/j.eist.2026.101201",
+ "lang": "en",
+ "source": "Journal watch: Environmental Innovation and Societal Transitions",
+ "run": "2026-10-12",
+ "abstract": "Policy makers have recently turned to mission-oriented innovation policies (MOIPs) to direct entrepreneurial activity towards societal goals. Yet, while entrepreneurial experimentation is a key component of missions, there has been limited exchange between the MOIP literature and recent entrepreneurship research, leaving the theoretical foundations of entrepreneurial agency in missions underdeveloped. To address this, we draw on current debates in entrepreneurship research to articulate two distinct views of entrepreneurship, a discovery view and an expanded view. Both perspectives can be useful for MOIPs, although an expansive view stands out in its ability to provide an account of how entrepreneurship can contribute to advancing fully the transformative potential of missions through reflexive revision of problem-solution spaces and resource structures. Conceptual and practical implications are outlined and discussed emphasising the need for experimentation with new governance structures and instruments to leverage entrepreneurship in MOIPs.",
+ "themeGuess": [],
+ "found": "2026-10-12T11:37:01",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": "OpenAlex"
+}

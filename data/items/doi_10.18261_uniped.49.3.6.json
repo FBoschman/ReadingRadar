@@ -1,0 +1,21 @@
+{
+ "kind": "paper",
+ "title": "Simulation in Teacher Education: Fostering Critical Thinking and Professional Suitability",
+ "authors": "Hvalby, Hansen",
+ "venue": "Uniped",
+ "date": "2026-10-12",
+ "url": "https://doi.org/10.18261/uniped.49.3.6",
+ "doi": "10.18261/uniped.49.3.6",
+ "themes": [
+  "pc",
+  "dbr"
+ ],
+ "score": 3,
+ "why": "A Nordic teacher-education study on simulation, critical thinking and professional judgement, close to the teacher-education work this radar already follows.",
+ "caveat": "Only the title and the metadata were read. The abstract was not available from Crossref or OpenAlex, so method and sample are unverified.",
+ "lang": "en",
+ "wildcard": false,
+ "source": "Crossref topic: Professional criticality",
+ "status": "new",
+ "run": "2026-10-12"
+}

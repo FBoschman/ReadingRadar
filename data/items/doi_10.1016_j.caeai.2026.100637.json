@@ -1,0 +1,21 @@
+{
+ "kind": "paper",
+ "title": "GenAI as a runaway object in higher education: A socio-cultural view on AI-influenced academic practice in mathematics",
+ "authors": "Bakogianni, Liljekvist, Bui",
+ "venue": "Computers and Education: Artificial Intelligence",
+ "date": "2026-12",
+ "url": "https://doi.org/10.1016/j.caeai.2026.100637",
+ "doi": "10.1016/j.caeai.2026.100637",
+ "themes": [
+  "ai",
+  "cx"
+ ],
+ "score": 4,
+ "why": "Uses Engestrom's activity theory to treat GenAI as a runaway object that reconfigures roles, tools and boundaries across teaching and research. A systems reading that fits the complexity line you are taking to CARN.",
+ "caveat": "One mathematics department in one institution. The runaway-object framing is suggestive rather than measured.",
+ "lang": "en",
+ "wildcard": false,
+ "source": "Journal watch: Computers and Education: Artificial Intelligence",
+ "status": "new",
+ "run": "2026-10-12"
+}

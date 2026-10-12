@@ -1,0 +1,20 @@
+{
+ "kind": "paper",
+ "title": "Trajectories of Geographic Journals: Power Geometries, Internationalisation Strategies and Alternative Epistemologies for Pluriversal Thinking",
+ "authors": "Zusman, Hollman",
+ "venue": "Transactions of the Institute of British Geographers",
+ "date": "2026-10-12",
+ "url": "https://doi.org/10.1111/tran.70098",
+ "doi": "10.1111/tran.70098",
+ "themes": [
+  "dec"
+ ],
+ "score": 4,
+ "why": "Shows how journal hierarchies reproduce the power geometry of knowledge production, and names pluriversal alternatives. Relevant to how your own FUNGI corpus is assembled.",
+ "caveat": "Written from geography. The bibliometric part depends on the indices the authors could see.",
+ "lang": "en",
+ "wildcard": false,
+ "source": "Crossref topic: Decolonial & epistemic justice",
+ "status": "new",
+ "run": "2026-10-12"
+}

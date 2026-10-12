@@ -1,0 +1,25 @@
+{
+ "id": "doi_10.1016_j.eist.2026.101204",
+ "kind": "paper",
+ "title": "How directionality emerges through frame layering: An analysis of Swedish research and innovation policy on agri-food",
+ "authors": "Thomson, Onufrey, Mignon",
+ "venue": "Environmental Innovation and Societal Transitions",
+ "date": "2027-01",
+ "url": "https://doi.org/10.1016/j.eist.2026.101204",
+ "doi": "10.1016/j.eist.2026.101204",
+ "lang": "en",
+ "source": "Journal watch: Environmental Innovation and Societal Transitions",
+ "run": "2026-10-12",
+ "abstract": "Transforming agri-food systems is widely seen as necessary to address overlapping ecological and social crises. Public research and innovation policy is a central mechanism through which such transformations are steered, yet it is often articulated in ways that obscure the normative commitments legitimising particular pathways. Using critical frame analysis and drawing on debates around directionality and the contrasting paradigms of sustainable intensification and agroecology, we analyse Swedish agri-food research and innovation policy from 2017 to 2025. We ask how problems and solutions are framed across successive levels of policy articulation, and what this implies for directionality. The policies comprise two national strategies, two action plans, two strategic research agendas and 21 funding calls. The findings show that directionality is not the property of any single instrument or policy level but emerges through frame layering across levels. In this way, diversity at one level can partially compensate for closure at another. We argue that directionality is therefore a relational and partly emergent property of how frames are layered. Hybrid framings, whose paradigm alignment depends on operationalisation, define challenges and solutions in broader terms that ease political friction at the cost of directional clarity. The paper offers a layered account of directionality and shows how critical frame analysis can surface the normative commitments embedded in research and innovation policy.",
+ "themeGuess": [],
+ "found": "2026-10-12T11:37:01",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": "OpenAlex"
+}

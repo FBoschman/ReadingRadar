@@ -1,0 +1,26 @@
+{
+ "id": "doi_10.59877_wphy2580",
+ "kind": "paper",
+ "title": "Lab: Daphnia Assay",
+ "authors": "Beyond Benign Inc.",
+ "venue": "Green Chemistry Teaching and Learning Community",
+ "date": "2026-10-05",
+ "url": "https://doi.org/10.59877/wphy2580",
+ "doi": "10.59877/wphy2580",
+ "lang": "",
+ "source": "Crossref topic: Learning ecosystems",
+ "run": "2026-10-12",
+ "abstract": "In this lab, a bioassay is performed on salts that are used for road de-icing. The lab demonstrates the concept of LD50, or the lethal dose of a chemical that kills 50% of a particular organism when 100% of the organisms are exposed. Concepts: bioassays, toxicology, LD50",
+ "themeGuess": [
+  "eco"
+ ],
+ "found": "2026-10-12T11:36:05",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ }
+}

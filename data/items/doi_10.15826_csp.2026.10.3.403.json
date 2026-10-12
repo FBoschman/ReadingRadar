@@ -1,0 +1,21 @@
+{
+ "kind": "paper",
+ "title": "The Neighborhood Association Model as a Mechanism for Participatory Governance and Economic Empowerment in Urban Communities",
+ "authors": "Eny Boedi Orbawati, Fadlurrahman Fadlurrahman, Ari Mukti et al.",
+ "venue": "Changing Societies & Personalities",
+ "date": "2026-10-05",
+ "url": "https://doi.org/10.15826/csp.2026.10.3.403",
+ "doi": "10.15826/csp.2026.10.3.403",
+ "themes": [
+  "par",
+  "eco"
+ ],
+ "score": 3,
+ "why": "An Indonesian neighbourhood-association case that links participation to local economic empowerment. A comparison point for the neighbourhood work in the CDC course.",
+ "caveat": "Qualitative and single-site. The empowerment claims are the authors' reading of participant accounts.",
+ "lang": "en",
+ "wildcard": false,
+ "source": "OpenAlex: Participatory action research",
+ "status": "new",
+ "run": "2026-10-12"
+}

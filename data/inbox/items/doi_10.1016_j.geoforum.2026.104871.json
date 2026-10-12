@@ -1,0 +1,25 @@
+{
+ "id": "doi_10.1016_j.geoforum.2026.104871",
+ "kind": "paper",
+ "title": "There is no ‘grid’: Configuring everyday sanitation in Tamale, Ghana",
+ "authors": "Iyer, Fuseini",
+ "venue": "Geoforum",
+ "date": "2027-01",
+ "url": "https://doi.org/10.1016/j.geoforum.2026.104871",
+ "doi": "10.1016/j.geoforum.2026.104871",
+ "lang": "en",
+ "source": "Journal watch: Geoforum",
+ "run": "2026-10-12",
+ "abstract": "This paper interrogates the growing use of the term “off-grid sanitation” in describing service provision in southern cities. While the “off-grid” imaginary originates in northern infrastructural contexts (particularly energy and electricity) it has become a widely used descriptor for sanitation systems that lack sewerage connections in southern cities. Drawing on interviews, group discussions and observations in Tamale, Ghana (a city that never had gridded or networked sanitation and where people do not aspire to one), we seek to re-situate their sanitation practices as infrastructural configurations guided by labour, spatiality and negotiation rather than an absence of a ‘grid’. Theoretically, we draw upon and add to the broader discourse on infrastructural labour, adding attention to the ideas of spatiality and negotiation in sustaining everyday management of sanitation in Tamale. In doing so, we show that sanitation in Tamale is not captured by a binary of connection or disconnection to a ‘grid’, rather that access falls unevenly across gender, age, mobility, and class, producing differentiated negotiations, that ‘off-grid’ framings obscure. This framing decentres northern imaginaries, instead it offers a more explicit, grounded analytic of the labour intensive, spatially contingent and daily negotiated sanitation realities, for a more situated understanding of sanitation infrastructural configurations in southern cities.",
+ "themeGuess": [],
+ "found": "2026-10-12T11:37:20",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": "OpenAlex"
+}

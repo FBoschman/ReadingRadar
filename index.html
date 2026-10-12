@@ -311,6 +311,10 @@ footer.foot { border-top: 1px solid var(--line); color: var(--ink-soft); font-si
       <h4>Roots coverage</h4>
       <div id="healthRoots"></div>
     </div>
+    <div class="card left-accent">
+      <h4>The queue that waits</h4>
+      <div id="healthQueue"></div>
+    </div>
   </div>
 
   <h3 class="sub">Do these actions next</h3>
@@ -847,6 +851,18 @@ function renderHealth() {
     '<p><b>' + ROOTS.length + '</b> lineage documents. <b>' + h.queued.length + '</b> requests are in the queue. <b>' + h.noRefs.length + '</b> requests ended with no reference list.</p>' +
     '<p><b>' + h.highNoRoot.length + '</b> items at score 4 or 5 have no lineage document yet. <b>' + h.mustReadNoRoot.length + '</b> of the must-read items of this week are among them.</p>' +
     '<p class="muted">The runbook allows 5 traces in one run. Each trace costs one slow publisher-page fetch.</p>');
+
+  var inbox = (DATA && DATA.inbox) || { items: 0, lineage: 0, run: null };
+  var runSources = (inbox.run && inbox.run.sources) || [];
+  var queueRows = runSources.map(function (s) {
+    var kind = statusKind(s.status);
+    return '<p><span class="badge ' + KIND_CLASS[kind] + '">' + esc(kind) + '</span> <b>' + esc(s.name) + '</b><br><span class="muted">' + esc(s.status) + '</span></p>';
+  }).join('');
+  set('healthQueue',
+    '<p><b>' + inbox.items + '</b> candidates and <b>' + inbox.lineage + '</b> lineage drafts wait for the judgement pass.</p>' +
+    '<p class="muted">The harvest is automatic. The scoring, the digest and the roots narrative are decisions, so the queue moves only when a reader or an agent works it.</p>' +
+    (queueRows ? '<h4>The last harvest</h4>' + queueRows : ''));
+
   var actions = [];
   var age = h.age;
   if (failed >= 1) {

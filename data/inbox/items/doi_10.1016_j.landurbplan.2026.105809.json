@@ -1,0 +1,25 @@
+{
+ "id": "doi_10.1016_j.landurbplan.2026.105809",
+ "kind": "paper",
+ "title": "Can visibility-based metrics predict soundscape perception in cities?",
+ "authors": "Fang, Varoudis, Oberman et al.",
+ "venue": "Landscape and Urban Planning",
+ "date": "2027-02",
+ "url": "https://doi.org/10.1016/j.landurbplan.2026.105809",
+ "doi": "10.1016/j.landurbplan.2026.105809",
+ "lang": "en",
+ "source": "Journal watch: Landscape and Urban Planning",
+ "run": "2026-10-12",
+ "abstract": "Context plays a central role in soundscape perception within the ISO 12913 series framework. However, there is a lack of empirical evidence on how to identify operational, standardised proxy metrics for capturing ‘context’ in soundscape assessment and prediction. The study addresses this gap by deriving a set of visibility-based metrics from Isovist and Visibility Graph Analysis (VGA) and evaluating their effectiveness in a soundscape predictive model. An on-site soundscape data campaign was conducted in Bloomsbury, Central London., Isovist and VGA metrics were computed for each soundscape observation to obtain a high-resolution, geospatial soundscape dataset (N = 787). Key findings stand out: (1) Isovist and VGA metrics correlate strongly with pleasantness ( P ISO ) but weakly with eventfulness ( E ISO ) ; (2) four ‘visual-spatial’ clusters ( ViSp ID ) are derived from the selected Isovist and VGA metrics: Highly connected streets , Moderately connected streets , Open spaces & poorly connected streets , and Enclosed spaces ; and (3) a linear multilevel model predicting P ISO that incorporates these clusters ( ViSp ID ) with psychoacoustic predictors (R 2 = 0.51) outperforms a psychoacoustics-only baseline model (R 2 = 0.15). These findings demonstrate that Isovist and VGA metrics provide practical proxies for the structural visibility and spatial configuration dimensions of physical context and support a systematic and reproducible framework for integrating these effects into predictive modelling.",
+ "themeGuess": [],
+ "found": "2026-10-12T11:37:17",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": "OpenAlex"
+}

@@ -1,0 +1,25 @@
+{
+ "id": "doi_10.1016_j.landurbplan.2026.105811",
+ "kind": "paper",
+ "title": "Global health benefits of urban greening across three decades (1990–2020)",
+ "authors": "Yan, Wu, Dai et al.",
+ "venue": "Landscape and Urban Planning",
+ "date": "2027-02",
+ "url": "https://doi.org/10.1016/j.landurbplan.2026.105811",
+ "doi": "10.1016/j.landurbplan.2026.105811",
+ "lang": "en",
+ "source": "Journal watch: Landscape and Urban Planning",
+ "run": "2026-10-12",
+ "abstract": "Urban greenness serves as a pivotal nature-based solution for mitigating heat islands and air pollution, while fostering both physical and mental well-being. However, despite documented regional potential health benefits, global-scale evidence regarding estimated historical gains from urban greenness variations and the potential for preventable mortality reduction remains scarce. Furthermore, little is known about the drivers of the changing health gap and disparities across age groups and city densities. This study systematically evaluates global urban greenness trends from 1990 to 2020, quantifying the estimated potentially averted premature deaths linked to historical changes, as well as the projected health gains under counterfactual scenarios. Our findings suggest that elevating global urban greenness to the provincial top 25th percentile benchmark could potentially expand the scale of preventable premature mortality, with estimated preventable deaths rising from 370,933 (95% CI: 220,465– 518,819) in 1990 to 1,744,656 (95% CI: 1,032,723– 2,449,854) in 2020. Parameter contribution analysis reveals that urban expansion and population aging are the primary drivers of this growing health gap. Furthermore, the estimated health benefits of urban greenness exhibit significant spatial disparities, with these gaps being particularly pronounced among elderly populations in megacities. These results underscore the need for future urban planning to pivot toward precision interventions that prioritize high-density and rapidly aging communities.",
+ "themeGuess": [],
+ "found": "2026-10-12T11:37:17",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": "OpenAlex"
+}

@@ -1,0 +1,25 @@
+{
+ "id": "doi_10.1016_j.tate.2026.105813",
+ "kind": "paper",
+ "title": "The influence of cognitive tools on the quality of coach-teacher professional learning conversations",
+ "authors": "Li, Matsumura, Correnti et al.",
+ "venue": "Teaching and Teacher Education",
+ "date": "2026-12",
+ "url": "https://doi.org/10.1016/j.tate.2026.105813",
+ "doi": "10.1016/j.tate.2026.105813",
+ "lang": "en",
+ "source": "Journal watch: Teaching and Teacher Education",
+ "run": "2026-10-12",
+ "abstract": "This study explores how literacy coaches use cognitive tools to foster productive professional learning conversations around teachers' videoed classroom text discussions. The use of cognitive tools increased the evidence-based specificity of these exchanges and was also associated with a greater likelihood that coaches and teachers connected specific instructional interactions in video-recorded lessons to dialogic goals and principles. Tool use, however, was not consistent. Specifically, coaches were more likely to use tools in planning reflection questions prior to the post-conference, rather than in ‘real time’ to support problematizing processes and interpretations of classroom discussions during the post-conference conversation. Even when tools were used, connections between specific evidence from class discussions to dialogic goals and principles rarely occurred. Implications are discussed for professional development that supports coaches in using cognitive tools more strategically and consistently to facilitate professional learning conversations that can advance teachers' adaptive expertise for dialogic teaching.",
+ "themeGuess": [],
+ "found": "2026-10-12T11:37:04",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": "OpenAlex"
+}

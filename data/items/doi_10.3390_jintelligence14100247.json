@@ -1,0 +1,21 @@
+{
+ "kind": "paper",
+ "title": "Rethinking Giftedness in the Age of Generative AI: A Relational Epistemic Agency Model for Advanced Learners",
+ "authors": "Umar",
+ "venue": "Journal of Intelligence",
+ "date": "2026-10-07",
+ "url": "https://doi.org/10.3390/jintelligence14100247",
+ "doi": "10.3390/jintelligence14100247",
+ "themes": [
+  "ai",
+  "pc"
+ ],
+ "score": 4,
+ "why": "Proposes a relational model of epistemic agency for advanced learners, which gives your AI-and-professional-criticality papers a frame for the problem that performance stops being evidence of independent competence once GenAI is in the loop.",
+ "caveat": "A theoretical synthesis from a structured database search. The model is not tested with students.",
+ "lang": "en",
+ "wildcard": false,
+ "source": "Crossref topic: AI & curriculum",
+ "status": "new",
+ "run": "2026-10-12"
+}

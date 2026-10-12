@@ -1,0 +1,21 @@
+{
+ "kind": "paper",
+ "title": "Decolonising landscape planning education in Europe? Why we should start a conversation",
+ "authors": "Thaler, Gugerell",
+ "venue": "Town Planning Review",
+ "date": "2026-10-05",
+ "url": "https://doi.org/10.3828/tpr.2026.20",
+ "doi": "10.3828/tpr.2026.20",
+ "themes": [
+  "dec",
+  "dbr"
+ ],
+ "score": 3,
+ "why": "Opens the conversation about decolonising European planning education, which is the curriculum-side twin of your epistemic-justice reading.",
+ "caveat": "No abstract was available from Crossref or OpenAlex, so only the title and metadata were read. It is a conversation piece by its own description.",
+ "lang": "en",
+ "wildcard": false,
+ "source": "Crossref topic: Decolonial & epistemic justice",
+ "status": "new",
+ "run": "2026-10-12"
+}

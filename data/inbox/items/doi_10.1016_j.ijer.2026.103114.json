@@ -1,0 +1,25 @@
+{
+ "id": "doi_10.1016_j.ijer.2026.103114",
+ "kind": "paper",
+ "title": "Learning with playful maps: The role of orienteering on problem-solving skills and environmental awareness of preschool children",
+ "authors": "Şahin, Uluışık",
+ "venue": "International Journal of Educational Research",
+ "date": "2027",
+ "url": "https://doi.org/10.1016/j.ijer.2026.103114",
+ "doi": "10.1016/j.ijer.2026.103114",
+ "lang": "en",
+ "source": "Journal watch: International Journal of Educational Research",
+ "run": "2026-10-12",
+ "abstract": "This study examined how an eight-week orienteering training affected preschoolers' problem-solving abilities and attitudes toward their environment. An explanatory sequential mixed-method design was used and involved 40 children in a public preschool in Afyonkarahisar, Türkiye, ages 5 to 6. The Children's Attitudes Towards the Environment Scale - Preschool Version (CATES-PV), the Problem Solving Skills Scale (4-7 years) (PSSS), a demographic information form, and an open-ended questionnaire were used as data collection tools. The dependent-groups t-test and the Wilcoxon signed-rank test were used to determine the difference between pre-test and post-test scores. Descriptive analysis was applied for the qualitative part. Children's problem-solving abilities significantly improved throughout the training, according to the findings. The training was not generally associated with improvements in scores on the Children's Attitudes Towards Environment Scale, but it did improve the living habits dimension of the scale. Both parents and teachers have noted positive changes in children's problem-solving, environmental awareness, map-reading skills, and nature sensitivity. These results show that orienteering training is associated with promising changes, particularly in ​​problem-solving. The study presents orienteering as an encouraging pedagogical approach for improving problem-solving skills in daily routine and contributes to the expanding literature on outdoor learning.",
+ "themeGuess": [],
+ "found": "2026-10-12T11:37:23",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": "OpenAlex"
+}

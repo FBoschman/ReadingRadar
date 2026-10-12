@@ -5,6 +5,44 @@ Unattended. Never ask a question mid-run; make the reasonable call and record it
 
 ---
 
+## The local route (used from 12 October 2026)
+
+The weekly task in the cloud cannot fetch any API: a scheduled run may only load a URL that already
+appeared word for word in a web-search result. Every API and every constructed query URL is refused.
+That is why two runs in a row were thin. The cycle therefore runs on the reader's own machine, where
+every source works.
+
+The steps of one weekly cycle, in order:
+
+1. **Harvest.** `python tools/harvest.py --since <the last run date> --limit 10`
+   It writes candidates to `data/inbox/items/` and the state of every source to `data/inbox/run.json`.
+   Use a wider `--since` only as a catch-up, and say so in the digest.
+2. **Enrich.** `python tools/enrich.py --limit 60`
+   Crossref has no abstract for every publisher. This step fills the gap from OpenAlex by DOI, so that
+   the judgement pass can write an honest caveat.
+3. **Queue.** `python tools/queue.py --min-match 2 --limit 40`
+   A ranked shortlist. The rank is a hint from the theme keywords, not a score.
+4. **Judge.** Write `data/inbox/judgement.json` and run `python tools/promote.py`.
+   Score each candidate 0 to 5, keep the items at or above `meta/profile.minScore`, and add one or two
+   wildcards. Cap: 30 items for one run. Every item needs a `why` and a `caveat`. This step is a
+   decision by a person or an agent. A script cannot do it.
+5. **Roots.** `python tools/lineage.py --top 5` (or `--queue`), then write
+   `data/inbox/lineage-judgement.json` and run `python tools/complete_lineage.py`.
+   The narrative and the strands may only name works that appear in `refs`.
+6. **Digest.** Write `data/meta/digest.json`: the week, the headline, three or four paragraphs, three
+   to five must-read ids from this run.
+7. **Run log and profile.** Write `data/meta/lastRun.json` with one line for each source, and update
+   `meta/profile.json` where the run changed the configuration (the journal states, the theme
+   rotation, the Bluesky state).
+8. **Vault.** `python tools/vault_notes.py`
+   Intake notes for the items at score 4 and higher go to `raw/articles`. Never write in `wiki/`, and
+   never touch `raw/fieldwork` or `raw/legacy`.
+9. **Check and publish.** `python tools/validate.py`, then `python tools/build_bundle.py`, then commit
+   and push. The dashboard reads the bundle.
+
+`python tools/weekly.py` runs steps 1, 2, 7 and 9 in one command. It does not run the judgement pass,
+the roots narrative or the digest, because those are decisions. The task catches up on a missed start.
+
 ## Step 1 — Load state
 
 1. Read `meta/profile`. This is configuration.

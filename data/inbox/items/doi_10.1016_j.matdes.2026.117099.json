@@ -1,0 +1,27 @@
+{
+ "id": "doi_10.1016_j.matdes.2026.117099",
+ "kind": "paper",
+ "title": "Injectable ophthalmic hydrogels: design principles, therapeutic mechanisms, clinical applications, and translational perspectives",
+ "authors": "Han, Li, Liu et al.",
+ "venue": "Materials & Design",
+ "date": "2026-11",
+ "url": "https://doi.org/10.1016/j.matdes.2026.117099",
+ "doi": "10.1016/j.matdes.2026.117099",
+ "lang": "en",
+ "source": "Crossref topic: Design-based research",
+ "run": "2026-10-12",
+ "abstract": "Injectable ophthalmic hydrogels are increasingly investigated as local delivery and tissue-support platforms for ocular therapy, particularly where eye drops are cleared rapidly and repeated intraocular injections increase clinical burden. After administration, these materials form hydrated polymer networks that can retain therapeutic agents, tune their diffusion, protect fragile cargos, and provide temporary biomechanical cues to damaged tissues. Their clinical use, however, is constrained by the unique intolerance of ocular tissues to material mismatch. A translational hydrogel must preserve vision, avoid pressure- or swelling-induced damage, adapt mechanically to the target compartment, degrade in a predictable manner, and be manufactured and sterilized without compromising performance. This review presents a structure–function-translation framework for injectable ophthalmic hydrogels. We relate ocular barriers, delivery routes, and payload properties to the choice of polymer chemistry and gelation mechanism, and compare natural, synthetic, hybrid, and composite systems through the way their networks form and evolve in vivo. We further discuss how network architecture controls drug release, tissue integration, optical behavior, and therapeutic duration. Finally, we outline design principles for clinically viable systems, arguing that while future hydrogels should evolve from passive depots toward responsive and multifunctional platforms, translational success will depend on maintaining sufficient robustness and simplicity to meet well-defined therapeutic needs without compromising ocular safety or reproducibility.",
+ "themeGuess": [
+  "dbr"
+ ],
+ "found": "2026-10-12T11:36:14",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": "OpenAlex"
+}

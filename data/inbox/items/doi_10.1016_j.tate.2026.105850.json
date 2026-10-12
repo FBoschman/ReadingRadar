@@ -1,0 +1,25 @@
+{
+ "id": "doi_10.1016_j.tate.2026.105850",
+ "kind": "paper",
+ "title": "Teaching in motion: Multilevel pathways of teachers’ professional growth across daily practice",
+ "authors": "Liu, Jian",
+ "venue": "Teaching and Teacher Education",
+ "date": "2026-12",
+ "url": "https://doi.org/10.1016/j.tate.2026.105850",
+ "doi": "10.1016/j.tate.2026.105850",
+ "lang": "en",
+ "source": "Journal watch: Teaching and Teacher Education",
+ "run": "2026-10-12",
+ "abstract": "Teacher professional growth is increasingly understood as a dynamic process embedded in everyday practice rather than as participation in discrete professional development events. This study examines how teachers’ learning unfolds across classroom instruction, collegial collaboration, and school-level engagement, and how coherence across these contexts relates to professional functioning. Using an intensive longitudinal design, primary teachers reported daily growth experiences over four weeks. Multilevel analyses distinguished within-teacher fluctuations from between-teacher differences. Results show that classroom-based learning occurred most consistently, whereas team and school learning were more episodic. Professional agency and adaptive instruction were higher on days when growth was stronger than usual, particularly when learning was integrated across contexts. Teachers who sustained coherent growth pathways across classroom, team, and school settings reported stronger overall professional functioning. The findings frame teacher development as a multilevel, process-oriented system and highlight the importance of connecting everyday learning opportunities across professional contexts.",
+ "themeGuess": [],
+ "found": "2026-10-12T11:37:04",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": "OpenAlex"
+}

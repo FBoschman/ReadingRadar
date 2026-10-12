@@ -1,0 +1,25 @@
+{
+ "id": "doi_10.1016_j.landurbplan.2026.105801",
+ "kind": "paper",
+ "title": "Associations between anthropogenic factors and cultivated plant β-diversity in tropical urban landscapes: evidence from Hainan, China",
+ "authors": "Zhou, Zhang, Nizamani et al.",
+ "venue": "Landscape and Urban Planning",
+ "date": "2027-02",
+ "url": "https://doi.org/10.1016/j.landurbplan.2026.105801",
+ "doi": "10.1016/j.landurbplan.2026.105801",
+ "lang": "en",
+ "source": "Journal watch: Landscape and Urban Planning",
+ "run": "2026-10-12",
+ "abstract": "Cultivated plants are a major component of urban vegetation and are widely used in urban greening and landscape design, with their diversity patterns reflecting human selection. Yet at the regional scale, whether anthropogenic or natural factors are more strongly associated with cultivated plant β -diversity remains poorly resolved in tropical island cities. Here, we examined the taxonomic, phylogenetic, and functional β -diversity of cultivated plants across 11 cities in Hainan Province, China, using systematic field surveys, variance partitioning, and multivariate analyses. We recorded 924 cultivated plant species, of which 70.89% were exotic, indicating a strong reliance on introduced ornamental taxa in urban planting. Cultivated plant communities showed high compositional similarity across cities, with frequent occurrence of Arecaceae, Ficus , and exotic ornamentals such as Bougainvillea spectabilis . Anthropogenic variables explained a larger proportion of variation in β -diversity than natural environmental variables, particularly for total and exotic cultivated plants. Among the anthropogenic factors, greening management variables, including watering, trimming, and fertilization frequency, showed the most consistent associations with β -diversity, with patterns consistent with reduced compositional differences among urban functional units (UFUs) under more intensive management. Native and exotic cultivated plant β -diversity were associated with different sets of predictors: native β -diversity was associated with greening management and UFU type, whereas exotic β -diversity was associated with UFU type, greening management, longitude, and annual wind speed. Overall, the observed patterns were more consistently associated with greening management and UFU type than with natural environmental gradients, although a substantial proportion of the variation remained unexplained. Diversifying plantings, increasing native species use, and reducing standardized maintenance may help preserve spatial heterogeneity and mitigate risks from excessive reliance on exotic ornamentals.",
+ "themeGuess": [],
+ "found": "2026-10-12T11:37:17",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": "OpenAlex"
+}

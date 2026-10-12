@@ -1,0 +1,26 @@
+{
+ "id": "doi_10.1038_s44172-026-00801-6",
+ "kind": "paper",
+ "title": "Photonic integrated recurrent spectrum slicer enabling low complexity direct detection over 200 GBaud dispersive links",
+ "authors": "Liu, Sozos, Teofilovic et al.",
+ "venue": "Communications Engineering",
+ "date": "2026-10-06",
+ "url": "https://doi.org/10.1038/s44172-026-00801-6",
+ "doi": "10.1038/s44172-026-00801-6",
+ "lang": "",
+ "source": "Crossref topic: Complexity in education",
+ "run": "2026-10-12",
+ "abstract": "Abstract The rising demand for data-intensive workloads in the network is driving the development of scalable and energy-efficient optical communication infrastructure. Intensity modulation with direct detection (IM/DD) remains the preferred choice for cost-sensitive systems but suffers from limited tolerance to chromatic dispersion and the resulting power fading at high symbol rates. We present the photonic integrated receiver implementation of the recurrent optical spectrum slicing (ROSS) architecture, which enables optical preprocessing and frequency-diversity detection to provide complementary intensity-domain observations for the recovery of dispersion-impaired IM/DD signals. The ROSS receiver effectively mitigates dispersion-induced power fading, even in highly dispersive transmission links. We experimentally demonstrate IM/DD transmissions at telecommunication wavelengths of up to 160-GBaud (175-GBaud) 4-level pulse-amplitude modulation (PAM-4) over 50 km (25 km) and 200-GBaud on-off keying (OOK) over 75 km of uncompensated standard single-mode fiber, using low-bandwidth electro-optic components and simple feed-forward equalization. These results achieve a dispersion tolerance of up to 2.4 × 10 5 GBd⋅ps/nm, and pave the way for low-power, high-speed optical links in next-generation passive optical networks and data center optical interconnects.",
+ "themeGuess": [
+  "cx"
+ ],
+ "found": "2026-10-12T11:36:11",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ }
+}

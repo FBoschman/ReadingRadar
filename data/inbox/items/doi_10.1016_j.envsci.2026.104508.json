@@ -1,0 +1,25 @@
+{
+ "id": "doi_10.1016_j.envsci.2026.104508",
+ "kind": "paper",
+ "title": "Waste(d) commons, transversal toxicity, and environmental (in)justice in Eastern Europe case studies from Câmpulung and Băicoi",
+ "authors": "Olaru, Codreanu, Şerbãnuţã et al.",
+ "venue": "Environmental Science & Policy",
+ "date": "2026-11",
+ "url": "https://doi.org/10.1016/j.envsci.2026.104508",
+ "doi": "10.1016/j.envsci.2026.104508",
+ "lang": "en",
+ "source": "Journal watch: Environmental Science & Policy",
+ "run": "2026-10-12",
+ "abstract": "This article examines environmental injustice and waste economies in post-socialist Eastern Europe through case studies of Câmpulung and Băicoi, Romania. Drawing on environmental justice, anthropology, post-socialist studies, and 44 semi-structured interviews, we analyze how toxic waste accumulation, weak regulation, post-industrial decline, global waste flows, and class dynamics intersect. We develop the concept of the “double communality of waste.” First, we argue that waste functions as a “negative commons,” as its harmful effects are collectively shared despite fragmented responsibility. Second, we argue that post-socialist transformations have “wasted” former industrial and social commons through privatization, deindustrialization, and the erosion of collective infrastructures and values. Our analysis makes three key observations. First , waste invites waste: initial dumping, enabled by weak governance and uneven development, generates self-reinforcing cycles attracting further accumulation and integration into transnational waste networks. In short, where there is waste—where public infrastructure, nature, or human lives are “wasted”—more waste is created. Second , repeated cycles of contamination and limited resistance normalize environmental harm, rendering waste an ordinary condition of everyday life. Third , we conceptualize these dynamics as “transversal toxicity,” where material pollution converges with neglect, corruption, anticommunist discourses, and an economy reproducing dependency and inequality: the dumping of toxic materials is enabled by “toxic” corruption and political carelessness, unnuanced anticommunism and the indictment of any retrospective gaze, ultimately encouraged by a “toxic” economic model that lays waste to human lives and formerly thriving industrial communities.",
+ "themeGuess": [],
+ "found": "2026-10-12T11:36:58",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": "OpenAlex"
+}

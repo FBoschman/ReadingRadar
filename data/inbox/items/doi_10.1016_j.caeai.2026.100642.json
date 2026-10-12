@@ -1,0 +1,25 @@
+{
+ "id": "doi_10.1016_j.caeai.2026.100642",
+ "kind": "paper",
+ "title": "Balancing AI responsibility with privacy, safety, and utility: Unlearning in large language models for mathematics education",
+ "authors": "Li, Gülfidan, Zhang-Kopf",
+ "venue": "Computers and Education: Artificial Intelligence",
+ "date": "2026-12",
+ "url": "https://doi.org/10.1016/j.caeai.2026.100642",
+ "doi": "10.1016/j.caeai.2026.100642",
+ "lang": "en",
+ "source": "Journal watch: Computers and Education: Artificial Intelligence",
+ "run": "2026-10-12",
+ "abstract": "Online mathematics learning platforms are increasingly adopting large language models (LLMs) to provide scalable, on-demand support, but these models may reproduce private information from training data or generate harmful language. This raises concerns about responsibility in educational settings regarding the use of pre-trained models. LLM unlearning is an emerging area for reducing a model’s ability to produce specific unwanted content and remains underexplored in educational research. This study aims to investigate how LLM unlearning reduces the model's reliance on personally identifiable information (PII) and inappropriate content in the math tutoring context, while maintaining the model's utility on both single-label and multi-label downstream math tasks. We applied a gradient-based LLM unlearning approach to three different models, which were pre-trained on approximately 3 million data points from an Algebra I online discussion forum between students and professional tutors. PII and harmful content were detected on this training data and used for unlearning in two different orders (PII and harmful content unlearning). Then, the generated outputs from these two unlearning models were compared with those of the pre-trained model in terms of PII-containing output rate and harmful rate. Moreover, unlearned models were evaluated on two different math classification tasks. The results showed that the rates of PII-containing output rate and harmfulness substantially decreased compared to the pre-trained models, and the utility of the unlearned model was still maintained. These findings demonstrate how LLM unlearning can be applied to pre-trained models to behave them more responsibly, while maintaining strong model performance on math-related tasks.",
+ "themeGuess": [],
+ "found": "2026-10-12T11:37:13",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": "OpenAlex"
+}

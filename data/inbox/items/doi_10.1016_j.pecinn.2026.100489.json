@@ -1,0 +1,27 @@
+{
+ "id": "doi_10.1016_j.pecinn.2026.100489",
+ "kind": "paper",
+ "title": "“How to prepare for end of life”: Co-development of a community-based advance care planning intervention through participatory design",
+ "authors": "Jensen, Blichfeldt-Eckhardt, Nedergaard et al.",
+ "venue": "PEC Innovation",
+ "date": "2026-12",
+ "url": "https://doi.org/10.1016/j.pecinn.2026.100489",
+ "doi": "10.1016/j.pecinn.2026.100489",
+ "lang": "en",
+ "source": "Crossref topic: Participatory action research",
+ "run": "2026-10-12",
+ "abstract": "Objective: In this participatory design study, we investigated which inputs a workshop panel had for the content and format of an oral presentation about how to prepare for end of life, and which inputs they had for questions in two evaluation tools (questionnaires and an interview guide). Methods: We co-developed an intervention consisting of an oral presentation and evaluation tools. Two structured workshops were conducted with a workshop panel. The development followed three phases of a participatory framework: needs assessment, idea generation, and testing/retesting. The data included audio recordings, post-it notes and participant feedback. Post-it notes were thematically analyzed, inspired by affinity diagramming (the KJ Method), and feedback was analyzed by content analysis. Results: Participants identified key themes, including legal rights and ethical dilemmas related to treatment decisions, care options and pathways, psychosocial concerns regarding quality of life, clear communication with healthcare professionals, and conceptual clarity. The workshop panel suggested a narrative communication strategy to foster personal reflection and emotional resonance. Participants also recommended developing handouts to encourage further dialogue and highlighted the value of follow-up opportunities and support networks. Feedback on the presentation was on slide design, content clarity, and performance. Conclusion: This study identifies themes and formats that can guide the development of early advance care planning interventions perceived as meaningful and accessible. The findings also highlight which domains older adults consider important to address early. Innovation: This study is innovative in using a participatory co-development process with a workshop panel of older adults, relatives, and healthcare professionals to develop an early advance care planning intervention.",
+ "themeGuess": [
+  "par"
+ ],
+ "found": "2026-10-12T11:36:17",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": "OpenAlex"
+}

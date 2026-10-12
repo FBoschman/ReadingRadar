@@ -1,0 +1,25 @@
+{
+ "id": "doi_10.1016_j.caeai.2026.100620",
+ "kind": "paper",
+ "title": "Personalized neural cognitive architecture search: AutoML-driven diagnostic model generation for heterogeneous learner profiles",
+ "authors": "Jia, Dong",
+ "venue": "Computers and Education: Artificial Intelligence",
+ "date": "2026-12",
+ "url": "https://doi.org/10.1016/j.caeai.2026.100620",
+ "doi": "10.1016/j.caeai.2026.100620",
+ "lang": "en",
+ "source": "Journal watch: Computers and Education: Artificial Intelligence",
+ "run": "2026-10-12",
+ "abstract": "With the rapid advancement of digital transformation in education, personalized learning has become a central objective for improving educational quality. However, traditional educational models struggle to effectively process multi-source heterogeneous learning behavior data, resulting in limited learner profiling and inefficient diagnostic model development. In addition, existing teaching quality evaluation systems mainly rely on static examination outcomes and simple statistical indicators, lacking the capability to dynamically analyze learning processes. To address these challenges, this study proposes a personalized neural cognitive architecture search framework driven by automated machine learning. The framework integrates multi-modal educational data using heterogeneous information network technology to construct dynamic learner profiles incorporating cognitive states, behavioral sequences, and contextual factors. A hierarchical neural architecture search space is then designed, combining differentiable search strategies with a Bayesian performance predictor to automatically identify optimal diagnostic model structures. Experimental results based on 28.45 million educational records show that the proposed method achieves an AUC of 89.1%, accuracy of 85.3%, and F1-score of 84.7%. The model significantly outperforms traditional psychometric approaches and surpasses mainstream deep learning and AutoML baselines. Ablation experiments further confirm the importance of multi-source data fusion and automated architecture search. Despite strong performance, challenges remain regarding computational efficiency and fairness validation across diverse learner populations.",
+ "themeGuess": [],
+ "found": "2026-10-12T11:37:13",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": "OpenAlex"
+}

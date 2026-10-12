@@ -1,0 +1,24 @@
+{
+ "id": "doi_10.1016_j.geoforum.2026.104874",
+ "kind": "paper",
+ "title": "Beyond ‘diversity of values’: power, pluralism and transformative change in biodiversity conservation",
+ "authors": "Immovilli, Büscher",
+ "venue": "Geoforum",
+ "date": "2027-01",
+ "url": "https://doi.org/10.1016/j.geoforum.2026.104874",
+ "doi": "10.1016/j.geoforum.2026.104874",
+ "lang": "",
+ "source": "Journal watch: Geoforum",
+ "run": "2026-10-12",
+ "abstract": "",
+ "themeGuess": [],
+ "found": "2026-10-12T11:37:20",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ }
+}

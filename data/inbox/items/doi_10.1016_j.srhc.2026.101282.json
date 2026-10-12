@@ -1,0 +1,27 @@
+{
+ "id": "doi_10.1016_j.srhc.2026.101282",
+ "kind": "paper",
+ "title": "From knowledge to implementation: advancing epistemic justice in women’s health in the Philippine context",
+ "authors": "Ramirez, Andaya, Domingo et al.",
+ "venue": "Sexual & Reproductive Healthcare",
+ "date": "2026-12",
+ "url": "https://doi.org/10.1016/j.srhc.2026.101282",
+ "doi": "10.1016/j.srhc.2026.101282",
+ "lang": "",
+ "source": "Crossref topic: Decolonial & epistemic justice",
+ "run": "2026-10-12",
+ "abstract": "",
+ "themeGuess": [
+  "dec"
+ ],
+ "found": "2026-10-12T11:36:22",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": ""
+}
