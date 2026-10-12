@@ -217,7 +217,7 @@
  "firstExport": "https://claude.ai/artifact/8EnWDz2BWtdGtGu8BqcQhJ",
  "generatedBy": "tools/build_bundle.py (local cycle)",
  "inbox": {
-  "items": 181,
+  "items": 213,
   "lineage": 5
  },
  "itemRunCounts": {

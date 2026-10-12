@@ -1,0 +1,27 @@
+{
+ "id": "doi_10.1016_j.cherd.2026.09.058",
+ "kind": "paper",
+ "title": "Cost analysis of e-methanol production using possibilistic uncertainty model",
+ "authors": "Nguyen, Laasonen, Koiranen",
+ "venue": "Chemical Engineering Research and Design",
+ "date": "2026-11",
+ "url": "https://doi.org/10.1016/j.cherd.2026.09.058",
+ "doi": "10.1016/j.cherd.2026.09.058",
+ "lang": "en",
+ "source": "Crossref topic: Design-based research",
+ "run": "2026-10-12",
+ "abstract": "This study develops a literature-based possibilistic method for interpreting the wide range of e-methanol costs reported by published techno-economic analyses (TEAs). It is a meta-analysis rather than a new process-specific TEA. Twenty-three configurations are harmonized to a common technical and economic basis, and six cost elements are represented by literature-derived membership functions and combined through α -cut arithmetic. Element-wise aggregation gives the literature-wide outer case, while dependence-constrained aggregation accounts for pairwise relationships and source-wise aggregation keeps the cost elements together within each published configuration. At 93% total CO 2 conversion, the representative cost is 1027 €/tMeOH, and the support (full cost range represented by the function) is 495–2279 €/tMeOH. H 2 dominates the representative cost, while CO 2 and FOPEX contribute disproportionately to the high-cost side, making the cost function right-skewed. Source-wise aggregation narrows the support to 603–1825 €/tMeOH, and pairwise dependence constraints explain 27.4–38.5% of this narrowing by excluding some simultaneous high-cost combinations. Bootstrap resampling gives nearly the same central cost but a substantially narrower probabilistic interval. The broad range therefore arises mainly from differences among published technologies and economic conditions rather than membership-function or harmonization choices; varying all harmonization assumptions together changes the support width by – 4.3% to +8.8%. The function supports early-stage cost screening and can be narrowed as project-specific information becomes available.",
+ "themeGuess": [
+  "dbr"
+ ],
+ "found": "2026-10-12T11:52:34",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": "OpenAlex"
+}

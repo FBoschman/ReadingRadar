@@ -1,0 +1,25 @@
+{
+ "id": "doi_10.1016_j.futures.2026.103949",
+ "kind": "paper",
+ "title": "Plural futures, binary sex system: Gender assumptions in core futures studies monographs",
+ "authors": "Liotzis",
+ "venue": "Futures",
+ "date": "2027-01",
+ "url": "https://doi.org/10.1016/j.futures.2026.103949",
+ "doi": "10.1016/j.futures.2026.103949",
+ "lang": "",
+ "source": "Journal watch: Futures",
+ "run": "2026-10-12",
+ "abstract": "",
+ "themeGuess": [],
+ "found": "2026-10-12T11:53:06",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": ""
+}

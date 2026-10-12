@@ -1,0 +1,26 @@
+{
+ "id": "doi_10.1504_ijtlid.2027.10077066",
+ "kind": "paper",
+ "title": "Innovation Ecosystem Implications for Territorial Development",
+ "authors": "Morais, Nunes",
+ "venue": "International Journal of Technological Learning, Innovation and Development",
+ "date": "2027",
+ "url": "https://doi.org/10.1504/ijtlid.2027.10077066",
+ "doi": "10.1504/ijtlid.2027.10077066",
+ "lang": "",
+ "source": "Crossref topic: Learning ecosystems",
+ "run": "2026-10-12",
+ "abstract": "",
+ "themeGuess": [
+  "eco"
+ ],
+ "found": "2026-10-12T11:52:29",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "id": "doi_10.1080_14606925.2026.2743665",
+ "kind": "paper",
+ "title": "Metacognition and pathway dynamics in generative AI supported design thinking: A process-sensitive evaluation with network-based cognitive mapping",
+ "authors": "Jiang, Zhang, Huang et al.",
+ "venue": "The Design Journal",
+ "date": "2026-10-12",
+ "url": "https://doi.org/10.1080/14606925.2026.2743665",
+ "doi": "10.1080/14606925.2026.2743665",
+ "lang": "",
+ "source": "Crossref topic: Design-based research",
+ "run": "2026-10-12",
+ "abstract": "",
+ "themeGuess": [
+  "dbr"
+ ],
+ "found": "2026-10-12T11:52:34",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ }
+}

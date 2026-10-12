@@ -1,0 +1,27 @@
+{
+ "id": "doi_10.1016_j.nexres.2026.102390",
+ "kind": "paper",
+ "title": "When understanding heightens response: AI literacy, anthropomorphic perception, and AI anxiety in consumer responses to AI-generated Advertising",
+ "authors": "SI, Jin",
+ "venue": "Next Research",
+ "date": "2026-11",
+ "url": "https://doi.org/10.1016/j.nexres.2026.102390",
+ "doi": "10.1016/j.nexres.2026.102390",
+ "lang": "",
+ "source": "Crossref topic: AI & curriculum",
+ "run": "2026-10-12",
+ "abstract": "",
+ "themeGuess": [
+  "ai"
+ ],
+ "found": "2026-10-12T11:52:38",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": ""
+}

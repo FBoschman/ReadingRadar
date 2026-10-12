@@ -1,0 +1,27 @@
+{
+ "id": "doi_10.1016_j.caeai.2026.100635",
+ "kind": "paper",
+ "title": "Students’ multimodal prompting practices as epistemic work in AI literacy development",
+ "authors": "Sofkova Hashemi",
+ "venue": "Computers and Education: Artificial Intelligence",
+ "date": "2026-12",
+ "url": "https://doi.org/10.1016/j.caeai.2026.100635",
+ "doi": "10.1016/j.caeai.2026.100635",
+ "lang": "en",
+ "source": "Crossref topic: AI & curriculum",
+ "run": "2026-10-12",
+ "abstract": ": As generative artificial intelligence (GenAI) rapidly transforms higher education, critical questions arise about how students engage with these open-ended tools and the implications for learning. This study provides empirical insight into this research gap investigating (1) the prompting strategies students develop when interacting with a university-provided GenAI tool and (2) how engagement in prompt engineering activities shapes their understanding of GenAI and AI literacy. Data were collected in an exploratory workshop with 28 postgraduate students engaged in collaborative multimodal prompting tasks, including the creation of short stories or poems and corresponding images. Students’ self-documented prompting histories and reflections were analysed qualitatively using reflexive thematic analysis, guided by frameworks for prompting methods and AI literacy. The findings show that students’ prompting strategies vary along a continuum from basic input-output use to strategic, iterative, and dialogic practices. Prompting emerges as a central epistemic practice through which students critically interpret, refine, and negotiate AI-generated outputs. Multimodal engagement exposes challenges in translating abstract meaning into machine-readable prompts, fostering awareness of system limitations, bias, and the need to actively construct coherence across modalities. While students demonstrate developing competence in evaluation and creation, ethical dimensions of AI literacy remain underdeveloped. The findings provide empirical insight into how AI literacy develops through hands-on engagement with GenAI, positioning prompting as an epistemic practice through which students learn to interpret, negotiate, and guide AI-generated outputs, while highlighting the value of iterative, reflective, and multimodal learning designs that foster critical, strategic, and responsible engagement with AI.",
+ "themeGuess": [
+  "ai"
+ ],
+ "found": "2026-10-12T11:52:38",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": "OpenAlex"
+}

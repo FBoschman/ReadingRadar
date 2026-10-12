@@ -1,0 +1,27 @@
+{
+ "id": "doi_10.1016_j.futures.2026.103919",
+ "kind": "paper",
+ "title": "From divergence to regime architecture: Epistemic regularization under accelerating technological change",
+ "authors": "Hafezi",
+ "venue": "Futures",
+ "date": "2026-12",
+ "url": "https://doi.org/10.1016/j.futures.2026.103919",
+ "doi": "10.1016/j.futures.2026.103919",
+ "lang": "",
+ "source": "Crossref topic: Decolonial & epistemic justice",
+ "run": "2026-10-12",
+ "abstract": "",
+ "themeGuess": [
+  "dec"
+ ],
+ "found": "2026-10-12T11:52:40",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": ""
+}

@@ -1,0 +1,26 @@
+{
+ "id": "doi_10.1504_ijmlo.2027.10073359",
+ "kind": "paper",
+ "title": "Conducting concept map-based generative AI-assisted comic storytelling activities in EFL environments: Performance differences among students with different AI literacy levels",
+ "authors": "Wang, Ye",
+ "venue": "International Journal of Mobile Learning and Organisation",
+ "date": "2027",
+ "url": "https://doi.org/10.1504/ijmlo.2027.10073359",
+ "doi": "10.1504/ijmlo.2027.10073359",
+ "lang": "",
+ "source": "Crossref topic: AI & curriculum",
+ "run": "2026-10-12",
+ "abstract": "",
+ "themeGuess": [
+  "ai"
+ ],
+ "found": "2026-10-12T11:52:38",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ }
+}

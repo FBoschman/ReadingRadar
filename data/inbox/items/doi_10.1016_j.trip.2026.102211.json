@@ -1,0 +1,27 @@
+{
+ "id": "doi_10.1016_j.trip.2026.102211",
+ "kind": "paper",
+ "title": "Regional rail interior design: assessing the Mobility Design Gender Gap (MDGG) in Germany",
+ "authors": "Nägele, Gebhardt",
+ "venue": "Transportation Research Interdisciplinary Perspectives",
+ "date": "2026-11",
+ "url": "https://doi.org/10.1016/j.trip.2026.102211",
+ "doi": "10.1016/j.trip.2026.102211",
+ "lang": "en",
+ "source": "Crossref topic: Design-based research",
+ "run": "2026-10-12",
+ "abstract": "The design of different modes of transport has been criticized for insufficiently addressing the diverse needs of different user groups, in particular women. This gender-based disparity is referred to as the Mobility Design Gender Gap (MDGG). Previous research suggests that the MDGG is particularly pronounced in public transport, primarily due to its limited adaptability to individual needs and current focus on male mobility behavior. However, it remains insufficiently understood which specific interior design aspects of modes of public transport contribute most to the MDGG. In the present paper we identified the key design features associated with gender differences in user satisfaction with regional train interiors and developed the MDGG questionnaire on the basis of an extensive literature review and focus group discussions. The MDGG‑Q was administered online and completed by 542 participants. An exploratory factor analysis retained 23 items that best fitted a five‑factor structure. Additionally, the questionnaire revealed that men show higher satisfaction with the subscales (1) space and privacy, (2) sanitary facilities, (3) usability, (4) grab handles, and (5) comfort in regional trains. Finally, the total score of the MDGG-Q showed higher values for men than for women, revealing men’s greater overall satisfaction with the interior design of regional trains. Even though effects were small, public transport providers should consider respective items in future design processes with deliberate inclusion of diverse user perspectives, to improve user satisfaction for all.",
+ "themeGuess": [
+  "dbr"
+ ],
+ "found": "2026-10-12T11:52:34",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": "OpenAlex"
+}

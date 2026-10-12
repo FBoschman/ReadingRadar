@@ -1,0 +1,27 @@
+{
+ "id": "doi_10.1016_j.lecon.2026.100031",
+ "kind": "paper",
+ "title": "Teacher noticing as a dynamic system: A complexity-informed multi-perspective approach",
+ "authors": "Scheiner, Santagata, van Es",
+ "venue": "Learning in Context",
+ "date": "2026-12",
+ "url": "https://doi.org/10.1016/j.lecon.2026.100031",
+ "doi": "10.1016/j.lecon.2026.100031",
+ "lang": "en",
+ "source": "Crossref topic: Learning ecosystems",
+ "run": "2026-10-12",
+ "abstract": "This paper proposes a dynamic systems framework for teacher noticing that illuminates theoretical synergies among cognitivist, socio-cultural, and ecological-embodied-enactive perspectives. Drawing on complexity theory—specifically emergence and multi-scale dynamics—we reconceptualize the emergence and dynamic operation of teacher noticing: how it arises from coordinated cognitive, cultural, embodied, and ecological processes; how it is distributed across teacher–student–environment relations; and how its constitutive mechanisms operate across multiple scales. The framework identifies four interrelated system processes—embodied perception, socially situated interpretation, ecologically embedded interaction, and culturally mediated framing—through which noticing arises as an emergent phenomenon that both shapes and is shaped by classroom contexts. Through a constructed theoretical exemplar spanning micro-scale perceptual detection to macro-scale professional competence trajectories, we illustrate the analytical leverage this complexity-informed multi-perspective approach affords over single-perspective or additive frameworks. By unpacking coordination mechanisms in professional noticing, we provide teacher educators and researchers with analytical tools for investigating dynamics that prior frameworks have rendered methodologically difficult to examine.",
+ "themeGuess": [
+  "eco"
+ ],
+ "found": "2026-10-12T11:52:29",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": "OpenAlex"
+}

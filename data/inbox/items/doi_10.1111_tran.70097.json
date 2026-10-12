@@ -1,0 +1,26 @@
+{
+ "id": "doi_10.1111_tran.70097",
+ "kind": "paper",
+ "title": "Between Borderisation and Multi/Transterritoriality: Dilemmas of Decolonising Territory in Abya Yala/Afro/Latin America",
+ "authors": "Haesbaert",
+ "venue": "Transactions of the Institute of British Geographers",
+ "date": "2026-10-12",
+ "url": "https://doi.org/10.1111/tran.70097",
+ "doi": "10.1111/tran.70097",
+ "lang": "",
+ "source": "Crossref topic: Decolonial & epistemic justice",
+ "run": "2026-10-12",
+ "abstract": "ABSTRACT This article addresses the issue of territory in Abya Yala/Afro/Latin America from a decolonial perspective and through the links and contradictions between the processes we call borderisation and multi or trans‐territorialisation, emphasising, in this case, the multiplicity of territory as an instrument of struggle and re‐existence, where resistance involves the construction of an alternative mode of existence, allowing for the coexistence of a multiplicity of worlds/territories. Borderisation is linked to the imposition of hegemonic corporate, state and para‐state territorial constraints of the (internal and external) coloniality of power, in contrast to the proposed bottom‐up boundaries aimed at ensuring decolonialised security and autonomy for subalternised groups. Based on these processes, the article reassesses the concept of territory in the Latin American context and its use as a category of social practice in an integrative sense.",
+ "themeGuess": [
+  "dec"
+ ],
+ "found": "2026-10-12T11:52:40",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ }
+}

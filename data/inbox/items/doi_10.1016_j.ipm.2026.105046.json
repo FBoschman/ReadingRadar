@@ -1,0 +1,27 @@
+{
+ "id": "doi_10.1016_j.ipm.2026.105046",
+ "kind": "paper",
+ "title": "More vs. less cognitive offloading from ai assistants: impacts on novices’ collaborative performance and skill development",
+ "authors": "Ding, Shen, Chen et al.",
+ "venue": "Information Processing & Management",
+ "date": "2027-01",
+ "url": "https://doi.org/10.1016/j.ipm.2026.105046",
+ "doi": "10.1016/j.ipm.2026.105046",
+ "lang": "en",
+ "source": "Crossref topic: AI & curriculum",
+ "run": "2026-10-12",
+ "abstract": "Artificial intelligence agents are increasingly deployed as professional teammates. However, it remains unclear how they can enhance collaborative performance without hindering human skill development, particularly for novices in high-stakes domains. Cognitive offloading, using external resources (in this case, AI assistants) to reduce one’s own cognitive effort, is central to this tension.We conducted a controlled experiment using a custom platform and the CAIL 2018 dataset. 130 participants were randomly assigned to one of four conditions: a no-AI control, high-offloading AI (which provided direct recommendation), moderate-offloading AI (which provided analytical support), or low-offloading AI (which provided evaluative feedback). The results reveal a fundamental trade-off. The high-offloading condition achieved the highest decision accuracy at 68.8% and the shortest decision time (37.55s). However, it diminished skill development, showing a 7.1% lower accuracy improvement than the control. In contrast, moderate- and low-offloading conditions fostered skill gains of approximately 5.5%. Mediation analysis indicated that this impeded skill development was associated with metacognitive miscalibration (a gap between perceived and actual ability) rather than merely reduced behavioral engagement. These findings extend the “AI Competency Paradox” by revealing a critical offloading threshold below which AI can enhance collaborative performance while supporting skill development, and by identifying metacognitive miscalibration (not reduced effort) as a mechanism underlying skill impairment, suggesting that AI assistants for novices should prioritize adaptive cognitive friction and real-time competence calibration over full automation.",
+ "themeGuess": [
+  "ai"
+ ],
+ "found": "2026-10-12T11:52:38",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": "OpenAlex"
+}

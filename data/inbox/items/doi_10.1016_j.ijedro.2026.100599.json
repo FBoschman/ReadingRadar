@@ -1,0 +1,27 @@
+{
+ "id": "doi_10.1016_j.ijedro.2026.100599",
+ "kind": "paper",
+ "title": "Modeling quality culture leadership in higher education via structural equation modeling: a complexity leadership theory perspective",
+ "authors": "Mandefro, Semela",
+ "venue": "International Journal of Educational Research Open",
+ "date": "2026-12",
+ "url": "https://doi.org/10.1016/j.ijedro.2026.100599",
+ "doi": "10.1016/j.ijedro.2026.100599",
+ "lang": "en",
+ "source": "Crossref topic: Complexity in education",
+ "run": "2026-10-12",
+ "abstract": "Grounded in complexity leadership theory and the dual-structure conception of quality culture advanced by the European University Association, this study investigates the roles of operational-level leaders in advancing quality culture development (QCD) in higher education institutions. Data were collected from 1029 academic staff across three public universities in Ethiopia using a cross-sectional survey design and analyzed through partial least squares structural equation modeling with SmartPLS-4. Findings indicate that the current roles of operational-level leaders within existing quality assurance (QA) mechanisms remain largely compliance-oriented and misaligned with QCD. Nevertheless, leadership plays a critical mediating role in transforming these structures. Exploratory factor analysis confirmed a robust three-dimensional QCD construct explaining 79.88% of the total variance. Structural modeling identified a developmental pathway to sustainable quality improvement: human relations → empowerment → commitment → ownership → QCD → higher education quality improvement. Ownership emerged as the strongest predictor, whereas compliance-driven QA policies and internal processes demonstrated limited explanatory and predictive powers. Leadership influences quality improvement primarily through indirect mechanisms, including relational climates, strategic alignment, and distributed ownership. The validated QCD model offers a systemic, relational, and adaptive framework that enables institutions to move beyond bureaucratic compliance toward sustainable quality improvement. The study introduces a QCD inventory encompassing three leadership dimensions and twelve sub-dimensions, providing both a conceptual framework and a practical tool for aligning leadership practices with national and global demands. Recommendations emphasize empowering leaders, integrating QCD dimensions into QA systems, revising leadership policies, and advancing longitudinal and cross-national research.",
+ "themeGuess": [
+  "cx"
+ ],
+ "found": "2026-10-12T11:52:32",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": "OpenAlex"
+}

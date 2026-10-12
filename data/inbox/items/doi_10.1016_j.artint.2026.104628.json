@@ -1,0 +1,27 @@
+{
+ "id": "doi_10.1016_j.artint.2026.104628",
+ "kind": "paper",
+ "title": "Capacity alternating-time temporal epistemic logic",
+ "authors": "Ballot, Malvone, Leneutre",
+ "venue": "Artificial Intelligence",
+ "date": "2026-12",
+ "url": "https://doi.org/10.1016/j.artint.2026.104628",
+ "doi": "10.1016/j.artint.2026.104628",
+ "lang": "",
+ "source": "Crossref topic: Decolonial & epistemic justice",
+ "run": "2026-10-12",
+ "abstract": "",
+ "themeGuess": [
+  "dec"
+ ],
+ "found": "2026-10-12T11:52:40",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": ""
+}

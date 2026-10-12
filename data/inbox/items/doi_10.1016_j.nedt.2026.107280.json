@@ -1,0 +1,27 @@
+{
+ "id": "doi_10.1016_j.nedt.2026.107280",
+ "kind": "paper",
+ "title": "Generative AI literacy as a mediator between lifelong learning and AI competence in nursing students: A regression-based cross-sectional study",
+ "authors": "Barış Eren, Terzi",
+ "venue": "Nurse Education Today",
+ "date": "2026-11",
+ "url": "https://doi.org/10.1016/j.nedt.2026.107280",
+ "doi": "10.1016/j.nedt.2026.107280",
+ "lang": "",
+ "source": "Crossref topic: AI & curriculum",
+ "run": "2026-10-12",
+ "abstract": "",
+ "themeGuess": [
+  "ai"
+ ],
+ "found": "2026-10-12T11:52:38",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": ""
+}

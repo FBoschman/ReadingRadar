@@ -1,0 +1,27 @@
+{
+ "id": "doi_10.1016_j.tsc.2026.102261",
+ "kind": "paper",
+ "title": "Fostering or hindering? Linking prior knowledge, personality traits, and team heterogeneity to critical thinking skills in gamified learning",
+ "authors": "Lee",
+ "venue": "Thinking Skills and Creativity",
+ "date": "2026-12",
+ "url": "https://doi.org/10.1016/j.tsc.2026.102261",
+ "doi": "10.1016/j.tsc.2026.102261",
+ "lang": "en",
+ "source": "Crossref topic: Professional criticality",
+ "run": "2026-10-12",
+ "abstract": "This study examines how prior knowledge, Big Five personality traits, and team heterogeneity relate to the development of critical thinking skills in a gamified learning environment. Using a quasi-experimental design with 132 undergraduates in a financial management course, I compared a team-based gamified class with a lecture-based class and analyzed repeated measurements using linear mixed-effects models. Gamified instruction is associated with higher critical thinking skills, while academic performance shows no clear between-method difference. Prior knowledge positively predicts both outcomes, and neuroticism is negatively associated with both. Trait–outcome patterns differ: conscientiousness and agreeableness relate more consistently to academic performance, whereas openness to experience and extraversion relate more consistently to critical thinking skills. Engagement, measured as peer-rated contribution within teams, predicts academic performance but does not directly predict critical thinking skills, suggesting that participation alone may be insufficient for higher-order growth. In the gamified class, team heterogeneity shows both direct associations and cross-level interactions, indicating that team composition can condition how individual attributes translate into outcomes. Phase patterns further suggest cumulative improvement across structured cycles, consistent with learning gains under repeated feedback and revision. Overall, the findings support a task–trait–team alignment perspective and imply a blended strategy: lectures to consolidate foundational knowledge and feedback-rich gamified collaboration to deepen critical thinking.",
+ "themeGuess": [
+  "pc"
+ ],
+ "found": "2026-10-12T11:52:42",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": "OpenAlex"
+}

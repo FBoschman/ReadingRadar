@@ -1,0 +1,27 @@
+{
+ "id": "doi_10.1016_j.tox.2026.154512",
+ "kind": "paper",
+ "title": "Cell Painting phenomics reveals size-dependent phenotypic responses to titanium dioxide nanoparticles in HepG2 cells",
+ "authors": "Boustani, Ounoughi, Zetzsche et al.",
+ "venue": "Toxicology",
+ "date": "2026-11",
+ "url": "https://doi.org/10.1016/j.tox.2026.154512",
+ "doi": "10.1016/j.tox.2026.154512",
+ "lang": "en",
+ "source": "Crossref topic: Transdisciplinary research",
+ "run": "2026-10-12",
+ "abstract": "Titanium dioxide nanoparticles (TiO₂NPs) are widely produced engineered nanomaterials with ongoing human exposure through consumer and occupational uses. Conventional in vitro assays often focus on cytotoxicity and may therefore overlook early or sublethal cellular perturbations. Here, we applied Cell Painting-based phenomics to resolve size-dependent sub-lethal phenotypic signatures of TiO 2 NP exposure in human HepG2 hepatocytes. Two TiO 2 NPs (<25 nm and <100 nm) were characterized by field emission scanning electron microscopy and evaluated following 24-hour exposure at five concentrations: 6.25, 12.5, 25, 50, and 100 µg/mL. Cell viability was assessed using the alamarBlue assay, and high-dimensional phenotypic profiles were generated using Cell Painting-based phenomics, including automated high-content imaging and CellProfiler-based feature extraction. TiO 2 NP exposure induced modest reductions in viability at the highest concentration, indicating limited acute cytotoxicity. In contrast, phenomic profiling revealed clear, concentration-dependent phenotypic perturbations for both size fractions, with markedly stronger and more consistent effects for the <100 nm TiO 2 NPs. At 100 µg/mL, the <100 nm TiO 2 NPs altered 50.9% of the measured phenotypic features, compared with 28.9% for the <25 nm particles, with prominent contributions from endoplasmic reticulum-, actin/Golgi/plasma membrane-, mitochondria-, and RNA-associated features. Dimensionality reduction and correlation analyses confirmed reproducible, concentration-dependent phenotypic trajectories. Importantly, the TiO 2 NP-induced phenotypes were distinct from those induced by the reference chemical CA-074Me, which produced broad perturbations and served as a reference chemical to verify assay sensitivity and dynamic range. Overall, Cell Painting phenomics sensitively captures size-dependent, sublethal cellular phenotypes induced by TiO 2 NPs, supporting its value as a New Approach Methodology for nanosafety assessment beyond conventional viability endpoints.",
+ "themeGuess": [
+  "td"
+ ],
+ "found": "2026-10-12T11:52:30",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": "OpenAlex"
+}

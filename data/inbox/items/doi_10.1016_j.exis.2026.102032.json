@@ -1,0 +1,27 @@
+{
+ "id": "doi_10.1016_j.exis.2026.102032",
+ "kind": "paper",
+ "title": "The intersection between mining and tourism: Indigenous power and decolonising futures",
+ "authors": "Connors, Ruhanen, Whitford et al.",
+ "venue": "The Extractive Industries and Society",
+ "date": "2026-12",
+ "url": "https://doi.org/10.1016/j.exis.2026.102032",
+ "doi": "10.1016/j.exis.2026.102032",
+ "lang": "en",
+ "source": "Crossref topic: Decolonial & epistemic justice",
+ "run": "2026-10-12",
+ "abstract": "As many mining operations in Australia approach the end of their productive life cycles, Aboriginal communities located on or near mining sites are increasingly seeking alternative economic pathways that align with their values, priorities, and connections to Country. Indigenous tourism is frequently identified as a promising post-mining opportunity; however, the extent to which mine closure policy enables such transitions remains unclear. This study examines mine closure policy as articulated through legislative, regulatory and industry documents in supporting Indigenous-led tourism development in post-mining contexts. Applying a decolonisation lens, the study draws on Barnett and Duvall’s taxonomy of power to undertake a qualitative analysis of the policy documents relevant to mining on recognised Indigenous land, with a particular focus on the Northern Territory. The findings of this study reveal that while Indigenous participation in mine closure planning is increasingly acknowledged within governance frameworks, decision-making authority over post-mining land use remains concentrated with the state and territory governments and mining companies. Mine closure governance is dominated by technocratic, biophysical priorities, with limited institutional mechanisms to embed Indigenous aspirations, measurements of success, or alternative economic pathways such as tourism. Indigenous agency emerges as conditional and procedurally constrained, rather than structurally embedded. The study concludes that current mine closure policy frameworks arguably facilitate colonial power relations that limit Indigenous self-determination in post-mining transitions. Addressing these constraints requires policy reform that moves beyond consultation toward genuine redistribution of authority over post-mining land use and economic futures.",
+ "themeGuess": [
+  "dec"
+ ],
+ "found": "2026-10-12T11:52:40",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": "OpenAlex"
+}

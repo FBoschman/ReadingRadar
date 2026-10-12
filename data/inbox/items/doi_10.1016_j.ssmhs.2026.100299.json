@@ -1,0 +1,27 @@
+{
+ "id": "doi_10.1016_j.ssmhs.2026.100299",
+ "kind": "paper",
+ "title": "Lessons learned from using Community Based Participatory Research (CBPR) methods to explore mental well-being of Community Health Workers (CHWs) in Bangladesh",
+ "authors": "Jahan, Karim, Biswas et al.",
+ "venue": "SSM - Health Systems",
+ "date": "2026-12",
+ "url": "https://doi.org/10.1016/j.ssmhs.2026.100299",
+ "doi": "10.1016/j.ssmhs.2026.100299",
+ "lang": "en",
+ "source": "Crossref topic: Participatory action research",
+ "run": "2026-10-12",
+ "abstract": "Community Health Workers (CHWs) are central to primary health care in many low- and middle-income countries, yet their mental well-being is rarely examined in ways that reflect lived realities. Community Based Participatory Research (CBPR) offers an approach that values community knowledge and shared power, but methodological reflections on its application in health systems research remain limited. This paper reflects on the use of three participatory methods, Photovoice, Body Mapping, and Narrative Timeline, within the Strengthening Health Systems by Addressing Community Health Workers’ Mental Well-being and Agency (SHINE) project in Bangladesh. Data were collected between January 2024 and October 2025 across two districts and involved four cadres of government and non-government CHWs. CHWs were engaged as participants and co researchers throughout data collection, analysis, validation, and dissemination. The methods enabled CHWs to articulate stressors, coping strategies, and motivations that are often difficult to capture through conventional qualitative approaches. Mental well-being was shaped by workload, financial insecurity, gendered responsibilities, and limited recognition within the health system, alongside strong sources of motivation such as community trust. CBPR strengthened both the depth and relevance of health systems research by centering CHWs’ experiences. Participatory approaches can generate actionable insights and should be more widely integrated into research informing CHW support and health system strengthening.",
+ "themeGuess": [
+  "par"
+ ],
+ "found": "2026-10-12T11:52:36",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": "OpenAlex"
+}

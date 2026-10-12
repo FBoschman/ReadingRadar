@@ -1,0 +1,27 @@
+{
+ "id": "doi_10.1016_j.jeap.2026.101782",
+ "kind": "paper",
+ "title": "Developing Sociolinguistic agency through Critical Plurilingual AI Literacy: A pedagogy for Algerian academic writers",
+ "authors": "Rogti",
+ "venue": "Journal of English for Academic Purposes",
+ "date": "2026-11",
+ "url": "https://doi.org/10.1016/j.jeap.2026.101782",
+ "doi": "10.1016/j.jeap.2026.101782",
+ "lang": "en",
+ "source": "Crossref topic: AI & curriculum",
+ "run": "2026-10-12",
+ "abstract": "The purpose of this study was to determine whether using Critical Plurilingual AI Literacy as pedagogy changes Algerian University students' perceptions and providing sociolinguistic agency (the ability to consciously direct AI to operate using an entire repertoire of languages; as well as subverting the AI's norm of only utilizing a monolingual way of working with data). The study comprised two phases of a research intervention based on the Design-Based Research (DBR) model in which a group of 42 undergraduate English for Academic Purposes (EAP) students enrolled at an Algerian University participated over 12 weeks. Focus group interviews (pre and post intervention), student prompt logs and documentation, and researcher field notes were gathered to conduct a reflexive thematic analysis using a holistic framework of plurilingualism, critical AI literacy, and decolonial linguistics. The subsequent data analysis was conducted using a reflexive thematic analysis utilizing a holistic view of plurilingualism combined with critical literacy. The findings indicate some considerations for EAP instructors utilizing GenAI as a means of achieving linguistic Justice and equity among students. Suggestions for possible institutional policies regarding the legitimacy of plurilingual writing are also provided.",
+ "themeGuess": [
+  "ai"
+ ],
+ "found": "2026-10-12T11:52:38",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": "OpenAlex"
+}

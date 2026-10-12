@@ -1,0 +1,27 @@
+{
+ "id": "doi_10.1016_j.metip.2026.100276",
+ "kind": "paper",
+ "title": "Towards democratizing research: Introducing the ‘everyday creativity model’ as a guide for community-engaged, participatory research practice",
+ "authors": "Johnson, Vann Monney",
+ "venue": "Methods in Psychology",
+ "date": "2026-12",
+ "url": "https://doi.org/10.1016/j.metip.2026.100276",
+ "doi": "10.1016/j.metip.2026.100276",
+ "lang": "en",
+ "source": "Crossref topic: Participatory action research",
+ "run": "2026-10-12",
+ "abstract": "There is a pressing need for psychological research to be more relevant, inclusive and impactful. This ties into contemporary movements to decolonize and democratize the Academy. Community-university partnerships, participatory research methods and arts-based research respond to these concerns in different, but complementary, ways, seeking to challenge dominant paradigms around the definitions, practice, ownership and application of knowledge and knowledge production. These approaches are becoming increasingly sought after within both academic and community contexts for their ability to speak to, include, and act with, communities of interest. Too often, however, this work remains tokenistic. Organizational constraints and resource limitations in both spheres can limit the extent to which research is truly accessible and inclusive. Furthermore, it is easy to overlook the limitations of our own preconceived paradigms, leading us to tread the same well-worn paths while maintaining that we are doing something radically different, or walk parallel paths to our research ‘partners’ while believing that we are all on the same track. ‘Everyday creativity’, with its focus on innovative synergistic practice, community-led action, meaningful engagement and impact has the potential to redress these limitations. Accordingly, this article draws on our experiences of collaborating in two community-university partnership projects to present a model for community-engaged research underpinned by everyday creativity principles. Recognizing the need to move beyond theoretical discussion and provide practical resources to support such research, we also introduce the ’Community Research Resource Pack,’ which was developed and piloted during these projects alongside the everyday creativity model.",
+ "themeGuess": [
+  "par"
+ ],
+ "found": "2026-10-12T11:52:36",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": "OpenAlex"
+}

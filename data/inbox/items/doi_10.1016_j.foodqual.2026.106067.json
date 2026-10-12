@@ -1,0 +1,27 @@
+{
+ "id": "doi_10.1016_j.foodqual.2026.106067",
+ "kind": "paper",
+ "title": "Our culture tells us what, why and how to eat’: exploring food and nutrition literacy among Arab immigrants/refugees in Ontario, Canada- a community-based participatory research study",
+ "authors": "Elshahat, Moffat, Newbold et al.",
+ "venue": "Food Quality and Preference",
+ "date": "2027-01",
+ "url": "https://doi.org/10.1016/j.foodqual.2026.106067",
+ "doi": "10.1016/j.foodqual.2026.106067",
+ "lang": "en",
+ "source": "Crossref topic: Participatory action research",
+ "run": "2026-10-12",
+ "abstract": "The concepts of food and nutrition literacy (FNL) have gained increasing attention as substantial determinants of nutritional health. As efforts to conceptualize FNL continue to evolve, there have been growing calls for more culturally-sensitive, context-specific conceptualizations and applications. This is particularly crucial for immigrants/refugees, given the distinct cultural values and needs of these populations. This paper explored FNL and their components among Arab immigrants/refugees (AIR) in Ontario, Canada. This cross-sectional, mixed methods community-based participatory research study used Photovoice, qualitative interviews and a survey. Sixty socio-demographically diverse AIR adults participated in this study. The research was guided by an amalgamated FNL framework. Findings revealed that FNL among AIR is multi-dimensional, involving both individual and collective components that encompass cultural and adaptive knowledge and skills that were collectively necessary for navigating AIRs' new food and nutrition system. Participants showed awareness by critiquing systemic issues that need to be addressed, including lack of cultural representation and the financial and geographical inaccessibility to nutritious foods. This project provides insights into conducting community-based action and advocacy activities to foster community empowerment and promote FNL. Our findings emphasize the importance of a holistic approach to FNL that incorporates collective action to co-address (with community members and stakeholders) structural barriers and enhance community food security. Limitations of the study include limited generalizability due to non-probability sampling, small subgroup sizes, and lack of direct outcome measures of community and advocacy-based activities.",
+ "themeGuess": [
+  "par"
+ ],
+ "found": "2026-10-12T11:52:36",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": "OpenAlex"
+}

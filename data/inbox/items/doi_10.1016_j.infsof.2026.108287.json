@@ -1,0 +1,27 @@
+{
+ "id": "doi_10.1016_j.infsof.2026.108287",
+ "kind": "paper",
+ "title": "Generative AI in teaching: How AI literacy and AI-generated lesson design shape teachers’ classroom implementation strategies",
+ "authors": "Dahri, Hussain, Amjad et al.",
+ "venue": "Information and Software Technology",
+ "date": "2026-11",
+ "url": "https://doi.org/10.1016/j.infsof.2026.108287",
+ "doi": "10.1016/j.infsof.2026.108287",
+ "lang": "",
+ "source": "Crossref topic: AI & curriculum",
+ "run": "2026-10-12",
+ "abstract": "",
+ "themeGuess": [
+  "ai"
+ ],
+ "found": "2026-10-12T11:52:38",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": ""
+}

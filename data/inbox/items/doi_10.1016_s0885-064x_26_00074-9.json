@@ -1,0 +1,26 @@
+{
+ "id": "doi_10.1016_s0885-064x_26_00074-9",
+ "kind": "paper",
+ "title": "Editorial Board",
+ "authors": "",
+ "venue": "Journal of Complexity",
+ "date": "2026-12",
+ "url": "https://doi.org/10.1016/s0885-064x(26)00074-9",
+ "doi": "10.1016/s0885-064x(26)00074-9",
+ "lang": "",
+ "source": "Crossref topic: Complexity in education",
+ "run": "2026-10-12",
+ "abstract": "",
+ "themeGuess": [
+  "cx"
+ ],
+ "found": "2026-10-12T11:52:32",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ }
+}

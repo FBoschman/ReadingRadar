@@ -1,0 +1,27 @@
+{
+ "id": "doi_10.1016_j.materresbull.2026.114401",
+ "kind": "paper",
+ "title": "Nanostructured adsorbents for effective CO₂ sequestration: Design principles, mechanistic insights, and future directions",
+ "authors": "Awe, Baba, Mustapha et al.",
+ "venue": "Materials Research Bulletin",
+ "date": "2027-01",
+ "url": "https://doi.org/10.1016/j.materresbull.2026.114401",
+ "doi": "10.1016/j.materresbull.2026.114401",
+ "lang": "",
+ "source": "Crossref topic: Design-based research",
+ "run": "2026-10-12",
+ "abstract": "",
+ "themeGuess": [
+  "dbr"
+ ],
+ "found": "2026-10-12T11:52:34",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ },
+ "abstractSource": ""
+}
