@@ -88,3 +88,27 @@ The panel did not ask for more sources, a database, an account system, a mobile 
 It asked for the loop to close, the evidence to be visible, the retrieval to be honest, the interface to
 be reachable, and the instrument to say when it stops. That is the shape of this redesign: small,
 surgical, and all inside the existing single-file page and the existing tools.
+
+## Field finding, 12 October 2026: the reader's own marks
+
+The first real session of the owner (persona P1) found a defect that no reviewer in the panel had
+described in these words. The reader marked 17 candidates in the Queue view: 4 keep, 13 skip. The
+exported file was applied, and every mark was refused:
+
+```
+SKIP  doi_10.1016_j.geoforum.2026.104839: no such item
+...
+triage marks applied: 0 | roots requests queued: 0 | refused: 17
+```
+
+| Finding | Verdict | Action |
+| --- | --- | --- |
+| F23, now with field evidence: `tools/apply_actions.py` searched only `data/items`, and the queue lives in `data/inbox/items`, so a mark made in the Queue view could never land. The message was also wrong: the candidate existed. | **Accepted, R1b** | The tool resolves both collections. A mark on a candidate writes `status` and `triagedAt` in the inbox. |
+| The same session showed that a `keep` on a candidate had no defined result: a promotion needs a score, a `why` and a `caveat`, and the page collected none of them. | **Accepted, R1b** | The Queue row asks for one line when it is kept. The file carries a `promotions` block, and the candidate passes the check of `promote.py`. A keep without a line is refused, with the reason printed. |
+| An actions file saved with a byte-order mark (Notepad, PowerShell) stopped the tool with a traceback. | **Accepted, R1b** | `radar_lib.load_json` reads `utf-8-sig`. |
+| The queue did not show that a candidate already carried a decision, so the same work would be done twice. | **Accepted, R1b** | The bundle carries the candidate `status`, the view shows it, and the Queue view hides decided candidates by default. |
+
+This is the first run of the learning loop on real marks from the owner, and the first field evidence in
+the record. The loop is closed on the data side. The half that the gate asks for, the effect of those
+marks on what the radar shows next, is set R2 of `REDESIGN.md`.
+

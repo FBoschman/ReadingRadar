@@ -82,10 +82,14 @@ def build(root):
     # The inbox is the reader's work list. The panel found that a queue nobody can read is a queue
     # nobody works (P1-3, P2-6), so the bundle now carries the candidates themselves, capped.
     queue = []
+    decided = 0
     folder = data / "inbox" / "items"
     if folder.is_dir():
         for path in sorted(folder.glob("*.json")):
             doc = json.loads(path.read_text(encoding="utf-8"))
+            status = doc.get("status") or "candidate"
+            if status in ("keep", "maybe", "skip"):
+                decided += 1
             queue.append({
                 "id": path.stem,
                 "kind": doc.get("kind") or "paper",
@@ -97,6 +101,7 @@ def build(root):
                 "themes": doc.get("themeGuess") or [],
                 "hasAbstract": bool(doc.get("abstract")),
                 "url": doc.get("url") or "",
+                "status": status,
             })
     drafts = []
     draft_folder = data / "inbox" / "lineage"
@@ -113,6 +118,8 @@ def build(root):
         "candidates": queue[:300],
         "candidatesCapped": max(0, len(queue) - 300),
         "lineageDrafts": drafts,
+        "decided": decided,
+        "undecided": len(queue) - decided,
     }
     for name in ("run", "expired"):
         path = data / "inbox" / (name + ".json")
@@ -123,7 +130,8 @@ def build(root):
         path = data / "meta" / (name + ".json")
         if path.is_file():
             bundle[name] = json.loads(path.read_text(encoding="utf-8"))
-    print("inbox: %d candidates, %d lineage drafts" % (inbox["items"], inbox["lineage"]))
+    print("inbox: %d candidates (%d carry a decision, %d wait), %d lineage drafts"
+          % (inbox["items"], inbox["decided"], inbox["undecided"], inbox["lineage"]))
 
     write_manifest(root, bundle)
 

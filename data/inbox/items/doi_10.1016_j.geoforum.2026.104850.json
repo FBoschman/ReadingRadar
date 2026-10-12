@@ -13,12 +13,13 @@
  "abstract": "",
  "themeGuess": [],
  "found": "2026-10-12T12:53:02",
- "status": "candidate",
+ "status": "skip",
  "judgement": {
   "score": null,
   "themes": [],
   "why": "",
   "caveat": "",
   "wildcard": false
- }
+ },
+ "triagedAt": "2026-10-12"
 }

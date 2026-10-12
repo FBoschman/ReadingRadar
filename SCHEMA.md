@@ -90,6 +90,28 @@ read it.
 The judgement pass reads and writes these files. `tools/promote.py` and `tools/complete_lineage.py`
 refuse a decision that breaks this schema, and they never overwrite a document that exists.
 
+### The queue, the reader's marks and `apply_actions.py`
+
+A candidate in `data/inbox/items` carries the status `candidate` until a reader decides about it.
+
+| Field | Type | Notes |
+| --- | --- | --- |
+| `status` | string | `candidate`, then `keep`, `maybe` or `skip`. Only `tools/apply_actions.py` writes a mark, from the reader's own actions file. |
+| `triagedAt` | string | `YYYY-MM-DD` of that mark. Added 12 October 2026. |
+
+The dashboard is a static file, so it cannot write to the data. It exports `radar-actions.json`:
+
+| Key | Content | What the tool does with it |
+| --- | --- | --- |
+| `triage` | `{<id>: {status}}` | An id in `data/items` gets `status` and `triagedAt`. An id in the inbox gets `status` and `triagedAt` in place. |
+| `promotions` | `{<id>: {reason, caveat?, score?, themes?}}` | `reason` becomes the `why`. The candidate passes the check of `tools/promote.py` and becomes an item with `status: keep`. The score defaults to the floor of the profile, the themes to `themeGuess`, and a missing `caveat` is filled with a line that names the tool as its author. |
+| `rootsRequests` | `[<id>]` | A queued entry in `data/lineageRequests`. |
+
+Two rules keep the judgement with the reader:
+
+- a `keep` on a candidate with a `reason` shorter than 20 characters is refused, and the tool says so;
+- a refused action changes nothing, and the tool returns exit code 1.
+
 ---
 
 ## `meta/profile`

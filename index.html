@@ -281,6 +281,16 @@ footer.foot { border-top: 1px solid var(--line); color: var(--ink-soft); font-si
           <option value="no">Without an abstract</option>
         </select>
       </div>
+      <div>
+        <label class="field" for="fQueueStatus">Decision</label>
+        <select id="fQueueStatus">
+          <option value="undecided">Undecided only</option>
+          <option value="all">All candidates</option>
+          <option value="keep">Kept</option>
+          <option value="maybe">Maybe</option>
+          <option value="skip">Skipped</option>
+        </select>
+      </div>
     </div>
     <div class="row">
       <span class="muted" id="queueCount" aria-live="polite"></span>
@@ -395,6 +405,9 @@ footer.foot { border-top: 1px solid var(--line); color: var(--ink-soft); font-si
 var DATA = window.RADAR_DATA || null;
 var ITEMS = [], ROOTS = [], EVENTS = [], REQUESTS = [], PROFILE = {}, LAST = {}, DIGEST = {}, MANIFEST = {};
 var THEMES = {};
+// A decision a reader has already applied to the data. The queue shows it as such, so that a mark
+// never has to be made twice.
+var DECIDED = ['keep', 'maybe', 'skip'];
 var state = { q: '', theme: 'all', status: 'all', kind: 'all', run: 'all', score: 0, sort: 'score', show: 'all', rootView: 'lineage', selected: null, selectedRoot: null };
 
 function el(id) { return document.getElementById(id); }
@@ -471,6 +484,19 @@ function ageInDays(value) {
 // ---- the marks a reader makes in this browser, and the file they become
 function marks() { return load('triage', {}); }
 
+// A keep on a candidate in the queue is a promotion, and a promotion needs a sentence: the judgement
+// stays with the reader. 20 characters is the floor in tools/promote.py, so the page says so first.
+var REASON_MIN = 20;
+
+function reasons() { return load('reasons', {}); }
+
+function setReason(id, text) {
+  var current = reasons();
+  text = String(text || '').trim();
+  if (text) { current[id] = text; } else { delete current[id]; }
+  save('reasons', current);
+}
+
 function setMark(id, status) {
   var current = marks();
   if (current[id] === status) { delete current[id]; } else { current[id] = status; }
@@ -493,9 +519,19 @@ function addRootsRequest(id) {
 
 function actionsObject() {
   var triage = {};
+  var promotions = {};
   var current = marks();
-  Object.keys(current).forEach(function (id) { triage[id] = { status: current[id] }; });
-  return {"triage": triage, "rootsRequests": rootsRequests(), "exportedAt": new Date().toISOString()};
+  var written = reasons();
+  Object.keys(current).forEach(function (id) {
+    var status = current[id];
+    triage[id] = { status: status };
+    var reason = String(written[id] || '').trim();
+    if (status === 'keep' && reason) {
+      promotions[id] = { reason: reason };
+    }
+  });
+  return {"triage": triage, "promotions": promotions, "rootsRequests": rootsRequests(),
+          "exportedAt": new Date().toISOString()};
 }
 
 function actionsJson() { return JSON.stringify(actionsObject(), null, 1); }
@@ -523,13 +559,28 @@ function exportActions(button, asFile) {
 }
 
 function renderPending() {
-  var total = Object.keys(marks()).length + rootsRequests().length;
+  var written = reasons();
+  var kept = 0;
+  var waiting = 0;
+  var current = marks();
+  Object.keys(current).forEach(function (id) {
+    if (current[id] !== 'keep') { return; }
+    kept += 1;
+    if (String(written[id] || '').trim().length < REASON_MIN) { waiting += 1; }
+  });
+  var total = Object.keys(current).length + rootsRequests().length;
   var html = '<div class="pending"><b>' + total + '</b> mark' + (total === 1 ? '' : 's') +
     ' in this browser, not yet in the data.' +
     ' <button class="act" type="button" data-action="export-actions">Copy the actions file</button>' +
     ' <button class="act ghost" type="button" data-action="download-actions">Download it</button>' +
     ' <button class="act ghost" type="button" data-action="clear-marks">Clear the marks</button>' +
-    ' <span class="muted">Then run: python tools/apply_actions.py --file radar-actions.json</span></div>';
+    ' <span class="muted">Then run: python tools/apply_actions.py --file radar-actions.json' +
+    ' (on Windows, when python is not on the PATH: py tools\\apply_actions.py --file radar-actions.json)</span>' +
+    (kept ? '<div class="muted" style="margin-top:6px">' + kept + ' mark' + (kept === 1 ? '' : 's') +
+      ' set to keep. A keep on a queued candidate becomes a promoted item, and that needs your own words: ' +
+      waiting + ' of ' + kept + ' still need' + (waiting === 1 ? 's' : '') + ' a line of ' + REASON_MIN +
+      ' characters or more. The radar refuses the rest and says so.</div>' : '') +
+    '</div>';
   ['pendingBox', 'queuePending'].forEach(function (id) {
     var node = document.getElementById(id);
     if (node) { node.innerHTML = total ? html : ''; }
@@ -943,7 +994,11 @@ function queueCandidates() {
   var theme = read('fQueueTheme') || 'all';
   var source = read('fQueueSource') || 'all';
   var abstract = read('fQueueAbstract') || 'all';
+  var decision = read('fQueueStatus') || 'undecided';
   return ((DATA.inbox && DATA.inbox.candidates) || []).filter(function (c) {
+    var stored = DECIDED.indexOf(c.status) >= 0 ? c.status : '';
+    if (decision === 'undecided' && stored) { return false; }
+    if (decision !== 'all' && decision !== 'undecided' && stored !== decision) { return false; }
     if (theme !== 'all' && (c.themes || []).indexOf(theme) < 0) { return false; }
     if (source !== 'all' && String(c.source || '').indexOf(source) < 0) { return false; }
     if (abstract === 'yes' && !c.hasAbstract) { return false; }
@@ -976,6 +1031,12 @@ function renderCalibration() {
   var total = decided.keep + decided.maybe + decided.skip;
   var lines = ['<p><b>' + decided.keep + ' keep</b>, <b>' + decided.maybe + ' maybe</b>, <b>' + decided.skip +
     ' skip</b>, ' + (ITEMS.length - total) + ' undecided. ' + total + ' of ' + ITEMS.length + ' items carry a decision.</p>'];
+  var queueDecided = (DATA.inbox && DATA.inbox.decided);
+  if (typeof queueDecided === 'number') {
+    lines.push('<p class="muted">The queue: ' + queueDecided + ' of ' + ((DATA.inbox && DATA.inbox.items) || 0) +
+      ' candidates already carry a decision of yours, from the actions file that you applied. A skip and a ' +
+      'maybe stay in the inbox; a keep with a line of yours becomes an item and leaves the queue.</p>');
+  }
   if (!total) {
     lines.push('<p class="muted">Nothing is decided yet, so the radar cannot learn. Mark items in the item view, export the marks, and run tools/apply_actions.py.</p>');
     set('healthCalibration', lines.join(''));
@@ -1004,7 +1065,9 @@ function renderQueue() {
   var total = (DATA.inbox && DATA.inbox.items) || 0;
   var capped = (DATA.inbox && DATA.inbox.candidatesCapped) || 0;
   if (el('queueCount')) {
+    var waiting = (DATA.inbox && DATA.inbox.undecided);
     el('queueCount').textContent = list.length + ' of ' + total + ' candidates are shown.' +
+      (typeof waiting === 'number' ? ' ' + waiting + ' of ' + total + ' still wait for a decision.' : '') +
       (capped ? ' ' + capped + ' older candidates are outside the bundle.' : '');
   }
   if (!list.length) {
@@ -1012,21 +1075,33 @@ function renderQueue() {
     return;
   }
   var marked = marks();
+  var written = reasons();
   var html = '';
   list.slice(0, 200).forEach(function (c) {
-    var mark = marked[c.id];
+    var stored = DECIDED.indexOf(c.status) >= 0 ? c.status : '';
+    var mark = marked[c.id] || stored;
+    var reason = String(written[c.id] || '');
+    var enough = reason.trim().length >= REASON_MIN;
     html += '<div class="item">' +
       themeChips(c.themes) + (c.hasAbstract ? ' <span class="badge b-blue">Abstract</span>' : ' <span class="badge b-grey">No abstract</span>') +
-      (mark ? ' <span class="mark ' + esc(mark) + '">' + esc(mark) + '</span>' : '') +
+      (mark ? ' <span class="mark ' + esc(mark) + '">' + esc(mark) + (stored && !marked[c.id] ? ', in the data' : '') + '</span>' : '') +
       '<span class="t"> ' + esc(c.title) + '</span>' +
       '<span class="meta">' + esc(c.authors || 'no author') + ' - ' + esc(c.venue || 'no venue') + ' - ' + esc(fmtDate(c.date)) + ' - ' + esc(c.source) + '</span>' +
       '<div class="triage">' +
         ['keep', 'maybe', 'skip'].map(function (status) {
           return '<button type="button" data-action="mark" data-id="' + esc(c.id) + '" data-status="' + status + '"' +
-            ' class="' + (mark === status ? 'on' : '') + '">' + status + '</button>';
+            ' class="' + (marked[c.id] === status ? 'on' : '') + '">' + status + '</button>';
         }).join('') +
         (c.url ? ' <a href="' + esc(c.url) + '" target="_blank" rel="noopener">open the source</a>' : '') +
-      '</div></div>';
+      '</div>' +
+      (mark === 'keep' ? '<div class="triage" style="margin-top:6px">' +
+        '<label class="field" for="reason-' + esc(c.id) + '">Why keep it? One line of ' + REASON_MIN +
+        ' characters or more, then apply the file and it becomes an item</label>' +
+        '<input type="text" id="reason-' + esc(c.id) + '" data-reason-for="' + esc(c.id) + '" value="' + esc(reason) + '"' +
+        ' placeholder="For example: the sample is the one my project needs">' +
+        ' <span class="badge ' + (enough ? 'b-green' : 'b-grey') + '" id="reasonNote-' + esc(c.id) + '">' +
+        (enough ? 'Ready to promote' : 'A line is still needed') + '</span></div>' : '') +
+      '</div>';
   });
   set('queueList', html);
 }
@@ -1290,6 +1365,7 @@ function onDocumentClick(event) {
   if (action === 'download-actions') { exportActions(node, true); }
   if (action === 'clear-marks') {
     save('triage', {});
+    save('reasons', {});
     save('rootsRequests', []);
     renderItemList();
     renderQueue();
@@ -1324,13 +1400,32 @@ function wireItemFilters() {
     node.addEventListener('input', apply);
     node.addEventListener('change', apply);
   }
-  var queueIds = ['qQueue', 'fQueueTheme', 'fQueueSource', 'fQueueAbstract'];
+  var queueIds = ['qQueue', 'fQueueTheme', 'fQueueSource', 'fQueueAbstract', 'fQueueStatus'];
   for (i = 0; i < queueIds.length; i++) {
     node = el(queueIds[i]);
     if (!node) { continue; }
     node.addEventListener('input', renderQueue);
     node.addEventListener('change', renderQueue);
   }
+  // The one-line reason on a kept candidate. Typing must not redraw the list, or the field would lose
+  // the cursor, so the badge is updated in place and the count follows when the field is left.
+  document.addEventListener('input', function (event) {
+    var input = event.target;
+    if (!input || !input.getAttribute) { return; }
+    var id = input.getAttribute('data-reason-for');
+    if (!id) { return; }
+    setReason(id, input.value);
+    var note = document.getElementById('reasonNote-' + id);
+    var enough = String(input.value || '').trim().length >= REASON_MIN;
+    if (note) {
+      note.className = 'badge ' + (enough ? 'b-green' : 'b-grey');
+      note.textContent = enough ? 'Ready to promote' : 'A line is still needed';
+    }
+  });
+  document.addEventListener('change', function (event) {
+    var input = event.target;
+    if (input && input.getAttribute && input.getAttribute('data-reason-for')) { renderPending(); }
+  });
   if (el('showPassed')) { el('showPassed').addEventListener('change', renderEvents); }
 }
 

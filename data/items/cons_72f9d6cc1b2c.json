@@ -1,23 +1,26 @@
 {
-  "authors": "Taptamat et al.",
-  "caveat": "Formative evaluation only; the four principles are declared emergent and untested, and the pilot is one Australian science faculty.",
-  "date": "2026",
-  "doi": "",
-  "kind": "paper",
-  "lang": "en",
-  "run": "2026-10-12",
-  "score": 4,
-  "source": "Consensus",
-  "status": "new",
-  "themes": [
-    "dbr",
-    "ai",
-    "par",
-    "pc"
-  ],
-  "title": "Co-Designing For Integrity: A Student Partnership Approach to Developing Ethical AI Literacy Resources in Higher Education",
-  "url": "https://consensus.app/papers/details/72f9d6cc1b2c53f49fa7edc0acae84e4/",
-  "venue": "Journal of University Teaching and Learning Practice",
-  "why": "DBR plus a student-staff partnership yielding four testable design principles for ethical AI literacy, and honest that an opt-in module barely reached the students it was for. Directly usable in the AI and Professional Criticality papers.",
-  "wildcard": false
+ "authors": "Taptamat et al.",
+ "caveat": "Formative evaluation only; the four principles are declared emergent and untested, and the pilot is one Australian science faculty.",
+ "date": "2026",
+ "doi": "",
+ "kind": "paper",
+ "lang": "en",
+ "run": "2026-10-12",
+ "score": 4,
+ "source": "Consensus",
+ "status": "new",
+ "themes": [
+  "dbr",
+  "ai",
+  "par",
+  "pc"
+ ],
+ "title": "Co-Designing For Integrity: A Student Partnership Approach to Developing Ethical AI Literacy Resources in Higher Education",
+ "url": "https://consensus.app/papers/details/72f9d6cc1b2c53f49fa7edc0acae84e4/",
+ "venue": "Journal of University Teaching and Learning Practice",
+ "why": "DBR plus a student-staff partnership yielding four testable design principles for ethical AI literacy, and honest that an opt-in module barely reached the students it was for. Directly usable in the AI and Professional Criticality papers.",
+ "wildcard": false,
+ "wikiNote": "Taptamat-2026-co-designing-for-integrity-a-student-partnership.md",
+ "wikiWrittenAt": "2026-10-12",
+ "wikiIngested": false
 }

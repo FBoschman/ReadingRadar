@@ -1,20 +1,23 @@
 {
-  "authors": "Durak et al.",
-  "caveat": "Bibliometric scoping review of 2015-2024 output; check whether the five thematic dimensions come from the 50 in-depth articles or the whole corpus. Consensus returns no month and no DOI, so the date is the year only.",
-  "date": "2026",
-  "doi": "",
-  "kind": "paper",
-  "lang": "en",
-  "run": "2026-10-12",
-  "score": 4,
-  "source": "Consensus",
-  "status": "new",
-  "themes": [
-    "cx"
-  ],
-  "title": "The landscape of complexity science in education: A scoping review of peer-reviewed articles",
-  "url": "https://consensus.app/papers/details/4d983246661e5d249ec39031a63cece9/",
-  "venue": "British Journal of Educational Technology",
-  "why": "Maps where complexity science has actually landed in education across 357 publications and finds the translation into practice only partial, with teachers and administrators barely studied. Useful ballast for the claim behind 'Substrate Matters' that complexity talk runs ahead of complexity practice.",
-  "wildcard": false
+ "authors": "Durak et al.",
+ "caveat": "Bibliometric scoping review of 2015-2024 output; check whether the five thematic dimensions come from the 50 in-depth articles or the whole corpus. Consensus returns no month and no DOI, so the date is the year only.",
+ "date": "2026",
+ "doi": "",
+ "kind": "paper",
+ "lang": "en",
+ "run": "2026-10-12",
+ "score": 4,
+ "source": "Consensus",
+ "status": "new",
+ "themes": [
+  "cx"
+ ],
+ "title": "The landscape of complexity science in education: A scoping review of peer-reviewed articles",
+ "url": "https://consensus.app/papers/details/4d983246661e5d249ec39031a63cece9/",
+ "venue": "British Journal of Educational Technology",
+ "why": "Maps where complexity science has actually landed in education across 357 publications and finds the translation into practice only partial, with teachers and administrators barely studied. Useful ballast for the claim behind 'Substrate Matters' that complexity talk runs ahead of complexity practice.",
+ "wildcard": false,
+ "wikiNote": "Durak-2026-the-landscape-of-complexity-science-in-education.md",
+ "wikiWrittenAt": "2026-10-12",
+ "wikiIngested": false
 }

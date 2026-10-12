@@ -49,12 +49,21 @@ The radar page can mark items keep, maybe or skip, and it can queue a roots trac
 the browser until they are exported:
 
 1. In the page, mark what you read. The pending box counts the marks.
-2. Press "Download it" (or copy the file) and save it as `radar-actions.json` in this folder.
-3. Run: `python tools/apply_actions.py --file radar-actions.json --notes`
-   The marks become the `status` of the item, the roots requests enter the queue, and the wiki notes are
-   refreshed.
+2. A mark of `keep` on a candidate in the Queue view asks for one line: why it matters to you. That line
+   is the `why` of the item, and it is what turns the mark into a promotion. The field appears under the
+   row as soon as you mark it, and it needs 20 characters or more.
+3. Press "Download it" (or copy the file) and save it as `radar-actions.json` in this folder.
+4. Run: `python tools/apply_actions.py --file radar-actions.json --notes`
+   On Windows, when `python` is not on the PATH, use the launcher:
+   `py tools\apply_actions.py --file radar-actions.json --notes`
+   The marks become the `status` of the item, a kept candidate becomes a finished item, the roots
+   requests enter the queue, and the wiki notes are refreshed.
 
-Without step 3, the marks stay in one browser and the radar learns nothing. The Health card says how many
+A `skip` and a `maybe` on a candidate stay in the inbox with that status, and the tool invents nothing
+for them. The Queue view hides decided candidates by default; set the "Decision" filter to "All
+candidates" to see them again.
+
+Without step 4, the marks stay in one browser and the radar learns nothing. The Health card says how many
 items carry a decision, so a forgotten export shows up as a flat line.
 
 ## The risk that the panel accepted

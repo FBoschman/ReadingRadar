@@ -1,21 +1,24 @@
 {
-  "authors": "Chutorański",
-  "caveat": "Philosophical essay with no empirical material. Its complexity canon is Morin, Davis and Sumara, Mason, with Haraway, Latour and Biesta alongside; Juarrero, Levin and Tsing do not appear.",
-  "date": "2026",
-  "doi": "",
-  "kind": "paper",
-  "lang": "en",
-  "run": "2026-10-12",
-  "score": 4,
-  "source": "Consensus; Journal watch: Educational Philosophy and Theory",
-  "status": "new",
-  "themes": [
-    "cx",
-    "dec"
-  ],
-  "title": "Forget complexity, but not its reach: Rethinking responsibility in education",
-  "url": "https://consensus.app/papers/details/ca8d818e7e9d56a88b8165c5101b6f52/",
-  "venue": "Educational Philosophy and Theory",
-  "why": "Argues complexity now matters as an ethical and ontological sensitivity to interdependence rather than as system explanation, and proposes close-range forgetting with long-range remembering. The closest published argument to the substrate question you are taking to CARN.",
-  "wildcard": false
+ "authors": "Chutorański",
+ "caveat": "Philosophical essay with no empirical material. Its complexity canon is Morin, Davis and Sumara, Mason, with Haraway, Latour and Biesta alongside; Juarrero, Levin and Tsing do not appear.",
+ "date": "2026",
+ "doi": "",
+ "kind": "paper",
+ "lang": "en",
+ "run": "2026-10-12",
+ "score": 4,
+ "source": "Consensus; Journal watch: Educational Philosophy and Theory",
+ "status": "new",
+ "themes": [
+  "cx",
+  "dec"
+ ],
+ "title": "Forget complexity, but not its reach: Rethinking responsibility in education",
+ "url": "https://consensus.app/papers/details/ca8d818e7e9d56a88b8165c5101b6f52/",
+ "venue": "Educational Philosophy and Theory",
+ "why": "Argues complexity now matters as an ethical and ontological sensitivity to interdependence rather than as system explanation, and proposes close-range forgetting with long-range remembering. The closest published argument to the substrate question you are taking to CARN.",
+ "wildcard": false,
+ "wikiNote": "Chutorański-2026-forget-complexity-but-not-its-reach-rethinking.md",
+ "wikiWrittenAt": "2026-10-12",
+ "wikiIngested": false
 }

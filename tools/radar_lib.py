@@ -34,10 +34,13 @@ def stamp():
 
 
 def load_json(path, default=None):
+    """Read one JSON document. A byte-order mark is tolerated: a reader who saves the actions file
+    from Notepad or from PowerShell gets one, and the browser download does not. See the field note of
+    12 October 2026 in tools/panel/CONSOLIDATION.md."""
     path = pathlib.Path(path)
     if not path.is_file():
         return default
-    return json.loads(path.read_text(encoding="utf-8"))
+    return json.loads(path.read_text(encoding="utf-8-sig"))
 
 
 def save_json(path, doc, sort_keys=False):
