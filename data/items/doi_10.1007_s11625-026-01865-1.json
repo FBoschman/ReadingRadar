@@ -1,21 +1,23 @@
 {
-  "authors": "Apetrei, Jager, Lang",
-  "caveat": "Network metrics can hide power asymmetries.",
-  "date": "2026-07-07",
-  "doi": "10.1007/s11625-026-01865-1",
-  "kind": "paper",
-  "lang": "en",
-  "run": "2026-09-19",
-  "score": 4,
-  "source": "Crossref",
-  "status": "new",
-  "themes": [
-    "td",
-    "eco"
-  ],
-  "title": "Unpacking knowledge systems for collective action towards sustainability: a social network perspective",
-  "url": "https://doi.org/10.1007/s11625-026-01865-1",
-  "venue": "Sustainability Science",
-  "why": "Network view of knowledge systems — a possible method for mapping who learns from whom in a stakeholder ecosystem.",
-  "wildcard": false
+ "authors": "Apetrei, Jager, Lang",
+ "caveat": "Network metrics can hide power asymmetries.",
+ "date": "2026-07-07",
+ "doi": "10.1007/s11625-026-01865-1",
+ "kind": "paper",
+ "lang": "en",
+ "run": "2026-09-19",
+ "score": 4,
+ "source": "Crossref",
+ "status": "new",
+ "themes": [
+  "td",
+  "eco"
+ ],
+ "title": "Unpacking knowledge systems for collective action towards sustainability: a social network perspective",
+ "url": "https://doi.org/10.1007/s11625-026-01865-1",
+ "venue": "Sustainability Science",
+ "why": "Network view of knowledge systems — a possible method for mapping who learns from whom in a stakeholder ecosystem.",
+ "wildcard": false,
+ "abstract": "Abstract Achieving sustainability requires collective action by diverse stakeholders, facilitated by knowledge systems that integrate scientific, policy, and locally tested, place-based practical insights. As collective action and knowledge systems are usually analyzed separately, this paper explicitly examines this relationship, assessing the role of knowledge in shaping collective action within a network of 32 sustainability initiatives in Southern Transylvania, Romania. Using social network analysis (SNA), we explore the interplay between 12 types of knowledge- and action-related collaborative activities, while also drawing on complementary data on organizational knowledge and decision-making processes to contextualize our findings. Our results suggest that knowledge relationships serve as structural entry points for further types of collaboration, functioning as necessary relational preconditions, while strategic action for deeper societal change may depend on the development of informal relationships. We propose a working hypothesis on how network collaborations evolve from low to high-risk actions and from coordination to cooperation, as suggested by the hierarchical structure of collaborative engagement we observed.",
+ "abstractSource": "OpenAlex"
 }

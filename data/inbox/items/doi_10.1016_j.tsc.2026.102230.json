@@ -1,0 +1,24 @@
+{
+ "id": "doi_10.1016_j.tsc.2026.102230",
+ "kind": "paper",
+ "title": "A quick way of counting the muses in German speakers: Evaluation of a 20-item short version of the German-language translation of the Kaufman Domains of Creativity Scales (K-DOCS)",
+ "authors": "Brauer, Donhauser, Kaufman et al.",
+ "venue": "Thinking Skills and Creativity",
+ "date": "2026-12",
+ "url": "https://doi.org/10.1016/j.tsc.2026.102230",
+ "doi": "10.1016/j.tsc.2026.102230",
+ "lang": "",
+ "source": "Journal watch: Thinking Skills and Creativity",
+ "run": "2026-10-12",
+ "abstract": "",
+ "themeGuess": [],
+ "found": "2026-10-12T12:52:44",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ }
+}

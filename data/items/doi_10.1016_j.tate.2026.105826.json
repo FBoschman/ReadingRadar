@@ -1,22 +1,24 @@
 {
-  "authors": "Yang, Zhang, Luo",
-  "caveat": "Exploratory single-context DBR; design principles may be thin.",
-  "date": "2026-12",
-  "doi": "10.1016/j.tate.2026.105826",
-  "kind": "paper",
-  "lang": "en",
-  "run": "2026-09-28",
-  "score": 5,
-  "source": "Crossref",
-  "status": "new",
-  "themes": [
-    "dbr",
-    "ai",
-    "pc"
-  ],
-  "title": "Sustaining teachers' epistemic agency in AI-supported instructional design: An exploratory design-based study of a conversational-function approach",
-  "url": "https://doi.org/10.1016/j.tate.2026.105826",
-  "venue": "Teaching and Teacher Education",
-  "why": "Design-based research aimed squarely at keeping teachers' epistemic agency intact while using AI - the design counterpart to your AI and Professional Criticality argument.",
-  "wildcard": false
+ "authors": "Yang, Zhang, Luo",
+ "caveat": "Exploratory single-context DBR; design principles may be thin.",
+ "date": "2026-12",
+ "doi": "10.1016/j.tate.2026.105826",
+ "kind": "paper",
+ "lang": "en",
+ "run": "2026-09-28",
+ "score": 5,
+ "source": "Crossref",
+ "status": "new",
+ "themes": [
+  "dbr",
+  "ai",
+  "pc"
+ ],
+ "title": "Sustaining teachers' epistemic agency in AI-supported instructional design: An exploratory design-based study of a conversational-function approach",
+ "url": "https://doi.org/10.1016/j.tate.2026.105826",
+ "venue": "Teaching and Teacher Education",
+ "why": "Design-based research aimed squarely at keeping teachers' epistemic agency intact while using AI - the design counterpart to your AI and Professional Criticality argument.",
+ "wildcard": false,
+ "abstract": "The increasing use of generative AI in instructional design raises concerns about cognitive outsourcing, as lesson planning may become overly shaped by algorithmic outputs. Because learning is situated and personalized, sustaining teachers' epistemic agency—responsibility for instructional decisions—is essential for student-centered planning. This exploratory study uses a design-based research approach to examine how a conversational-function framework can support teachers' epistemic agency in AI-assisted instructional design (AIID). Nineteen in-service teachers participated in two iterative intervention cycles in which structured conversational functions scaffolded teacher-AI interaction. Teachers' AIID scores showed substantial within-context improvement across the two cycles, accompanied by changes in score variability. These outcome patterns, together with network and sequential analyses of teacher-AI dialogues, suggest that conversational functions may support more coherent teacher-AI interaction patterns that sustain teachers’ epistemic responsibility for instructional decisions.",
+ "abstractSource": "OpenAlex"
 }

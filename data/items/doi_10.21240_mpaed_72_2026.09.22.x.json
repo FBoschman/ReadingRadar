@@ -1,21 +1,23 @@
 {
-  "authors": "Graf, Kiemer",
-  "caveat": "German only; check whether it is an editorial framing rather than a study.",
-  "date": "2026-09-22",
-  "doi": "10.21240/mpaed/72/2026.09.22.x",
-  "kind": "paper",
-  "lang": "de",
-  "run": "2026-09-28",
-  "score": 3,
-  "source": "Crossref",
-  "status": "new",
-  "themes": [
-    "dbr",
-    "eco"
-  ],
-  "title": "Digitale Transformation erforschen, begleiten und (mit-)gestalten",
-  "url": "https://doi.org/10.21240/mpaed/72/2026.09.22.x",
-  "venue": "MedienPädagogik: Zeitschrift für Theorie und Praxis der Medienbildung",
-  "why": "German-language work on researching digital transformation while also shaping it - the same double role your lectoraat occupies, argued in a tradition that names it differently.",
-  "wildcard": false
+ "authors": "Graf, Kiemer",
+ "caveat": "German only; check whether it is an editorial framing rather than a study.",
+ "date": "2026-09-22",
+ "doi": "10.21240/mpaed/72/2026.09.22.x",
+ "kind": "paper",
+ "lang": "de",
+ "run": "2026-09-28",
+ "score": 3,
+ "source": "Crossref",
+ "status": "new",
+ "themes": [
+  "dbr",
+  "eco"
+ ],
+ "title": "Digitale Transformation erforschen, begleiten und (mit-)gestalten",
+ "url": "https://doi.org/10.21240/mpaed/72/2026.09.22.x",
+ "venue": "MedienPädagogik: Zeitschrift für Theorie und Praxis der Medienbildung",
+ "why": "German-language work on researching digital transformation while also shaping it - the same double role your lectoraat occupies, argued in a tradition that names it differently.",
+ "wildcard": false,
+ "abstract": "Die digitale Transformation stellt eine der tiefgreifendsten gesellschaftlichen Veränderungen unserer Zeit dar. Als komplexer multidimensionaler Wandel, der sowohl technologische und organisationale als auch soziale Veränderungen umfasst, bringt die digitale Transformation weitreichende gesellschaftliche Unsicherheiten und Friktionen mit sich. Die Forschung steht damit nicht nur vor der Aufgabe, geeignete Forschungsansätze zu entwickeln, um diese komplexen Zusammenhänge methodisch adäquat zu erfassen und zu verstehen. Sie ist zunehmend auch gefordert, reflexiv, verantwortungsvoll und prozessbegleitend Orientierung im Wandel zu geben und Wege aufzuzeigen, wie diese gesellschaftlichen Herausforderungen bewältigt werden können.Der Beitrag reflektiert zunächst die Rolle von Wissenschaft in der und für die digitale Transformation und diskutiert transdisziplinäre gestaltungsorientierte Forschungsansätze als Weg, wissenschaftliche Erkenntnisproduktion mit gesellschaftlicher Verantwortungsübernahme und der Generierung praxisrelevanten Wissens im Transformationsprozess zu verbinden. Gestaltungsorientierte und transdisziplinäre Forschungsansätze bieten die Möglichkeit, Forschung nicht auf Ex-post-Analysen zu beschränken, sondern gesellschaftliche Transformationsprozesse in situ zu begleiten und aktiv mitzugestalten. Vor diesem Hintergrund werden Mixed-Method-Designs als potenzielles methodologisches Bindeglied mit Blick auf methodische Chancen und Herausforderungen diskutiert. Der Beitrag ordnet Mixed-Methods in den Methodenbaukasten der digitalen Transformationsforschung ein und eruiert, inwiefern diese zur Integration verschiedener Erkenntnisinteressen sowohl im inter- und transdisziplinären Kontext als auch zwischen Wissenschaft und Praxis beitragen können.",
+ "abstractSource": "OpenAlex"
 }

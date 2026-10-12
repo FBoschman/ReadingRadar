@@ -1,21 +1,23 @@
 {
-  "authors": "Dong",
-  "caveat": "Published 5 June 2026, outside the window. A single-author comparative argument built on a three-stage model rather than new empirical work.",
-  "date": "2026-06-05",
-  "doi": "10.1007/s11948-026-00608-w",
-  "kind": "paper",
-  "lang": "en",
-  "run": "2026-10-12",
-  "score": 3,
-  "source": "Web search + publisher page",
-  "status": "new",
-  "themes": [
-    "dec",
-    "td"
-  ],
-  "title": "From Biopiracy to Sustainable Knowledge Governance: Epistemic Justice and the Reconstruction of Resource Sovereignty in the Global South",
-  "url": "https://doi.org/10.1007/s11948-026-00608-w",
-  "venue": "Science and Engineering Ethics",
-  "why": "Treats biopiracy as epistemic colonialism and compares India, Brazil and South Africa on rebuilding knowledge sovereignty. Concrete material for the Santos strand of the CARN workshop.",
-  "wildcard": false
+ "authors": "Dong",
+ "caveat": "Published 5 June 2026, outside the window. A single-author comparative argument built on a three-stage model rather than new empirical work.",
+ "date": "2026-06-05",
+ "doi": "10.1007/s11948-026-00608-w",
+ "kind": "paper",
+ "lang": "en",
+ "run": "2026-10-12",
+ "score": 3,
+ "source": "Web search + publisher page",
+ "status": "new",
+ "themes": [
+  "dec",
+  "td"
+ ],
+ "title": "From Biopiracy to Sustainable Knowledge Governance: Epistemic Justice and the Reconstruction of Resource Sovereignty in the Global South",
+ "url": "https://doi.org/10.1007/s11948-026-00608-w",
+ "venue": "Science and Engineering Ethics",
+ "why": "Treats biopiracy as epistemic colonialism and compares India, Brazil and South Africa on rebuilding knowledge sovereignty. Concrete material for the Santos strand of the CARN workshop.",
+ "wildcard": false,
+ "abstract": "Biopiracy represents not merely the exploitation of biological and genetic resources, but a systematic form of epistemic colonialism. This article examines traditional knowledge governance through the lens of epistemic justice and decolonization, integrating Fricker's theory of epistemic injustice, Kuokkanen's concept of relational sovereignty, and Santos's epistemology of the South to construct a three-stage analytical model encompassing \"biopiracy, epistemicide, and knowledge sovereignty reconstruction.\" Through comparative analysis of institutional innovations in India, Brazil, and South Africa, the study reveals structural exclusion mechanisms inherent in Western property paradigms toward indigenous knowledge while demonstrating fundamental flaws in benefit-sharing mechanisms under the Convention on Biological Diversity framework. The article argues that sustainable knowledge governance must be grounded in epistemic pluralism, achieved through restoring indigenous communities' epistemic autonomy, recognizing the normative value of relational sovereignty, and establishing polycentric knowledge ecosystems to facilitate a paradigmatic shift from colonial knowledge orders to post-Western knowledge systems.",
+ "abstractSource": "OpenAlex"
 }

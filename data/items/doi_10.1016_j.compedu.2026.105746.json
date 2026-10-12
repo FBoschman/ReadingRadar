@@ -1,22 +1,24 @@
 {
-  "authors": "Rienties, Bektik, Coughlan",
-  "caveat": "Open University setting with resources most hbo lectoraten do not have.",
-  "date": "2027-01",
-  "doi": "10.1016/j.compedu.2026.105746",
-  "kind": "paper",
-  "lang": "en",
-  "run": "2026-09-28",
-  "score": 4,
-  "source": "Crossref",
-  "status": "new",
-  "themes": [
-    "dbr",
-    "ai",
-    "eco"
-  ],
-  "title": "A five-study design-based research approach to co-design an institutional AI digital assistant",
-  "url": "https://doi.org/10.1016/j.compedu.2026.105746",
-  "venue": "Computers & Education",
-  "why": "A rare DBR study that reports five linked cycles at institutional scale - useful as a worked example of how design principles are actually accumulated and reported.",
-  "wildcard": false
+ "authors": "Rienties, Bektik, Coughlan",
+ "caveat": "Open University setting with resources most hbo lectoraten do not have.",
+ "date": "2027-01",
+ "doi": "10.1016/j.compedu.2026.105746",
+ "kind": "paper",
+ "lang": "en",
+ "run": "2026-09-28",
+ "score": 4,
+ "source": "Crossref",
+ "status": "new",
+ "themes": [
+  "dbr",
+  "ai",
+  "eco"
+ ],
+ "title": "A five-study design-based research approach to co-design an institutional AI digital assistant",
+ "url": "https://doi.org/10.1016/j.compedu.2026.105746",
+ "venue": "Computers & Education",
+ "why": "A rare DBR study that reports five linked cycles at institutional scale - useful as a worked example of how design principles are actually accumulated and reported.",
+ "wildcard": false,
+ "abstract": "We report on a Design-Based Research (DBR) study that was conducted over a 13-month period to develop an institutional AI digital assistant (i-AIDA). Many students already use publicly available AI Digital Assistants (p-AIDA) like ChatGPT for academic purposes. However, there are concerns around the use of such p-AIDA tools, particularly in terms of academic integrity, data privacy, intellectual property, and the impact on the quality of education. Furthermore, many higher education institutions have substantial learning materials and data about students that they may not want to share with p-AIDA. Therefore, we explored the perspectives and experiences of developing an i-AIDA with 315 students and 20 staff at BLINDED in the UK in five consecutive studies using multiple methods and data sources (including surveys, interviews, think-aloud, alpha- and beta-testing of i-AIDA). The findings indicated that 24/7 immediate feedback relevant to academic learning was essential for learners. The beta-testing with students indicated that beyond chat participants particularly appreciated the design features of flashcards and quizzes to support their understanding. Participants’ perspectives on i-AIDA significantly improved after their engagement. Our research underscores the potential benefits and limitations of in-house i-AIDA in enhancing learning experiences without compromising academic integrity or privacy, although this still has to be validated in a larger institutional implementation.",
+ "abstractSource": "OpenAlex"
 }

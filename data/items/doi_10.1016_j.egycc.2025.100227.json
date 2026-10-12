@@ -1,21 +1,23 @@
 {
-  "authors": "Aragon, Budowle, Duba",
-  "caveat": "Check how priorities were aggregated and who was left out of the storytelling sample.",
-  "date": "2026-12",
-  "doi": "10.1016/j.egycc.2025.100227",
-  "kind": "paper",
-  "lang": "en",
-  "run": "2026-09-21",
-  "score": 4,
-  "source": "Crossref",
-  "status": "new",
-  "themes": [
-    "par",
-    "eco"
-  ],
-  "title": "Wyoming Voices: Digital storytelling as a participatory method to co-identify community priorities amid energy transitions",
-  "url": "https://doi.org/10.1016/j.egycc.2025.100227",
-  "venue": "Energy and Climate Change",
-  "why": "A workable participatory method for surfacing priorities in a contested transition - transferable to the CDC Urban Innovation fieldwork in public space.",
-  "wildcard": false
+ "authors": "Aragon, Budowle, Duba",
+ "caveat": "Check how priorities were aggregated and who was left out of the storytelling sample.",
+ "date": "2026-12",
+ "doi": "10.1016/j.egycc.2025.100227",
+ "kind": "paper",
+ "lang": "en",
+ "run": "2026-09-21",
+ "score": 4,
+ "source": "Crossref",
+ "status": "new",
+ "themes": [
+  "par",
+  "eco"
+ ],
+ "title": "Wyoming Voices: Digital storytelling as a participatory method to co-identify community priorities amid energy transitions",
+ "url": "https://doi.org/10.1016/j.egycc.2025.100227",
+ "venue": "Energy and Climate Change",
+ "why": "A workable participatory method for surfacing priorities in a contested transition - transferable to the CDC Urban Innovation fieldwork in public space.",
+ "wildcard": false,
+ "abstract": "While energy justice and just transition frameworks emphasize engaging a wide range of stakeholder voices in decision-making processes, strategies for doing so remain limited. This project investigated digital storytelling as a participatory method for identifying community priorities in southwest Wyoming where communities are experiencing interrelated wellbeing challenges amid energy transition. In concert with a community-based organization, participants developed first-person audio-visual narratives ( n = 8) about their assets, needs, and hopes for the future. The community-academic research team then conducted focus groups wherein other community members ( n = 12) viewed and discussed the stories for robust community-based co-identification and interpretation of priorities. Thematic analysis showed five key priorities: maintaining community; family; nature and landscape; social services; and economic priorities. Findings show that community priorities are diverse, community members demonstrate resilience, and there is no single narrative of energy transition and wellbeing in southwest Wyoming. Moreover, watching stories humanized storytellers for audience members. Digital storytelling provides a tangible, accessible, and inclusive approach for engaging stakeholders to share and identify community priorities, which is a necessary (though insufficient) aspect of energy justice and just transition efforts. We present a detailed methodology and discuss strategies for replicating and adapting it such that community-based organizations could implement this approach in their energy transition efforts on a community, statewide, and/or regional scale.",
+ "abstractSource": "OpenAlex"
 }

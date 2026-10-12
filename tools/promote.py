@@ -27,7 +27,8 @@ import sys
 import radar_lib as lib
 
 ITEM_FIELDS = ("kind", "title", "authors", "venue", "date", "url", "doi", "themes", "score",
-               "why", "caveat", "lang", "wildcard", "source", "status", "run")
+               "why", "caveat", "lang", "wildcard", "source", "status", "run",
+               "abstract", "abstractSource")
 
 
 def theme_codes():
@@ -44,8 +45,13 @@ def check(doc, decision):
         score = int(decision.get("score"))
     except (TypeError, ValueError):
         return ["the score is missing or not a number"]
-    if score < 0 or score > 5:
+    floor = int(lib.profile().get("minScore", 3) or 3)
+    if score < floor:
+        problems.append("the score is below the floor of the profile (%d). Raise it, or leave the item out" % floor)
+    if score > 5:
         problems.append("the score must be between 0 and 5")
+    if lib.is_noise_title(doc.get("title")):
+        problems.append("the title looks like a correction, an erratum or a retraction")
     themes = decision.get("themes") or []
     if not isinstance(themes, list):
         problems.append("themes must be a list")

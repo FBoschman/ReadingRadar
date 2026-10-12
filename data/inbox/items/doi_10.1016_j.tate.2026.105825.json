@@ -1,0 +1,24 @@
+{
+ "id": "doi_10.1016_j.tate.2026.105825",
+ "kind": "paper",
+ "title": "At the intersection of policy and digital tools: Boundary work and professional identity among Chinese schoolteachers and shadow-education tutors under the double reduction policy",
+ "authors": "Zhu",
+ "venue": "Teaching and Teacher Education",
+ "date": "2026-12",
+ "url": "https://doi.org/10.1016/j.tate.2026.105825",
+ "doi": "10.1016/j.tate.2026.105825",
+ "lang": "",
+ "source": "Journal watch: Teaching and Teacher Education",
+ "run": "2026-10-12",
+ "abstract": "",
+ "themeGuess": [],
+ "found": "2026-10-12T12:52:38",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ }
+}

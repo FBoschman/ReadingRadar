@@ -1,0 +1,24 @@
+{
+ "id": "doi_10.1016_j.landurbplan.2026.105725",
+ "kind": "paper",
+ "title": "Unveiling urban heat exposure risk networks: a network analysis approach for mitigating thermal discomfort",
+ "authors": "Hu, Zeng",
+ "venue": "Landscape and Urban Planning",
+ "date": "2026-11",
+ "url": "https://doi.org/10.1016/j.landurbplan.2026.105725",
+ "doi": "10.1016/j.landurbplan.2026.105725",
+ "lang": "",
+ "source": "Journal watch: Landscape and Urban Planning",
+ "run": "2026-10-12",
+ "abstract": "",
+ "themeGuess": [],
+ "found": "2026-10-12T12:52:55",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ }
+}

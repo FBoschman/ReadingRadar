@@ -1,0 +1,20 @@
+{
+ "frozenAt": "2026-10-12",
+ "note": "Every task is run by the named personas in every round, on the same data. A pass criterion is written so that it can be judged yes or no, not on a feeling.",
+ "tasks": [
+  {"id": "T01", "who": ["P1", "P7"], "title": "The Monday review: name the three items that should change what you teach or write, in 20 minutes", "pass": "Three items are chosen, each justified from the item record alone, inside 20 minutes.", "features": ["F01", "F02", "F03", "F04", "F06", "F08", "F09", "F11", "F16", "F23", "F24"]},
+  {"id": "T02", "who": ["P1", "P2"], "title": "Prepare the professional-criticality paper: find everything on generative AI and professional judgement, newest first, and decide what to cite", "pass": "The search reaches the evidence, the order serves the task, and each citation decision can be defended from the record.", "features": ["F05", "F06", "F07", "F08", "F09", "F10"]},
+  {"id": "T03", "who": ["P1", "P4"], "title": "Decide what goes into the wiki this week, then check that it arrived with the right frontmatter", "pass": "For each chosen item the reader can see the note, its state and its frontmatter, and can correct it.", "features": ["F11", "F12", "F16", "F17", "F18"]},
+  {"id": "T04", "who": ["P4"], "title": "Audit the intake contract against the /ingest pipeline and the two absolute vault rules", "pass": "The frontmatter is valid for the pipeline, every field is filled or honestly empty, and no guarded folder is touched.", "features": ["F16", "F17", "F19"]},
+  {"id": "T05", "who": ["P2", "P3"], "title": "Measure the recall of the last run for three watched journals", "pass": "A miss rate is measured against the journal's own list, not estimated.", "features": ["F13"]},
+  {"id": "T06", "who": ["P2", "P6"], "title": "Find duplicates and near-duplicates in the collection", "pass": "Duplicates are found or their absence is shown, with a count and the method.", "features": ["F04", "F06"]},
+  {"id": "T07", "who": ["P7", "P1"], "title": "Judge the relevance of 20 randomly drawn items against the five live projects", "pass": "A false-positive rate is produced with examples, and each example is argued.", "features": ["F03", "F05", "F06", "F08", "F09", "F10", "F11", "F12", "F16", "F23"]},
+  {"id": "T08", "who": ["P6", "P8"], "title": "Rebuild the bundle and revalidate the whole collection from scratch", "pass": "Every document passes the schema, the id rule is shown to be deterministic, and the build is reproducible.", "features": ["F25"]},
+  {"id": "T09", "who": ["P5"], "title": "Use the radar with the keyboard only, and open the third item in the list", "pass": "Every control is reachable, the focus is visible, and the item can be opened without a mouse.", "features": ["F04", "F08"]},
+  {"id": "T10", "who": ["P1", "P5"], "title": "Open the radar on a phone on Monday morning and finish T01", "pass": "The radar opens on a phone and the weekly review can be finished there.", "features": ["F01"]},
+  {"id": "T11", "who": ["P8", "P1"], "title": "Read the state of the radar after two weeks in which the weekly task failed", "pass": "The silence is visible without opening a log file, and the advice says what to do.", "features": ["F14", "F15", "F24", "F25"]},
+  {"id": "T12", "who": ["P6"], "title": "Attack the confidence claim of this panel test itself", "pass": "The reviewer states whether the measurement can support the claim, and what would falsify it.", "features": []},
+  {"id": "T13", "who": ["P1", "P2"], "title": "Work the candidate queue: read, filter and score 20 candidates", "pass": "The queue can be worked inside the radar, and the result of the work is visible in the data.", "features": ["F04", "F05", "F06", "F09", "F11", "F23"]},
+  {"id": "T14", "who": ["P1", "P3"], "title": "Trace the roots of a paper you intend to cite", "pass": "The trace can be asked for and read from the radar, and the queue of drafts is visible.", "features": ["F20", "F21", "F22"]}
+ ]
+}

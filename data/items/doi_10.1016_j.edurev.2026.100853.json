@@ -17,5 +17,7 @@
  "wildcard": false,
  "source": "Crossref topic: Design-based research",
  "status": "new",
- "run": "2026-10-12"
+ "run": "2026-10-12",
+ "abstract": "This systematic review examines how K–12 game-making curricula are designed in relation to systems thinking (ST). Prior research documents varied learning outcomes from game-making, but less is known about the curriculum designs through which ST is addressed. PRISMA 2020 was used to structure reporting, and ten empirical reports met the eligibility criteria. All ten contributed to the curriculum design synthesis, although the directness of their evidence in relation to ST varied. The analysis identified five pedagogical approaches. Two function as foundational orientations that define the central object of inquiry: System-Model-Game positions games as playable representations of contextual systems, whereas Game-as-System treats the game itself as the object of relational analysis. Three function as crosscutting dimensions of implementation: Facilitated-Collaborative, Audience-Driven, and Applied Technical Skills. Together, these approaches provide a descriptive framework for comparing how game-making curricula organize opportunities for analysis related to ST. Given the small and heterogeneous evidence base, the review does not establish that one approach or combination is more effective than another.",
+ "abstractSource": "OpenAlex"
 }

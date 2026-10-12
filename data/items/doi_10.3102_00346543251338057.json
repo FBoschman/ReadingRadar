@@ -1,21 +1,23 @@
 {
-  "authors": "Boetje, Sichterman, Van Ginkel, Smakman, Versendaal",
-  "caveat": "First published online 27 June 2025; effect sizes come from controlled information-problem tasks, not from messy professional practice.",
-  "date": "2026",
-  "doi": "10.3102/00346543251338057",
-  "kind": "paper",
-  "lang": "en",
-  "run": "2026-10-05",
-  "score": 4,
-  "source": "Web search + publisher page (Crossref API blocked)",
-  "status": "new",
-  "themes": [
-    "dbr",
-    "pc"
-  ],
-  "title": "Design Principles for Developing Information Problem Solving Competence in Higher Education: A Systematic Review and Meta-Analysis",
-  "url": "https://doi.org/10.3102/00346543251338057",
-  "venue": "Review of Educational Research",
-  "why": "Dutch UAS authors, design principles, top review journal: the nearest empirical handle on onderzoekend vermogen the radar has found.",
-  "wildcard": false
+ "authors": "Boetje, Sichterman, Van Ginkel, Smakman, Versendaal",
+ "caveat": "First published online 27 June 2025; effect sizes come from controlled information-problem tasks, not from messy professional practice.",
+ "date": "2026",
+ "doi": "10.3102/00346543251338057",
+ "kind": "paper",
+ "lang": "en",
+ "run": "2026-10-05",
+ "score": 4,
+ "source": "Web search + publisher page (Crossref API blocked)",
+ "status": "new",
+ "themes": [
+  "dbr",
+  "pc"
+ ],
+ "title": "Design Principles for Developing Information Problem Solving Competence in Higher Education: A Systematic Review and Meta-Analysis",
+ "url": "https://doi.org/10.3102/00346543251338057",
+ "venue": "Review of Educational Research",
+ "why": "Dutch UAS authors, design principles, top review journal: the nearest empirical handle on onderzoekend vermogen the radar has found.",
+ "wildcard": false,
+ "abstract": "Developing students’ information problemsolving (IPS) competence in higher education is imperative. However, existing theoretical frameworks describe IPS learning outcomes without guiding effective learning environment design. This systematic review and meta-analysis synthesized empirical evidence to formulate design principles for developing IPS competence. A systematic search across seven academic databases yielded 69 peer-reviewed articles from 2000–2023 with controlled pretest-posttest designs targeting (under)graduate students. Analysis of these studies yielded seven design principles: learning task, instruction, modeling, practice, learning activities, support, and feedback, with meta-analyses validating key relationships. The IPS educational design principles (IPS-EDP) model summarizes how these principles address learning outcomes, teaching and learning activities, and assessment strategies. While our review covered all IPS components, empirical evidence predominantly addressed information search and selection, potentially limiting generalizability to broader IPS competence. The IPS-EDP model provides a theoretical foundation for investigating and designing effective IPS learning environments in higher education, bridging research and practice.",
+ "abstractSource": "OpenAlex"
 }

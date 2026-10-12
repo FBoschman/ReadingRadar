@@ -1,20 +1,22 @@
 {
-  "authors": "Zagami",
-  "caveat": "Single-university survey.",
-  "date": "2026-09-09",
-  "doi": "10.1186/s41239-026-00625-6",
-  "kind": "paper",
-  "lang": "en",
-  "run": "2026-09-19",
-  "score": 3,
-  "source": "Crossref",
-  "status": "new",
-  "themes": [
-    "ai"
-  ],
-  "title": "Guarded adoption of generative AI in higher education: high-achieving students, successful-student identity, and epistemic agency in a single-university mixed-methods survey",
-  "url": "https://doi.org/10.1186/s41239-026-00625-6",
-  "venue": "Int. J. of Educational Technology in Higher Education",
-  "why": "Empirical data on how students protect their epistemic agency when using GenAI.",
-  "wildcard": false
+ "authors": "Zagami",
+ "caveat": "Single-university survey.",
+ "date": "2026-09-09",
+ "doi": "10.1186/s41239-026-00625-6",
+ "kind": "paper",
+ "lang": "en",
+ "run": "2026-09-19",
+ "score": 3,
+ "source": "Crossref",
+ "status": "new",
+ "themes": [
+  "ai"
+ ],
+ "title": "Guarded adoption of generative AI in higher education: high-achieving students, successful-student identity, and epistemic agency in a single-university mixed-methods survey",
+ "url": "https://doi.org/10.1186/s41239-026-00625-6",
+ "venue": "Int. J. of Educational Technology in Higher Education",
+ "why": "Empirical data on how students protect their epistemic agency when using GenAI.",
+ "wildcard": false,
+ "abstract": "Abstract Generative artificial intelligence is becoming part of university learning, but students do not engage with it uniformly. This mixed-methods survey of students at one Australian university examined whether successful-student identity and student-reported academic achievement were associated with different patterns of generative AI engagement. The institution-wide survey yielded 484 responses, including 469 with valid GPA-band data. Higher-achieving students reported lower active AI engagement, positive affect, perceived learning impact, and AI-related disengagement, alongside slightly higher negative affect. Item-level analyses showed less endorsement of AI-supported autonomy, effective learning, and active engagement, and greater agreement that reliance on AI hinders critical thinking and independent problem solving. Open-ended responses indicated that these students used AI selectively for clarification, summarisation, and workflow support while checking outputs and keeping them subordinate to their own judgment. The paper interprets this pattern as guarded adoption: selective, bounded, and verification-intensive use in defence of epistemic control and successful-student identity.",
+ "abstractSource": "OpenAlex"
 }

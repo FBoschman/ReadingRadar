@@ -1,22 +1,23 @@
 {
-  "authors": "Rosin, Lewis, Jensen",
-  "caveat": "Published 20 July 2026, outside the window. Delphi plus two illustrative STEAM cases, so the framework is expert-endorsed rather than tested against student learning.",
-  "date": "2026-07-20",
-  "doi": "10.1007/s10755-026-09925-1",
-  "kind": "paper",
-  "lang": "en",
-  "run": "2026-10-12",
-  "score": 4,
-  "source": "Web search + publisher page",
-  "status": "new",
-  "themes": [
-    "td",
-    "pc",
-    "dbr"
-  ],
-  "title": "Transdisciplinary Practices in Higher Education",
-  "url": "https://doi.org/10.1007/s10755-026-09925-1",
-  "venue": "Innovative Higher Education",
-  "why": "Eight transdisciplinary epistemic practices grouped into exploring, meaning making and critiquing, refined with faculty through a Delphi process. A ready-made vocabulary for what you call professional criticality in transdisciplinary teaching.",
-  "wildcard": false
+ "authors": "Rosin, Lewis, Jensen",
+ "caveat": "Published 20 July 2026, outside the window. Delphi plus two illustrative STEAM cases, so the framework is expert-endorsed rather than tested against student learning.",
+ "date": "2026-07-20",
+ "doi": "10.1007/s10755-026-09925-1",
+ "kind": "paper",
+ "lang": "en",
+ "run": "2026-10-12",
+ "score": 4,
+ "source": "Web search + publisher page",
+ "status": "new",
+ "themes": [
+  "td",
+  "pc",
+  "dbr"
+ ],
+ "title": "Transdisciplinary Practices in Higher Education",
+ "url": "https://doi.org/10.1007/s10755-026-09925-1",
+ "venue": "Innovative Higher Education",
+ "why": "Eight transdisciplinary epistemic practices grouped into exploring, meaning making and critiquing, refined with faculty through a Delphi process. A ready-made vocabulary for what you call professional criticality in transdisciplinary teaching.",
+ "wildcard": false,
+ "abstractSource": ""
 }

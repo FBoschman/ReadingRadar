@@ -21,6 +21,7 @@ import subprocess
 import sys
 
 import radar_lib as lib
+from harvest import expire_queue
 
 OK = "ok"
 
@@ -43,6 +44,46 @@ def call(command, dry_run=False):
     return True
 
 
+def window_start(last_date, cap_days=14):
+    """The first date of the window. A long gap is capped, so a missed month cannot flood the run."""
+    import datetime
+    today = datetime.date.fromisoformat(lib.today())
+    if not last_date:
+        return (today - datetime.timedelta(days=7)).isoformat()
+    try:
+        last = datetime.date.fromisoformat(str(last_date))
+    except ValueError:
+        return (today - datetime.timedelta(days=7)).isoformat()
+    if last > today:
+        last = today
+    return last.isoformat() if (today - last).days <= cap_days else (today - datetime.timedelta(days=cap_days)).isoformat()
+
+
+def write_status(dry_run, failed_sources, candidates):
+    """One small file that the radar page reads, so a silent stop cannot go unnoticed (P8-1)."""
+    document = {
+        "at": lib.stamp(),
+        "date": lib.today(),
+        "sources_failed": failed_sources,
+        "candidates": candidates,
+        "ok": not failed_sources,
+        "note": ("The harvest ran." if not failed_sources
+                 else "%d source(s) failed in this run." % failed_sources),
+    }
+    if not dry_run:
+        lib.save_json(lib.DATA / "meta" / "status.json", document)
+    return document
+
+
+def append_source_history(sources, dry_run):
+    """An append-only history, so a failure streak is visible (P3-4, P8-7)."""
+    path = lib.DATA / "meta" / "sourceHistory.json"
+    history = lib.load_json(path, []) or []
+    history.append({"date": lib.today(), "sources": sources})
+    if not dry_run:
+        lib.save_json(path, history[-52:])
+
+
 def update_run_log(dry_run):
     """Record the harvest in meta/lastRun.json, unless a completed record already exists for the day."""
     harvest = lib.load_json(lib.DATA / "inbox" / "run.json", {}) or {}
@@ -61,6 +102,7 @@ def update_run_log(dry_run):
         "unique": counts.get("candidates", 0),
         "kept": 0,
         "sources": harvest.get("sources", []),
+        "coverage": harvest.get("coverage", []),
         "notes": ("Harvest and abstract enrichment only. The judgement pass, the digest and the roots "
                   "narrative are decisions and have not run yet. Score the candidates in "
                   "data/inbox/items with data/inbox/judgement.json, then run tools/promote.py, then "
@@ -83,17 +125,27 @@ def main(argv=None):
     args = parser.parse_args(argv)
 
     last = lib.load_json(lib.DATA / "meta" / "lastRun.json", {}) or {}
-    since = args.since or last.get("date") or lib.today()
+    since = args.since or window_start(last.get("date"))
     print("weekly cycle for", lib.today(), "| window from", since)
 
     if not call([sys.executable, "tools/harvest.py", "--since", since, "--limit", str(args.limit)], args.dry_run):
         print("the harvest failed. The cycle stops here.")
+        write_status(args.dry_run, 99, 0)
         return 1
     if not call([sys.executable, "tools/enrich.py", "--limit", str(args.enrich_limit)], args.dry_run):
         print("the enrichment failed. The cycle stops here.")
         return 1
 
+    harvest_run = lib.load_json(lib.DATA / "inbox" / "run.json", {}) or {}
+    sources = harvest_run.get("sources", [])
+    failed = len([s for s in sources if str(s.get("status", "")).startswith("failed")])
+    inbox_count = len(list((lib.DATA / "inbox" / "items").glob("*.json")))
+    append_source_history(sources, args.dry_run)
+    write_status(args.dry_run, failed, inbox_count)
     update_run_log(args.dry_run)
+    dropped = expire_queue(dry_run=args.dry_run)
+    if dropped:
+        print("queue expiry dropped %d candidate(s). See data/inbox/expired.json" % len(dropped))
 
     if not call([sys.executable, "tools/validate.py"], args.dry_run):
         print("the data breaks the schema. Nothing was committed.")

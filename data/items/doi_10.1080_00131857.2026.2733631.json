@@ -1,21 +1,23 @@
 {
-  "authors": "Sakata",
-  "caveat": "Global South framed broadly; the empirical anchoring is light.",
-  "date": "2026-09-21",
-  "doi": "10.1080/00131857.2026.2733631",
-  "kind": "paper",
-  "lang": "en",
-  "run": "2026-09-28",
-  "score": 5,
-  "source": "Journal watch: Educational Philosophy and Theory",
-  "status": "new",
-  "themes": [
-    "dec",
-    "pc"
-  ],
-  "title": "Unbinding pedagogy and onto-epistemology within constructivist learning theory: Towards the decolonial potential of learner-centred pedagogy in the Global South",
-  "url": "https://doi.org/10.1080/00131857.2026.2733631",
-  "venue": "Educational Philosophy and Theory",
-  "why": "Separates learner-centred pedagogy from its constructivist onto-epistemology - the move your project note on knowledge beyond constructivism was reaching for.",
-  "wildcard": false
+ "authors": "Sakata",
+ "caveat": "Global South framed broadly; the empirical anchoring is light.",
+ "date": "2026-09-21",
+ "doi": "10.1080/00131857.2026.2733631",
+ "kind": "paper",
+ "lang": "en",
+ "run": "2026-09-28",
+ "score": 5,
+ "source": "Journal watch: Educational Philosophy and Theory",
+ "status": "new",
+ "themes": [
+  "dec",
+  "pc"
+ ],
+ "title": "Unbinding pedagogy and onto-epistemology within constructivist learning theory: Towards the decolonial potential of learner-centred pedagogy in the Global South",
+ "url": "https://doi.org/10.1080/00131857.2026.2733631",
+ "venue": "Educational Philosophy and Theory",
+ "why": "Separates learner-centred pedagogy from its constructivist onto-epistemology - the move your project note on knowledge beyond constructivism was reaching for.",
+ "wildcard": false,
+ "abstract": "The international spread of learner-centred pedagogy (LCP) – also known as ‘constructivist pedagogy’ or ‘constructivist learning theory’ – has received profound criticism for its political and ideological agenda and as a process of Westernisation. Although LCP may manifest neocolonial entanglement, it may also have possibilities for decolonising and indigenising education. This article addresses this paradoxical association by unpacking the confusion surrounding pedagogical/educational constructivism and epistemological constructivism. This prompts the recognition of the different onto-epistemologies underpinning constructivist learning theory. I argue that LCP, with its Western origin, is predicated on ontological individualism, whereas compatible pedagogies observed in many Indigenous communities tend to be based on a relational ontology, both of which can exhibit learner-centredness at the pedagogical surface. Homogenising any form of LCP-related pedagogy as a Western construct and labelling associated pedagogies implemented in the Global South as a neocolonial perpetuation can jeopardise the very colonial logic the critics of LCP seek to deconstruct. Unbinding the onto-epistemological and pedagogical within constructivist learning theory can provide a rationale for LCP-related pedagogies to take place in various cultures to reinvigorate Indigenous education and knowledge systems and decolonise existing curricula and pedagogy.",
+ "abstractSource": "OpenAlex"
 }

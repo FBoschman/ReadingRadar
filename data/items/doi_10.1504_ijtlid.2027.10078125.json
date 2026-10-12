@@ -1,20 +1,21 @@
 {
-  "authors": "Sharif, Senin",
-  "caveat": "Behavioural framing risks individualising what are institutional blockages.",
-  "date": "2027",
-  "doi": "10.1504/ijtlid.2027.10078125",
-  "kind": "paper",
-  "lang": "en",
-  "run": "2026-09-21",
-  "score": 3,
-  "source": "Crossref",
-  "status": "new",
-  "themes": [
-    "eco"
-  ],
-  "title": "Bridging the policy-practice gap in innovation ecosystems: a behavioural framework for quadruple helix adoption in emerging economies",
-  "url": "https://doi.org/10.1504/ijtlid.2027.10078125",
-  "venue": "International Journal of Technological Learning, Innovation and Development",
-  "why": "Quadruple helix treated as a behavioural adoption problem rather than a governance diagram - an unusual angle on why helix arrangements stall.",
-  "wildcard": false
+ "authors": "Sharif, Senin",
+ "caveat": "Behavioural framing risks individualising what are institutional blockages.",
+ "date": "2027",
+ "doi": "10.1504/ijtlid.2027.10078125",
+ "kind": "paper",
+ "lang": "en",
+ "run": "2026-09-21",
+ "score": 3,
+ "source": "Crossref",
+ "status": "new",
+ "themes": [
+  "eco"
+ ],
+ "title": "Bridging the policy-practice gap in innovation ecosystems: a behavioural framework for quadruple helix adoption in emerging economies",
+ "url": "https://doi.org/10.1504/ijtlid.2027.10078125",
+ "venue": "International Journal of Technological Learning, Innovation and Development",
+ "why": "Quadruple helix treated as a behavioural adoption problem rather than a governance diagram - an unusual angle on why helix arrangements stall.",
+ "wildcard": false,
+ "abstractSource": ""
 }

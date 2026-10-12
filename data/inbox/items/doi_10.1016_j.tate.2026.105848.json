@@ -1,0 +1,24 @@
+{
+ "id": "doi_10.1016_j.tate.2026.105848",
+ "kind": "paper",
+ "title": "Teachers’ pathways to queer-inclusive education: A network analysis of pre-service and in-service teachers in Germany",
+ "authors": "Hölscher, Krachum Ott, Graßhoff",
+ "venue": "Teaching and Teacher Education",
+ "date": "2026-12",
+ "url": "https://doi.org/10.1016/j.tate.2026.105848",
+ "doi": "10.1016/j.tate.2026.105848",
+ "lang": "",
+ "source": "Journal watch: Teaching and Teacher Education",
+ "run": "2026-10-12",
+ "abstract": "",
+ "themeGuess": [],
+ "found": "2026-10-12T12:52:38",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ }
+}

@@ -83,8 +83,29 @@ def problems_of_lineage(doc_id, doc, item_ids):
     return out
 
 
+def policy_problems(doc_id, doc, allow):
+    """The policy in meta/profile.json, checked against the record.
+
+    The panel found four items below the score floor, fifteen without a caveat and a correction notice
+    filed as a paper (P7-2, P3-3, P6-3). A record that breaks the written policy is an error, unless the
+    reader has chosen to keep it: the allow-list in data/meta/policyAllowList.json carries the ids and
+    the reason.
+    """
+    out = []
+    floor = int(lib.profile().get("minScore", 3) or 3)
+    if int(doc.get("score") or 0) < floor and doc_id not in set(allow.get("score", [])):
+        out.append("score %s is below the floor of %d, and the record is not on the allow-list"
+                   % (doc.get("score"), floor))
+    if not str(doc.get("caveat") or "").strip() and doc_id not in set(allow.get("caveat", [])):
+        out.append("no caveat, and the record is not on the allow-list")
+    if lib.is_noise_title(doc.get("title")):
+        out.append("the title is a correction, an erratum or a retraction")
+    return out
+
+
 def main():
     total_problems = 0
+    allow = lib.load_json(lib.DATA / "meta" / "policyAllowList.json", {}) or {}
     items = lib.collection("items")
     lineage = lib.collection("lineage")
     events = lib.collection("events")
@@ -95,6 +116,9 @@ def main():
     for doc_id, doc in sorted(items.items()):
         for problem in problems_of_item(doc_id, doc):
             print("ITEM   %s: %s" % (doc_id, problem))
+            total_problems += 1
+        for problem in policy_problems(doc_id, doc, allow):
+            print("POLICY %s: %s" % (doc_id, problem))
             total_problems += 1
     for doc_id, doc in sorted(lineage.items()):
         for problem in problems_of_lineage(doc_id, doc, item_ids):

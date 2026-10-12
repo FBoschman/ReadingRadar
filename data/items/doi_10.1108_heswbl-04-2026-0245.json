@@ -1,21 +1,23 @@
 {
-  "authors": "Ho, Yip",
-  "caveat": "Single case.",
-  "date": "2026-08-18",
-  "doi": "10.1108/heswbl-04-2026-0245",
-  "kind": "paper",
-  "lang": "en",
-  "run": "2026-09-19",
-  "score": 4,
-  "source": "Crossref",
-  "status": "new",
-  "themes": [
-    "eco",
-    "par"
-  ],
-  "title": "A student-led living laboratory as work-integrated learning: an action research study of professional identity development in Malaysian higher education",
-  "url": "https://doi.org/10.1108/heswbl-04-2026-0245",
-  "venue": "Higher Education, Skills and Work-Based Learning",
-  "why": "Living lab + action research + professional identity: a close cousin of your ecosystem-learning setup.",
-  "wildcard": false
+ "authors": "Ho, Yip",
+ "caveat": "Single case.",
+ "date": "2026-08-18",
+ "doi": "10.1108/heswbl-04-2026-0245",
+ "kind": "paper",
+ "lang": "en",
+ "run": "2026-09-19",
+ "score": 4,
+ "source": "Crossref",
+ "status": "new",
+ "themes": [
+  "eco",
+  "par"
+ ],
+ "title": "A student-led living laboratory as work-integrated learning: an action research study of professional identity development in Malaysian higher education",
+ "url": "https://doi.org/10.1108/heswbl-04-2026-0245",
+ "venue": "Higher Education, Skills and Work-Based Learning",
+ "why": "Living lab + action research + professional identity: a close cousin of your ecosystem-learning setup.",
+ "wildcard": false,
+ "abstract": "Purpose Higher education faces a growing imperative to develop graduates who possess not only academic expertise but also the resilience and practical readiness demanded by today’s complex professional landscapes. While work-integrated learning (WIL) is commonly advocated to bridge this gap, most empirical studies concentrate on temporary placements, simulations or externally managed internships. Far less attention has been given to sustained, student-led ventures that present challenges of equitable access and limited student agency. In response, this study investigates an on-campus, student-led Living Laboratory at a Malaysian private university as an alternative, campus-embedded WIL model. Design/methodology/approach Framed by experiential learning theory, social constructivism and the Living Laboratory concept, the study employed an action research approach and a structured, iterative methodology over two semesters with 30 undergraduate business students. Participants assumed full operational responsibility for a commercial retail venture in partnership with a local pharmaceutical company. Data were collected through reflective practitioner journals, observational field notes, semi-structured focus groups and operational artefacts, and analysed using a thematic analysis framework. Findings Three overarching themes were identified: (1) a transition from operational anxiety to professional self-efficacy; (2) the re-contextualisation of failure as pedagogical capital; and (3) the internalisation of sustainability as a functional business constraint. These findings support the conclusion that sustained, accountable, campus-embedded enterprise fosters the development of professional identity, adaptive resilience and systems thinking. Originality/value The study introduces and empirically tests the Catalyst WIL Synergy Loop, a recursive five-stage framework designed to transform the university campus into a site of authentic professional praxis. The framework advances the WIL literature by providing a scalable, equity-oriented, developing-country-contextualised model that directly addresses gaps identified in the current evidence base.",
+ "abstractSource": "OpenAlex"
 }

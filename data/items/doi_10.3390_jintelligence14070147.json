@@ -1,21 +1,23 @@
 {
-  "authors": "Kırcaburun",
-  "caveat": "Treats critical thinking as an individual disposition.",
-  "date": "2026-07-13",
-  "doi": "10.3390/jintelligence14070147",
-  "kind": "paper",
-  "lang": "en",
-  "run": "2026-09-19",
-  "score": 3,
-  "source": "Crossref",
-  "status": "new",
-  "themes": [
-    "ai",
-    "pc"
-  ],
-  "title": "Generative AI Use and Critical Thinking Dispositions in Higher Education: A Cross-Sample Study of the Sequential Role of Metacognitive Weakness and Epistemic Laziness",
-  "url": "https://doi.org/10.3390/jintelligence14070147",
-  "venue": "Journal of Intelligence",
-  "why": "Psychometric take on critical thinking and AI — a useful contrast to the normative PC view.",
-  "wildcard": false
+ "authors": "Kırcaburun",
+ "caveat": "Treats critical thinking as an individual disposition.",
+ "date": "2026-07-13",
+ "doi": "10.3390/jintelligence14070147",
+ "kind": "paper",
+ "lang": "en",
+ "run": "2026-09-19",
+ "score": 3,
+ "source": "Crossref",
+ "status": "new",
+ "themes": [
+  "ai",
+  "pc"
+ ],
+ "title": "Generative AI Use and Critical Thinking Dispositions in Higher Education: A Cross-Sample Study of the Sequential Role of Metacognitive Weakness and Epistemic Laziness",
+ "url": "https://doi.org/10.3390/jintelligence14070147",
+ "venue": "Journal of Intelligence",
+ "why": "Psychometric take on critical thinking and AI — a useful contrast to the normative PC view.",
+ "wildcard": false,
+ "abstract": "As generative artificial intelligence (GAI) technologies become increasingly integrated into university students' academic routines, concerns have emerged regarding their associations with critical thinking dispositions during GAI use. The main objective of the present study was to examine whether metacognitive weakness and epistemic laziness individually and sequentially accounted for the association between GAI tool usage and critical thinking dispositions during GAI use across two distinct student samples. The Turkish-speaking sample consisted of 441 students, whereas the English-speaking sample included 218 students. Participants completed measures assessing GAI tool usage, critical thinking dispositions in GAI use, metacognitive weakness in GAI use, and epistemic laziness. Measurement invariance analyses indicated configural and metric invariance across groups. Path analyses revealed that GAI tool usage had significant indirect associations with lower critical thinking dispositions during GAI use via metacognitive weakness, epistemic laziness, and a sequential indirect pathway involving both constructs. The sequential indirect associations were significant in both the Turkish-speaking sample and the English-speaking sample. Overall, the findings suggest that greater GAI tool usage among university students is associated with lower critical thinking dispositions, with this association statistically carried through metacognitive weakness and epistemic laziness. The consistency of this pattern across two distinct student samples provides preliminary support for a process-oriented interpretation of how GAI use may relate to critical thinking dispositions.",
+ "abstractSource": "OpenAlex"
 }

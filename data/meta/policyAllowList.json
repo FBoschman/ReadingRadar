@@ -1,0 +1,26 @@
+{
+ "reason": "These records came from the cloud runs of September and early October, before the policy check existed. The reader decides: re-score, add a caveat, or drop. Until then the validator names them instead of failing.",
+ "score": [
+  "doi_10.1007_s11625-026-01884-y",
+  "sg-gekozen-bestuurders",
+  "sg-pisa",
+  "sg-studentenwelzijn"
+ ],
+ "caveat": [
+  "doi_10.1007_s11625-026-01871-3",
+  "doi_10.1007_s11625-026-01872-2",
+  "doi_10.1007_s11625-026-01873-1",
+  "doi_10.1007_s11625-026-01884-y",
+  "doi_10.1007_s11625-026-01896-8",
+  "doi_10.15460_d71ps057",
+  "doi_10.35844_001c.167188",
+  "sg-automatisering",
+  "sg-bigquery",
+  "sg-gekozen-bestuurders",
+  "sg-miljoenen-kennis",
+  "sg-onderzoekend-vermogen",
+  "sg-peerreview",
+  "sg-pisa",
+  "sg-studentenwelzijn"
+ ]
+}

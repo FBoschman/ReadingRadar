@@ -1,0 +1,24 @@
+{
+ "id": "doi_10.1016_j.geoforum.2026.104851",
+ "kind": "paper",
+ "title": "The material-affective politics of space: clock towers in Menemen, Turkey",
+ "authors": "Baydar, Hiçsönmezler",
+ "venue": "Geoforum",
+ "date": "2026-12",
+ "url": "https://doi.org/10.1016/j.geoforum.2026.104851",
+ "doi": "10.1016/j.geoforum.2026.104851",
+ "lang": "",
+ "source": "Journal watch: Geoforum",
+ "run": "2026-10-12",
+ "abstract": "",
+ "themeGuess": [],
+ "found": "2026-10-12T12:53:02",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ }
+}

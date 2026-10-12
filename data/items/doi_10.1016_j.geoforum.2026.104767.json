@@ -1,20 +1,22 @@
 {
-  "authors": "Upton, Kurewa, Ulambayar",
-  "caveat": "Regional cases; the critique of 'energy justice' may not transfer to education.",
-  "date": "2026-11",
-  "doi": "10.1016/j.geoforum.2026.104767",
-  "kind": "paper",
-  "lang": "en",
-  "run": "2026-09-21",
-  "score": 3,
-  "source": "Crossref",
-  "status": "new",
-  "themes": [
-    "dec"
-  ],
-  "title": "'Energy Justice'? Pastoralism, political ecology and lower-carbon energy transitions",
-  "url": "https://doi.org/10.1016/j.geoforum.2026.104767",
-  "venue": "Geoforum",
-  "why": "Outside your usual reading: pastoralist political ecology puts the justice vocabulary under strain in a setting with no classroom in it.",
-  "wildcard": true
+ "authors": "Upton, Kurewa, Ulambayar",
+ "caveat": "Regional cases; the critique of 'energy justice' may not transfer to education.",
+ "date": "2026-11",
+ "doi": "10.1016/j.geoforum.2026.104767",
+ "kind": "paper",
+ "lang": "en",
+ "run": "2026-09-21",
+ "score": 3,
+ "source": "Crossref",
+ "status": "new",
+ "themes": [
+  "dec"
+ ],
+ "title": "'Energy Justice'? Pastoralism, political ecology and lower-carbon energy transitions",
+ "url": "https://doi.org/10.1016/j.geoforum.2026.104767",
+ "venue": "Geoforum",
+ "why": "Outside your usual reading: pastoralist political ecology puts the justice vocabulary under strain in a setting with no classroom in it.",
+ "wildcard": true,
+ "abstract": "As global renewable energy (RE) capacity continues its unprecedented expansion, green extractivism and energy justice (EJ) have become increasingly pressing concerns, both in critical political ecology-inspired studies and where lower-carbon energy (LCE) infrastructures touch down in particular places and everyday lives. Here we focus on the justice implications of LCE transitions and the processes by which they are produced specifically in pastoralists’ lands and communities. We argue that these remain relatively marginalised in current scholarship, despite pastoral drylands globally becoming targets for roll-out of large-scale LCE, facilitated by intersection of their environmental characteristics and the livelihood strategies, land rights and relations of their occupants, and underpinned by re-emergent discourses of empty, degraded wastelands. The aim of this paper is to enhance critical understanding of EJ in pastoralist communities and through this to advance current debates on EJ principles and meanings and the role of non-Western norms, place and land relations therein. Our two-stage study draws on systematic desk-based analysis of pastoralist case studies globally and on secondary and empirical material from Kenyan and Mongolian case studies. It utilises Sovacool’s (2021) ‘4Es’ framework to examine the subtleties of how enclosure, exclusion, encroachment and entrenchment operate in these contexts, and links these to the production of particular energy-related injustices. We highlight the importance of non-Western, place-based meanings of EJ, grounded in local land relations and of contested concepts of consent, including Free, Prior and Informed Consent (FPIC) as critical in refining EJ principles and in shaping prospects for locally owned, just energy transitions.",
+ "abstractSource": "OpenAlex"
 }

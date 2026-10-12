@@ -1,21 +1,22 @@
 {
-  "authors": "Ortiz Arroyave, Lopes, Santos",
-  "caveat": "Review; check which regions dominate.",
-  "date": "2026-09-08",
-  "doi": "10.1007/s11625-026-01891-z",
-  "kind": "paper",
-  "lang": "en",
-  "run": "2026-09-19",
-  "score": 4,
-  "source": "Crossref",
-  "status": "new",
-  "themes": [
-    "eco",
-    "par"
-  ],
-  "title": "The role of participatory processes and collaborative governance approaches in sustainability transformation at the local government level: a systematic review",
-  "url": "https://doi.org/10.1007/s11625-026-01891-z",
-  "venue": "Sustainability Science",
-  "why": "Municipal-level evidence on participation and collaborative governance — relevant to your work with urban and provincial partners.",
-  "wildcard": false
+ "authors": "Ortiz Arroyave, Lopes, Santos",
+ "caveat": "Review; check which regions dominate.",
+ "date": "2026-09-08",
+ "doi": "10.1007/s11625-026-01891-z",
+ "kind": "paper",
+ "lang": "en",
+ "run": "2026-09-19",
+ "score": 4,
+ "source": "Crossref",
+ "status": "new",
+ "themes": [
+  "eco",
+  "par"
+ ],
+ "title": "The role of participatory processes and collaborative governance approaches in sustainability transformation at the local government level: a systematic review",
+ "url": "https://doi.org/10.1007/s11625-026-01891-z",
+ "venue": "Sustainability Science",
+ "why": "Municipal-level evidence on participation and collaborative governance — relevant to your work with urban and provincial partners.",
+ "wildcard": false,
+ "abstractSource": ""
 }

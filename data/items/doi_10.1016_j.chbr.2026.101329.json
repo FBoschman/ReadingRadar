@@ -1,22 +1,24 @@
 {
-  "authors": "Ho, Chen",
-  "caveat": "Narrative rather than systematic-with-protocol review; check the inclusion criteria.",
-  "date": "2026-12",
-  "doi": "10.1016/j.chbr.2026.101329",
-  "kind": "paper",
-  "lang": "en",
-  "ratedAt": "2026-10-12T08:06:30.426Z",
-  "run": "2026-09-28",
-  "score": 5,
-  "source": "Crossref",
-  "status": "skip",
-  "themes": [
-    "ai",
-    "pc"
-  ],
-  "title": "Teachers' AI-related cognitive offloading: Systematic narrative review and framework for delegation and oversight",
-  "url": "https://doi.org/10.1016/j.chbr.2026.101329",
-  "venue": "Computers in Human Behavior Reports",
-  "why": "Companion to the Ho and Chen paper already on your radar; this one gives the delegation-and-oversight framework you could borrow wholesale for Professional Criticality.",
-  "wildcard": false
+ "authors": "Ho, Chen",
+ "caveat": "Narrative rather than systematic-with-protocol review; check the inclusion criteria.",
+ "date": "2026-12",
+ "doi": "10.1016/j.chbr.2026.101329",
+ "kind": "paper",
+ "lang": "en",
+ "ratedAt": "2026-10-12T08:06:30.426Z",
+ "run": "2026-09-28",
+ "score": 5,
+ "source": "Crossref",
+ "status": "skip",
+ "themes": [
+  "ai",
+  "pc"
+ ],
+ "title": "Teachers' AI-related cognitive offloading: Systematic narrative review and framework for delegation and oversight",
+ "url": "https://doi.org/10.1016/j.chbr.2026.101329",
+ "venue": "Computers in Human Behavior Reports",
+ "why": "Companion to the Ho and Chen paper already on your radar; this one gives the delegation-and-oversight framework you could borrow wholesale for Professional Criticality.",
+ "wildcard": false,
+ "abstract": "Generative AI (GenAI) is rapidly entering teachers' everyday work, yet research on teacher AI use remains fragmented and often unclear about which cognitive tasks are delegated and how delegation is monitored. This systematic narrative review clarifies teachers' AI-related cognitive offloading and develops an evidence-informed delegation-and-oversight framework. Following PRISMA 2020, we searched Scopus, ERIC, PsycINFO, Web of Science and Google Scholar for peer-reviewed empirical studies up to 31 March 2026 on K–12 teachers' use of GenAI or related AI systems in relation to cognitive offloading or adjacent reliance phenomena, including overreliance, dependency, trust calibration, automation bias, and complacency. Conceptual papers were used only for backward reference searching. 40 peer-reviewed journal articles met the criteria: 31 primary empirical studies and nine reviews. Using hybrid deductive–inductive content analysis, we examined how offloading was conceptualized, which tasks were delegated, associated conditions, and reported impacts. Explicit definitions of AI-related cognitive offloading were rare; instead, studies implied offloading through overreliance, dependency, and task/workflow delegation involving planning, materials, assessment, feedback, and communication. Evidence was dominated by self-reported studies and review-level synthesis; only 3 of the 40 included studies used trace-, artifact-, or interaction-based evidence, leaving limited task-level analysis of actual delegation and verification. The central contribution of the review is the Teachers' AI-related Cognitive Offloading framework (T-AICO), which conceptualizes teachers’ GenAI use as graded cognitive delegation shaped by two dimensions: delegation depth and oversight quality. T-AICO provides an organizing framework for future empirical research, teacher professional learning, and responsible AI governance.",
+ "abstractSource": "OpenAlex"
 }

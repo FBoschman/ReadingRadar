@@ -1,21 +1,23 @@
 {
-  "authors": "Polk, Palmer, Raviola",
-  "caveat": "Framework paper; check how much empirical material underpins it.",
-  "date": "2026-09-01",
-  "doi": "10.1007/s11625-026-01877-x",
-  "kind": "paper",
-  "lang": "en",
-  "run": "2026-09-19",
-  "score": 5,
-  "source": "Crossref",
-  "status": "new",
-  "themes": [
-    "eco",
-    "td"
-  ],
-  "title": "Unbounded problems in a bounded world: using the core features of wicked problems to understand and manage the dilemmas that arise in cross-sector collaborations around complex societal problems",
-  "url": "https://doi.org/10.1007/s11625-026-01877-x",
-  "venue": "Sustainability Science",
-  "why": "Maps the recurring dilemmas of cross-sector collaboration on wicked problems — the core situation of learning in stakeholder ecosystems.",
-  "wildcard": false
+ "authors": "Polk, Palmer, Raviola",
+ "caveat": "Framework paper; check how much empirical material underpins it.",
+ "date": "2026-09-01",
+ "doi": "10.1007/s11625-026-01877-x",
+ "kind": "paper",
+ "lang": "en",
+ "run": "2026-09-19",
+ "score": 5,
+ "source": "Crossref",
+ "status": "new",
+ "themes": [
+  "eco",
+  "td"
+ ],
+ "title": "Unbounded problems in a bounded world: using the core features of wicked problems to understand and manage the dilemmas that arise in cross-sector collaborations around complex societal problems",
+ "url": "https://doi.org/10.1007/s11625-026-01877-x",
+ "venue": "Sustainability Science",
+ "why": "Maps the recurring dilemmas of cross-sector collaboration on wicked problems — the core situation of learning in stakeholder ecosystems.",
+ "wildcard": false,
+ "abstract": "Abstract Contemporary societal planning is increasingly confronted with urgent and interdependent challenges such as sustainable development, climate change, segregation, and organized crime. These issues are frequently described as wicked problems —a concept used to capture the multifaceted, multilayered, and often resistant nature of complex societal challenges. This paper aims to deepen understanding of the dilemmas that arise within collaborative arenas—here conceptualized as boundary spaces—where multiple actors collaborate to address such problems. Our contribution proceeds in two steps. First, through a literature review, we argue that the defining feature of wicked problems is their spatial and temporal boundlessness. The tension between this boundlessness and the inherently bounded realities of organizations and practices provides the basis of our analytical approach. Second, we use this conceptualization to analyze five boundary spaces in Sweden engaged in addressing different wicked societal problems as part of a transdisciplinary research project. In this project, we developed a spatially and temporally situated framework identifying core dilemmas encountered in practice. We then examine if and how our refined understanding of wicked problems helps clarify the underlying causes of these dilemmas. The analysis leads to three main conclusions that include the importance of making temporal issues explicit, and the need to address both persistent organizational barriers and the challenges that arise for the involved individuals. Overall, analyzing wicked problems from their core feature of spatial and temporal unboundedness increases our ability to better understand and manage the consequences and challenges they have on solving complex societal problems in practice.",
+ "abstractSource": "OpenAlex"
 }

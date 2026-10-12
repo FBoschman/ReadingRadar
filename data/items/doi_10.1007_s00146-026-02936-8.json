@@ -1,22 +1,23 @@
 {
-  "authors": "Sethy",
-  "caveat": "Indigenous-knowledge arguments can slide into essentialism; check whether it names specific knowledge-holders or speaks generically.",
-  "date": "2026-02-17",
-  "doi": "10.1007/s00146-026-02936-8",
-  "kind": "paper",
-  "lang": "en",
-  "ratedAt": "2026-10-05T10:26:57.091Z",
-  "run": "2026-10-05",
-  "score": 3,
-  "source": "Web search + publisher page (Crossref API blocked)",
-  "status": "skip",
-  "themes": [
-    "ai",
-    "dec"
-  ],
-  "title": "Artificial intelligence and epistemic justice: a decolonial turn through indigenous knowledge systems",
-  "url": "https://doi.org/10.1007/s00146-026-02936-8",
-  "venue": "AI & SOCIETY",
-  "why": "Joins your AI strand to your decolonial one directly, which very few papers attempt.",
-  "wildcard": false
+ "authors": "Sethy",
+ "caveat": "Indigenous-knowledge arguments can slide into essentialism; check whether it names specific knowledge-holders or speaks generically.",
+ "date": "2026-02-17",
+ "doi": "10.1007/s00146-026-02936-8",
+ "kind": "paper",
+ "lang": "en",
+ "ratedAt": "2026-10-05T10:26:57.091Z",
+ "run": "2026-10-05",
+ "score": 3,
+ "source": "Web search + publisher page (Crossref API blocked)",
+ "status": "skip",
+ "themes": [
+  "ai",
+  "dec"
+ ],
+ "title": "Artificial intelligence and epistemic justice: a decolonial turn through indigenous knowledge systems",
+ "url": "https://doi.org/10.1007/s00146-026-02936-8",
+ "venue": "AI & SOCIETY",
+ "why": "Joins your AI strand to your decolonial one directly, which very few papers attempt.",
+ "wildcard": false,
+ "abstractSource": ""
 }

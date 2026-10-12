@@ -59,14 +59,23 @@ def make_candidate(doc_id, kind, title, authors, venue, date, url, doi, source, 
     return doc
 
 
-def add(store, doc, known, stats):
-    """Add a candidate. Skip a duplicate. Merge a second source into the first record."""
+def add(store, doc, known, stats, keys=None):
+    """Add a candidate. Skip a duplicate or a noise title. Merge a second source into the first record."""
     if doc is None:
         return
     doc_id = doc["id"]
     if doc_id in known:
         stats["known"] += 1
         return
+    if lib.is_noise_title(doc.get("title")):
+        stats["noise"] += 1
+        return
+    if keys:
+        urls, titles = keys
+        title_key = re.sub(r"[^a-z0-9]+", " ", str(doc.get("title") or "").lower()).strip()
+        if (doc.get("url") and lib.normalise_url(doc["url"]) in urls) or (len(title_key) > 25 and title_key in titles):
+            stats["duplicate"] += 1
+            return
     if doc_id in store:
         first = store[doc_id]
         if doc["source"] not in first["source"]:
@@ -130,27 +139,54 @@ def harvest_crossref_themes(since, limit, stats):
 
 
 def harvest_crossref_journals(since, limit, stats):
+    """Sweep every watched journal by ISSN, with paging, and record how much the journal published.
+
+    The `rows` parameter stops at 60 in Crossref, so a journal that published more would be truncated
+    without a word. This function pages until the journal's own total is reached (to a cap of 3 pages)
+    and records the published count, so the run report can say "returned 115 of 395" instead of claiming
+    full coverage.
+    """
     watch = [j for j in lib.profile().get("journalWatch", []) if j.get("on") and j.get("issn")]
     rows = []
     swept = 0
+    coverage = []
     for entry in watch:
-        params = {
-            "filter": "from-pub-date:%s" % since,
-            "rows": str(limit),
-            "sort": "published",
-            "order": "desc",
-            "select": "DOI,title,author,published,container-title,abstract",
-            "mailto": lib.MAILTO,
-        }
-        url = "https://api.crossref.org/journals/%s/works?%s" % (entry["issn"], urllib.parse.urlencode(params))
-        try:
-            data = lib.fetch_json(url)
-        except Exception as exc:
-            stats["failed_journals"].append("%s: %s" % (entry["name"], str(exc)[:50]))
+        published = None
+        got = []
+        for page in range(3):
+            params = {
+                "filter": "from-pub-date:%s" % since,
+                "rows": "60",
+                "offset": str(page * 60),
+                "sort": "published",
+                "order": "desc",
+                "select": "DOI,title,author,published,container-title,abstract",
+                "mailto": lib.MAILTO,
+            }
+            url = "https://api.crossref.org/journals/%s/works?%s" % (
+                entry["issn"], urllib.parse.urlencode(params))
+            try:
+                data = lib.fetch_json(url)
+            except Exception as exc:
+                stats["failed_journals"].append("%s: %s" % (entry["name"], str(exc)[:50]))
+                published = None
+                break
+            message = data["message"]
+            if published is None:
+                published = message.get("total-results", 0)
+            got += message.get("items", [])
+            if len(got) >= (published or 0) or len(message.get("items", [])) < 60:
+                break
+        if published is None:
             continue
         swept += 1
-        rows += crossref_rows(data["message"]["items"], "Journal watch: " + entry["name"], "", stats)
-    return rows, "%d of %d journals swept" % (swept, len(watch))
+        coverage.append({"journal": entry["name"], "published": published, "returned": len(got)})
+        rows += crossref_rows(got, "Journal watch: " + entry["name"], "", stats)
+    stats["coverage"] = coverage
+    published_total = sum(item["published"] for item in coverage)
+    returned_total = sum(item["returned"] for item in coverage)
+    return rows, "%d of %d journals swept, returned %d of %d papers" % (
+        swept, len(watch), returned_total, published_total)
 
 
 # ---------------------------------------------------------------- OpenAlex
@@ -233,7 +269,7 @@ def harvest_bluesky(since, limit, stats):
                 except Exception:
                     pass
             rows.append(make_candidate(
-                lib.id_for_discourse("bs-", post_url), "discourse", lib.shorten(text, 120),
+                lib.id_for_url(post_url), "discourse", lib.shorten(text, 120),
                 "Bluesky", "Bluesky", created, post_url, "", "Bluesky: @" + handle, text, []))
     return rows, "%d accounts" % len(accounts)
 
@@ -254,7 +290,7 @@ def harvest_scienceguide(since, limit, stats):
         if month < since[:7]:
             continue
         rows.append(make_candidate(
-            lib.id_for_discourse("sg-", url), "discourse", title, "ScienceGuide", "ScienceGuide",
+            lib.id_for_url(url), "discourse", title, "ScienceGuide", "ScienceGuide",
             month, url, "", "ScienceGuide", title, [], lang="nl"))
         if len(rows) >= limit:
             break
@@ -285,10 +321,44 @@ def harvest_rss(since, limit, stats):
             if date and date < since:
                 continue
             rows.append(make_candidate(
-                lib.id_for_discourse("rss-", link), "discourse", lib.clean_markup(title),
+                lib.id_for_url(link), "discourse", lib.clean_markup(title),
                 label, label, date, link, "", "RSS: " + label,
                 node.findtext("description") or "", []))
     return rows, "%d feeds" % len(feeds)
+
+
+def expire_queue(keep_runs=4, max_days=30, dry_run=False):
+    """Drop an unjudged candidate that nobody promoted.
+
+    The queue grew from 0 to 213 in one day, and nothing bounded it. A candidate that no run promoted
+    within `keep_runs` runs, or that is older than `max_days`, is dropped. What was dropped is written
+    down, so the loss is visible.
+    """
+    import datetime
+    folder = lib.DATA / "inbox" / "items"
+    if not folder.is_dir():
+        return []
+    run_dates = sorted({doc.get("run") for doc in lib.collection("items").values() if doc.get("run")})
+    keep_dates = set(run_dates[-keep_runs:])
+    today = datetime.date.fromisoformat(lib.today())
+    dropped = []
+    for path in sorted(folder.glob("*.json")):
+        doc = lib.load_json(path, {}) or {}
+        age = None
+        try:
+            age = (today - datetime.date.fromisoformat(str(doc.get("run")))).days
+        except Exception:
+            pass
+        stale_run = doc.get("run") not in keep_dates and doc.get("run") not in run_dates
+        too_old = age is not None and age > max_days
+        if stale_run and too_old:
+            dropped.append({"id": path.stem, "title": doc.get("title"), "run": doc.get("run")})
+            if not dry_run:
+                path.unlink()
+    if dropped and not dry_run:
+        lib.save_json(lib.DATA / "inbox" / "expired.json",
+                      {"at": lib.today(), "dropped": dropped, "rule": "no promotion within %d runs and older than %d days" % (keep_runs, max_days)})
+    return dropped
 
 
 HARVESTERS = {
@@ -322,7 +392,9 @@ def main(argv=None):
     since = args.since or last.get("date") or lib.today()
     run_date = lib.today()
     known = lib.known_ids()
-    stats = {"seen": 0, "new": 0, "merged": 0, "known": 0, "failed_journals": []}
+    keys = lib.known_keys()
+    stats = {"seen": 0, "new": 0, "merged": 0, "known": 0, "noise": 0, "duplicate": 0,
+             "failed_journals": [], "coverage": []}
     store = {}
     states = []
 
@@ -330,7 +402,7 @@ def main(argv=None):
         try:
             rows, note = HARVESTERS[name](since, args.limit, stats)
             for doc in rows:
-                add(store, doc, known, stats)
+                add(store, doc, known, stats, keys)
             states.append({"name": LABELS[name], "status": "ok - %s, %d candidates" % (note, len(rows))})
         except Exception as exc:
             states.append({"name": LABELS[name], "status": "failed - " + str(exc)[:150]})
@@ -344,6 +416,8 @@ def main(argv=None):
     print("new candidates :", len(store))
     print("merged sources :", stats["merged"])
     print("already known  :", stats["known"])
+    print("duplicates     :", stats["duplicate"])
+    print("noise titles   :", stats["noise"], "(corrections, errata, retractions)")
     for state in states:
         print("   %-38s %s" % (state["name"], state["status"]))
 
@@ -357,8 +431,9 @@ def main(argv=None):
         "date": run_date,
         "since": since,
         "sources": states,
-        "counts": {"seen": stats["seen"], "candidates": len(store),
-                   "merged": stats["merged"], "known": stats["known"]},
+        "counts": {"seen": stats["seen"], "candidates": len(store), "merged": stats["merged"],
+                   "known": stats["known"], "duplicate": stats["duplicate"], "noise": stats["noise"]},
+        "coverage": stats.get("coverage", []),
         "candidates": sorted(store.keys()),
     })
     print("\nwrote %d candidates to data/inbox/items/" % len(store))

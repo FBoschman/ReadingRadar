@@ -1,22 +1,24 @@
 {
-  "authors": "Capra",
-  "caveat": "Single-author piece; check whether the community knowledge is documented or invoked.",
-  "date": "2026-10",
-  "doi": "10.1016/j.envsci.2026.104480",
-  "kind": "paper",
-  "lang": "en",
-  "run": "2026-09-21",
-  "score": 5,
-  "source": "Journal watch: Environmental Science & Policy",
-  "status": "new",
-  "themes": [
-    "par",
-    "dec",
-    "eco"
-  ],
-  "title": "Urban ethnopedology: Integrating community soil knowledge into environmental justice and urban greening policy",
-  "url": "https://doi.org/10.1016/j.envsci.2026.104480",
-  "venue": "Environmental Science & Policy",
-  "why": "Community soil knowledge in urban greening policy - substrate taken literally, which is both the CDC Urban Innovation case and the metaphor your CARN workshop runs on.",
-  "wildcard": false
+ "authors": "Capra",
+ "caveat": "Single-author piece; check whether the community knowledge is documented or invoked.",
+ "date": "2026-10",
+ "doi": "10.1016/j.envsci.2026.104480",
+ "kind": "paper",
+ "lang": "en",
+ "run": "2026-09-21",
+ "score": 5,
+ "source": "Journal watch: Environmental Science & Policy",
+ "status": "new",
+ "themes": [
+  "par",
+  "dec",
+  "eco"
+ ],
+ "title": "Urban ethnopedology: Integrating community soil knowledge into environmental justice and urban greening policy",
+ "url": "https://doi.org/10.1016/j.envsci.2026.104480",
+ "venue": "Environmental Science & Policy",
+ "why": "Community soil knowledge in urban greening policy - substrate taken literally, which is both the CDC Urban Innovation case and the metaphor your CARN workshop runs on.",
+ "wildcard": false,
+ "abstract": "Urban soils have become increasingly important for landscape and urban planning as community involvement in green space management gains prominence, yet the ways cultural diversity shapes perceptions and management of urban soils remain poorly understood. This paper consolidates urban ethnopedology (UE) into an explicit framework for analyzing how different social groups conceptualize, classify, and manage urban soils, and for integrating this experiential knowledge into environmental policy and planning. The proposal builds on existing work in critical physical geography, urban political ecology, and science and technology studies, and identifies three structural obstacles, i.e., ontological, demographic, and regulatory, that have kept community soil knowledge outside urban environmental governance. Urban ethnopedology links scattered evidence from urban agriculture, immigrant gardening, traditional ecological knowledge, community forestry, and citizen science to show that culturally based soil management practices generate systematic differences in soil quality that are largely invisible to the classification systems and regulatory thresholds on which current urban soil policies and management plans rest. Building on this, the paper proposes a four-step framework that combines ethnographic methods with field-based soil science: i) ethnographic observation and engagement, ii) systematic documentation of knowledge systems, iii) soil investigation informed by practitioner insights, and iv) collaborative interpretation with community and municipal actors. Framing urban soils as socio-ecological systems co-produced by biophysical processes and cultural practices, UE highlights how existing planning paradigms sideline the expertise of residents who already steward urban soils. The perspective argues that recognizing and mobilizing this expertise has direct implications for urban greening strategies, environmental justice objectives, and the design of more inclusive and effective soil management policies.",
+ "abstractSource": "OpenAlex"
 }

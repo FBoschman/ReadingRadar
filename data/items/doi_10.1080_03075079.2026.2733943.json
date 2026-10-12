@@ -1,21 +1,23 @@
 {
-  "authors": "Gilani",
-  "caveat": "Published today; no abstract yet. A model, not an evaluation.",
-  "date": "2026-09-19",
-  "doi": "10.1080/03075079.2026.2733943",
-  "kind": "paper",
-  "lang": "en",
-  "run": "2026-09-19",
-  "score": 5,
-  "source": "Crossref",
-  "status": "new",
-  "themes": [
-    "dec",
-    "eco"
-  ],
-  "title": "Reimagining epistemic justice: a dual-pathway model of decolonising the curriculum through student-staff partnerships",
-  "url": "https://doi.org/10.1080/03075079.2026.2733943",
-  "venue": "Studies in Higher Education",
-  "why": "Turns epistemic justice into a curriculum model via student–staff partnership; relevant for PC and the CDC course design.",
-  "wildcard": false
+ "authors": "Gilani",
+ "caveat": "Published today; no abstract yet. A model, not an evaluation.",
+ "date": "2026-09-19",
+ "doi": "10.1080/03075079.2026.2733943",
+ "kind": "paper",
+ "lang": "en",
+ "run": "2026-09-19",
+ "score": 5,
+ "source": "Crossref",
+ "status": "new",
+ "themes": [
+  "dec",
+  "eco"
+ ],
+ "title": "Reimagining epistemic justice: a dual-pathway model of decolonising the curriculum through student-staff partnerships",
+ "url": "https://doi.org/10.1080/03075079.2026.2733943",
+ "venue": "Studies in Higher Education",
+ "why": "Turns epistemic justice into a curriculum model via student–staff partnership; relevant for PC and the CDC course design.",
+ "wildcard": false,
+ "abstract": "The decolonisation of the curriculum is a critical response to epistemic injustice and structural inequities in higher education. While initiatives often focus on content diversification, their impact on student experiences and the risk of superficial implementation are areas of ongoing and critical investigation. In particular, the specific dynamics of trust and tokenism within student-staff partnerships designed for decolonisation warrant deeper empirical examination, especially within disciplines like law and business where Eurocentric frameworks are deeply entrenched. This paper presents a case study of the Inclusive Practice Partnership (IPP) Scheme at a UK University, a student-staff partnership initiative designed to decolonise the curriculum within the School of Business and Law. Grounded in participatory action research, the study analyses qualitative data from student focus groups to develop a novel dual-pathway conceptual model. The findings reveal that authentic curricular representation significantly enhances students’ sense of belonging (affective pathway) and stimulates critical intellectual engagement (cognitive pathway). However, perceived tokenism, where changes are seen as superficial, can trigger a ‘paradox of critical disappointment,’ undermining these benefits. The study concludes that sustainable decolonisation requires moving beyond additive changes to embrace deep epistemological transformation. This research contributes a theoretically informed framework for understanding the mechanisms and pitfalls of decolonial work, offering practical insights for institutions committed to genuine epistemic justice and educational equity.",
+ "abstractSource": "OpenAlex"
 }

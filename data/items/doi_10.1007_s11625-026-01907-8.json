@@ -1,20 +1,22 @@
 {
-  "authors": "Lynn, O'Gorman, Rosati",
-  "caveat": "European regional data; check whether Dutch polder regions resemble the cases used.",
-  "date": "2026-09-21",
-  "doi": "10.1007/s11625-026-01907-8",
-  "kind": "paper",
-  "lang": "en",
-  "run": "2026-09-28",
-  "score": 4,
-  "source": "Journal watch: Sustainability Science",
-  "status": "new",
-  "themes": [
-    "eco"
-  ],
-  "title": "From the \"death of distance\" to digitalisation traps: a general purpose technology perspective on peripheral regions",
-  "url": "https://doi.org/10.1007/s11625-026-01907-8",
-  "venue": "Sustainability Science",
-  "why": "Names the trap where digital infrastructure deepens rather than closes regional gaps - a caution to carry into Digital Twin Flevoland.",
-  "wildcard": false
+ "authors": "Lynn, O'Gorman, Rosati",
+ "caveat": "European regional data; check whether Dutch polder regions resemble the cases used.",
+ "date": "2026-09-21",
+ "doi": "10.1007/s11625-026-01907-8",
+ "kind": "paper",
+ "lang": "en",
+ "run": "2026-09-28",
+ "score": 4,
+ "source": "Journal watch: Sustainability Science",
+ "status": "new",
+ "themes": [
+  "eco"
+ ],
+ "title": "From the \"death of distance\" to digitalisation traps: a general purpose technology perspective on peripheral regions",
+ "url": "https://doi.org/10.1007/s11625-026-01907-8",
+ "venue": "Sustainability Science",
+ "why": "Names the trap where digital infrastructure deepens rather than closes regional gaps - a caution to carry into Digital Twin Flevoland.",
+ "wildcard": false,
+ "abstract": "Abstract Digitalisation is widely viewed as an enabler of sustainable development and regional convergence, yet substantial spatial disparities in uptake persist. This paper develops a general-purpose technology (GPT) perspective on peripheral regions, arguing that because digital technologies rely on complementary assets (skills, organisational capabilities, sectoral structure, institutions), uneven diffusion can both reinforce existing development traps and contribute to polytraps (interlocking constraints across domains). We further propose that digitalisation can itself act as a distinct trap mechanism when weak complementarities lock places into persistently low digitalisation. Empirically, we construct a Web Technology Intensity Score (WTIS) as a proxy for digitalisation using web technology profiles from over two million domains, aggregated to ZIP-code level. Linear mixed-effects models for the United States link digitalisation to place-based characteristics and policy variables. Results show persistent spatial divides: digitalisation is associated with urban density, human capital, and sectoral variety, while peripheral areas exhibit reinforcing disadvantages consistent with cumulative causation. Public support is positively associated with digitalisation but is place-sensitive, amplifying strong complementarities rather than compensating for weak ones. By connecting GPT theory with traps and polytraps, the paper advances an account of digitalisation as a sustainability challenge with uneven consequences and policy implications beyond infrastructure-led strategies.",
+ "abstractSource": "OpenAlex"
 }

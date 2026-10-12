@@ -1,20 +1,21 @@
 {
-  "authors": "Zhang, Deng",
-  "caveat": "Single national context; the stress-dependency link is cross-sectional.",
-  "date": "2026-10",
-  "doi": "10.1016/j.iheduc.2026.101094",
-  "kind": "paper",
-  "lang": "en",
-  "run": "2026-09-21",
-  "score": 3,
-  "source": "Crossref",
-  "status": "new",
-  "themes": [
-    "ai"
-  ],
-  "title": "Stressed minds, smart tools: How academic expectation stress fuels generative AI dependency in Chinese higher education",
-  "url": "https://doi.org/10.1016/j.iheduc.2026.101094",
-  "venue": "The Internet and Higher Education",
-  "why": "Locates AI dependency in performance pressure rather than student character - a structural counter-argument worth having.",
-  "wildcard": false
+ "authors": "Zhang, Deng",
+ "caveat": "Single national context; the stress-dependency link is cross-sectional.",
+ "date": "2026-10",
+ "doi": "10.1016/j.iheduc.2026.101094",
+ "kind": "paper",
+ "lang": "en",
+ "run": "2026-09-21",
+ "score": 3,
+ "source": "Crossref",
+ "status": "new",
+ "themes": [
+  "ai"
+ ],
+ "title": "Stressed minds, smart tools: How academic expectation stress fuels generative AI dependency in Chinese higher education",
+ "url": "https://doi.org/10.1016/j.iheduc.2026.101094",
+ "venue": "The Internet and Higher Education",
+ "why": "Locates AI dependency in performance pressure rather than student character - a structural counter-argument worth having.",
+ "wildcard": false,
+ "abstractSource": ""
 }

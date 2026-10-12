@@ -1,21 +1,23 @@
 {
-  "authors": "Dedeurwaerdere, Jahn, Newig",
-  "caveat": "Evidence is European project-level; check whether the governance options it proposes are reachable inside HBO funding rules.",
-  "date": "2026-01-21",
-  "doi": "10.1016/j.envsci.2026.104318",
-  "kind": "paper",
-  "lang": "en",
-  "run": "2026-10-05",
-  "score": 5,
-  "source": "Journal watch: Environmental Science & Policy (via web search; Crossref blocked)",
-  "status": "new",
-  "themes": [
-    "td",
-    "eco"
-  ],
-  "title": "Governing the trade-off between the co-production of actionable knowledge and academic publishing in transdisciplinary sustainability research",
-  "url": "https://doi.org/10.1016/j.envsci.2026.104318",
-  "venue": "Environmental Science & Policy",
-  "why": "Jahn and Newig name the bind every lectoraat lives in: projects default to dissemination because publishing is what pays. Useful ammunition when arguing about what counts as output at Windesheim.",
-  "wildcard": false
+ "authors": "Dedeurwaerdere, Jahn, Newig",
+ "caveat": "Evidence is European project-level; check whether the governance options it proposes are reachable inside HBO funding rules.",
+ "date": "2026-01-21",
+ "doi": "10.1016/j.envsci.2026.104318",
+ "kind": "paper",
+ "lang": "en",
+ "run": "2026-10-05",
+ "score": 5,
+ "source": "Journal watch: Environmental Science & Policy (via web search; Crossref blocked)",
+ "status": "new",
+ "themes": [
+  "td",
+  "eco"
+ ],
+ "title": "Governing the trade-off between the co-production of actionable knowledge and academic publishing in transdisciplinary sustainability research",
+ "url": "https://doi.org/10.1016/j.envsci.2026.104318",
+ "venue": "Environmental Science & Policy",
+ "why": "Jahn and Newig name the bind every lectoraat lives in: projects default to dissemination because publishing is what pays. Useful ammunition when arguing about what counts as output at Windesheim.",
+ "wildcard": false,
+ "abstract": "Despite their stated ambitions, the societal outputs of many transdisciplinary sustainability research projects remain at the level of research dissemination to policy makers and concerned stakeholders, rather than organizing a truly interactive knowledge co-production process. In addition, projects that organize interactive knowledge co-production often achieve either a high level of actionable knowledge outputs for the key societal stakeholders or a high level of publication outputs for the scientific community. This paper analyses this trade-off in more detail based on the survey results from a unique sample of 50 completed EU research projects that fall under the same funding requirement to combine societal impact and scientific excellence in so-called \"Research and Innovation Actions\". The results confirm the difficulty for many projects to achieve both goals. In fact, the results show that only about half (54 %) of the projects produced actionable knowledge outputs at the end of the project, and only 34 % achieved both a high level of actionable knowledge outputs and a high level of peer-reviewed articles. The analysis of the survey results shows that co-design of research tasks related to field work, such as social science data collection or technical experimentation in real-world environments, contributes to actionable knowledge, but also potentially leads to fewer publications. An important exception to this finding is the case of intermediate levels of field research co-design. In this case, the strengthening of relational and reflective-normative trust between scientific researchers and social actors contributes to both actionable knowledge outputs and academic publications.",
+ "abstractSource": "OpenAlex"
 }

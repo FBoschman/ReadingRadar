@@ -1,21 +1,23 @@
 {
-  "authors": "Cáñez-Cota",
-  "caveat": "Water sector cases; check whether 'actionable' is defined by uptake or by researcher claim.",
-  "date": "2026-10",
-  "doi": "10.1016/j.envsci.2026.104504",
-  "kind": "paper",
-  "lang": "en",
-  "run": "2026-09-28",
-  "score": 4,
-  "source": "Crossref",
-  "status": "new",
-  "themes": [
-    "td",
-    "par"
-  ],
-  "title": "Researchers as governance actors: How scientific knowledge becomes actionable in transdisciplinary water projects",
-  "url": "https://doi.org/10.1016/j.envsci.2026.104504",
-  "venue": "Environmental Science & Policy",
-  "why": "Takes the researcher's own governance role as the object of study rather than a background condition - the reflexive question behind every living lab you run.",
-  "wildcard": false
+ "authors": "Cáñez-Cota",
+ "caveat": "Water sector cases; check whether 'actionable' is defined by uptake or by researcher claim.",
+ "date": "2026-10",
+ "doi": "10.1016/j.envsci.2026.104504",
+ "kind": "paper",
+ "lang": "en",
+ "run": "2026-09-28",
+ "score": 4,
+ "source": "Crossref",
+ "status": "new",
+ "themes": [
+  "td",
+  "par"
+ ],
+ "title": "Researchers as governance actors: How scientific knowledge becomes actionable in transdisciplinary water projects",
+ "url": "https://doi.org/10.1016/j.envsci.2026.104504",
+ "venue": "Environmental Science & Policy",
+ "why": "Takes the researcher's own governance role as the object of study rather than a background condition - the reflexive question behind every living lab you run.",
+ "wildcard": false,
+ "abstract": "How scientific knowledge becomes actionable remains a central challenge of transdisciplinary environmental governance. This article examines researchers as stakeholders and governance actors in three transdisciplinary water projects in rural Jalisco, Mexico. Drawing on a qualitative comparative analysis of governance episodes, the study reconstructs how researchers, public officials, community actors and funding organizations shaped problem definitions, institutional partnerships and project trajectories under changing conditions. The findings show that researchers exercised agency by building coalitions, negotiating disciplinary perspectives, reframing problems, allocating project resources and translating knowledge across governance rationalities. The cases show that scientific knowledge becomes actionable without requiring consensus when it is translated and adapted across legal, political, administrative, financial and community rationalities, until proposed interventions become sufficiently compatible with the responsibilities and decision criteria of the actors required for collective action. This translation was reciprocal, as researchers also revised their own interpretations in response to changing governance conditions. Actionability therefore emerged not as an intrinsic property of scientific evidence but as an outcome of iterative governance processes. Viewing researchers as both stakeholders and governance actors highlights how their agency helps construct institutional pathways that enable scientific knowledge to inform collective action.",
+ "abstractSource": "OpenAlex"
 }

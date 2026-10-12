@@ -1,0 +1,24 @@
+{
+ "id": "doi_10.1016_j.tate.2026.105768",
+ "kind": "paper",
+ "title": "From data to action: a systematic review of what teachers need to act on static and real-time student data in primary education",
+ "authors": "van Kessel, Horvers, de Jonge et al.",
+ "venue": "Teaching and Teacher Education",
+ "date": "2026-11",
+ "url": "https://doi.org/10.1016/j.tate.2026.105768",
+ "doi": "10.1016/j.tate.2026.105768",
+ "lang": "",
+ "source": "Journal watch: Teaching and Teacher Education",
+ "run": "2026-10-12",
+ "abstract": "",
+ "themeGuess": [],
+ "found": "2026-10-12T12:52:38",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ }
+}

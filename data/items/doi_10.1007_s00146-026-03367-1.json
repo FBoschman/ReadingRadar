@@ -1,21 +1,23 @@
 {
-  "authors": "Glawatzki",
-  "caveat": "Discourse analysis of corporate material; no claim about what users take up.",
-  "date": "2026-09-21",
-  "doi": "10.1007/s00146-026-03367-1",
-  "kind": "paper",
-  "lang": "en",
-  "run": "2026-09-28",
-  "score": 4,
-  "source": "Crossref",
-  "status": "new",
-  "themes": [
-    "ai",
-    "dec"
-  ],
-  "title": "Constructing AI power: anthropomorphising imaginaries of generative AI by AI companies",
-  "url": "https://doi.org/10.1007/s00146-026-03367-1",
-  "venue": "AI & SOCIETY",
-  "why": "Reads vendor language as a power move - useful when institutions adopt the vendors' vocabulary for AI literacy without noticing.",
-  "wildcard": false
+ "authors": "Glawatzki",
+ "caveat": "Discourse analysis of corporate material; no claim about what users take up.",
+ "date": "2026-09-21",
+ "doi": "10.1007/s00146-026-03367-1",
+ "kind": "paper",
+ "lang": "en",
+ "run": "2026-09-28",
+ "score": 4,
+ "source": "Crossref",
+ "status": "new",
+ "themes": [
+  "ai",
+  "dec"
+ ],
+ "title": "Constructing AI power: anthropomorphising imaginaries of generative AI by AI companies",
+ "url": "https://doi.org/10.1007/s00146-026-03367-1",
+ "venue": "AI & SOCIETY",
+ "why": "Reads vendor language as a power move - useful when institutions adopt the vendors' vocabulary for AI literacy without noticing.",
+ "wildcard": false,
+ "abstract": "Abstract In descriptions of generative artificial intelligence (GenAI), companies often anthropomorphise their innovations by attributing human-associated characteristics or capabilities to them, e.g. intelligence, understanding or reasoning. I argue that anthropomorphism can become a structuring part of sociotechnical imaginaries—visions of desirable futures attainable through advances in science and technology. While imaginaries of GenAI have been addressed in existing research, both the connection between anthropomorphism and imaginaries as well as the perspective of AI companies as creators of hegemonic imaginaries remain understudied. Drawing on a qualitative content analysis of 35 documents from OpenAI, Meta and Mistral AI, I explored which anthropomorphising imaginaries are employed by AI companies and how anthropomorphism constructs the technology as powerful in future societies. The analysis reveals that companies anthropomorphise GenAI both in terms of content and language, creating three anthropomorphising imaginaries. In the imaginary of GenAI as a tool with human capabilities, the companies construct a neoliberal future in which human cognitive capabilities will be embedded in GenAI to serve as an intelligent productivity tool. The imaginary of AI as an empowering helper draws a future with human–AI-cooperation and transhumanistic enhancement. Finally, the imaginary of GenAI as an anthropomorphised superintelligence assumes that GenAI will surpass humans and act autonomously through advanced cognitive abilities. These imaginaries imply three types of AI power: instrumental, collaborative and autonomous. The imaginaries and their according constructions of AI power fuel post- and transhumanist ideologies, depoliticise AI from the exploitative conditions of its creation, legitimise AI companies as authoritative creators of this technology and foster technical dependencies as well as an uncritical appropriation and integration of AI. The findings contribute to critical AI research by (1) explicitly reconstructing the anthropomorphising imaginaries of AI companies as under-researched yet increasingly dominant actors in shaping AI futures, (2) broadening the critique of anthropomorphisation as an instrument of corporate power in steering sociotechnical developments and (3) advancing a theoretical account for the effects of anthropomorphisation as embedded in sociotechnical imaginaries.",
+ "abstractSource": "OpenAlex"
 }

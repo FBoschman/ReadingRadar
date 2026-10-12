@@ -1,22 +1,24 @@
 {
-  "authors": "Chen, Mao",
-  "caveat": "Metadata came from the journal's online-first list; the abstract was not read, so the inclusion criteria and what the review counts as participation are unverified.",
-  "date": "2026-10-05",
-  "doi": "10.1007/s11625-026-01903-y",
-  "kind": "paper",
-  "lang": "en",
-  "run": "2026-10-12",
-  "score": 4,
-  "source": "Journal watch: Sustainability Science",
-  "status": "new",
-  "themes": [
-    "td",
-    "par",
-    "eco"
-  ],
-  "title": "Art-science collaboration for sustainability challenges: a systematic review of scholarship, sustainability framings, and stakeholder participation",
-  "url": "https://doi.org/10.1007/s11625-026-01903-y",
-  "venue": "Sustainability Science",
-  "why": "Reviews how art-science work frames sustainability and who actually gets to take part. A route into the material and aesthetic register you want for substrate, and for public-space work with residents.",
-  "wildcard": false
+ "authors": "Chen, Mao",
+ "caveat": "Metadata came from the journal's online-first list; the abstract was not read, so the inclusion criteria and what the review counts as participation are unverified.",
+ "date": "2026-10-05",
+ "doi": "10.1007/s11625-026-01903-y",
+ "kind": "paper",
+ "lang": "en",
+ "run": "2026-10-12",
+ "score": 4,
+ "source": "Journal watch: Sustainability Science",
+ "status": "new",
+ "themes": [
+  "td",
+  "par",
+  "eco"
+ ],
+ "title": "Art-science collaboration for sustainability challenges: a systematic review of scholarship, sustainability framings, and stakeholder participation",
+ "url": "https://doi.org/10.1007/s11625-026-01903-y",
+ "venue": "Sustainability Science",
+ "why": "Reviews how art-science work frames sustainability and who actually gets to take part. A route into the material and aesthetic register you want for substrate, and for public-space work with residents.",
+ "wildcard": false,
+ "abstract": "Abstract Art-science collaboration (ASC) is increasingly presented as a response to sustainability challenges, yet the literature lacks a clear account of how the field has developed, how sustainability is substantively framed, and who participates. This systematic review synthesises 97 peer-reviewed ASC publications (2002–2024) using mixed quantitative and qualitative analysis organised around three strands. First, we characterise ASC scholarship and practice. The evidence base is rapidly expanding but weakly consolidated. Qualitative case studies dominate, the literature is process-heavy and evaluation-light, and syntheses and outcome-oriented evaluations remain rare. Peer-reviewed knowledge production is concentrated in universities and research institutes in a small number of Global North countries. Multi-media installations are the most frequently reported artistic format, alongside a substantial presence of socially engaged practice. Second, we examine sustainability framings through a triple-bottom-line lens (People, Planet, and Prosperity). Sustainability is most often framed through Planet-related topics. People is commonly implied through engagement and learning aims, while Prosperity is rarely treated as a primary concern. Many sustainability-relevant studies do not use sustainability terminology in titles or abstracts, limiting discoverability in sustainability-oriented syntheses. Third, we analyse stakeholder participation. Thirteen stakeholder types are identified, with a stable core configuration across time and increasing inclusion of policymakers, local communities, and NGOs. Facilitators, media organisations, and private sector actors remain peripheral, and stakeholder co-design of research questions, methods, or evaluation is uncommon. Together, these findings underline that the field would benefit from clearer reporting conventions, greater recognition of non-academic contributors, and stronger cross-community connections. Future research should attend to who sets the agenda, how power is distributed, and how intermediaries shape what collaborations achieve.",
+ "abstractSource": "OpenAlex"
 }

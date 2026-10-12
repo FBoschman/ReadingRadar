@@ -1,0 +1,24 @@
+{
+ "id": "doi_10.1016_j.tate.2026.105852",
+ "kind": "paper",
+ "title": "CT talk: Teacher talk as a resource for computational thinking in early childhood programming",
+ "authors": "Zhang, Yang, Zhang",
+ "venue": "Teaching and Teacher Education",
+ "date": "2026-12",
+ "url": "https://doi.org/10.1016/j.tate.2026.105852",
+ "doi": "10.1016/j.tate.2026.105852",
+ "lang": "",
+ "source": "Journal watch: Teaching and Teacher Education",
+ "run": "2026-10-12",
+ "abstract": "",
+ "themeGuess": [],
+ "found": "2026-10-12T12:52:38",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ }
+}

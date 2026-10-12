@@ -1,0 +1,24 @@
+{
+ "id": "doi_10.1016_j.landurbplan.2026.105757",
+ "kind": "paper",
+ "title": "Pollinator habitat enhancement through ornamental plants, floral traits and urban green area features for planning biodiversity-friendly cities",
+ "authors": "Biella, Brambilla, Verduci et al.",
+ "venue": "Landscape and Urban Planning",
+ "date": "2026-12",
+ "url": "https://doi.org/10.1016/j.landurbplan.2026.105757",
+ "doi": "10.1016/j.landurbplan.2026.105757",
+ "lang": "",
+ "source": "Journal watch: Landscape and Urban Planning",
+ "run": "2026-10-12",
+ "abstract": "",
+ "themeGuess": [],
+ "found": "2026-10-12T12:52:55",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ }
+}

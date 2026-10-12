@@ -1,21 +1,23 @@
 {
-  "authors": "Colina, Ingram",
-  "caveat": "",
-  "date": "2026-09-18",
-  "doi": "10.35844/001c.167188",
-  "kind": "paper",
-  "lang": "en",
-  "run": "2026-09-19",
-  "score": 3,
-  "source": "Crossref",
-  "status": "new",
-  "themes": [
-    "par",
-    "dec"
-  ],
-  "title": "Community-based Participatory Translation: A Translation Methodology for Community-Based Participatory Research",
-  "url": "https://doi.org/10.35844/001c.167188",
-  "venue": "Journal of Participatory Research Methods",
-  "why": "Language justice inside participatory research — relevant for multilingual Dutch neighbourhoods.",
-  "wildcard": false
+ "authors": "Colina, Ingram",
+ "caveat": "",
+ "date": "2026-09-18",
+ "doi": "10.35844/001c.167188",
+ "kind": "paper",
+ "lang": "en",
+ "run": "2026-09-19",
+ "score": 3,
+ "source": "Crossref",
+ "status": "new",
+ "themes": [
+  "par",
+  "dec"
+ ],
+ "title": "Community-based Participatory Translation: A Translation Methodology for Community-Based Participatory Research",
+ "url": "https://doi.org/10.35844/001c.167188",
+ "venue": "Journal of Participatory Research Methods",
+ "why": "Language justice inside participatory research — relevant for multilingual Dutch neighbourhoods.",
+ "wildcard": false,
+ "abstract": "Community-based participatory research (CBPR) refers to an approach to conducting research that equitably involves community members, researchers, and other stakeholders in the research process. CPBR centers the research on the experiences of those most affected by the issue, and all partners contribute expertise and share in decision-making. CBPR must address linguistic and cultural aspects of research, by developing a translation approach that is consonant with its principles, in particular in studies in which the community involved includes limited English proficient individuals (LEPs). However, in most cases CBPR proposals are not explicit about how their approach to the preparation of translated materials (surveys, questionnaires, etc.) responds to CBPR principles. Descriptions of procedures and quality assessment processes tend to be like those used in traditional research studies. This conceptual paper argues that the translation approach and processes utilized by CBPR must be aligned with the research methodology. It proposes a community-based participatory translation (CBPT) methodology based on a functionalist framework to translation and a process that trains and involves qualified community translators early in the process. It provides guidance on how to create capacity and develop infrastructure for CBPT.",
+ "abstractSource": "OpenAlex"
 }

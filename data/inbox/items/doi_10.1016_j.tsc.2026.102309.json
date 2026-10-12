@@ -1,0 +1,24 @@
+{
+ "id": "doi_10.1016_j.tsc.2026.102309",
+ "kind": "paper",
+ "title": "The effect of STEM applications based on the OCIPSE learning model on primary school students' academic achievement and scientific creativity",
+ "authors": "Kurtuluş",
+ "venue": "Thinking Skills and Creativity",
+ "date": "2026-12",
+ "url": "https://doi.org/10.1016/j.tsc.2026.102309",
+ "doi": "10.1016/j.tsc.2026.102309",
+ "lang": "",
+ "source": "Journal watch: Thinking Skills and Creativity",
+ "run": "2026-10-12",
+ "abstract": "",
+ "themeGuess": [],
+ "found": "2026-10-12T12:52:44",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ }
+}

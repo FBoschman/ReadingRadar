@@ -1,21 +1,23 @@
 {
-  "authors": "Coghlan, Coughlan, O'Leary, Rigg, Powell, Saabye",
-  "caveat": "First published online 21 August 2025; the action-learning tradition comes from management development, so expect translation work before it fits education PAR.",
-  "date": "2026-03",
-  "doi": "10.1177/00218863251369535",
-  "kind": "paper",
-  "lang": "en",
-  "run": "2026-10-05",
-  "score": 4,
-  "source": "Web search + publisher page (Crossref API blocked)",
-  "status": "new",
-  "themes": [
-    "td",
-    "par"
-  ],
-  "title": "Exploring the Contribution of Action Learning to Transdisciplinary Research",
-  "url": "https://doi.org/10.1177/00218863251369535",
-  "venue": "The Journal of Applied Behavioral Science",
-  "why": "Coghlan and Rigg join action learning to transdisciplinary research, which is the bridge your CARN workshop needs between PAR practice and TD theory.",
-  "wildcard": false
+ "authors": "Coghlan, Coughlan, O'Leary, Rigg, Powell, Saabye",
+ "caveat": "First published online 21 August 2025; the action-learning tradition comes from management development, so expect translation work before it fits education PAR.",
+ "date": "2026-03",
+ "doi": "10.1177/00218863251369535",
+ "kind": "paper",
+ "lang": "en",
+ "run": "2026-10-05",
+ "score": 4,
+ "source": "Web search + publisher page (Crossref API blocked)",
+ "status": "new",
+ "themes": [
+  "td",
+  "par"
+ ],
+ "title": "Exploring the Contribution of Action Learning to Transdisciplinary Research",
+ "url": "https://doi.org/10.1177/00218863251369535",
+ "venue": "The Journal of Applied Behavioral Science",
+ "why": "Coghlan and Rigg join action learning to transdisciplinary research, which is the bridge your CARN workshop needs between PAR practice and TD theory.",
+ "wildcard": false,
+ "abstract": "Action learning has a rich heritage in management development and organizational learning. Its practices, in which groups of peers engage in questioning and reflection on actions to address problems, may be brought to a transdisciplinary research initiative, thereby creating a forum and process for members of transdisciplinary groups to work together. Transdisciplinary research through action learning is a candidate response to substantive problems for which no single disciplinary solution exist. In this paper, we make the case that the process of action learning facilitates the enactment of transdisciplinary research. Further, noting that enacting TDR is itself also a problem, we contend that engaging the co-researchers as an action learning set can lead to co-directing, co-developing and co-deploying resources to address the substantive problem.",
+ "abstractSource": "OpenAlex"
 }

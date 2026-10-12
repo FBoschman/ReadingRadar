@@ -39,10 +39,12 @@ def write_manifest(root, bundle):
     previous = json.loads((data / "MANIFEST.json").read_text(encoding="utf-8")) if (data / "MANIFEST.json").is_file() else {}
     items = bundle.get("items", {})
     manifest = {
-        "exportedAt": datetime.date.today().isoformat(),
+        "generatedAt": datetime.date.today().isoformat(),
         "generatedBy": "tools/build_bundle.py (local cycle)",
         "firstExport": previous.get("sourceArtifact",
-                                   "https://claude.ai/artifact/8EnWDz2BWtdGtGu8BqcQhJ"),
+                                   previous.get("firstExport",
+                                                "https://claude.ai/artifact/8EnWDz2BWtdGtGu8BqcQhJ")),
+        "lastRun": (bundle.get("meta", {}).get("lastRun", {}) or {}).get("date", ""),
         "collections": {name: {"documents": len(bundle.get(name, {})), "ids": sorted(bundle.get(name, {}))}
                         for name in COLLECTIONS},
         "itemStatusCounts": {},
@@ -77,17 +79,50 @@ def build(root):
     else:
         print("WARNING: data/MANIFEST.json is missing. The health checks lose the export counts.")
 
-    # The inbox is the reader's work list. The dashboard shows the counts, so that the queue is
-    # visible and does not grow in silence.
+    # The inbox is the reader's work list. The panel found that a queue nobody can read is a queue
+    # nobody works (P1-3, P2-6), so the bundle now carries the candidates themselves, capped.
+    queue = []
+    folder = data / "inbox" / "items"
+    if folder.is_dir():
+        for path in sorted(folder.glob("*.json")):
+            doc = json.loads(path.read_text(encoding="utf-8"))
+            queue.append({
+                "id": path.stem,
+                "kind": doc.get("kind") or "paper",
+                "title": doc.get("title") or "",
+                "authors": doc.get("authors") or "",
+                "venue": doc.get("venue") or "",
+                "date": doc.get("date") or "",
+                "source": doc.get("source") or "",
+                "themes": doc.get("themeGuess") or [],
+                "hasAbstract": bool(doc.get("abstract")),
+                "url": doc.get("url") or "",
+            })
+    drafts = []
+    draft_folder = data / "inbox" / "lineage"
+    if draft_folder.is_dir():
+        for path in sorted(draft_folder.glob("*.json")):
+            doc = json.loads(path.read_text(encoding="utf-8"))
+            drafts.append({"id": path.stem, "title": doc.get("title") or "",
+                           "parsed": doc.get("parsed"), "refCount": doc.get("refCount"),
+                           "median": doc.get("median"), "tracedAt": doc.get("tracedAt")})
     inbox = {
-        "items": len(list((data / "inbox" / "items").glob("*.json"))) if (data / "inbox" / "items").is_dir() else 0,
-        "lineage": len(list((data / "inbox" / "lineage").glob("*.json"))) if (data / "inbox" / "lineage").is_dir() else 0,
+        "items": len(queue),
+        "lineage": len(drafts),
         "run": None,
+        "candidates": queue[:300],
+        "candidatesCapped": max(0, len(queue) - 300),
+        "lineageDrafts": drafts,
     }
-    run_file = data / "inbox" / "run.json"
-    if run_file.is_file():
-        inbox["run"] = json.loads(run_file.read_text(encoding="utf-8"))
+    for name in ("run", "expired"):
+        path = data / "inbox" / (name + ".json")
+        if path.is_file():
+            inbox[name] = json.loads(path.read_text(encoding="utf-8"))
     bundle["inbox"] = inbox
+    for name in ("status", "sourceHistory"):
+        path = data / "meta" / (name + ".json")
+        if path.is_file():
+            bundle[name] = json.loads(path.read_text(encoding="utf-8"))
     print("inbox: %d candidates, %d lineage drafts" % (inbox["items"], inbox["lineage"]))
 
     write_manifest(root, bundle)

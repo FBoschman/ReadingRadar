@@ -1,20 +1,22 @@
 {
-  "authors": "Prisco, Ricciardi, Percuoco",
-  "caveat": "Single-city evidence; watch for success-case selection.",
-  "date": "2026-12",
-  "doi": "10.1016/j.cities.2026.107446",
-  "kind": "paper",
-  "lang": "en",
-  "run": "2026-09-21",
-  "score": 4,
-  "source": "Crossref",
-  "status": "new",
-  "themes": [
-    "eco"
-  ],
-  "title": "The role of living labs for cities sustainable transition: evidence from the Turin living lab",
-  "url": "https://doi.org/10.1016/j.cities.2026.107446",
-  "venue": "Cities",
-  "why": "An empirical living-lab case at city scale - useful comparison material for Digital Twin Flevoland's governance questions.",
-  "wildcard": false
+ "authors": "Prisco, Ricciardi, Percuoco",
+ "caveat": "Single-city evidence; watch for success-case selection.",
+ "date": "2026-12",
+ "doi": "10.1016/j.cities.2026.107446",
+ "kind": "paper",
+ "lang": "en",
+ "run": "2026-09-21",
+ "score": 4,
+ "source": "Crossref",
+ "status": "new",
+ "themes": [
+  "eco"
+ ],
+ "title": "The role of living labs for cities sustainable transition: evidence from the Turin living lab",
+ "url": "https://doi.org/10.1016/j.cities.2026.107446",
+ "venue": "Cities",
+ "why": "An empirical living-lab case at city scale - useful comparison material for Digital Twin Flevoland's governance questions.",
+ "wildcard": false,
+ "abstract": "The transition to sustainability has become imperative in mitigating the ecological impact of human activities. Living labs, as experimental environments within cities, offer a dynamic platform for testing and refining sustainable solutions. Local governments are increasingly turning to Living Labs as a means to confront sustainability issues. The study aims to comprehend how cities can promote sustainability. Accordingly, we analyzed the case study of the Turin City Lab. This research shows the importance of Living Labs in fostering interactions among stakeholders, accelerating innovation, and facilitating sustainable transition. The direct approach facilitated by Living Labs emerges as a powerful tool, capable of refining innovative ideas and meeting citizens' needs, acting as a catalyst, and laying the foundation for the transformation of cities into vibrant innovation hubs.",
+ "abstractSource": "OpenAlex"
 }

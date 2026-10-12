@@ -1,22 +1,23 @@
 {
-  "authors": "Vazquez-Mendoza, Stapleton, Galvan",
-  "caveat": "Its reference list shows 'cross-disciplinary' to mean researchers from different disciplines rather than societal actors, and the evaluation frame is Kirkpatrick training evaluation, so participation is handled as facilitation rather than power-sharing.",
-  "date": "2026-09-17",
-  "doi": "10.1007/s11213-026-09782-1",
-  "kind": "paper",
-  "lang": "en",
-  "run": "2026-10-12",
-  "score": 4,
-  "source": "Springer article listing: Systemic Practice and Action Research",
-  "status": "new",
-  "themes": [
-    "td",
-    "eco",
-    "dbr"
-  ],
-  "title": "A Structured Model for Designing and Evaluating Cross-Disciplinary Co-Creation Workshops",
-  "url": "https://doi.org/10.1007/s11213-026-09782-1",
-  "venue": "Systemic Practice and Action Research",
-  "why": "A design-and-evaluation model for cross-disciplinary co-creation workshops, built on soft systems methodology and training-evaluation logic. Testable straight away against 'Substrate Matters' and the CDC Urban Innovation sessions.",
-  "wildcard": false
+ "authors": "Vazquez-Mendoza, Stapleton, Galvan",
+ "caveat": "Its reference list shows 'cross-disciplinary' to mean researchers from different disciplines rather than societal actors, and the evaluation frame is Kirkpatrick training evaluation, so participation is handled as facilitation rather than power-sharing.",
+ "date": "2026-09-17",
+ "doi": "10.1007/s11213-026-09782-1",
+ "kind": "paper",
+ "lang": "en",
+ "run": "2026-10-12",
+ "score": 4,
+ "source": "Springer article listing: Systemic Practice and Action Research",
+ "status": "new",
+ "themes": [
+  "td",
+  "eco",
+  "dbr"
+ ],
+ "title": "A Structured Model for Designing and Evaluating Cross-Disciplinary Co-Creation Workshops",
+ "url": "https://doi.org/10.1007/s11213-026-09782-1",
+ "venue": "Systemic Practice and Action Research",
+ "why": "A design-and-evaluation model for cross-disciplinary co-creation workshops, built on soft systems methodology and training-evaluation logic. Testable straight away against 'Substrate Matters' and the CDC Urban Innovation sessions.",
+ "wildcard": false,
+ "abstractSource": ""
 }

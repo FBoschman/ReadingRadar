@@ -1,21 +1,23 @@
 {
-  "authors": "Embury",
-  "caveat": "Article type unclear (could be editorial or reflection).",
-  "date": "2026-08-08",
-  "doi": "10.1080/09650792.2026.2720840",
-  "kind": "paper",
-  "lang": "en",
-  "run": "2026-09-19",
-  "score": 5,
-  "source": "Crossref",
-  "status": "new",
-  "themes": [
-    "par",
-    "dec"
-  ],
-  "title": "Knowledge production through relationships over extraction",
-  "url": "https://doi.org/10.1080/09650792.2026.2720840",
-  "venue": "Educational Action Research",
-  "why": "Relationship versus extraction in knowledge production — speaks straight to your 'extraction-loss' lane for CARN.",
-  "wildcard": false
+ "authors": "Embury",
+ "caveat": "Article type unclear (could be editorial or reflection).",
+ "date": "2026-08-08",
+ "doi": "10.1080/09650792.2026.2720840",
+ "kind": "paper",
+ "lang": "en",
+ "run": "2026-09-19",
+ "score": 5,
+ "source": "Crossref",
+ "status": "new",
+ "themes": [
+  "par",
+  "dec"
+ ],
+ "title": "Knowledge production through relationships over extraction",
+ "url": "https://doi.org/10.1080/09650792.2026.2720840",
+ "venue": "Educational Action Research",
+ "why": "Relationship versus extraction in knowledge production — speaks straight to your 'extraction-loss' lane for CARN.",
+ "wildcard": false,
+ "abstract": "In this issue we offer nine articles that, each in their own way, push us as readers, researchers, students, engaged community members, and folx interested in improving the wellbeing of our individ...",
+ "abstractSource": "OpenAlex"
 }

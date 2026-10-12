@@ -1,21 +1,23 @@
 {
-  "authors": "Sabbatini",
-  "caveat": "Essayistic; treat as a position piece, not evidence.",
-  "date": "2026-09-19",
-  "doi": "10.1080/13504622.2026.2733858",
-  "kind": "paper",
-  "lang": "en",
-  "run": "2026-09-21",
-  "score": 4,
-  "source": "Journal watch: Environmental Education Research",
-  "status": "new",
-  "themes": [
-    "dec",
-    "eco"
-  ],
-  "title": "Learning to belong: continuing Stephen Sterling's story from the South",
-  "url": "https://doi.org/10.1080/13504622.2026.2733858",
-  "venue": "Environmental Education Research",
-  "why": "Rereads a canonical sustainability-education figure from a Southern vantage point - a model for how to keep a tradition while displacing its centre.",
-  "wildcard": false
+ "authors": "Sabbatini",
+ "caveat": "Essayistic; treat as a position piece, not evidence.",
+ "date": "2026-09-19",
+ "doi": "10.1080/13504622.2026.2733858",
+ "kind": "paper",
+ "lang": "en",
+ "run": "2026-09-21",
+ "score": 4,
+ "source": "Journal watch: Environmental Education Research",
+ "status": "new",
+ "themes": [
+  "dec",
+  "eco"
+ ],
+ "title": "Learning to belong: continuing Stephen Sterling's story from the South",
+ "url": "https://doi.org/10.1080/13504622.2026.2733858",
+ "venue": "Environmental Education Research",
+ "why": "Rereads a canonical sustainability-education figure from a Southern vantage point - a model for how to keep a tradition while displacing its centre.",
+ "wildcard": false,
+ "abstract": "This essay is offered as a southern echo of Stephen Sterling’s autobiographical contribution to this special issue, ‘The whole story (not quite)’, and as a sustained engagement with Learning and Sustainability in Dangerous Times. Read from a regional perspective, Sterling’s Triang Model of Seeing, Knowing and Doing finds, this essay suggests, a fuller resonance when it is set alongside the relational ontologies of Latin American worldviews. A fourth axis is proposed, named here as Belonging (in Spanish, Pertenecer), which seeks to name what Sterling’s framework has always carried with it: the territorial, relational and intergenerational ground in which Seeing, Knowing and Doing become accountable to specific lands and peoples. From this completed Tetrang, a pedagogical disposition is sketched: anticipatory hospitality, that is to say, an education that prepares learners not only to anticipate the radical discontinuities of the polycrisis but to host the plural ontologies that a polyepistemic condition demands. Drawing on Anzaldúa’s nepantlera, on Silova and colleagues’ work on unsettling the coloniality of knowledge production, on Ricoeur’s reflections on translation as the work of mourning, and on the daily practice of intergenerational dialogue at our UNESCO Chair on Education for Sustainability and Global Citizenship, the essay reads Sterling not as a thinker to be applied at the periphery of a global discourse, but as a generous interlocutor whose work invites translation, friction and reciprocal reworlding, and is enriched by them.",
+ "abstractSource": "OpenAlex"
 }

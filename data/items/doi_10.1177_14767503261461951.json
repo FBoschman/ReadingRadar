@@ -1,21 +1,23 @@
 {
-  "authors": "Permanasari, Nostikasari, Mahardhika",
-  "caveat": "Indonesian planning context.",
-  "date": "2026-06-22",
-  "doi": "10.1177/14767503261461951",
-  "kind": "paper",
-  "lang": "en",
-  "run": "2026-09-19",
-  "score": 4,
-  "source": "Crossref",
-  "status": "new",
-  "themes": [
-    "par",
-    "eco"
-  ],
-  "title": "Conflicts as Opportunities in Co-Design: Leveraging Participatory Approaches for Urban Policy and Planning",
-  "url": "https://doi.org/10.1177/14767503261461951",
-  "venue": "Action Research",
-  "why": "Co-design of child-friendly parks treating conflict as productive — directly usable in the public-space course.",
-  "wildcard": false
+ "authors": "Permanasari, Nostikasari, Mahardhika",
+ "caveat": "Indonesian planning context.",
+ "date": "2026-06-22",
+ "doi": "10.1177/14767503261461951",
+ "kind": "paper",
+ "lang": "en",
+ "run": "2026-09-19",
+ "score": 4,
+ "source": "Crossref",
+ "status": "new",
+ "themes": [
+  "par",
+  "eco"
+ ],
+ "title": "Conflicts as Opportunities in Co-Design: Leveraging Participatory Approaches for Urban Policy and Planning",
+ "url": "https://doi.org/10.1177/14767503261461951",
+ "venue": "Action Research",
+ "why": "Co-design of child-friendly parks treating conflict as productive — directly usable in the public-space course.",
+ "wildcard": false,
+ "abstract": "This study investigates the potential of co-design in addressing urban conflicts through the development of six pilot child-friendly community parks (RPTRAs) in Jakarta. Utilizing a participatory design framework, the research identifies and analyzes conflicts that arose across five co-design phases: social mapping, initial design, final design, community-supported construction, and participatory activity planning. Drawing on qualitative data from field observations and focus group discussions (FGDs), the study categorizes conflicts into five key themes: representation and inclusion, commitment issues, conflicting needs and priorities, resistance and contestation, and power inequalities. Findings reveal that while co-design processes often trigger conflicts, they also provide mechanisms to address them, fostering negotiation, compromise, and innovation. Aligning these findings with theoretical insights, the study demonstrates that conflicts are not merely obstacles but essential drivers for building inclusive and equitable urban spaces. This research contributes to the understanding of participatory urban planning by highlighting how co-design can transform conflicts into opportunities for empowerment, shared learning, and sustainable outcomes. It underscores the importance of iterative, context-sensitive approaches that balance local needs with broader policy objectives, offering a model for inclusive urban governance in diverse and dynamic contexts.",
+ "abstractSource": "OpenAlex"
 }

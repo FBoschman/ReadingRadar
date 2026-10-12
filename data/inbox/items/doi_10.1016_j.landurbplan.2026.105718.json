@@ -1,0 +1,24 @@
+{
+ "id": "doi_10.1016_j.landurbplan.2026.105718",
+ "kind": "paper",
+ "title": "Exploring a sampling-based IUGZA method to estimate and map the tree allergenic risk of urban green space: Case study of Beijing, China",
+ "authors": "Shi, Zhang, Bai et al.",
+ "venue": "Landscape and Urban Planning",
+ "date": "2026-11",
+ "url": "https://doi.org/10.1016/j.landurbplan.2026.105718",
+ "doi": "10.1016/j.landurbplan.2026.105718",
+ "lang": "",
+ "source": "Journal watch: Landscape and Urban Planning",
+ "run": "2026-10-12",
+ "abstract": "",
+ "themeGuess": [],
+ "found": "2026-10-12T12:52:55",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ }
+}

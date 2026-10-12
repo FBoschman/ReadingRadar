@@ -1,22 +1,24 @@
 {
-  "authors": "Ebubedike, Addae-Kyeremeh, Kwaah",
-  "caveat": "Transfer to Dutch hbo context needs care.",
-  "date": "2026-06-12",
-  "doi": "10.1080/09650792.2026.2682814",
-  "kind": "paper",
-  "lang": "en",
-  "run": "2026-09-19",
-  "score": 4,
-  "source": "Crossref",
-  "status": "new",
-  "themes": [
-    "par",
-    "dec",
-    "eco"
-  ],
-  "title": "Ti Koro Nko Agyina: a participatory action research approach to collaborative knowledge co-creation and professional learning with educators in Accra, Ghana",
-  "url": "https://doi.org/10.1080/09650792.2026.2682814",
-  "venue": "Educational Action Research",
-  "why": "PAR with educators in Accra linking co-creation to professional learning; a non-Western case for your ecosystem reading list.",
-  "wildcard": false
+ "authors": "Ebubedike, Addae-Kyeremeh, Kwaah",
+ "caveat": "Transfer to Dutch hbo context needs care.",
+ "date": "2026-06-12",
+ "doi": "10.1080/09650792.2026.2682814",
+ "kind": "paper",
+ "lang": "en",
+ "run": "2026-09-19",
+ "score": 4,
+ "source": "Crossref",
+ "status": "new",
+ "themes": [
+  "par",
+  "dec",
+  "eco"
+ ],
+ "title": "Ti Koro Nko Agyina: a participatory action research approach to collaborative knowledge co-creation and professional learning with educators in Accra, Ghana",
+ "url": "https://doi.org/10.1080/09650792.2026.2682814",
+ "venue": "Educational Action Research",
+ "why": "PAR with educators in Accra linking co-creation to professional learning; a non-Western case for your ecosystem reading list.",
+ "wildcard": false,
+ "abstract": "This paper explores how the Akan proverb Ti Koro Nko Agyina ‘one head does not enter the council’ shaped a participatory action research project on educator professional development in Accra, Ghana. The initiative engaged 20 educators across three districts in co-creation workshops using participatory methods, such as ‘passport exchange’ and ‘diamond ranking’, to prompt reflection, dialogue, and collective inquiry into pedagogical leadership. Grounded in Indigenous philosophies, the process privileged educator agency, cultural relevance, and shared ownership over externally driven models. The workshops enabled participants to co-develop a context-specific pedagogical leadership toolkit, drawing on lived experience and local knowledge. The study shows how collaborative processes deepened educators’ peer learning networks and fostered professional confidence. It also highlights the rigidities and possibilities of building collective agency within institutional systems. The findings contribute to scholarship on professional development as a contextually responsive, relational practice grounded in Indigenous epistemologies. In doing so, the study contributes to broader debates on situating professional learning within contextually relevant frameworks that recognise local epistemologies, relational values, and practice-based knowledge.",
+ "abstractSource": "OpenAlex"
 }

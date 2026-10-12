@@ -1,21 +1,23 @@
 {
-  "authors": "Arthur, DesRoches, Fischer",
-  "caveat": "Antifragility is contested and lightly evidenced; the paper may not resolve that.",
-  "date": "2026-09-21",
-  "doi": "10.1007/s11625-026-01883-z",
-  "kind": "paper",
-  "lang": "en",
-  "run": "2026-09-28",
-  "score": 4,
-  "source": "Journal watch: Sustainability Science",
-  "status": "new",
-  "themes": [
-    "cx",
-    "td"
-  ],
-  "title": "From resilience to antifragility? Satisfying human needs in a disruptive world",
-  "url": "https://doi.org/10.1007/s11625-026-01883-z",
-  "venue": "Sustainability Science",
-  "why": "Tests whether antifragility adds anything to resilience - worth reading sceptically alongside the Juarrero strand of 'Substrate Matters'.",
-  "wildcard": false
+ "authors": "Arthur, DesRoches, Fischer",
+ "caveat": "Antifragility is contested and lightly evidenced; the paper may not resolve that.",
+ "date": "2026-09-21",
+ "doi": "10.1007/s11625-026-01883-z",
+ "kind": "paper",
+ "lang": "en",
+ "run": "2026-09-28",
+ "score": 4,
+ "source": "Journal watch: Sustainability Science",
+ "status": "new",
+ "themes": [
+  "cx",
+  "td"
+ ],
+ "title": "From resilience to antifragility? Satisfying human needs in a disruptive world",
+ "url": "https://doi.org/10.1007/s11625-026-01883-z",
+ "venue": "Sustainability Science",
+ "why": "Tests whether antifragility adds anything to resilience - worth reading sceptically alongside the Juarrero strand of 'Substrate Matters'.",
+ "wildcard": false,
+ "abstract": "Abstract Calls to make ecological systems, organizations, and people “resilient” have become central to sustainability science. However, resilience is a broad term that sometimes means returning to the status quo. In a disruptive world, characterized by interconnected crises such as climate change, biodiversity loss, and pandemics, returning to the status quo may be neither feasible nor desirable. In this Overview article we suggest an alternative framework, antifragility, whereby the explicit goal is to improve after stress. We position antifragility not as a replacement for resilience, but as a complement to this concept, which is indispensable to sustainability science. This orientation leads to embracing key features of antifragile systems, including decentralization, optionality, and a proactive approach to stressors. We explore case studies in water, energy, and food systems to demonstrate how an antifragile approach applies to satisfying human needs in the real world. We then discuss trade-offs inherent in an antifragile approach, such as who bears the costs when systems learn from stress. Finally, we outline a future research agenda to make antifragility testable and accountable.",
+ "abstractSource": "OpenAlex"
 }

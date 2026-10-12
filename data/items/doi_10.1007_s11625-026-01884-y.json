@@ -1,21 +1,23 @@
 {
-  "authors": "Asplund, Dobrin",
-  "caveat": "",
-  "date": "2026-09-08",
-  "doi": "10.1007/s11625-026-01884-y",
-  "kind": "paper",
-  "lang": "en",
-  "ratedAt": "2026-10-05T09:18:26.973Z",
-  "run": "2026-09-19",
-  "score": 2,
-  "source": "Crossref",
-  "status": "skip",
-  "themes": [
-    "td"
-  ],
-  "title": "Contemplative pathways to personal sustainability transformations: technique and practice of loving kindness",
-  "url": "https://doi.org/10.1007/s11625-026-01884-y",
-  "venue": "Sustainability Science",
-  "why": "Outside your usual: inner dimensions of transformation, a strand TD literature is growing into.",
-  "wildcard": true
+ "authors": "Asplund, Dobrin",
+ "caveat": "",
+ "date": "2026-09-08",
+ "doi": "10.1007/s11625-026-01884-y",
+ "kind": "paper",
+ "lang": "en",
+ "ratedAt": "2026-10-05T09:18:26.973Z",
+ "run": "2026-09-19",
+ "score": 2,
+ "source": "Crossref",
+ "status": "skip",
+ "themes": [
+  "td"
+ ],
+ "title": "Contemplative pathways to personal sustainability transformations: technique and practice of loving kindness",
+ "url": "https://doi.org/10.1007/s11625-026-01884-y",
+ "venue": "Sustainability Science",
+ "why": "Outside your usual: inner dimensions of transformation, a strand TD literature is growing into.",
+ "wildcard": true,
+ "abstract": "Abstract Building on calls for deep human–nature reconnection and growing recognition of contemplative pathways for inner–outer transformations toward sustainability, this study addresses a current gap in empirical research on contemplative interventions designed to cultivate a deeper sense of connection with the more-than-human world. This study (1) develops an approach to the Buddhist practice of loving-kindness (LK) that encompasses the more-than-human world and (2) empirically examines experiences of such practices. The analysis of participant journals from a course on the inner dimensions of personal sustainability transformations finds that participants draw on subtle forms of discernment when directing loving-kindness towards animals. Animals that disturb, evoke disgust, or elicit fear tend to be excluded from the circle of kindness, whereas those perceived as beautiful or endearing are more readily included. Based on the loving kindness meditations (LKM) directed toward nature, the analysis also identifies three qualitatively different modes of experiencing connection to nature—instrumental appreciation, embodied interconnectedness, and transcendental experience. Lastly, the article concludes that contemplative pathways to nature connectedness can enable forms of personal sustainability transformation that move beyond cognitive and affective shifts, fostering embodied, experiential, and spiritual senses of interconnection and belonging beyond the individual self.",
+ "abstractSource": "OpenAlex"
 }

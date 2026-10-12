@@ -1,20 +1,21 @@
 {
-  "authors": "Brady, Lewis",
-  "caveat": "Dense continental philosophy; low immediate applicability.",
-  "date": "2026-09-23",
-  "doi": "10.1080/00131857.2026.2736772",
-  "kind": "paper",
-  "lang": "en",
-  "run": "2026-09-28",
-  "score": 3,
-  "source": "Journal watch: Educational Philosophy and Theory",
-  "status": "new",
-  "themes": [
-    "pc"
-  ],
-  "title": "Cartographies of learning and study",
-  "url": "https://doi.org/10.1080/00131857.2026.2736772",
-  "venue": "Educational Philosophy and Theory",
-  "why": "Outside your usual: Tyson Lewis's distinction between learning and study, which cuts against outcome-driven curriculum language without arguing about competencies at all.",
-  "wildcard": true
+ "authors": "Brady, Lewis",
+ "caveat": "Dense continental philosophy; low immediate applicability.",
+ "date": "2026-09-23",
+ "doi": "10.1080/00131857.2026.2736772",
+ "kind": "paper",
+ "lang": "en",
+ "run": "2026-09-28",
+ "score": 3,
+ "source": "Journal watch: Educational Philosophy and Theory",
+ "status": "new",
+ "themes": [
+  "pc"
+ ],
+ "title": "Cartographies of learning and study",
+ "url": "https://doi.org/10.1080/00131857.2026.2736772",
+ "venue": "Educational Philosophy and Theory",
+ "why": "Outside your usual: Tyson Lewis's distinction between learning and study, which cuts against outcome-driven curriculum language without arguing about competencies at all.",
+ "wildcard": true,
+ "abstractSource": ""
 }

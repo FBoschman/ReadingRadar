@@ -1,0 +1,24 @@
+{
+ "id": "doi_10.1016_j.caeai.2026.100647",
+ "kind": "paper",
+ "title": "A socio-technical framework for educational excellence: Empirical validation of artificial intelligence and Jidoka integration in accounting pedagogy within emerging financial markets",
+ "authors": "Alrashed, Alrashed",
+ "venue": "Computers and Education: Artificial Intelligence",
+ "date": "2026-12",
+ "url": "https://doi.org/10.1016/j.caeai.2026.100647",
+ "doi": "10.1016/j.caeai.2026.100647",
+ "lang": "",
+ "source": "Journal watch: Computers and Education: Artificial Intelligence",
+ "run": "2026-10-12",
+ "abstract": "",
+ "themeGuess": [],
+ "found": "2026-10-12T12:52:51",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ }
+}

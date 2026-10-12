@@ -1,21 +1,23 @@
 {
-  "authors": "Schäfer, Kuzu",
-  "caveat": "In German; school context.",
-  "date": "2026-06-18",
-  "doi": "10.15460/js6xmv74",
-  "kind": "paper",
-  "lang": "de",
-  "run": "2026-09-19",
-  "score": 4,
-  "source": "Crossref",
-  "status": "new",
-  "themes": [
-    "dbr",
-    "par"
-  ],
-  "title": "Partizipatives Design-Based Research in der inklusiven Unterrichtsentwicklung",
-  "url": "https://doi.org/10.15460/js6xmv74",
-  "venue": "EDeR. Educational Design Research",
-  "why": "Combines DBR with participation — a bridge between your DBR and PAR threads.",
-  "wildcard": false
+ "authors": "Schäfer, Kuzu",
+ "caveat": "In German; school context.",
+ "date": "2026-06-18",
+ "doi": "10.15460/js6xmv74",
+ "kind": "paper",
+ "lang": "de",
+ "run": "2026-09-19",
+ "score": 4,
+ "source": "Crossref",
+ "status": "new",
+ "themes": [
+  "dbr",
+  "par"
+ ],
+ "title": "Partizipatives Design-Based Research in der inklusiven Unterrichtsentwicklung",
+ "url": "https://doi.org/10.15460/js6xmv74",
+ "venue": "EDeR. Educational Design Research",
+ "why": "Combines DBR with participation — a bridge between your DBR and PAR threads.",
+ "wildcard": false,
+ "abstract": "Der Artikel geht der Frage nach, wie Design-Based Research (DBR) mit Partizipation als wesentliches Merkmal inklusiver Bildung verbunden werden kann und leistet damit einen Beitrag zur Förderung inklusiver Schul- und Unterrichtsentwicklung. Vor dem Hintergrund eines Verständnisses von Partizipation, das den Anspruch hat, inklusiv zu sein, liegt der Fokus des Artikels auf der partizipativen Einbindung von Lernenden in die iterative Entwicklung und Überarbeitung von Designelementen einer Lehr-Lernumgebung. Ziel ist es, am Beispiel der Mehrsprachigkeitskarten Möglichkeiten eines partizipativen Zugangs zu einer diversitätssensiblen Gestaltung aufzuzeigen. In einem intersektionalen und diversitätssensiblen Verständnis von Inklusion (hier ausgehend von Mehrsprachigkeit und Migrationshintergrund) wird argumentiert, dass die Einbeziehung der Lernendenperspektiven die Entwicklungsprozesse bereichern kann. Im Rahmen des Einsatzes der Lehr-Lernumgebungen wurden insgesamt 14 Grundschullernende in Kleingruppen gefördert. Zur Prozessanalyse wurde die Methode der interpretativen Interaktionsanalyse herangezogen. Die Analysen zeigen, dass im Rahmen der partizipativen Ko-Evaluation und -Entwicklung wichtige Impulse zur Überarbeitung entstehen können. Dabei wird deutlich, wie die Verbindung von DBR und partizipativen Ansätzen zu einer inklusiven Unterrichtsentwicklung beitragen kann.",
+ "abstractSource": "OpenAlex"
 }

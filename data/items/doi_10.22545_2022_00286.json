@@ -1,20 +1,22 @@
 {
-  "authors": "Sultana, Sabau",
-  "caveat": "Lower-standing journal; verify argument quality.",
-  "date": "2026-08-14",
-  "doi": "10.22545/2022/00286",
-  "kind": "paper",
-  "lang": "en",
-  "run": "2026-09-19",
-  "score": 3,
-  "source": "Crossref",
-  "status": "new",
-  "themes": [
-    "td"
-  ],
-  "title": "The Process of Knowledge Integration in Transdisciplinary Sustainability Research: Why it Cannot Produce Meaningful Transformation",
-  "url": "https://doi.org/10.22545/2022/00286",
-  "venue": "Transdisciplinary Journal of Engineering & Science",
-  "why": "A provocative claim that knowledge integration cannot deliver transformation — worth testing against your view.",
-  "wildcard": false
+ "authors": "Sultana, Sabau",
+ "caveat": "Lower-standing journal; verify argument quality.",
+ "date": "2026-08-14",
+ "doi": "10.22545/2022/00286",
+ "kind": "paper",
+ "lang": "en",
+ "run": "2026-09-19",
+ "score": 3,
+ "source": "Crossref",
+ "status": "new",
+ "themes": [
+  "td"
+ ],
+ "title": "The Process of Knowledge Integration in Transdisciplinary Sustainability Research: Why it Cannot Produce Meaningful Transformation",
+ "url": "https://doi.org/10.22545/2022/00286",
+ "venue": "Transdisciplinary Journal of Engineering & Science",
+ "why": "A provocative claim that knowledge integration cannot deliver transformation — worth testing against your view.",
+ "wildcard": false,
+ "abstract": "The main challenges of traditional disciplinary research on the sustainability of socio-ecological systems are lack of knowledge integration, the difficulty of incorporating insights from different actor groups, the barriers to translation of interdisciplinary research, and the inability to implement and evaluate complex research projects. A transdisciplinary sustainability research (TSR) approach reduces informational uncertainties, builds mutual understanding, identifies the art of knowledge co-production as well as of scientific knowledge exchange, aiming to solve knowledge integration complexity. This article uses a narrative review approach to explore the process of knowledge integration in TSR and to explain why TSR cannot produce meaningful transformation towards sustainability. The study shows that TSR - with its current focus on techno-scientific solutions to unsustainability issues - has disregarded the “inner world” dimension of sustainability and failed to steer the humanity toward sustainability. Moreover, the research methodology of modern science is insufficient in TSR to produce transformational change. We suggest that the research methodology with three axioms proposed by Basarab Nicolescu (1985, 2002, 2010) must complement the scientific methodology in TSR.",
+ "abstractSource": "OpenAlex"
 }

@@ -50,7 +50,7 @@ def year_of(date_text):
     return match.group(1) if match else ""
 
 
-def note_text(item, theme_names):
+def note_text(item, theme_names, doc_id):
     doi = item.get("doi") or ""
     themes = ", ".join(item.get("themes") or [])
     names = ", ".join(theme_names.get(code, code) for code in (item.get("themes") or []))
@@ -71,10 +71,11 @@ def note_text(item, theme_names):
         "description: " + q(item.get("why")),
         "intake: reading-radar",
         "ingested: false",
+        "radar_id: " + q(doc_id),
+        "radar_url: " + q("https://github.com/FBoschman/ReadingRadar/blob/main/data/items/" + doc_id + ".json"),
         "radar_score: " + str(item.get("score")),
         "radar_themes: [" + themes + "]",
-        "xray_confidence: ",
-        "thinker_candidates: ",
+        "radar_theme_names: " + q(names),
         "tags: [reading-radar, " + themes + "]",
         "---",
         "",
@@ -152,7 +153,11 @@ def main(argv=None):
         if args.dry_run:
             print("WOULD WRITE", target)
         else:
-            target.write_text(note_text(item, theme_names), encoding="utf-8", newline="\n")
+            target.write_text(note_text(item, theme_names, doc_id), encoding="utf-8", newline="\n")
+            item["wikiNote"] = name
+            item["wikiWrittenAt"] = lib.today()
+            item["wikiIngested"] = False
+            lib.save_json(lib.DATA / "items" / (doc_id + ".json"), item)
             print("WROTE", target.name)
         written += 1
     print("")

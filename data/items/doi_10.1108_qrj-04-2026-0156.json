@@ -1,20 +1,22 @@
 {
-  "authors": "De Oliveira",
-  "caveat": "May flatten PAR's political roots into a methods choice.",
-  "date": "2026-07-14",
-  "doi": "10.1108/qrj-04-2026-0156",
-  "kind": "paper",
-  "lang": "en",
-  "run": "2026-09-19",
-  "score": 4,
-  "source": "Crossref",
-  "status": "new",
-  "themes": [
-    "par"
-  ],
-  "title": "Co-production/co-design or participatory action research (PAR)? Pointers for when to consider co-production/co-design or PAR",
-  "url": "https://doi.org/10.1108/qrj-04-2026-0156",
-  "venue": "Qualitative Research Journal",
-  "why": "Clear distinction between co-design and PAR — handy for positioning the CDC Urban Innovation course and for students.",
-  "wildcard": false
+ "authors": "De Oliveira",
+ "caveat": "May flatten PAR's political roots into a methods choice.",
+ "date": "2026-07-14",
+ "doi": "10.1108/qrj-04-2026-0156",
+ "kind": "paper",
+ "lang": "en",
+ "run": "2026-09-19",
+ "score": 4,
+ "source": "Crossref",
+ "status": "new",
+ "themes": [
+  "par"
+ ],
+ "title": "Co-production/co-design or participatory action research (PAR)? Pointers for when to consider co-production/co-design or PAR",
+ "url": "https://doi.org/10.1108/qrj-04-2026-0156",
+ "venue": "Qualitative Research Journal",
+ "why": "Clear distinction between co-design and PAR — handy for positioning the CDC Urban Innovation course and for students.",
+ "wildcard": false,
+ "abstract": "Purpose This article aims to clarify the conceptual distinctions between co-production/co-design and participatory action research (PAR). It develops a practical framework to help researchers, reviewers and community partners decide which approach is most appropriate for a given project by examining differences in purpose, participant roles, power and decision-making, process and epistemology. In doing so, the article responds to persistent conceptual slippage in participatory research and argues for greater precision, transparency and accountability in the selection, description, and evaluation of participatory methods across health, social care and community-based research. Design/methodology/approach This article presents a critical conceptual discussion informed by interdisciplinary literature on co-production, co-design and PAR. Drawing on scholarship across health, social care, design, mental health and community-based research, it compares these approaches through five analytic dimensions: purpose, participant role, power and decision-making, process and epistemology. Rather than conducting a systematic review, the article synthesises theoretical and practice-based sources to develop a practical framework for reflection and clearer reporting of participatory research. Findings The article argues that co-production/co-design and PAR overlap in their rejection of top-down expertise but differ in important ways. Co-production/co-design is generally better suited to collaborative improvement of services, interventions or research processes. In contrast, PAR is more appropriate where inquiry is tied to collective action and social transformation. It argues that clearer distinctions can improve approach choice, strengthen peer review and increase accountability to community partners in participatory research. Originality/value This manuscript offers an original conceptual framework for distinguishing co-production/co-design from PAR, two approaches that are frequently conflated in participatory research. Its value lies in translating abstract debates of these approaches into practical pointers.",
+ "abstractSource": "OpenAlex"
 }

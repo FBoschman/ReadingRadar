@@ -7,6 +7,7 @@ can say where its abstract came from.
 Usage:
     python tools/enrich.py --limit 60
     python tools/enrich.py --all
+    python tools/enrich.py --items --all       # repair the collection itself
 """
 import argparse
 import sys
@@ -41,9 +42,11 @@ def main(argv=None):
     parser = argparse.ArgumentParser(description="Fill the abstracts of the candidates from OpenAlex.")
     parser.add_argument("--limit", type=int, default=60, help="maximum items to try")
     parser.add_argument("--all", action="store_true", help="try every candidate without an abstract")
+    parser.add_argument("--items", action="store_true",
+                        help="work on data/items instead of the inbox, to repair a record that lost its abstract")
     args = parser.parse_args(argv)
 
-    folder = lib.DATA / "inbox" / "items"
+    folder = (lib.DATA / "items") if args.items else (lib.DATA / "inbox" / "items")
     todo = []
     for path in sorted(folder.glob("*.json")):
         doc = lib.load_json(path, {}) or {}

@@ -1,21 +1,23 @@
 {
-  "authors": "Pietarinen, Shi",
-  "caveat": "Conceptual and untested; check whether the criteria can actually be operationalised in assessment design rather than only argued.",
-  "date": "2026-05-02",
-  "doi": "10.1007/s42438-026-00644-6",
-  "kind": "paper",
-  "lang": "en",
-  "run": "2026-10-05",
-  "score": 4,
-  "source": "Web search + publisher page (Crossref API blocked)",
-  "status": "new",
-  "themes": [
-    "ai",
-    "pc"
-  ],
-  "title": "Manipulation and Deception in Generative AI-Mediated Education: Preserving Epistemic Agency, Critical Thinking, and Creativity",
-  "url": "https://doi.org/10.1007/s42438-026-00644-6",
-  "venue": "Postdigital Science and Education",
-  "why": "Tries to state criteria that separate legitimate pedagogical AI use from manipulation, which is exactly the line your AI and Professional Criticality papers need to draw.",
-  "wildcard": false
+ "authors": "Pietarinen, Shi",
+ "caveat": "Conceptual and untested; check whether the criteria can actually be operationalised in assessment design rather than only argued.",
+ "date": "2026-05-02",
+ "doi": "10.1007/s42438-026-00644-6",
+ "kind": "paper",
+ "lang": "en",
+ "run": "2026-10-05",
+ "score": 4,
+ "source": "Web search + publisher page (Crossref API blocked)",
+ "status": "new",
+ "themes": [
+  "ai",
+  "pc"
+ ],
+ "title": "Manipulation and Deception in Generative AI-Mediated Education: Preserving Epistemic Agency, Critical Thinking, and Creativity",
+ "url": "https://doi.org/10.1007/s42438-026-00644-6",
+ "venue": "Postdigital Science and Education",
+ "why": "Tries to state criteria that separate legitimate pedagogical AI use from manipulation, which is exactly the line your AI and Professional Criticality papers need to draw.",
+ "wildcard": false,
+ "abstract": "Abstract Generative AI now mediates core parts of learning, yet we lack criteria to tell its legitimate pedagogical uses from manipulative and deceptive ones. We also know too little about how AI reshapes the growth of critical thinking and creativity, or about whether it accelerates drift from educational goods to evaluative metrics. Using a postdigital, pragmatist lens that treats classrooms as sociomaterial assemblages of people, platforms, and institutions, we propose three orienting principles: moral legitimacy (when AI influence crosses into the darker side of manipulation or deception), developmental integrity (how tools support rather than substitute reflective judgement and imaginative work), and value preservation (protecting epistemic agency and intellectual virtues). This programme proceeds by defining and testing concepts and thresholds, adjudicating hard cases across autonomy-, virtue-, and outcome-based views, and suggests how results translate into design and policy. Expected outputs include a typology of influence (nudging, persuasion, manipulation, and deception), a legitimacy audit, and virtue-informed design constraints (e.g., contestability, reason-giving, and calibrated confidence) that embrace edtech with humanistic aims.",
+ "abstractSource": "OpenAlex"
 }

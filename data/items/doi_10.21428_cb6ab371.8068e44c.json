@@ -1,21 +1,23 @@
 {
-  "authors": "Ford",
-  "caveat": "Preprint on CrimRxiv, not peer reviewed; treat the empirical claims as provisional.",
-  "date": "2026-09-21",
-  "doi": "10.21428/cb6ab371.8068e44c",
-  "kind": "paper",
-  "lang": "en",
-  "run": "2026-09-28",
-  "score": 4,
-  "source": "Crossref",
-  "status": "new",
-  "themes": [
-    "ai",
-    "pc"
-  ],
-  "title": "The Copilot Constable: Generative AI, Professional Judgement and Internal Legitimacy in Policing",
-  "url": "https://doi.org/10.21428/cb6ab371.8068e44c",
-  "venue": "CrimRxiv",
-  "why": "Professional judgement under AI in a high-stakes occupation where legitimacy is the currency - a sharper test case than the student essay.",
-  "wildcard": false
+ "authors": "Ford",
+ "caveat": "Preprint on CrimRxiv, not peer reviewed; treat the empirical claims as provisional.",
+ "date": "2026-09-21",
+ "doi": "10.21428/cb6ab371.8068e44c",
+ "kind": "paper",
+ "lang": "en",
+ "run": "2026-09-28",
+ "score": 4,
+ "source": "Crossref",
+ "status": "new",
+ "themes": [
+  "ai",
+  "pc"
+ ],
+ "title": "The Copilot Constable: Generative AI, Professional Judgement and Internal Legitimacy in Policing",
+ "url": "https://doi.org/10.21428/cb6ab371.8068e44c",
+ "venue": "CrimRxiv",
+ "why": "Professional judgement under AI in a high-stakes occupation where legitimacy is the currency - a sharper test case than the student essay.",
+ "wildcard": false,
+ "abstract": "Police forces in England and Wales are moving from evaluating generative artificial intelligence to deploying it, using large language models to draft witness statements, summarise evidence and support supervisory review. This article argues that the legitimacy question raised by this shift is different from the one raised by workforce surveillance analytics. Where algorithmic monitoring asks whether an officer is trusted, generative assistance asks whether an officer is still deciding. Drawing on procedural justice and self-legitimacy theory, and on recent evidence of hallucination and accountability failure in policing deployments, the article contends that unmanaged reliance on generative AI risks converting officers from professional judges of fact into operators of systems, with consequences for internal legitimacy that will ultimately be felt by the public those officers serve.",
+ "abstractSource": "OpenAlex"
 }

@@ -387,7 +387,7 @@
   "noteKind": "intake",
   "path": "C:\\Users\\fb0068674\\OneDrive - Windesheim Office365\\Documents\\Educational Sciences",
   "pdfFolder": "Downloads\\radar-inbox",
-  "rules": "Notes go to raw/articles as intake for /ingest. Never write or edit anything in wiki/ — the author's own pages. Never touch raw/fieldwork or raw/legacy. Frontmatter: title, source, authors, year, published, created, venue, doi, description, intake: reading-radar, ingested: false, radar_score, radar_themes, xray_confidence, thinker_candidates, tags.",
+  "rules": "Notes go to raw/articles as intake for /ingest. Never write or edit anything in wiki/ - the author's own pages. Never touch raw/fieldwork or raw/legacy. Frontmatter: title, source, authors, year, published, created, venue, doi, description, intake: reading-radar, ingested, radar_id, radar_url, radar_score, radar_themes, radar_theme_names, tags. The x-ray step adds xray_confidence and thinker_candidates when it runs; the radar does not declare fields it never fills (panel finding P4-6).",
   "system": "Obsidian research wiki (wiki/ + raw/), /ingest pipeline",
   "thinkerPattern": "surname-firstname.md"
  },

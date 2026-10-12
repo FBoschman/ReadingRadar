@@ -1,0 +1,24 @@
+{
+ "id": "doi_10.1016_j.ijer.2026.103122",
+ "kind": "paper",
+ "title": "From flipped classroom quality to student continuance intention: The role of student attitudes and innovativeness",
+ "authors": "Lam, Nguyen, Nguyen",
+ "venue": "International Journal of Educational Research",
+ "date": "2027",
+ "url": "https://doi.org/10.1016/j.ijer.2026.103122",
+ "doi": "10.1016/j.ijer.2026.103122",
+ "lang": "",
+ "source": "Journal watch: International Journal of Educational Research",
+ "run": "2026-10-12",
+ "abstract": "",
+ "themeGuess": [],
+ "found": "2026-10-12T12:53:04",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ }
+}

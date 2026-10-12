@@ -1,0 +1,24 @@
+{
+ "id": "doi_10.1016_j.eist.2026.101184",
+ "kind": "paper",
+ "title": "Empowerment in EU energy law: connecting legal and sustainability transition perspectives",
+ "authors": "Quast, Boon, Akerboom",
+ "venue": "Environmental Innovation and Societal Transitions",
+ "date": "2027-01",
+ "url": "https://doi.org/10.1016/j.eist.2026.101184",
+ "doi": "10.1016/j.eist.2026.101184",
+ "lang": "",
+ "source": "Journal watch: Environmental Innovation and Societal Transitions",
+ "run": "2026-10-12",
+ "abstract": "",
+ "themeGuess": [],
+ "found": "2026-10-12T12:52:34",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ }
+}

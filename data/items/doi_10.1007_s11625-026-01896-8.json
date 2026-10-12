@@ -1,20 +1,22 @@
 {
-  "authors": "Le Mesnil, Poirier, Aquilina et al.",
-  "caveat": "",
-  "date": "2026-09-08",
-  "doi": "10.1007/s11625-026-01896-8",
-  "kind": "paper",
-  "lang": "en",
-  "run": "2026-09-19",
-  "score": 3,
-  "source": "Crossref",
-  "status": "new",
-  "themes": [
-    "td"
-  ],
-  "title": "Rivages Normands 2100: transdisciplinary co-constructed knowledge for land-use adaptation to groundwater rise along Normandy coastline",
-  "url": "https://doi.org/10.1007/s11625-026-01896-8",
-  "venue": "Sustainability Science",
-  "why": "A worked TD co-construction case on climate adaptation — comparable to Flevoland water issues.",
-  "wildcard": false
+ "authors": "Le Mesnil, Poirier, Aquilina et al.",
+ "caveat": "",
+ "date": "2026-09-08",
+ "doi": "10.1007/s11625-026-01896-8",
+ "kind": "paper",
+ "lang": "en",
+ "run": "2026-09-19",
+ "score": 3,
+ "source": "Crossref",
+ "status": "new",
+ "themes": [
+  "td"
+ ],
+ "title": "Rivages Normands 2100: transdisciplinary co-constructed knowledge for land-use adaptation to groundwater rise along Normandy coastline",
+ "url": "https://doi.org/10.1007/s11625-026-01896-8",
+ "venue": "Sustainability Science",
+ "why": "A worked TD co-construction case on climate adaptation — comparable to Flevoland water issues.",
+ "wildcard": false,
+ "abstract": "Low-lying coastal areas may be subject to groundwater rise (GWR) phenomena, which can lead to significant flooding. These phenomena, linked to precipitation, land use, and the subsurface environment, are characteristic of the critical zone and are therefore particularly sensitive to human development and climate change. GWRs often remain invisible but can cause social, economic, and environmental damage. To minimize the impacts of GWRs, coordinated management must be conducted among different fields: researchers, local actors from the affected sites, and environmental institutions. The Rivages Normands 2100 program has established connections among these stakeholders to initiate the co-construction of adaptation scenarios for GWR in several territories of Normandy coastline. We show that the evolution of impacts on buildings, buried networks, and agricultural plots are 13%, 10%, and 11% respectively on average across the studied sites, by 2100. This article presents the transdisciplinary approach implemented within the program, from hydrogeological modeling of the sites to the production of risk maps, the socio-economic impact study, and workshops for co-constructing adaptation scenarios. At each of these stages, we discuss the challenges related to the program's transdisciplinary nature and the co-construction conducted between researchers and local actors. A discussion is conducted on the central role of maps in bringing a new issue into public debate, as well as the scientist-stakeholder-institution relationships in renaturation and resilience projects.",
+ "abstractSource": "OpenAlex"
 }

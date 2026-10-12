@@ -1,21 +1,23 @@
 {
-  "authors": "Crimmins, Sanders O'Leary, Strempel",
-  "caveat": "Australian academic sample.",
-  "date": "2026-07-16",
-  "doi": "10.1080/07294360.2026.2700227",
-  "kind": "paper",
-  "lang": "en",
-  "run": "2026-09-19",
-  "score": 4,
-  "source": "Crossref",
-  "status": "new",
-  "themes": [
-    "ai",
-    "dec"
-  ],
-  "title": "Cognitive offloading, critical pedagogy, and connectivist learning shape academic responses to generative AI in higher education: transforming resistance into pedagogical care",
-  "url": "https://doi.org/10.1080/07294360.2026.2700227",
-  "venue": "Higher Education Research & Development",
-  "why": "Reads staff resistance to AI through critical pedagogy and care rather than as a skills gap.",
-  "wildcard": false
+ "authors": "Crimmins, Sanders O'Leary, Strempel",
+ "caveat": "Australian academic sample.",
+ "date": "2026-07-16",
+ "doi": "10.1080/07294360.2026.2700227",
+ "kind": "paper",
+ "lang": "en",
+ "run": "2026-09-19",
+ "score": 4,
+ "source": "Crossref",
+ "status": "new",
+ "themes": [
+  "ai",
+  "dec"
+ ],
+ "title": "Cognitive offloading, critical pedagogy, and connectivist learning shape academic responses to generative AI in higher education: transforming resistance into pedagogical care",
+ "url": "https://doi.org/10.1080/07294360.2026.2700227",
+ "venue": "Higher Education Research & Development",
+ "why": "Reads staff resistance to AI through critical pedagogy and care rather than as a skills gap.",
+ "wildcard": false,
+ "abstract": "The rapid emergence of generative artificial intelligence (GenAI) has renewed debate in higher education about how technology shapes learning, cognition, and academic practice. This study examines how university educators are responding to GenAI in teaching and learning, with attention to cognitive offloading, professional judgement, and pedagogical values. Guided by connectivist learning theory and critical pedagogy, and informed by UTAUT2 constructs we conducted semi-structured interviews with 30 faculty across disciplines in 2025 and analysed the data using reflexive thematic analysis. Findings reveal a spectrum of responses, combining enthusiasm for GenAI’s creative affordances with concerns about academic integrity, cognitive dependency, cultural bias, environmental sustainability, and digital inclusion. Adoption was shaped by peer norms and institutional signals but consistently mediated by ethical reasoning and commitments to student-centred learning. Participants framed integrity as the preservation of judgement and meaning making, and identified inequities in access and AI literacy as a growing hidden curriculum. They also raised concerns that uncritical use of GenAI may privilege Western epistemic norms and marginalise Indigenous and non-Western ways of knowing. We argue that resistance to GenAI reflects pedagogical care rather than technological reluctance, and that principled approaches are required to safeguard scholarly rigour, equity, and student agency.",
+ "abstractSource": "OpenAlex"
 }

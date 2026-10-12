@@ -1,22 +1,24 @@
 {
-  "authors": "Chapman, Roy, Baker",
-  "caveat": "Scoping reviews describe rather than test; check whether 'constraint' is used in the complexity sense or just as task design.",
-  "date": "2027-03",
-  "doi": "10.1016/j.tsc.2026.102375",
-  "kind": "paper",
-  "lang": "en",
-  "ratedAt": "2026-10-12T08:06:16.276Z",
-  "run": "2026-09-21",
-  "score": 5,
-  "source": "Crossref",
-  "status": "skip",
-  "themes": [
-    "pc",
-    "cx"
-  ],
-  "title": "Supporting initial teacher education student creativity and critical thinking using active constraints in assessment: A scoping review",
-  "url": "https://doi.org/10.1016/j.tsc.2026.102375",
-  "venue": "Thinking Skills and Creativity",
-  "why": "'Active constraints in assessment' is enabling constraints by another name - a rare empirical handle on the Juarrero move you are making for CARN 2026.",
-  "wildcard": false
+ "authors": "Chapman, Roy, Baker",
+ "caveat": "Scoping reviews describe rather than test; check whether 'constraint' is used in the complexity sense or just as task design.",
+ "date": "2027-03",
+ "doi": "10.1016/j.tsc.2026.102375",
+ "kind": "paper",
+ "lang": "en",
+ "ratedAt": "2026-10-12T08:06:16.276Z",
+ "run": "2026-09-21",
+ "score": 5,
+ "source": "Crossref",
+ "status": "skip",
+ "themes": [
+  "pc",
+  "cx"
+ ],
+ "title": "Supporting initial teacher education student creativity and critical thinking using active constraints in assessment: A scoping review",
+ "url": "https://doi.org/10.1016/j.tsc.2026.102375",
+ "venue": "Thinking Skills and Creativity",
+ "why": "'Active constraints in assessment' is enabling constraints by another name - a rare empirical handle on the Juarrero move you are making for CARN 2026.",
+ "wildcard": false,
+ "abstract": "Assessment design plays a critical role in shaping student learning in higher education, particularly in disciplines where creativity is both a learning outcome and a pedagogical approach. In Initial Teacher Education (ITE), this role is intensified, as assessment tasks often function as the primary site of learning for time-poor students and simultaneously model pedagogical practice for future teachers. While constraints are frequently embedded within assessment tasks, their role in supporting creativity remains under-theorised and inconsistently articulated in the literature. This scoping review examines how constraints are used within assessment tasks that aim to foster creativity and/or critical thinking in social sciences, humanities, education and creative arts courses in higher education in order to consider implications for enhancing creativity through assessment tasks in ITE. Using a scoping review framework, 28 empirical studies published since 2000 were identified and analysed thematically. Six key themes emerged: the role of prior experience, constraints as catalysts for creativity, task design and flexibility, rubrics and scaffolding as support structures, the domain-specificity of creativity, and the presence of “invisible architectures” in task design. Findings indicate that constraints function as powerful pedagogical mechanisms when they are intentionally designed, aligned with disciplinary practices, and calibrated to student readiness. However, many studies prioritise creative outcomes without sufficiently detailing the task conditions that shape them. Drawing on these findings, the paper positions constraints as active contributors to assessment design and introduces a design-oriented framework to support educators in making constraints explicit and pedagogically purposeful.",
+ "abstractSource": "OpenAlex"
 }

@@ -1,0 +1,24 @@
+{
+ "id": "doi_10.1016_j.futures.2026.103930",
+ "kind": "paper",
+ "title": "AI-assisted Delphi as a futures method: Synthetic experts and collective intelligence in technology foresight",
+ "authors": "Şahin",
+ "venue": "Futures",
+ "date": "2026-12",
+ "url": "https://doi.org/10.1016/j.futures.2026.103930",
+ "doi": "10.1016/j.futures.2026.103930",
+ "lang": "",
+ "source": "Journal watch: Futures",
+ "run": "2026-10-12",
+ "abstract": "",
+ "themeGuess": [],
+ "found": "2026-10-12T12:52:29",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ }
+}

@@ -1,21 +1,22 @@
 {
-  "authors": "Fiala",
-  "caveat": "Essayistic; no method for working with nostalgia in practice.",
-  "date": "2026-12",
-  "doi": "10.1016/j.futures.2026.103938",
-  "kind": "paper",
-  "lang": "en",
-  "run": "2026-09-28",
-  "score": 3,
-  "source": "Journal watch: Futures",
-  "status": "new",
-  "themes": [
-    "cx",
-    "dec"
-  ],
-  "title": "Bringing nostalgia into the future – On the importance of addressing the longing for the past in 'future studies' to explore just and sustainable times to come",
-  "url": "https://doi.org/10.1016/j.futures.2026.103938",
-  "venue": "Futures",
-  "why": "Outside your usual: takes nostalgia seriously as material for futures work rather than an obstacle - a different handle on why rural and regional stakeholders resist transition framings.",
-  "wildcard": true
+ "authors": "Fiala",
+ "caveat": "Essayistic; no method for working with nostalgia in practice.",
+ "date": "2026-12",
+ "doi": "10.1016/j.futures.2026.103938",
+ "kind": "paper",
+ "lang": "en",
+ "run": "2026-09-28",
+ "score": 3,
+ "source": "Journal watch: Futures",
+ "status": "new",
+ "themes": [
+  "cx",
+  "dec"
+ ],
+ "title": "Bringing nostalgia into the future – On the importance of addressing the longing for the past in 'future studies' to explore just and sustainable times to come",
+ "url": "https://doi.org/10.1016/j.futures.2026.103938",
+ "venue": "Futures",
+ "why": "Outside your usual: takes nostalgia seriously as material for futures work rather than an obstacle - a different handle on why rural and regional stakeholders resist transition framings.",
+ "wildcard": true,
+ "abstractSource": ""
 }

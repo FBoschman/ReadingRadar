@@ -1,0 +1,24 @@
+{
+ "id": "doi_10.1016_j.landurbplan.2026.105741",
+ "kind": "paper",
+ "title": "“Tire Operation” model: A disaster-driven hybrid framework for assessing ecological resilience and guiding spatial planning in hazard-prone communities",
+ "authors": "Chen, Zou, Wang et al.",
+ "venue": "Landscape and Urban Planning",
+ "date": "2026-12",
+ "url": "https://doi.org/10.1016/j.landurbplan.2026.105741",
+ "doi": "10.1016/j.landurbplan.2026.105741",
+ "lang": "",
+ "source": "Journal watch: Landscape and Urban Planning",
+ "run": "2026-10-12",
+ "abstract": "",
+ "themeGuess": [],
+ "found": "2026-10-12T12:52:55",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ }
+}

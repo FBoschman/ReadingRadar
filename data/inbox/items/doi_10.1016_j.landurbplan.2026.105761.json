@@ -1,0 +1,24 @@
+{
+ "id": "doi_10.1016_j.landurbplan.2026.105761",
+ "kind": "paper",
+ "title": "Quantifying heat exposure risk in 15-minute cities: a coupled analysis integrating dynamic shading effects and human mobility patterns",
+ "authors": "Hu, Zhang, Ma et al.",
+ "venue": "Landscape and Urban Planning",
+ "date": "2027-01",
+ "url": "https://doi.org/10.1016/j.landurbplan.2026.105761",
+ "doi": "10.1016/j.landurbplan.2026.105761",
+ "lang": "",
+ "source": "Journal watch: Landscape and Urban Planning",
+ "run": "2026-10-12",
+ "abstract": "",
+ "themeGuess": [],
+ "found": "2026-10-12T12:52:55",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ }
+}

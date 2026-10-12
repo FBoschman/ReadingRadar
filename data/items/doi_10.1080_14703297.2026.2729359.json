@@ -1,23 +1,25 @@
 {
-  "authors": "Bui",
-  "caveat": "Framework only: never taught, piloted or evaluated, and the 'epistemic agent' claim is asserted without engaging philosophy of technology.",
-  "date": "2026-09-08",
-  "doi": "10.1080/14703297.2026.2729359",
-  "kind": "paper",
-  "lang": "en",
-  "ratedAt": "2026-09-28T18:51:39.982Z",
-  "run": "2026-09-19",
-  "score": 3,
-  "source": "Crossref · full text read 28 Sep",
-  "status": "skip",
-  "themes": [
-    "ai",
-    "eco",
-    "pc"
-  ],
-  "title": "Conceptualising student-GenAI knowledge co-creation in higher education",
-  "url": "https://doi.org/10.1080/14703297.2026.2729359",
-  "venue": "Innovations in Education and Teaching International",
-  "why": "Proposes a four-stage pedagogy (exploration, epistemic friction, simulation, circulation) treating GenAI as a co-creator and 'active epistemic agent'. Strip the model out and stages 1, 2 and 4 are inquiry, source criticism and knowledge circulation — a useful foil for Professional Criticality.",
-  "wildcard": false
+ "authors": "Bui",
+ "caveat": "Framework only: never taught, piloted or evaluated, and the 'epistemic agent' claim is asserted without engaging philosophy of technology.",
+ "date": "2026-09-08",
+ "doi": "10.1080/14703297.2026.2729359",
+ "kind": "paper",
+ "lang": "en",
+ "ratedAt": "2026-09-28T18:51:39.982Z",
+ "run": "2026-09-19",
+ "score": 3,
+ "source": "Crossref · full text read 28 Sep",
+ "status": "skip",
+ "themes": [
+  "ai",
+  "eco",
+  "pc"
+ ],
+ "title": "Conceptualising student-GenAI knowledge co-creation in higher education",
+ "url": "https://doi.org/10.1080/14703297.2026.2729359",
+ "venue": "Innovations in Education and Teaching International",
+ "why": "Proposes a four-stage pedagogy (exploration, epistemic friction, simulation, circulation) treating GenAI as a co-creator and 'active epistemic agent'. Strip the model out and stages 1, 2 and 4 are inquiry, source criticism and knowledge circulation — a useful foil for Professional Criticality.",
+ "wildcard": false,
+ "abstract": "The conceptual paper aims to propose a framework to support students in critically engaging with generative artificial intelligence (GenAI) as a co-creative partner in knowledge generation. Grounded on the connectivism theory, a four-stage pedagogical framework of student-GenAI knowledge co-creation, composed of Generative Exploration (stage 1), Epistemic Friction (stage 2), Experiential Stimulation (stage 3), and Knowledge Circulation (stage 4), is proposed. Research avenues, including engagement, critical thinking, trust & scepticism, professional competence development, and epistemic ownership, for future inquiries are also mapped out, structured around the four stages.",
+ "abstractSource": "OpenAlex"
 }

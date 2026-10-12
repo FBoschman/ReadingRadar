@@ -17,5 +17,7 @@
  "wildcard": false,
  "source": "Crossref topic: AI & curriculum",
  "status": "new",
- "run": "2026-10-12"
+ "run": "2026-10-12",
+ "abstract": "Generative artificial intelligence can enhance the quality and visibility of advanced learners’ work while making it harder to determine what the resulting performance reveals about their independent competence. This theoretical paper develops the Relational Epistemic Agency Model for Advanced Learners (REAM-AL) through a structured database search and an integrative synthesis of scholarship on talent development, extended and distributed cognition, cognitive offloading, metacognition, epistemic agency, intellectual ownership, transfer, and assessment validity. The model organizes five focal constructs across four analytical layers: developmental epistemic readiness, cognitive task distribution, epistemic decision distribution, intellectual ownership, and the relationship among supported performance, independent competence, and transfer. Their configuration may produce relational cognitive extension, in which AI broadens thinking while epistemic authority remains with the learner, or developmental substitution, in which the system performs operations the learner is expected to develop. REAM-AL treats these as interaction patterns rather than fixed student categories. It offers a framework for task design and assessment that distinguishes joint human–AI performance from independently sustained and transferable competence. The proposed constructs and relationships remain theoretical and require direct testing with advanced children and adolescents across varied tasks, developmental periods, and AI conditions.",
+ "abstractSource": "OpenAlex"
 }

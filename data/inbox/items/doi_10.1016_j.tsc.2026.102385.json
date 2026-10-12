@@ -1,0 +1,24 @@
+{
+ "id": "doi_10.1016_j.tsc.2026.102385",
+ "kind": "paper",
+ "title": "Brains on copy-paste mode? A mixed-methods study on the relationship between generative artificial intelligence use and students’ critical thinking skills",
+ "authors": "Galindo-Domínguez, Campo, Delgado et al.",
+ "venue": "Thinking Skills and Creativity",
+ "date": "2027-03",
+ "url": "https://doi.org/10.1016/j.tsc.2026.102385",
+ "doi": "10.1016/j.tsc.2026.102385",
+ "lang": "",
+ "source": "Journal watch: Thinking Skills and Creativity",
+ "run": "2026-10-12",
+ "abstract": "",
+ "themeGuess": [],
+ "found": "2026-10-12T12:52:44",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ }
+}

@@ -1,21 +1,23 @@
 {
-  "authors": "Brons, Mathijs, Kiel",
-  "caveat": "",
-  "date": "2026-08-21",
-  "doi": "10.1007/s11625-026-01872-2",
-  "kind": "paper",
-  "lang": "en",
-  "run": "2026-09-19",
-  "score": 3,
-  "source": "Crossref",
-  "status": "new",
-  "themes": [
-    "cx",
-    "td"
-  ],
-  "title": "Leveraging change: a soft systems approach to transforming the EU food system",
-  "url": "https://doi.org/10.1007/s11625-026-01872-2",
-  "venue": "Sustainability Science",
-  "why": "Soft systems methodology applied to a transformation question — method inspiration.",
-  "wildcard": false
+ "authors": "Brons, Mathijs, Kiel",
+ "caveat": "",
+ "date": "2026-08-21",
+ "doi": "10.1007/s11625-026-01872-2",
+ "kind": "paper",
+ "lang": "en",
+ "run": "2026-09-19",
+ "score": 3,
+ "source": "Crossref",
+ "status": "new",
+ "themes": [
+  "cx",
+  "td"
+ ],
+ "title": "Leveraging change: a soft systems approach to transforming the EU food system",
+ "url": "https://doi.org/10.1007/s11625-026-01872-2",
+ "venue": "Sustainability Science",
+ "why": "Soft systems methodology applied to a transformation question — method inspiration.",
+ "wildcard": false,
+ "abstract": "Abstract The unsustainability of the EU food system calls for a shift toward more sustainable and healthy consumption patterns. However, the system’s complexity—marked by multiple loosely coupled subsystems and interacting drivers—poses a major challenge to identifying effective interventions. To locate leverage points for policy action, we develop a high-level systems map that captures the core dynamics of the EU food system using a soft systems methodology. The analysis unfolds in three steps: (1) identifying and analysing key trends within the EU food system, (2) validating a stylized systems map through expert interviews, and (3) conducting focus groups to identify leverage points and systemic solutions. The resulting system pattern reveals that short-term economic motivations are a dominant force shaping food system outcomes. From the focus groups, five promising solution areas emerged: true cost accounting, financial incentives to promote ecosystem services, broad societal revaluation of food, alternative proteins, and community-based initiatives targeting socio-economic and environmental challenges. Each of these solutions is linked to specific leverage points and highlights the importance of embedding social equity considerations in any policy strategy. Achieving deep, structural transformation of the EU food system will require normative change, cross-sectoral coordination, and long-term commitment. Methodologically, the study highlights a central tension in systems analysis: the need to embrace complexity while maintaining practical relevance for policy and governance. This approach offers a foundational step toward more coherent and effective food system reform in the EU.",
+ "abstractSource": "OpenAlex"
 }

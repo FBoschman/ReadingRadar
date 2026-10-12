@@ -1,21 +1,22 @@
 {
-  "authors": "Abazeri, Moghani",
-  "caveat": "Opinion-review format; the argument will be broader than its evidence.",
-  "date": "2026-12",
-  "doi": "10.1016/j.cosust.2026.101683",
-  "kind": "paper",
-  "lang": "en",
-  "run": "2026-09-21",
-  "score": 4,
-  "source": "Crossref",
-  "status": "new",
-  "themes": [
-    "td",
-    "dec"
-  ],
-  "title": "Co-governing multifunctional landscapes: heritage, rights, and knowledge co-production",
-  "url": "https://doi.org/10.1016/j.cosust.2026.101683",
-  "venue": "Current Opinion in Environmental Sustainability",
-  "why": "Puts rights and heritage claims inside knowledge co-production rather than treating stakeholders as interchangeable - the power question your transdisciplinary work keeps returning to.",
-  "wildcard": false
+ "authors": "Abazeri, Moghani",
+ "caveat": "Opinion-review format; the argument will be broader than its evidence.",
+ "date": "2026-12",
+ "doi": "10.1016/j.cosust.2026.101683",
+ "kind": "paper",
+ "lang": "en",
+ "run": "2026-09-21",
+ "score": 4,
+ "source": "Crossref",
+ "status": "new",
+ "themes": [
+  "td",
+  "dec"
+ ],
+ "title": "Co-governing multifunctional landscapes: heritage, rights, and knowledge co-production",
+ "url": "https://doi.org/10.1016/j.cosust.2026.101683",
+ "venue": "Current Opinion in Environmental Sustainability",
+ "why": "Puts rights and heritage claims inside knowledge co-production rather than treating stakeholders as interchangeable - the power question your transdisciplinary work keeps returning to.",
+ "wildcard": false,
+ "abstractSource": ""
 }

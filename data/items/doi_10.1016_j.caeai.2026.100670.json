@@ -1,22 +1,24 @@
 {
-  "authors": "Ho, Chen",
-  "caveat": "Conceptual framing may outrun the empirical base; check what data the 'reflective regulator' claim rests on.",
-  "date": "2026-12",
-  "doi": "10.1016/j.caeai.2026.100670",
-  "kind": "paper",
-  "lang": "en",
-  "ratedAt": "2026-10-12T08:06:27.744Z",
-  "run": "2026-09-21",
-  "score": 5,
-  "source": "Crossref",
-  "status": "skip",
-  "themes": [
-    "ai",
-    "pc"
-  ],
-  "title": "Teachers as reflective regulators of cognition: Understanding cognitive offloading in AI-augmented practice",
-  "url": "https://doi.org/10.1016/j.caeai.2026.100670",
-  "venue": "Computers and Education: Artificial Intelligence",
-  "why": "Moves cognitive offloading from a student-deficit story to a question about teachers' own judgement under AI — the exact hinge of your AI and Professional Criticality papers.",
-  "wildcard": false
+ "authors": "Ho, Chen",
+ "caveat": "Conceptual framing may outrun the empirical base; check what data the 'reflective regulator' claim rests on.",
+ "date": "2026-12",
+ "doi": "10.1016/j.caeai.2026.100670",
+ "kind": "paper",
+ "lang": "en",
+ "ratedAt": "2026-10-12T08:06:27.744Z",
+ "run": "2026-09-21",
+ "score": 5,
+ "source": "Crossref",
+ "status": "skip",
+ "themes": [
+  "ai",
+  "pc"
+ ],
+ "title": "Teachers as reflective regulators of cognition: Understanding cognitive offloading in AI-augmented practice",
+ "url": "https://doi.org/10.1016/j.caeai.2026.100670",
+ "venue": "Computers and Education: Artificial Intelligence",
+ "why": "Moves cognitive offloading from a student-deficit story to a question about teachers' own judgement under AI — the exact hinge of your AI and Professional Criticality papers.",
+ "wildcard": false,
+ "abstract": "This study investigates how teachers perceive, manage, and reflect on the cognitive implications of integrating Generative Artificial Intelligence (GenAI) into their professional practice with a focus on the evolving interplay between human judgment and automation. Using a collective case-study design, we conducted interviews with 18 in-service teachers selected from mainland Chinese and Hong Kong educational settings. We employed the cognitive offloading framework to guide data collection and thematic coding, aiming to capture teachers’ reasoning within AI-supported teaching and administration. Results revealed three interrelated processes: recognising and evaluating the need of using GenAI, redistributing cognition between human and machine systems, and reflectively re-engaging after use. The participating teachers generally framed GenAI not as a substitute for thinking but as a partner in cognitive regulation shaped by institutional and ethical contexts. Building from the findings and Risko and Gilbert’s cognitive offloading framework, the study later proposes metacognitive ecology as a discussion-level interpretive lens for understanding how participating teachers’ cognitive monitoring, pedagogical interpretation, ethical boundary-setting, and institutional-technological conditions shaped GenAI-mediated cognitive redistribution.",
+ "abstractSource": "OpenAlex"
 }

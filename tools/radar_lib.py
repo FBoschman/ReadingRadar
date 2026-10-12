@@ -75,6 +75,30 @@ def known_ids():
     return ids
 
 
+def known_keys():
+    """The normalised URLs and titles that already exist, so the same article cannot enter twice.
+
+    The id rules are deterministic going forward, but records written by an earlier implementation can
+    still collide through a different id. This guard catches that case.
+    """
+    urls = set()
+    titles = set()
+    for doc in list(collection("items").values()):
+        if doc.get("url"):
+            urls.add(normalise_url(doc["url"]))
+        if len(str(doc.get("title") or "")) > 25:
+            titles.add(re.sub(r"[^a-z0-9]+", " ", str(doc["title"]).lower()).strip())
+    inbox = DATA / "inbox" / "items"
+    if inbox.is_dir():
+        for path in inbox.glob("*.json"):
+            doc = load_json(path, {}) or {}
+            if doc.get("url"):
+                urls.add(normalise_url(doc["url"]))
+            if len(str(doc.get("title") or "")) > 25:
+                titles.add(re.sub(r"[^a-z0-9]+", " ", str(doc["title"]).lower()).strip())
+    return urls, titles
+
+
 # ---------------------------------------------------------------- the id rules
 def id_for_doi(doi):
     """SCHEMA.md: 'doi_' + the DOI, with every character outside [A-Za-z0-9_-.~:@+] as '_'."""
@@ -89,6 +113,33 @@ def id_for_openalex(work_id):
 def slug(text, limit=46):
     text = re.sub(r"[^a-z0-9]+", "-", str(text).lower()).strip("-")
     return text[:limit].strip("-")
+
+
+def normalise_url(url):
+    """A URL reduced to what identifies the article, so the same page cannot enter twice."""
+    text = str(url or "").strip().lower()
+    text = re.sub(r"^https?://", "", text)
+    text = text.split("#")[0].split("?")[0]
+    return text.rstrip("/")
+
+
+def id_for_url(url):
+    """A deterministic id for discourse: a hash of the normalised URL, not a truncated slug."""
+    import hashlib
+    return "sl-" + hashlib.sha1(normalise_url(url).encode("utf-8")).hexdigest()[:10]
+
+
+NOISE_TITLES = ("correction", "erratum", "retraction", "author correction",
+                "publisher correction", "corrigendum", "editorial board")
+
+
+def is_noise_title(title):
+    """Corrections, errata and retractions arrive with the type of an article. Drop them by title."""
+    words = str(title or "").strip().lower()
+    for prefix in NOISE_TITLES:
+        if words.startswith(prefix):
+            return True
+    return False
 
 
 def id_for_discourse(prefix, url):

@@ -1,0 +1,24 @@
+{
+ "id": "doi_10.1016_j.caeai.2026.100656",
+ "kind": "paper",
+ "title": "Standardized assessment of LLM English proficiency",
+ "authors": "Wang, Min, Wang et al.",
+ "venue": "Computers and Education: Artificial Intelligence",
+ "date": "2026-12",
+ "url": "https://doi.org/10.1016/j.caeai.2026.100656",
+ "doi": "10.1016/j.caeai.2026.100656",
+ "lang": "",
+ "source": "Journal watch: Computers and Education: Artificial Intelligence",
+ "run": "2026-10-12",
+ "abstract": "",
+ "themeGuess": [],
+ "found": "2026-10-12T12:52:51",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ }
+}

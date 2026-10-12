@@ -1,21 +1,22 @@
 {
-  "authors": "McElhinney, Dalton, Fernandez-Avila",
-  "caveat": "Platform-development framing; participation may be reduced to requirements gathering.",
-  "date": "2026-12",
-  "doi": "10.1016/j.foohum.2026.101401",
-  "kind": "paper",
-  "lang": "en",
-  "run": "2026-09-21",
-  "score": 3,
-  "source": "Crossref",
-  "status": "new",
-  "themes": [
-    "eco",
-    "td"
-  ],
-  "title": "A dual living lab approach to co-creating a digital platform for emerging food safety risks",
-  "url": "https://doi.org/10.1016/j.foohum.2026.101401",
-  "venue": "Food and Humanity",
-  "why": "Two living labs feeding one digital platform - a concrete precedent for coupling participatory work to a digital twin.",
-  "wildcard": false
+ "authors": "McElhinney, Dalton, Fernandez-Avila",
+ "caveat": "Platform-development framing; participation may be reduced to requirements gathering.",
+ "date": "2026-12",
+ "doi": "10.1016/j.foohum.2026.101401",
+ "kind": "paper",
+ "lang": "en",
+ "run": "2026-09-21",
+ "score": 3,
+ "source": "Crossref",
+ "status": "new",
+ "themes": [
+  "eco",
+  "td"
+ ],
+ "title": "A dual living lab approach to co-creating a digital platform for emerging food safety risks",
+ "url": "https://doi.org/10.1016/j.foohum.2026.101401",
+ "venue": "Food and Humanity",
+ "why": "Two living labs feeding one digital platform - a concrete precedent for coupling participatory work to a digital twin.",
+ "wildcard": false,
+ "abstractSource": ""
 }

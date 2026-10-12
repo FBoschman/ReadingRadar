@@ -1,21 +1,23 @@
 {
-  "authors": "Kocovic De Santo",
-  "caveat": "Single author, open-access venue; check how the degrowth framing travels to a Dutch UAS context before borrowing it.",
-  "date": "2026-03-17",
-  "doi": "10.1016/j.ssaho.2026.102503",
-  "kind": "paper",
-  "lang": "en",
-  "run": "2026-10-05",
-  "score": 4,
-  "source": "Web search + publisher page (Crossref API blocked)",
-  "status": "new",
-  "themes": [
-    "dec",
-    "eco"
-  ],
-  "title": "Beyond performative decolonization: Epistemic justice in degrowth curricula",
-  "url": "https://doi.org/10.1016/j.ssaho.2026.102503",
-  "venue": "Social Sciences & Humanities Open",
-  "why": "Uses Ahmed's non-performativity to ask whether decolonial curriculum work changes anything, which is the sharper version of the question your decolonial strand is circling.",
-  "wildcard": false
+ "authors": "Kocovic De Santo",
+ "caveat": "Single author, open-access venue; check how the degrowth framing travels to a Dutch UAS context before borrowing it.",
+ "date": "2026-03-17",
+ "doi": "10.1016/j.ssaho.2026.102503",
+ "kind": "paper",
+ "lang": "en",
+ "run": "2026-10-05",
+ "score": 4,
+ "source": "Web search + publisher page (Crossref API blocked)",
+ "status": "new",
+ "themes": [
+  "dec",
+  "eco"
+ ],
+ "title": "Beyond performative decolonization: Epistemic justice in degrowth curricula",
+ "url": "https://doi.org/10.1016/j.ssaho.2026.102503",
+ "venue": "Social Sciences & Humanities Open",
+ "why": "Uses Ahmed's non-performativity to ask whether decolonial curriculum work changes anything, which is the sharper version of the question your decolonial strand is circling.",
+ "wildcard": false,
+ "abstract": "While universities across the Global North increasingly adopt decolonial rhetoric, most initiatives remain limited to what Ahmed (2012) calls “non-performative” diversity work, which obscures rather than challenges underlying power structures. This article moves beyond performative decolonization by examining how degrowth curricula operationalize authentic epistemic justice in university transformation. Through critical analysis of the Autonomous University of Barcelona MA program in Degrowth: Ecology, Economics and Policy , this paper demonstrates how heterodox (economic) pedagogies move beyond symbolic inclusion to implement structural changes that challenge epistemic violence and promote intersectional environmental and social justice. Drawing on Fricker's epistemic injustice framework, Santos' (2014) concept of epistemicide, and Schöneberg and Narayanaswamy's (2024) critique of performative decolonization, this paper offers an integrated theoretical framework that distinguishes authentic transformation from institutional co-optation. The analysis reveals how the Barcelona School moves beyond performative gestures through the systematic operationalization of anti-utilitarian frameworks, the implementation of pluriversal pedagogies that center Global South leadership, and the structural integration of Indigenous knowledge systems that challenge, rather than accommodate, existing academic hierarchies. The study employs document analysis of curriculum materials, theoretical synthesis informed by COST 19129 decolonizing development networks, and critical policy analysis to name concrete mechanisms for moving beyond performative diversity toward structural epistemic justice. This paper advances decolonial scholarships by developing an anti-performative analytical framework that distinguishes authentic transformation from inauthentic university propaganda. Findings show that degrowth education offers tangible pathways beyond performativity by dismantling rather than diversifying mainstream economic paradigms; implementing collective rather than competitive knowledge production systems; centering rather than merely including Indigenous and Global South epistemologies; and structurally transforming rather than symbolically addressing institutional power relations.",
+ "abstractSource": "OpenAlex"
 }

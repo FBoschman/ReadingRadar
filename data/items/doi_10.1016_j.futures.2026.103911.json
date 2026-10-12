@@ -1,23 +1,25 @@
 {
-  "authors": "Grijseels, Zuiderent-Jerak",
-  "caveat": "Single successful case told by the evaluators themselves; the business case and the agonistic turn run together and are never separated.",
-  "date": "2026-12",
-  "doi": "10.1016/j.futures.2026.103911",
-  "kind": "paper",
-  "lang": "en",
-  "run": "2026-09-28",
-  "score": 5,
-  "source": "Journal watch: Futures · full text read 28 Sep",
-  "status": "new",
-  "themes": [
-    "par",
-    "td",
-    "eco",
-    "dec"
-  ],
-  "title": "Participatory co-production, agonistic pluralism, and transformation; Reflexively evaluating a technology for inclusive employment for people with a disability",
-  "url": "https://doi.org/10.1016/j.futures.2026.103911",
-  "venue": "Futures",
-  "why": "A Dutch case where consensus-based co-production failed and the researchers turned adversarial — business case, then press, then parliament — and policy changed. The closest thing on your radar to a worked example of the structural-justice argument in 'Substrate Matters'.",
-  "wildcard": false
+ "authors": "Grijseels, Zuiderent-Jerak",
+ "caveat": "Single successful case told by the evaluators themselves; the business case and the agonistic turn run together and are never separated.",
+ "date": "2026-12",
+ "doi": "10.1016/j.futures.2026.103911",
+ "kind": "paper",
+ "lang": "en",
+ "run": "2026-09-28",
+ "score": 5,
+ "source": "Journal watch: Futures · full text read 28 Sep",
+ "status": "new",
+ "themes": [
+  "par",
+  "td",
+  "eco",
+  "dec"
+ ],
+ "title": "Participatory co-production, agonistic pluralism, and transformation; Reflexively evaluating a technology for inclusive employment for people with a disability",
+ "url": "https://doi.org/10.1016/j.futures.2026.103911",
+ "venue": "Futures",
+ "why": "A Dutch case where consensus-based co-production failed and the researchers turned adversarial — business case, then press, then parliament — and policy changed. The closest thing on your radar to a worked example of the structural-justice argument in 'Substrate Matters'.",
+ "wildcard": false,
+ "abstract": "Co-production has gained prominence as a useful and legitimate way to produce knowledge. By strengthening connections between stakeholders, it is said to diminish inequalities and empower people living in marginalised circumstances. However, participatory or consensus-based understandings of co-production often do not deliver on the promise of transformation since their practices risk co-option by powerful actors, possibly re-instating their power dynamics. Accordingly, scholars suggest that co-production should be re-politicised to achieve its transformative potential. The pluralistic capacity of agonism – framing opponents as ‘adversaries’ who respect each other’s right to exist, rather than as ‘enemies’ – is key to re-politicisation. This article describes how reflexive evaluation of pilot projects experimenting with inclusive technologies for people with a disability created a space where pluralism could thrive. Our empirical analysis of Speaksee – a set of microphones and an app that transcribes speech-to-text for people who are deaf or hard of hearing – illustrates how agonism became part of our co-production practice and eventually helped facilitate transformation. Our exploration of the Speaksee pilot project shows that reflexive evaluation, through the flexibility it offers, can provide space for agonistic pluralism. We also unpack the role researchers may play in agonistic co-production, emphasising how this requires us to navigate purpose-led action and new normativities.",
+ "abstractSource": "OpenAlex"
 }

@@ -1,20 +1,22 @@
 {
-  "authors": "Swinkels-Veldt, Vermeulen, Nijland",
-  "caveat": "Case-based; check whether 'collective learning' is demonstrated or inferred from accounts.",
-  "date": "2026-12",
-  "doi": "10.1016/j.lcsi.2026.101054",
-  "kind": "paper",
-  "lang": "en",
-  "run": "2026-09-21",
-  "score": 4,
-  "source": "Journal watch: Learning, Culture and Social Interaction",
-  "status": "new",
-  "themes": [
-    "eco"
-  ],
-  "title": "Cases of collective learning? Combining Value Creation and Multilevel Boundary Crossing in cross organizational Professional Learning Communities",
-  "url": "https://doi.org/10.1016/j.lcsi.2026.101054",
-  "venue": "Learning, Culture and Social Interaction",
-  "why": "Dutch work combining Wenger-Trayner value creation with boundary crossing across organisations - the nearest thing to an analytic for what you call learning in ecosystems.",
-  "wildcard": false
+ "authors": "Swinkels-Veldt, Vermeulen, Nijland",
+ "caveat": "Case-based; check whether 'collective learning' is demonstrated or inferred from accounts.",
+ "date": "2026-12",
+ "doi": "10.1016/j.lcsi.2026.101054",
+ "kind": "paper",
+ "lang": "en",
+ "run": "2026-09-21",
+ "score": 4,
+ "source": "Journal watch: Learning, Culture and Social Interaction",
+ "status": "new",
+ "themes": [
+  "eco"
+ ],
+ "title": "Cases of collective learning? Combining Value Creation and Multilevel Boundary Crossing in cross organizational Professional Learning Communities",
+ "url": "https://doi.org/10.1016/j.lcsi.2026.101054",
+ "venue": "Learning, Culture and Social Interaction",
+ "why": "Dutch work combining Wenger-Trayner value creation with boundary crossing across organisations - the nearest thing to an analytic for what you call learning in ecosystems.",
+ "wildcard": false,
+ "abstract": "In gaining insight into the complex process of learning in Professional Learning Communities (PLCs) both the Value Creation (VC) Framework and Multilevel Boundary Crossing (MBC) were combined as method of analysis in a multiple case study. The members of two heterogenic educational PLCs were interviewed yearly using a semi-structured interview approach over the course of three years, to answer the question: ‘How do VC and MBC clarify the outcomes that sustain the long-term functioning of a cross-organizational PLC?’. The combination of the VC and MBC frameworks yielded insights into both PLCs, one well-functioning, the other struggling. It first underscored the defining influence of strategic and enabling value. Second, it showed value–mechanism pairings, such as strategic value with the mechanism of identification, as well as sequential patterns that typically commence with strategic, enabling, and immediate value in combination with the mechanisms identification and coordination. These insights enable PLCs and their facilitators to address these mechanisms more intentionally in order to strengthen collective learning.",
+ "abstractSource": "OpenAlex"
 }

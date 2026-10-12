@@ -1,20 +1,22 @@
 {
-  "authors": "Schmid, Rehm, Rinaldi",
-  "caveat": "Check whether enabling constraints survive the consolidation or get turned into variables.",
-  "date": "2026-04-15",
-  "doi": "10.1007/s11125-026-09761-3",
-  "kind": "paper",
-  "lang": "en",
-  "run": "2026-10-05",
-  "score": 3,
-  "source": "Web search + publisher page (Crossref API blocked)",
-  "status": "new",
-  "themes": [
-    "cx"
-  ],
-  "title": "Ternary complexity: A consolidated conceptual framework for addressing global issues in education",
-  "url": "https://doi.org/10.1007/s11125-026-09761-3",
-  "venue": "PROSPECTS",
-  "why": "Worth reading as a foil rather than a resource: it consolidates into a framework what Juarrero and Levin keep arguing cannot be consolidated.",
-  "wildcard": false
+ "authors": "Schmid, Rehm, Rinaldi",
+ "caveat": "Check whether enabling constraints survive the consolidation or get turned into variables.",
+ "date": "2026-04-15",
+ "doi": "10.1007/s11125-026-09761-3",
+ "kind": "paper",
+ "lang": "en",
+ "run": "2026-10-05",
+ "score": 3,
+ "source": "Web search + publisher page (Crossref API blocked)",
+ "status": "new",
+ "themes": [
+  "cx"
+ ],
+ "title": "Ternary complexity: A consolidated conceptual framework for addressing global issues in education",
+ "url": "https://doi.org/10.1007/s11125-026-09761-3",
+ "venue": "PROSPECTS",
+ "why": "Worth reading as a foil rather than a resource: it consolidates into a framework what Juarrero and Levin keep arguing cannot be consolidated.",
+ "wildcard": false,
+ "abstract": "Abstract Educators and students face significant challenges in addressing global issues in education. Although concepts such as Education for Sustainable Development or Global Citizenship Education have gained prominence, their strong emphasis on methodological considerations has left the conceptual foundations of global issues underdeveloped. This paper advances a consolidated conceptual framework that foregrounds the pragmatic, ethical, and moral dimensions of complexity inherent in global issues. By integrating Habermas’ discourse ethics with elements of ethical complexity theory developed by Paul Cilliers and Harry Kunneman, we elaborate these dimensions. Building on this perspective, we argue for the establishment of a robust conceptual foundation that enables a more systematic organization of teaching and learning in this field.",
+ "abstractSource": "OpenAlex"
 }

@@ -1,0 +1,24 @@
+{
+ "id": "doi_10.1016_j.futures.2026.103932",
+ "kind": "paper",
+ "title": "Wither heritage? How does a generative Artificial intelligence model envision humanity’s cultural heritage in 30 years’ time?",
+ "authors": "Spennemann",
+ "venue": "Futures",
+ "date": "2026-12",
+ "url": "https://doi.org/10.1016/j.futures.2026.103932",
+ "doi": "10.1016/j.futures.2026.103932",
+ "lang": "",
+ "source": "Journal watch: Futures",
+ "run": "2026-10-12",
+ "abstract": "",
+ "themeGuess": [],
+ "found": "2026-10-12T12:52:29",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ }
+}

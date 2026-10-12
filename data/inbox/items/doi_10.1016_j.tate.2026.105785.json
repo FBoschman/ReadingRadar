@@ -1,0 +1,24 @@
+{
+ "id": "doi_10.1016_j.tate.2026.105785",
+ "kind": "paper",
+ "title": "Filters, frames, and guides: How institutional contexts organize teachers' beliefs about inclusion",
+ "authors": "Trail, Boote, Gill",
+ "venue": "Teaching and Teacher Education",
+ "date": "2026-12",
+ "url": "https://doi.org/10.1016/j.tate.2026.105785",
+ "doi": "10.1016/j.tate.2026.105785",
+ "lang": "",
+ "source": "Journal watch: Teaching and Teacher Education",
+ "run": "2026-10-12",
+ "abstract": "",
+ "themeGuess": [],
+ "found": "2026-10-12T12:52:38",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ }
+}

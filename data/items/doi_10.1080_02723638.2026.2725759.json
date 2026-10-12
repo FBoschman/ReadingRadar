@@ -1,22 +1,24 @@
 {
-  "authors": "Chung",
-  "caveat": "Methodologically exploratory; may read as a catalogue of moves rather than tested practice.",
-  "date": "2026-09-24",
-  "doi": "10.1080/02723638.2026.2725759",
-  "kind": "paper",
-  "lang": "en",
-  "run": "2026-09-28",
-  "score": 4,
-  "source": "Crossref",
-  "status": "new",
-  "themes": [
-    "td",
-    "par",
-    "eco"
-  ],
-  "title": "Co-producing urban knowledge in motion: collaborative experimental methods for researching moving infrastructures",
-  "url": "https://doi.org/10.1080/02723638.2026.2725759",
-  "venue": "Urban Geography",
-  "why": "Experimental co-production methods for infrastructure that will not hold still - a method source for the CDC Urban Innovation course on participatory research in public space.",
-  "wildcard": false
+ "authors": "Chung",
+ "caveat": "Methodologically exploratory; may read as a catalogue of moves rather than tested practice.",
+ "date": "2026-09-24",
+ "doi": "10.1080/02723638.2026.2725759",
+ "kind": "paper",
+ "lang": "en",
+ "run": "2026-09-28",
+ "score": 4,
+ "source": "Crossref",
+ "status": "new",
+ "themes": [
+  "td",
+  "par",
+  "eco"
+ ],
+ "title": "Co-producing urban knowledge in motion: collaborative experimental methods for researching moving infrastructures",
+ "url": "https://doi.org/10.1080/02723638.2026.2725759",
+ "venue": "Urban Geography",
+ "why": "Experimental co-production methods for infrastructure that will not hold still - a method source for the CDC Urban Innovation course on participatory research in public space.",
+ "wildcard": false,
+ "abstract": "Delivery platforms have become ubiquitous in many cities, increasingly governing how things and people move. As contingent, moving infrastructures, they register diverse urban entities in their operations and produce new urban conditions and politics. How, then, can we empirically research the often obscure workings of infrastructures that are also in constant motion? Addressing the diffuse and fleeting nature of moving infrastructures, this paper proposes a methodology that foregrounds movement as both an analytic focus and a mode of enactment. Drawing on a multimethod mobile ethnography with platform delivery workers in Seoul, it shows how the dialogic synthesis of mobile methods helps unravel the infrastructural processes, practices, and politics of making the city through movement. The plurality of data and the collaborative, experimental orientation proved generative while simultaneously raising ethical, logistical, and analytical challenges. Notwithstanding the challenges, the paper demonstrates the value of collectively enacting mobile ethnography to co-produce urban knowledge in motion. It concludes by calling for ongoing collective methodological innovation in response to continually emerging infrastructures in moving and other forms, arguing that embodied, collective, and experimental methods not only contribute to new epistemic practices but also enable us to collectively envision alternative ways of creating infrastructures and cities.",
+ "abstractSource": "OpenAlex"
 }

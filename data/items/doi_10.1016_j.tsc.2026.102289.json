@@ -1,20 +1,21 @@
 {
-  "authors": "Soffer-Vital, Glassner",
-  "caveat": "Conceptual model with no validation.",
-  "date": "2026-12",
-  "doi": "10.1016/j.tsc.2026.102289",
-  "kind": "paper",
-  "lang": "en",
-  "run": "2026-09-21",
-  "score": 3,
-  "source": "Crossref",
-  "status": "new",
-  "themes": [
-    "pc"
-  ],
-  "title": "Integrating heutagogy and critical thinking: A conceptual model for higher education",
-  "url": "https://doi.org/10.1016/j.tsc.2026.102289",
-  "venue": "Thinking Skills and Creativity",
-  "why": "Self-determined learning joined to critical thinking - a model to argue against as much as with, given your scepticism about skill framings.",
-  "wildcard": false
+ "authors": "Soffer-Vital, Glassner",
+ "caveat": "Conceptual model with no validation.",
+ "date": "2026-12",
+ "doi": "10.1016/j.tsc.2026.102289",
+ "kind": "paper",
+ "lang": "en",
+ "run": "2026-09-21",
+ "score": 3,
+ "source": "Crossref",
+ "status": "new",
+ "themes": [
+  "pc"
+ ],
+ "title": "Integrating heutagogy and critical thinking: A conceptual model for higher education",
+ "url": "https://doi.org/10.1016/j.tsc.2026.102289",
+ "venue": "Thinking Skills and Creativity",
+ "why": "Self-determined learning joined to critical thinking - a model to argue against as much as with, given your scepticism about skill framings.",
+ "wildcard": false,
+ "abstractSource": ""
 }

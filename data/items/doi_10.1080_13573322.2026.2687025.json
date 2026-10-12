@@ -1,20 +1,22 @@
 {
-  "authors": "Jess, McMillan, Howells",
-  "caveat": "Physical education domain.",
-  "date": "2026-06-10",
-  "doi": "10.1080/13573322.2026.2687025",
-  "kind": "paper",
-  "lang": "en",
-  "run": "2026-09-19",
-  "score": 3,
-  "source": "Crossref",
-  "status": "new",
-  "themes": [
-    "cx"
-  ],
-  "title": "Complexity and the reframing of the school curriculum: the shift to physical education is for life (PEL)",
-  "url": "https://doi.org/10.1080/13573322.2026.2687025",
-  "venue": "Sport, Education and Society",
-  "why": "Applied complexity thinking in curriculum reform — a concrete case beside the philosophical work.",
-  "wildcard": false
+ "authors": "Jess, McMillan, Howells",
+ "caveat": "Physical education domain.",
+ "date": "2026-06-10",
+ "doi": "10.1080/13573322.2026.2687025",
+ "kind": "paper",
+ "lang": "en",
+ "run": "2026-09-19",
+ "score": 3,
+ "source": "Crossref",
+ "status": "new",
+ "themes": [
+  "cx"
+ ],
+ "title": "Complexity and the reframing of the school curriculum: the shift to physical education is for life (PEL)",
+ "url": "https://doi.org/10.1080/13573322.2026.2687025",
+ "venue": "Sport, Education and Society",
+ "why": "Applied complexity thinking in curriculum reform — a concrete case beside the philosophical work.",
+ "wildcard": false,
+ "abstract": "This second paper in our series exploring how complexity thinking can help to reframe school physical education (PE) introduces ‘Physical Education is for Life’ (PEL): an innovative vision for school PE as the ‘connective catalyst’ for the life-wide and lifelong physical activity journeys of all young people. To set the case for PEL, we first consider how the school PE curriculum has evolved from its physical training beginnings to become a ‘wicked problem’ tangled in a web of complex issues that hinders the subject’s developmental potential. Accordingly, we assert that efforts are needed to radically rethink the school PE experience. To initiate this reframing exercise, we discuss how the complexity commonalities of becoming, lived time, self-organisation and boundaries provide an overarching framework that can bring conceptual clarity to the future development of school PE. We subsequently propose a revamped architecture of the school PE curriculum by focussing on two interrelated features. First, we contend that the curriculum should concentrate on the development of the holistic foundations that will help each young person shape their unique PEL journey. And second, through the use of different activity drivers, formats and contexts, this reframed curriculum is designed to offer the extended learning spaces that will facilitate the development of these holistic foundations. The paper concludes by recognising that this ambitious PEL vision offers exciting and far-reaching opportunities for all stakeholders involved in the school PE experience. As such, it not only provides a critical insight into the future direction of the school PE curriculum but also foregrounds future papers in the series in which we consider how the complexity commonalities can be employed to inform the enactment of this vision as the ‘connective catalyst’ for all young people’s PEL journeys.",
+ "abstractSource": "OpenAlex"
 }

@@ -1,21 +1,23 @@
 {
-  "authors": "Frasco",
-  "caveat": "Health-services setting; the transfer to education is yours to argue.",
-  "date": "2026-12",
-  "doi": "10.1016/j.ssmmh.2026.100629",
-  "kind": "paper",
-  "lang": "en",
-  "run": "2026-09-21",
-  "score": 4,
-  "source": "Crossref",
-  "status": "new",
-  "themes": [
-    "par",
-    "dec"
-  ],
-  "title": "El Buen Vivir, mental health, and peace in Bogota, Colombia: Applying participatory action research towards the development of psychosocial peacebuilding",
-  "url": "https://doi.org/10.1016/j.ssmmh.2026.100629",
-  "venue": "SSM - Mental Health",
-  "why": "PAR done from a Latin American cosmology rather than an imported method - the lineage your ROOTS traces keep finding missing.",
-  "wildcard": false
+ "authors": "Frasco",
+ "caveat": "Health-services setting; the transfer to education is yours to argue.",
+ "date": "2026-12",
+ "doi": "10.1016/j.ssmmh.2026.100629",
+ "kind": "paper",
+ "lang": "en",
+ "run": "2026-09-21",
+ "score": 4,
+ "source": "Crossref",
+ "status": "new",
+ "themes": [
+  "par",
+  "dec"
+ ],
+ "title": "El Buen Vivir, mental health, and peace in Bogota, Colombia: Applying participatory action research towards the development of psychosocial peacebuilding",
+ "url": "https://doi.org/10.1016/j.ssmmh.2026.100629",
+ "venue": "SSM - Mental Health",
+ "why": "PAR done from a Latin American cosmology rather than an imported method - the lineage your ROOTS traces keep finding missing.",
+ "wildcard": false,
+ "abstract": "Mental Health and Psychosocial Support (MHPSS) has become an increasingly important intervention paradigm in peacebuilding contexts, with both academics and practitioners growing to value the links between the socio-structural and psychosocial variables that connect mental health and peace. However, despite widespread agreement on the importance of integration, MHPSS and peacebuilding remain siloed. Furthermore, community participation continues to be surface level and disconnected from local realities. These issues are reflected in Colombia, where peacebuilding processes have been ongoing since a 2016 peace agreement between government and FARC. This paper stems from research which aimed to address these concerns by co-producing participatory models for integrated psychosocial peacebuilding (PSPB) with youth in Bogotá, Colombia, using a Participatory Action Research (PAR) methodology. This paper addresses a sub-research question within that broader project: “ What do the concepts of good mental health and peace mean to participants, and how can they be achieved?” , in an effort to first develop a Colombian model of ‘psychosocial peace’ that demonstrates local understandings of mental health, peace, and related concepts. In the process, I draw broader lessons for the grander goal of developing PSPB. Results found that participants viewed mental health and peace as interrelated, mutually constituted states of being that are both intra- and inter-personal. Here a ‘psychosocial peace’ is consistent with the concept of el buen vivir : an alternative to neoliberal capitalist development built upon on three core pillars: wellbeing and capacities for coping and communication ( emotional intelligence ), social cohesion and communication ( interdependencia ), and socio-economic and environmental justice ( restauración ). However, there are mutually reinforcing structural and social psychological barriers to these processes, including socio-economic inequality and 'cultures of selfishness'. PAR helped identify ways to address these barriers, aiding in the development of integrated PSPB. • Youth in Bogotá viewed mental health and peace as interrelated, mutually constituted states of being that are both intra- and inter-personal. • Barriers to peace and mental health include mutually reinforcing socio-structural and social psychological elements, which materialize principally as social inequality and ‘cultures of conflict’, selfishness, or machismo. • Connecting Participatory Action Research (PAR) data with broader mental health and peace literature in Colombia, a national model for ‘psychosocial peace’ was developed. The three pillars of this model include: restauración (socio-economic and environmental justice; access to rights and memory), interdependencia (interdependence and community), and emotional intelligence (coping and communication skills)",
+ "abstractSource": "OpenAlex"
 }

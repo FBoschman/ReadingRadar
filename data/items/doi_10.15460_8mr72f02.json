@@ -1,20 +1,22 @@
 {
-  "authors": "Baumann",
-  "caveat": "In German.",
-  "date": "2026-09-15",
-  "doi": "10.15460/8mr72f02",
-  "kind": "paper",
-  "lang": "de",
-  "run": "2026-09-19",
-  "score": 4,
-  "source": "Crossref",
-  "status": "new",
-  "themes": [
-    "dbr"
-  ],
-  "title": "Auditierbare Prinzipiengenese in Design-Based Research",
-  "url": "https://doi.org/10.15460/8mr72f02",
-  "venue": "EDeR. Educational Design Research",
-  "why": "Makes the derivation of design principles auditable — tackles a known rigour gap in DBR.",
-  "wildcard": false
+ "authors": "Baumann",
+ "caveat": "In German.",
+ "date": "2026-09-15",
+ "doi": "10.15460/8mr72f02",
+ "kind": "paper",
+ "lang": "de",
+ "run": "2026-09-19",
+ "score": 4,
+ "source": "Crossref",
+ "status": "new",
+ "themes": [
+  "dbr"
+ ],
+ "title": "Auditierbare Prinzipiengenese in Design-Based Research",
+ "url": "https://doi.org/10.15460/8mr72f02",
+ "venue": "EDeR. Educational Design Research",
+ "why": "Makes the derivation of design principles auditable — tackles a known rigour gap in DBR.",
+ "wildcard": false,
+ "abstract": "Gestaltungsprinzipien gelten als zentraler Output von Design-Based Research (DBR), ihre methodische Herleitung bleibt jedoch häufig implizit. Der vorliegende Beitrag entwickelt und demonstriert ein Verfahren zur auditierbaren Genese von Gestaltungsprinzipien. Im Zentrum steht die explizite Rekonstruktion einer abduktiven Inferenzarchitektur, durch die getrennt ausgewertete Evidenzräume – Viabilität einer Intervention und Qualität reflexiver Performanzen – theoriegeleitet in heuristische, kontextsensitive design conjectures überführt werden. Anhand einer designbasierten Studie zur meta-reflexiven Professionalisierung von Lehramtsstudierenden wird gezeigt, wie relationale Muster identifiziert, theoretisch rückgebunden, in Designhypothesen überführt und schließlich in konditionalen Gestaltungsprinzipien verdichtet werden können. Evaluation wird dabei nicht als nachgelagerter Wirksamkeitstest, sondern als strukturierendes Moment der Designentwicklung verstanden. Der Beitrag beansprucht keinen kausalen Wirkungsnachweis. Sein epistemischer Mehrwert liegt in der transparent dokumentierten Inferenzlogik, die den Weg vom empirischen Befund zur Prinzipienformulierung intersubjektiv nachvollziehbar macht. Damit leistet der Beitrag einen methodologischen Impuls zur Klärung der Frage, wie in DBR aus Evaluation systematisch Designwissen entsteht.",
+ "abstractSource": "OpenAlex"
 }

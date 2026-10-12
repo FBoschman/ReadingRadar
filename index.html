@@ -149,6 +149,24 @@ blockquote { border-left: 3px solid var(--line); color: var(--ink-soft); margin:
 .bar { background: #e3e8ee; border-radius: 999px; height: 14px; overflow: hidden; }
 .bar > span { background: var(--accent); display: block; height: 100%; width: 0; }
 footer.foot { border-top: 1px solid var(--line); color: var(--ink-soft); font-size: 12.5px; margin: 26px auto 0; max-width: 1280px; padding: 12px 14px 0; }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.banner { font-size: 14px; padding: 9px 20px; }
+.banner.warn { background: var(--amber-soft); border-bottom: 1px solid #e0c893; color: var(--amber); }
+.banner.bad { background: var(--red-soft); border-bottom: 1px solid #dda9a4; color: var(--red); }
+.banner.ok { display: none; }
+.triage { display: flex; flex-wrap: wrap; gap: 6px; margin: 8px 0; }
+.triage button { background: #fff; border: 1px solid var(--line); border-radius: 4px; cursor: pointer; font: inherit; font-size: 13px; padding: 5px 10px; }
+.triage button:hover { border-color: var(--accent); }
+.triage button.on { border-color: var(--accent); box-shadow: 0 0 0 2px var(--accent-soft); font-weight: 600; }
+.mark { border-radius: 3px; font-size: 11.5px; font-weight: 700; padding: 1px 6px; }
+.mark.keep { background: var(--green-soft); color: var(--green); }
+.mark.maybe { background: var(--amber-soft); color: var(--amber); }
+.mark.skip { background: var(--red-soft); color: var(--red); }
+.pending { align-items: center; background: var(--accent-soft); border: 1px solid #b9cbe6; border-radius: 4px; display: flex; flex-wrap: wrap; font-size: 13px; gap: 10px; margin: 8px 0; padding: 7px 10px; }
+.abstract { background: #f7f9fa; border: 1px solid var(--line); border-radius: 4px; font-size: 13.5px; margin: 8px 0; padding: 9px 11px; }
+.wiki-line { font-size: 13px; }
+.wiki-line .yes { color: var(--green); font-weight: 600; }
+.wiki-line .no { color: var(--amber); font-weight: 600; }
 @media print { nav.tabs, button.act { display: none; } .panel { display: block !important; page-break-after: always; } body { background: #fff; } .list { max-height: none; } }
 </style>
 </head>
@@ -158,10 +176,12 @@ footer.foot { border-top: 1px solid var(--line); color: var(--ink-soft); font-si
   <p class="sub">A weekly watch on research and professional debate across eight themes. Export of 12 October 2026.</p>
   <div class="clock" id="clock"></div>
 </header>
+<div class="banner ok" id="banner"></div>
 
 <nav class="tabs" role="tablist" aria-label="Sections">
   <button type="button" role="tab" data-target="digest" aria-selected="true">Digest</button>
   <button type="button" role="tab" data-target="items" aria-selected="false">Items</button>
+  <button type="button" role="tab" data-target="queue" aria-selected="false">Queue</button>
   <button type="button" role="tab" data-target="roots" aria-selected="false">Roots</button>
   <button type="button" role="tab" data-target="events" aria-selected="false">Events</button>
   <button type="button" role="tab" data-target="config" aria-selected="false">Config</button>
@@ -207,6 +227,7 @@ footer.foot { border-top: 1px solid var(--line); color: var(--ink-soft); font-si
         <label class="field" for="fSort">Order</label>
         <select id="fSort">
           <option value="score">Score, high first</option>
+          <option value="runScore">Newest run, strongest first</option>
           <option value="date">Date, new first</option>
           <option value="run">Run, new first</option>
           <option value="title">Title, A to Z</option>
@@ -225,13 +246,48 @@ footer.foot { border-top: 1px solid var(--line); color: var(--ink-soft); font-si
     </div>
     <div class="row">
       <button class="act ghost" type="button" data-action="reset-filters">Reset the filters</button>
-      <span class="muted" id="itemCount"></span>
+      <span class="muted" id="itemCount" aria-live="polite"></span>
     </div>
   </div>
+  <div id="pendingBox"></div>
   <div class="grid side" style="margin-top:12px">
     <div class="list" id="itemList"></div>
     <div class="detail" id="itemDetail"><p class="muted">Select an item.</p></div>
   </div>
+</section>
+
+<section id="queue" class="panel" role="tabpanel">
+  <h2 class="sec">Queue</h2>
+  <p class="lead">The candidates of the last harvest, before any score is given. The judge of a candidate is a person or an agent: read it, mark it, and export the marks. A candidate that no run promotes is dropped after four runs or thirty days.</p>
+  <div class="card">
+    <div class="grid two">
+      <div>
+        <label class="field" for="qQueue">Search the queue</label>
+        <input type="search" id="qQueue" placeholder="For example: complexity">
+      </div>
+      <div>
+        <label class="field" for="fQueueTheme">Theme guess</label>
+        <select id="fQueueTheme"></select>
+      </div>
+      <div>
+        <label class="field" for="fQueueSource">Source</label>
+        <select id="fQueueSource"></select>
+      </div>
+      <div>
+        <label class="field" for="fQueueAbstract">Abstract</label>
+        <select id="fQueueAbstract">
+          <option value="all">All candidates</option>
+          <option value="yes">With an abstract</option>
+          <option value="no">Without an abstract</option>
+        </select>
+      </div>
+    </div>
+    <div class="row">
+      <span class="muted" id="queueCount" aria-live="polite"></span>
+    </div>
+  </div>
+  <div id="queuePending"></div>
+  <div class="list" id="queueList" style="margin-top:12px"></div>
 </section>
 
 <section id="roots" class="panel" role="tabpanel">
@@ -245,6 +301,9 @@ footer.foot { border-top: 1px solid var(--line); color: var(--ink-soft); font-si
     <div class="list" id="rootList"></div>
     <div class="detail" id="rootDetail"><p class="muted">Select a lineage document.</p></div>
   </div>
+  <h3 class="sub">Drafts that wait for the narrative</h3>
+  <p class="muted">A draft holds the reference list from Crossref. The narrative and the strands are a decision. Select an item in the Items view and press "Queue a roots trace" to add another.</p>
+  <div id="rootDrafts"></div>
 </section>
 
 <section id="events" class="panel" role="tabpanel">
@@ -315,6 +374,10 @@ footer.foot { border-top: 1px solid var(--line); color: var(--ink-soft); font-si
       <h4>The queue that waits</h4>
       <div id="healthQueue"></div>
     </div>
+    <div class="card left-green">
+      <h4>What your decisions say</h4>
+      <div id="healthCalibration"></div>
+    </div>
   </div>
 
   <h3 class="sub">Do these actions next</h3>
@@ -336,6 +399,24 @@ var state = { q: '', theme: 'all', status: 'all', kind: 'all', run: 'all', score
 
 function el(id) { return document.getElementById(id); }
 function set(id, html) { var n = el(id); if (n) { n.innerHTML = html; } }
+
+// The marks a reader makes live in this browser only. Nothing leaves the machine.
+function load(key, fallback) {
+  try {
+    var raw = localStorage.getItem('reading-radar.' + key);
+    return raw === null ? fallback : JSON.parse(raw);
+  } catch (e) {
+    return fallback;
+  }
+}
+
+function save(key, value) {
+  try {
+    localStorage.setItem('reading-radar.' + key, JSON.stringify(value));
+  } catch (e) {
+    /* A browser that refuses storage still shows the page. The marks are lost on reload. */
+  }
+}
 function esc(value) {
   return String(value === null || value === undefined ? '' : value)
     .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
@@ -376,6 +457,84 @@ function themeChips(list) {
   return out;
 }
 function daysBetween(from, to) { return (to.getTime() - from.getTime()) / 86400000; }
+
+function isoDay(value) {
+  var match = /^(\d{4})-(\d{2})-(\d{2})$/.exec(String(value || ''));
+  return match ? new Date(Number(match[1]), Number(match[2]) - 1, Number(match[3])) : null;
+}
+
+function ageInDays(value) {
+  var day = isoDay(value);
+  return day ? Math.round(daysBetween(day, new Date())) : null;
+}
+
+// ---- the marks a reader makes in this browser, and the file they become
+function marks() { return load('triage', {}); }
+
+function setMark(id, status) {
+  var current = marks();
+  if (current[id] === status) { delete current[id]; } else { current[id] = status; }
+  save('triage', current);
+  renderPending();
+  renderItemList();
+  renderQueue();
+  if (state.selected) { renderItemDetail(state.selected); }
+}
+
+function rootsRequests() { return load('rootsRequests', []); }
+
+function addRootsRequest(id) {
+  var list = rootsRequests();
+  if (list.indexOf(id) < 0) { list.push(id); }
+  save('rootsRequests', list);
+  renderPending();
+  if (state.selected) { renderItemDetail(state.selected); }
+}
+
+function actionsObject() {
+  var triage = {};
+  var current = marks();
+  Object.keys(current).forEach(function (id) { triage[id] = { status: current[id] }; });
+  return {"triage": triage, "rootsRequests": rootsRequests(), "exportedAt": new Date().toISOString()};
+}
+
+function actionsJson() { return JSON.stringify(actionsObject(), null, 1); }
+
+function exportActions(button, asFile) {
+  var text = actionsJson();
+  var count = Object.keys(marks()).length + rootsRequests().length;
+  if (!count) {
+    if (button) { button.textContent = 'Nothing to export yet.'; }
+    return;
+  }
+  if (asFile) {
+    var blob = new Blob([text], {type: 'application/json'});
+    var url = URL.createObjectURL(blob);
+    var link = document.createElement('a');
+    link.href = url;
+    link.download = 'radar-actions.json';
+    document.body.appendChild(link);
+    link.click();
+    document.body.removeChild(link);
+    URL.revokeObjectURL(url);
+    return;
+  }
+  copyText(text, button);
+}
+
+function renderPending() {
+  var total = Object.keys(marks()).length + rootsRequests().length;
+  var html = '<div class="pending"><b>' + total + '</b> mark' + (total === 1 ? '' : 's') +
+    ' in this browser, not yet in the data.' +
+    ' <button class="act" type="button" data-action="export-actions">Copy the actions file</button>' +
+    ' <button class="act ghost" type="button" data-action="download-actions">Download it</button>' +
+    ' <button class="act ghost" type="button" data-action="clear-marks">Clear the marks</button>' +
+    ' <span class="muted">Then run: python tools/apply_actions.py --file radar-actions.json</span></div>';
+  ['pendingBox', 'queuePending'].forEach(function (id) {
+    var node = document.getElementById(id);
+    if (node) { node.innerHTML = total ? html : ''; }
+  });
+}
 function statusKind(text) {
   var s = String(text || '').toLowerCase();
   if (s.indexOf('failed') === 0) { return 'failed'; }
@@ -431,19 +590,44 @@ function dataAge() {
 
 function renderClock() {
   var journalsOn = (PROFILE.journalWatch || []).filter(function (j) { return j.on; }).length;
-  var age = dataAge();
+  var lastRun = (MANIFEST && MANIFEST.lastRun) || LAST.date || '';
+  var age = ageInDays(lastRun);
   var chips = [
     'Items: <b>' + ITEMS.length + '</b>',
+    'Queue: <b>' + ((DATA.inbox && DATA.inbox.items) || 0) + '</b>',
     'Roots: <b>' + ROOTS.length + '</b>',
-    'Queue: <b>' + REQUESTS.length + '</b>',
     'Events: <b>' + EVENTS.length + '</b>',
     'Journals on: <b>' + journalsOn + '</b>',
-    'Export: <b>' + esc(MANIFEST.exportedAt || 'unknown') + '</b>'
+    'Last run: <b>' + esc(lastRun || 'unknown') + '</b>'
   ];
   if (age !== null) {
-    chips.push(age < 0 ? '<b>Check the clock:</b> the export date is in the future' : 'Age of the data: <b>' + age + '</b> days');
+    chips.push(age > 10 ? 'Age of the data: <b>' + age + ' days</b>' : 'Age of the data: <b>' + age + ' days</b>');
   }
   set('clock', chips.map(function (c) { return '<span class="chip">' + c + '</span>'; }).join(''));
+  renderBanner(age);
+}
+
+function renderBanner(age) {
+  var node = document.getElementById('banner');
+  if (!node) { return; }
+  var status = (DATA && DATA.status) || null;
+  var message = '';
+  var level = 'ok';
+  if (status && status.ok === false) {
+    level = 'bad';
+    message = 'The last harvest reported ' + status.sources_failed + ' failed source(s). Open the Health section.';
+  } else if (age !== null && age > 10) {
+    level = 'warn';
+    message = 'The data is ' + age + ' days old. The weekly task may not have run: check logs/ and the Windows Task Scheduler.';
+  }
+  node.className = 'banner ' + level;
+  node.innerHTML = message ? '<b>' + esc(message) + '</b>' : '';
+}
+
+function searchHaystack(item) {
+  var names = (item.themes || []).map(function (code) { return THEMES[code] || code; });
+  return [item.title, item.authors, item.venue, item.why, item.caveat, item.source, item.doi,
+          item.date, item.abstract, item.abstractSource, names.join(' ')].join(' ').toLowerCase();
 }
 
 function renderDigest() {
@@ -455,11 +639,17 @@ function renderDigest() {
   }).join('');
   var paras = (DIGEST.paras || []).map(function (p) { return '<p>' + esc(p) + '</p>'; }).join('');
   var run = LAST.date ? '<p class="muted">Last run: ' + esc(LAST.date) + '. Harvested ' + (LAST.harvested || 0) + ', unique ' + (LAST.unique || 0) + ', kept ' + (LAST.kept || 0) + '.</p>' : '';
+  var related = (DIGEST.related || []).map(function (id) {
+    var item = itemById(id);
+    return item ? '<li><a href="#items" data-action="open-item" data-id="' + esc(id) + '">' + esc(item.title) + '</a> ' +
+      '<span class="muted">score ' + esc(item.score) + ' - ' + esc(item.venue || '') + '</span></li>' : '';
+  }).join('');
   set('digestBody',
     '<div class="card left-accent">' +
       '<h3 class="sub" style="margin-top:0">' + esc(DIGEST.week || 'Unknown week') + ' - created ' + esc(DIGEST.created || '') + '</h3>' +
       '<p style="font-size:17px;font-weight:600;margin:8px 0">' + esc(DIGEST.headline) + '</p>' + paras + run +
     '</div>' +
+    (related ? '<h3 class="sub">The items this digest names</h3><ul>' + related + '</ul>' : '') +
     '<h3 class="sub">Must-read items</h3><ul>' + must + '</ul>');
 }
 
@@ -536,8 +726,7 @@ function filteredItems() {
     if (state.show === 'nocaveat' && item.caveat) { return false; }
     if (state.show === 'nolineage' && (Number(item.score || 0) < 4 || rootById(item.id))) { return false; }
     if (q) {
-      var hay = [item.title, item.authors, item.venue, item.why, item.source, item.doi].join(' ').toLowerCase();
-      if (hay.indexOf(q) < 0) { return false; }
+      if (searchHaystack(item).indexOf(q) < 0) { return false; }
     }
     return true;
   });
@@ -545,6 +734,13 @@ function filteredItems() {
     if (state.sort === 'title') { return String(a.title || '').localeCompare(String(b.title || '')); }
     if (state.sort === 'date') { return String(b.date || '').localeCompare(String(a.date || '')); }
     if (state.sort === 'run') { return String(b.run || '').localeCompare(String(a.run || '')); }
+    if (state.sort === 'runScore') {
+      var byRun = String(b.run || '').localeCompare(String(a.run || ''));
+      if (byRun !== 0) { return byRun; }
+      var byScore = Number(b.score || 0) - Number(a.score || 0);
+      if (byScore !== 0) { return byScore; }
+      return String(b.date || '').localeCompare(String(a.date || ''));
+    }
     var d = Number(b.score || 0) - Number(a.score || 0);
     if (d !== 0) { return d; }
     return String(b.date || '').localeCompare(String(a.date || ''));
@@ -558,18 +754,25 @@ function renderItemList() {
   if (!list.length) { set('itemList', '<p class="muted">No item matches the filters.</p>'); return; }
   var html = '';
   var i;
+  var marked = marks();
   for (i = 0; i < list.length; i++) {
     var item = list[i];
-    html += '<div class="item' + (state.selected === item.id ? ' sel' : '') + '" data-action="open-item" data-id="' + esc(item.id) + '">' +
+    var mark = marked[item.id];
+    html += '<div class="item' + (state.selected === item.id ? ' sel' : '') + '" role="button" tabindex="0"' +
+      ' aria-pressed="' + (state.selected === item.id ? 'true' : 'false') + '"' +
+      ' data-action="open-item" data-id="' + esc(item.id) + '">' +
       scoreBadge(item.score) + ' ' + statusBadge(item.status) + themeChips(item.themes) +
+      (mark ? ' <span class="mark ' + esc(mark) + '">' + esc(mark) + '</span>' : '') +
       (item.wildcard ? ' <span class="badge b-amber">Wildcard</span>' : '') +
       (inDigestMustRead(item.id) ? ' <span class="badge b-green">Must-read</span>' : '') +
       (rootById(item.id) ? ' <span class="badge b-blue">Roots</span>' : '') +
+      (item.wikiNote ? ' <span class="badge b-violet">Wiki</span>' : '') +
       '<span class="t"> ' + esc(item.title) + '</span>' +
       '<span class="meta">' + esc(item.authors || 'no author') + ' - ' + esc(item.venue || 'no venue') + ' - ' + esc(fmtDate(item.date)) +
-      ' - added ' + esc(item.run || '') + '</span></div>';
+      ' - added ' + esc(item.run || '') + (item.abstract ? ' - abstract' : '') + '</span></div>';
   }
   set('itemList', html);
+  renderPending();
 }
 function renderItemDetail(id) {
   var item = itemById(id);
@@ -595,15 +798,35 @@ function renderItemDetail(id) {
       '<dt>Kind</dt><dd>' + esc(item.kind || 'not given') + '</dd>' +
       '<dt>Source</dt><dd>' + esc(item.source || 'not given') + '</dd>' +
       '<dt>Run</dt><dd>' + esc(item.run || 'not given') + '</dd>' +
+      '<dt>Evidence</dt><dd>' + (item.abstract
+        ? 'Abstract stored from ' + esc(item.abstractSource || 'the source') + ', ' + item.abstract.length + ' characters'
+        : '<span class="muted">No abstract was available from Crossref or OpenAlex. The reason was written from the title and the metadata.</span>') + '</dd>' +
+      '<dt>Date precision</dt><dd>' + (dateNote ? 'Year or month only' : 'Exact day') + '</dd>' +
+      '<dt>Reader status</dt><dd>' + statusBadge(item.status) + (item.triagedAt ? ' <span class="muted">marked ' + esc(item.triagedAt) + '</span>' : '') + '</dd>' +
       '<dt>DOI</dt><dd>' + doiLine + '</dd>' +
       '<dt>Link</dt><dd>' + link(item.url, item.url || '') + '</dd>' +
       '<dt>Document id</dt><dd><code>' + esc(item.id) + '</code></dd>' +
     '</dl>' +
     '<h4>Why it matters</h4><p>' + esc(item.why || 'not given') + '</p>' +
     '<h4>Caveat</h4>' + caveat +
+    (item.abstract ? '<h4>The abstract the reason was written from</h4><div class="abstract">' + esc(item.abstract) + '</div>' : '') +
+    '<h4>Your mark</h4>' +
+    '<div class="triage">' +
+      ['keep', 'maybe', 'skip'].map(function (status) {
+        return '<button type="button" data-action="mark" data-id="' + esc(item.id) + '" data-status="' + status + '"' +
+          ' class="' + (marks()[item.id] === status ? 'on' : '') + '">' + status + '</button>';
+      }).join('') +
+      '<span class="muted">The marks stay in this browser until you export them and run tools/apply_actions.py.</span>' +
+    '</div>' +
+    '<h4>Wiki</h4><p class="wiki-line">' + (item.wikiNote
+      ? 'Intake note <code>' + esc(item.wikiNote) + '</code> written ' + esc(item.wikiWrittenAt || '') +
+        '. Ingested: ' + (item.wikiIngested ? '<span class="yes">yes</span>' : '<span class="no">not yet</span>') + '.'
+      : '<span class="muted">No intake note yet. A note is written for every item at score ' + esc((PROFILE.vault || {}).autoMin || 4) + ' and higher.</span>') + '</p>' +
     '<h4>Roots</h4>' + (root
       ? '<p>A lineage document exists for this item. Open the Roots section to read it.</p>'
-      : '<p class="muted">No lineage document for this item.</p>');
+      : '<p class="muted">No lineage document for this item.</p>' +
+        (item.doi ? '<div class="triage"><button type="button" data-action="roots-request" data-id="' + esc(item.id) + '">Queue a roots trace</button>' +
+          (rootsRequests().indexOf(item.id) >= 0 ? '<span class="muted">Already queued in this browser.</span>' : '') + '</div>' : ''));
   set('itemDetail', html);
   renderItemList();
 }
@@ -676,6 +899,136 @@ function renderRootDetail(id) {
     '<h4>Method and source</h4><p>' + esc(root.method || 'not given') + '</p><p class="muted">' + esc(root.source || '') + '</p>';
   set('rootDetail', html);
   renderRootList();
+}
+
+function renderRootDrafts() {
+  var drafts = (DATA.inbox && DATA.inbox.lineageDrafts) || [];
+  var html = '';
+  if (!drafts.length) {
+    html = '<p class="muted">No drafts wait.</p>';
+  } else {
+    html += '<table><thead><tr><th>Item id</th><th>Title</th><th class="num">Parsed</th><th class="num">Source says</th><th class="num">Median year</th><th>Traced</th></tr></thead><tbody>';
+    drafts.forEach(function (d) {
+      html += '<tr><td><code>' + esc(d.id) + '</code></td><td>' + esc((d.title || '').slice(0, 70)) + '</td>' +
+        '<td class="num">' + esc(d.parsed) + '</td><td class="num">' + esc(d.refCount) + '</td>' +
+        '<td class="num">' + esc(d.median) + '</td><td>' + esc(d.tracedAt) + '</td></tr>';
+    });
+    html += '</tbody></table>';
+    html += '<p class="muted">Each draft needs its strands, its narrative, its forYou and its absent sentence. ' +
+      'Write data/inbox/lineage-judgement.json and run tools/complete_lineage.py.</p>';
+  }
+  set('rootDrafts', html);
+}
+
+function fillQueueControls() {
+  var themes = PROFILE.themes || [];
+  var tValues = ['all'], tLabels = ['Any theme'];
+  themes.forEach(function (t) { tValues.push(t.code); tLabels.push(t.code + ' - ' + t.name); });
+  set('fQueueTheme', optionList(tValues, tLabels, 'all'));
+  var candidates = (DATA.inbox && DATA.inbox.candidates) || [];
+  var sources = {};
+  candidates.forEach(function (c) {
+    var label = String(c.source || 'unknown').split(':')[0].split(',')[0].trim();
+    sources[label] = (sources[label] || 0) + 1;
+  });
+  var keys = Object.keys(sources).sort();
+  var sValues = ['all'], sLabels = ['Any source'];
+  keys.forEach(function (k) { sValues.push(k); sLabels.push(k + ' (' + sources[k] + ')'); });
+  set('fQueueSource', optionList(sValues, sLabels, 'all'));
+}
+
+function queueCandidates() {
+  var read = function (id) { var n = document.getElementById(id); return n ? n.value : ''; };
+  var q = read('qQueue').trim().toLowerCase();
+  var theme = read('fQueueTheme') || 'all';
+  var source = read('fQueueSource') || 'all';
+  var abstract = read('fQueueAbstract') || 'all';
+  return ((DATA.inbox && DATA.inbox.candidates) || []).filter(function (c) {
+    if (theme !== 'all' && (c.themes || []).indexOf(theme) < 0) { return false; }
+    if (source !== 'all' && String(c.source || '').indexOf(source) < 0) { return false; }
+    if (abstract === 'yes' && !c.hasAbstract) { return false; }
+    if (abstract === 'no' && c.hasAbstract) { return false; }
+    if (q) {
+      var hay = [c.title, c.authors, c.venue, c.source, (c.themes || []).join(' ')].join(' ').toLowerCase();
+      if (hay.indexOf(q) < 0) { return false; }
+    }
+    return true;
+  });
+}
+
+function renderCalibration() {
+  var node = el('healthCalibration');
+  if (!node) { return; }
+  var decided = { keep: 0, maybe: 0, skip: 0 };
+  var byTheme = {}, bySource = {};
+  ITEMS.forEach(function (item) {
+    var status = item.status;
+    if (status !== 'keep' && status !== 'maybe' && status !== 'skip') { return; }
+    decided[status] += 1;
+    (item.themes || []).forEach(function (code) {
+      byTheme[code] = byTheme[code] || { keep: 0, maybe: 0, skip: 0 };
+      byTheme[code][status] += 1;
+    });
+    var source = String(item.source || 'unknown').split(':')[0].split(',')[0].trim();
+    bySource[source] = bySource[source] || { keep: 0, maybe: 0, skip: 0 };
+    bySource[source][status] += 1;
+  });
+  var total = decided.keep + decided.maybe + decided.skip;
+  var lines = ['<p><b>' + decided.keep + ' keep</b>, <b>' + decided.maybe + ' maybe</b>, <b>' + decided.skip +
+    ' skip</b>, ' + (ITEMS.length - total) + ' undecided. ' + total + ' of ' + ITEMS.length + ' items carry a decision.</p>'];
+  if (!total) {
+    lines.push('<p class="muted">Nothing is decided yet, so the radar cannot learn. Mark items in the item view, export the marks, and run tools/apply_actions.py.</p>');
+    set('healthCalibration', lines.join(''));
+    return;
+  }
+  var themeRows = Object.keys(byTheme).sort().map(function (code) {
+    var counts = byTheme[code];
+    var verdict = (counts.skip >= 3 && counts.keep === 0) ? ' <span class="badge b-red">skips with no keep</span>' : '';
+    return '<tr><td>' + esc(code) + ' ' + esc(THEMES[code] || code) + '</td><td class="num">' + counts.keep +
+      '</td><td class="num">' + counts.maybe + '</td><td class="num">' + counts.skip + '</td><td>' + verdict + '</td></tr>';
+  }).join('');
+  var sourceRows = Object.keys(bySource).sort().map(function (label) {
+    var counts = bySource[label];
+    var verdict = (counts.skip >= 3 && counts.keep === 0) ? ' <span class="badge b-red">candidate for an exclusion</span>' : '';
+    return '<tr><td>' + esc(label) + '</td><td class="num">' + counts.keep + '</td><td class="num">' + counts.maybe +
+      '</td><td class="num">' + counts.skip + '</td><td>' + verdict + '</td></tr>';
+  }).join('');
+  lines.push('<h4>By theme</h4><table><thead><tr><th>Theme</th><th class="num">keep</th><th class="num">maybe</th><th class="num">skip</th><th></th></tr></thead><tbody>' + themeRows + '</tbody></table>');
+  lines.push('<h4>By source</h4><table><thead><tr><th>Source</th><th class="num">keep</th><th class="num">maybe</th><th class="num">skip</th><th></th></tr></thead><tbody>' + sourceRows + '</tbody></table>');
+  lines.push('<p class="muted">A row with skips and no keep is the radar\'s own advice to narrow the net. It is a proposal, not a change: the exclusions live in the profile, and only the reader writes them.</p>');
+  set('healthCalibration', lines.join(''));
+}
+
+function renderQueue() {
+  var list = queueCandidates();
+  var total = (DATA.inbox && DATA.inbox.items) || 0;
+  var capped = (DATA.inbox && DATA.inbox.candidatesCapped) || 0;
+  if (el('queueCount')) {
+    el('queueCount').textContent = list.length + ' of ' + total + ' candidates are shown.' +
+      (capped ? ' ' + capped + ' older candidates are outside the bundle.' : '');
+  }
+  if (!list.length) {
+    set('queueList', '<p class="muted">No candidate matches the filters.</p>');
+    return;
+  }
+  var marked = marks();
+  var html = '';
+  list.slice(0, 200).forEach(function (c) {
+    var mark = marked[c.id];
+    html += '<div class="item">' +
+      themeChips(c.themes) + (c.hasAbstract ? ' <span class="badge b-blue">Abstract</span>' : ' <span class="badge b-grey">No abstract</span>') +
+      (mark ? ' <span class="mark ' + esc(mark) + '">' + esc(mark) + '</span>' : '') +
+      '<span class="t"> ' + esc(c.title) + '</span>' +
+      '<span class="meta">' + esc(c.authors || 'no author') + ' - ' + esc(c.venue || 'no venue') + ' - ' + esc(fmtDate(c.date)) + ' - ' + esc(c.source) + '</span>' +
+      '<div class="triage">' +
+        ['keep', 'maybe', 'skip'].map(function (status) {
+          return '<button type="button" data-action="mark" data-id="' + esc(c.id) + '" data-status="' + status + '"' +
+            ' class="' + (mark === status ? 'on' : '') + '">' + status + '</button>';
+        }).join('') +
+        (c.url ? ' <a href="' + esc(c.url) + '" target="_blank" rel="noopener">open the source</a>' : '') +
+      '</div></div>';
+  });
+  set('queueList', html);
 }
 function eventDate(ev) { return ev.start || ev.deadline || ev.end || ''; }
 
@@ -863,6 +1216,8 @@ function renderHealth() {
     '<p class="muted">The harvest is automatic. The scoring, the digest and the roots narrative are decisions, so the queue moves only when a reader or an agent works it.</p>' +
     (queueRows ? '<h4>The last harvest</h4>' + queueRows : ''));
 
+  renderCalibration();
+
   var actions = [];
   var age = h.age;
   if (failed >= 1) {
@@ -929,10 +1284,33 @@ function onDocumentClick(event) {
   if (action === 'open-item') { event.preventDefault(); showTab('items'); renderItemDetail(id); }
   if (action === 'open-root') { event.preventDefault(); showTab('roots'); renderRootDetail(id); }
   if (action === 'reset-filters') { resetFilters(); }
+  if (action === 'mark') { event.stopPropagation(); setMark(id, node.getAttribute('data-status')); }
+  if (action === 'roots-request') { event.stopPropagation(); addRootsRequest(id); }
+  if (action === 'export-actions') { exportActions(node, false); }
+  if (action === 'download-actions') { exportActions(node, true); }
+  if (action === 'clear-marks') {
+    save('triage', {});
+    save('rootsRequests', []);
+    renderItemList();
+    renderQueue();
+    renderPending();
+    if (state.selected) { renderItemDetail(state.selected); }
+  }
   if (action === 'roots-queued') {
     state.rootView = state.rootView === 'queue' ? 'lineage' : 'queue';
     node.textContent = state.rootView === 'queue' ? 'Hide the request queue' : 'Show the request queue too';
     renderRootList();
+  }
+}
+
+function onDocumentKeydown(event) {
+  if (event.key !== 'Enter' && event.key !== ' ') { return; }
+  var node = event.target;
+  if (!node || !node.getAttribute) { return; }
+  if (node.getAttribute('role') === 'button' && node.getAttribute('data-action') === 'open-item') {
+    event.preventDefault();
+    showTab('items');
+    renderItemDetail(node.getAttribute('data-id'));
   }
 }
 
@@ -945,6 +1323,13 @@ function wireItemFilters() {
     if (!node) { continue; }
     node.addEventListener('input', apply);
     node.addEventListener('change', apply);
+  }
+  var queueIds = ['qQueue', 'fQueueTheme', 'fQueueSource', 'fQueueAbstract'];
+  for (i = 0; i < queueIds.length; i++) {
+    node = el(queueIds[i]);
+    if (!node) { continue; }
+    node.addEventListener('input', renderQueue);
+    node.addEventListener('change', renderQueue);
   }
   if (el('showPassed')) { el('showPassed').addEventListener('change', renderEvents); }
 }
@@ -964,16 +1349,21 @@ function init() {
     tabs[i].addEventListener('click', function () { showTab(this.getAttribute('data-target')); });
   }
   document.addEventListener('click', onDocumentClick);
+  document.addEventListener('keydown', onDocumentKeydown);
   renderClock();
   renderDigest();
   fillItemControls();
+  fillQueueControls();
   wireItemFilters();
   readFilters();
   renderItemList();
+  renderQueue();
   renderRootList();
+  renderRootDrafts();
   renderEvents();
   renderConfig();
   renderHealth();
+  renderPending();
 }
 
 if (document.readyState === 'loading') {

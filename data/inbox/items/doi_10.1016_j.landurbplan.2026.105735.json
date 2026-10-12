@@ -1,0 +1,24 @@
+{
+ "id": "doi_10.1016_j.landurbplan.2026.105735",
+ "kind": "paper",
+ "title": "Should I stay or should I go: How urban heat gradients affect the local distribution of birds and bats",
+ "authors": "Querejeta, Jame, Morin et al.",
+ "venue": "Landscape and Urban Planning",
+ "date": "2026-12",
+ "url": "https://doi.org/10.1016/j.landurbplan.2026.105735",
+ "doi": "10.1016/j.landurbplan.2026.105735",
+ "lang": "",
+ "source": "Journal watch: Landscape and Urban Planning",
+ "run": "2026-10-12",
+ "abstract": "",
+ "themeGuess": [],
+ "found": "2026-10-12T12:52:55",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ }
+}

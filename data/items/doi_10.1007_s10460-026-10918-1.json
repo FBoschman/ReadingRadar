@@ -1,21 +1,23 @@
 {
-  "authors": "Sandoval, Temudo",
-  "caveat": "Agricultural context in West Africa.",
-  "date": "2026-06-11",
-  "doi": "10.1007/s10460-026-10918-1",
-  "kind": "paper",
-  "lang": "en",
-  "run": "2026-09-19",
-  "score": 4,
-  "source": "Crossref",
-  "status": "new",
-  "themes": [
-    "td",
-    "dec"
-  ],
-  "title": "Dikes in friction: scientific knowledge as a bridge in transdisciplinary learning with mangrove swamp rice farmers",
-  "url": "https://doi.org/10.1007/s10460-026-10918-1",
-  "venue": "Agriculture and Human Values",
-  "why": "Shows how scientific knowledge functions (and frictions) in TD learning with local actors — knowledge hierarchies in practice.",
-  "wildcard": false
+ "authors": "Sandoval, Temudo",
+ "caveat": "Agricultural context in West Africa.",
+ "date": "2026-06-11",
+ "doi": "10.1007/s10460-026-10918-1",
+ "kind": "paper",
+ "lang": "en",
+ "run": "2026-09-19",
+ "score": 4,
+ "source": "Crossref",
+ "status": "new",
+ "themes": [
+  "td",
+  "dec"
+ ],
+ "title": "Dikes in friction: scientific knowledge as a bridge in transdisciplinary learning with mangrove swamp rice farmers",
+ "url": "https://doi.org/10.1007/s10460-026-10918-1",
+ "venue": "Agriculture and Human Values",
+ "why": "Shows how scientific knowledge functions (and frictions) in TD learning with local actors — knowledge hierarchies in practice.",
+ "wildcard": false,
+ "abstract": "Abstract This paper examines how transdisciplinary learning can occur among farmers and the roles that scientific knowledge and researchers play in this process. It presents a case of constructing earthen dikes to reclaim smallholder rice polders from mangrove swamps in Guinea-Bissau. As participatory action researchers, we sought to bridge different local knowledges on dike construction through collaborative dike-building activities. Our findings highlight the diversity and highly contextual nature of these knowledges, shaped by socio-environmental factors such as labour organisation and soil and vegetation characteristics. Frictions between farmers’ local knowledges reveal that situated power asymmetries can also emerge among farmer groups. We show that transdisciplinary learning unfolds across scales, over time, and through subtle, friction-laden interactions, as divergences between knowledge systems are worked through via situated acts of translation, or making sense within each other’s frames. Scientific knowledge, in this process, functions not as a dominant framework but as a bridging tool that supports mutual intelligibility across contexts. We argue that transdisciplinary learning does not necessarily occur through the integration of knowledge systems, but through partial and iterative processes of translation that reconfigure, rather than resolve, friction. This calls for a critical rethinking of how learning and progress are understood and evaluated in transdisciplinary research and practice.",
+ "abstractSource": "OpenAlex"
 }

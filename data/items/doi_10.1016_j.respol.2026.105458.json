@@ -1,22 +1,24 @@
 {
-  "authors": "Bauwens, Calisto Friant, Beumer",
-  "caveat": "It sits in innovation studies, so the typology is sharper on technology policy than on pedagogy; check whether the categories survive being applied to a classroom.",
-  "date": "2026-03-03",
-  "doi": "10.1016/j.respol.2026.105458",
-  "kind": "paper",
-  "lang": "en",
-  "run": "2026-10-05",
-  "score": 5,
-  "source": "Web search + publisher page (Crossref API blocked)",
-  "status": "new",
-  "themes": [
-    "dec",
-    "td",
-    "eco"
-  ],
-  "title": "Pluriversal technologies: A decolonial typology of knowledge integration for disruptive sustainability",
-  "url": "https://doi.org/10.1016/j.respol.2026.105458",
-  "venue": "Research Policy",
-  "why": "A decolonial typology of how knowledge gets integrated is the most usable thing the radar has turned up for the Santos strand of your CARN workshop, and it gives you language for deciding who counts as a knowledge partner in Digital Twin Flevoland.",
-  "wildcard": false
+ "authors": "Bauwens, Calisto Friant, Beumer",
+ "caveat": "It sits in innovation studies, so the typology is sharper on technology policy than on pedagogy; check whether the categories survive being applied to a classroom.",
+ "date": "2026-03-03",
+ "doi": "10.1016/j.respol.2026.105458",
+ "kind": "paper",
+ "lang": "en",
+ "run": "2026-10-05",
+ "score": 5,
+ "source": "Web search + publisher page (Crossref API blocked)",
+ "status": "new",
+ "themes": [
+  "dec",
+  "td",
+  "eco"
+ ],
+ "title": "Pluriversal technologies: A decolonial typology of knowledge integration for disruptive sustainability",
+ "url": "https://doi.org/10.1016/j.respol.2026.105458",
+ "venue": "Research Policy",
+ "why": "A decolonial typology of how knowledge gets integrated is the most usable thing the radar has turned up for the Santos strand of your CARN workshop, and it gives you language for deciding who counts as a knowledge partner in Digital Twin Flevoland.",
+ "wildcard": false,
+ "abstract": "Amid accelerating socio-ecological crises—climate breakdown, mass extinctions and widening inequalities—there is an urgent need for transformative approaches that address root causes rather than symptoms. Disruptive sustainability seeks such transformations; however, it remains theoretically underdeveloped regarding how radically different knowledge systems can work together across the life-cycle of technologies. Drawing on science and technology studies and decolonial scholarship, we build a decolonial typology of knowledge integration in ‘pluriversal technologies’—technologies co-designed, co-produced and co-owned across epistemic communities. We identify four modes: extractive appropriation, parallel operation, adaptive integration and transformative integration. We demonstrate how each appears along the design, production and ownership dimensions of a technology's life-cycle. This study makes three contributions. First, by demonstrating that a single technology can occupy different integration modes across its life-cycle, it exposes the dimensional unevenness that often derails ostensibly collaborative initiatives. Second, it moves beyond binary treatments of integration to a graded, four-mode framework. Third, it identifies catalytic mechanisms—such as trust building, co-learning, shared governance, recognition and reparation—that enable initiatives to shift between modes. This typology enriches research on disruptive sustainability by clarifying how diverse knowledge systems can collaborate or clash and by mapping routes toward more just, sustainable and effective innovation. • Decolonial typology of knowledge integration in pluriversal technologies • Four modes: extractive, parallel, adaptive and transformative • Integration varies across design, production and ownership phases • Identifies mechanisms enabling shifts between integration modes • Moves sustainability transitions beyond participatory/not-participatory framings",
+ "abstractSource": "OpenAlex"
 }

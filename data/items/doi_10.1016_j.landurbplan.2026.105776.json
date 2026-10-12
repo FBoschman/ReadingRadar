@@ -1,21 +1,23 @@
 {
-  "authors": "Hu, Lima",
-  "caveat": "Stated-preference method; choices are hypothetical.",
-  "date": "2027-02",
-  "doi": "10.1016/j.landurbplan.2026.105776",
-  "kind": "paper",
-  "lang": "en",
-  "run": "2026-09-21",
-  "score": 3,
-  "source": "Journal watch: Landscape and Urban Planning",
-  "status": "new",
-  "themes": [
-    "par",
-    "eco"
-  ],
-  "title": "Urban park biodiversity preferences and trade-offs: A comparison between residents and professionals using Adaptive Choice-Based Conjoint analysis",
-  "url": "https://doi.org/10.1016/j.landurbplan.2026.105776",
-  "venue": "Landscape and Urban Planning",
-  "why": "Residents and professionals compared directly on the same choices - evidence for the knowledge asymmetry the CDC Urban Innovation course is about.",
-  "wildcard": false
+ "authors": "Hu, Lima",
+ "caveat": "Stated-preference method; choices are hypothetical.",
+ "date": "2027-02",
+ "doi": "10.1016/j.landurbplan.2026.105776",
+ "kind": "paper",
+ "lang": "en",
+ "run": "2026-09-21",
+ "score": 3,
+ "source": "Journal watch: Landscape and Urban Planning",
+ "status": "new",
+ "themes": [
+  "par",
+  "eco"
+ ],
+ "title": "Urban park biodiversity preferences and trade-offs: A comparison between residents and professionals using Adaptive Choice-Based Conjoint analysis",
+ "url": "https://doi.org/10.1016/j.landurbplan.2026.105776",
+ "venue": "Landscape and Urban Planning",
+ "why": "Residents and professionals compared directly on the same choices - evidence for the knowledge asymmetry the CDC Urban Innovation course is about.",
+ "wildcard": false,
+ "abstract": "Urban parks are important biodiversity hotspots as well as recreational spaces in cities. It is desirable for urban residents to derive pleasure from parks that also embody biodiversity values due to their ecological and health benefits. Despite the evidence that urban residents are happier and healthier when they have access to green spaces of good quality, it remains unclear how residents prioritise biodiversity when considering the joint effects of other green space attributes, and how these priorities differ from those of landscape/ecology professionals. We used Adaptive Choice-Based Conjoint (ACBC) analysis to examine how biodiversity was prioritised in trade-offs with other important park attributes among residents and professionals. The ACBC study was conducted in Hangzhou (N = 187) and Shanghai (N = 194), two cities in eastern China. Utility values and average importances were estimated using Hierarchical Bayes (HB). While both residents and professionals preferred higher biodiversity levels, biodiversity improvements from poor to moderate yielded greater utility gains than from moderate to rich. Residents prioritised facilities over biodiversity when making trade-offs, whereas professionals prioritised biodiversity as the most important park attribute and valued it significantly more than residents. In both groups, preferences for higher biodiversity were associated with preferences for fewer facilities, denser tree cover, and low-maintenance, wild-looking landscapes. Urban park planning may prioritise biodiversity enhancement in biodiversity-poor sites over further enhancement in biodiversity-moderate sites to optimise resource allocation. Professionals should account for differences between their own preferences and those of residents, while recognising the importance of managing biodiversity-amenity trade-offs and supporting the coexistence of both objectives.",
+ "abstractSource": "OpenAlex"
 }

@@ -1,21 +1,23 @@
 {
-  "authors": "Samuel",
-  "caveat": "Single author, theory only; nothing shows co-agency is empirically distinguishable from offloading.",
-  "date": "2026-03-16",
-  "doi": "10.1016/j.caeai.2026.100573",
-  "kind": "paper",
-  "lang": "en",
-  "run": "2026-10-05",
-  "score": 4,
-  "source": "Journal watch: Computers and Education: Artificial Intelligence (via web search; Crossref blocked)",
-  "status": "new",
-  "themes": [
-    "ai",
-    "pc"
-  ],
-  "title": "Learning with machines: Toward a theory of epistemic co-agency",
-  "url": "https://doi.org/10.1016/j.caeai.2026.100573",
-  "venue": "Computers and Education: Artificial Intelligence",
-  "why": "Proposes 'epistemic co-agency' as the positive term the cognitive-offloading literature on your radar keeps lacking.",
-  "wildcard": false
+ "authors": "Samuel",
+ "caveat": "Single author, theory only; nothing shows co-agency is empirically distinguishable from offloading.",
+ "date": "2026-03-16",
+ "doi": "10.1016/j.caeai.2026.100573",
+ "kind": "paper",
+ "lang": "en",
+ "run": "2026-10-05",
+ "score": 4,
+ "source": "Journal watch: Computers and Education: Artificial Intelligence (via web search; Crossref blocked)",
+ "status": "new",
+ "themes": [
+  "ai",
+  "pc"
+ ],
+ "title": "Learning with machines: Toward a theory of epistemic co-agency",
+ "url": "https://doi.org/10.1016/j.caeai.2026.100573",
+ "venue": "Computers and Education: Artificial Intelligence",
+ "why": "Proposes 'epistemic co-agency' as the positive term the cognitive-offloading literature on your radar keeps lacking.",
+ "wildcard": false,
+ "abstract": "The rapid integration of generative AI (GenAI) systems into educational settings necessitates a reevaluation of how learners reason, construct, and assume responsibility for knowledge. Existing learning theories like constructivism, sociocultural theory, and connectivism presume human-centered epistemic agency and fail to account for the ways GenAI simulates reasoning, reframes arguments, and co-constructs meaning. This paper introduces the Epistemic Entanglement Framework, a theory-informed model that captures how learners engage with AI systems. Drawing on distributed cognition, sociomaterialism, and posthumanist theory, the framework proposes epistemic co-agency as a reflexive stance wherein learners engage AI outputs dialectically—challenging assumptions, surfacing contradictions, and asserting epistemic sovereignty. Instructional and assessment implications are discussed, emphasizing the need to design for epistemic transformation, not just task efficiency. Ultimately, this work argues that the central challenge of AI in education is not technological fluency, but the cultivation of learners who can reason with, through, and against generative systems. As AI becomes a durable presence in learning, education must focus not only on what students know, but on how they engage with GenAI systems to create knowledge.",
+ "abstractSource": "OpenAlex"
 }

@@ -1,21 +1,22 @@
 {
-  "authors": "Sjolie, Rodsjo, Van Petegem",
-  "caveat": "Instrument validation; collaboration is reduced to self-reported skill.",
-  "date": "2026-09-19",
-  "doi": "10.1080/03075079.2026.2734544",
-  "kind": "paper",
-  "lang": "en",
-  "run": "2026-09-21",
-  "score": 3,
-  "source": "Journal watch: Studies in Higher Education",
-  "status": "new",
-  "themes": [
-    "eco",
-    "pc"
-  ],
-  "title": "Fostering collaboration skills in higher education: the development and validation of the collaboration skills questionnaire (CSQ)",
-  "url": "https://doi.org/10.1080/03075079.2026.2734544",
-  "venue": "Studies in Higher Education",
-  "why": "Sjolie comes from action research, so this instrument is worth checking as a measure people will cite at you when ecosystem learning needs evidence.",
-  "wildcard": false
+ "authors": "Sjolie, Rodsjo, Van Petegem",
+ "caveat": "Instrument validation; collaboration is reduced to self-reported skill.",
+ "date": "2026-09-19",
+ "doi": "10.1080/03075079.2026.2734544",
+ "kind": "paper",
+ "lang": "en",
+ "run": "2026-09-21",
+ "score": 3,
+ "source": "Journal watch: Studies in Higher Education",
+ "status": "new",
+ "themes": [
+  "eco",
+  "pc"
+ ],
+ "title": "Fostering collaboration skills in higher education: the development and validation of the collaboration skills questionnaire (CSQ)",
+ "url": "https://doi.org/10.1080/03075079.2026.2734544",
+ "venue": "Studies in Higher Education",
+ "why": "Sjolie comes from action research, so this instrument is worth checking as a measure people will cite at you when ecosystem learning needs evidence.",
+ "wildcard": false,
+ "abstractSource": ""
 }

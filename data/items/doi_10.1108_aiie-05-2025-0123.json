@@ -1,22 +1,24 @@
 {
-  "authors": "Hingle, Johri",
-  "caveat": "Course-level case; says little about whether the negotiated policy held up.",
-  "date": "2026-09-22",
-  "doi": "10.1108/aiie-05-2025-0123",
-  "kind": "paper",
-  "lang": "en",
-  "run": "2026-09-28",
-  "score": 4,
-  "source": "Crossref",
-  "status": "new",
-  "themes": [
-    "ai",
-    "par",
-    "pc"
-  ],
-  "title": "A guided inquiry approach to students co-designing generative AI course policies",
-  "url": "https://doi.org/10.1108/aiie-05-2025-0123",
-  "venue": "Artificial Intelligence in Education",
-  "why": "Students negotiating the AI rules they will be held to - participatory governance of a curriculum question, and a format you could run in a single session.",
-  "wildcard": false
+ "authors": "Hingle, Johri",
+ "caveat": "Course-level case; says little about whether the negotiated policy held up.",
+ "date": "2026-09-22",
+ "doi": "10.1108/aiie-05-2025-0123",
+ "kind": "paper",
+ "lang": "en",
+ "run": "2026-09-28",
+ "score": 4,
+ "source": "Crossref",
+ "status": "new",
+ "themes": [
+  "ai",
+  "par",
+  "pc"
+ ],
+ "title": "A guided inquiry approach to students co-designing generative AI course policies",
+ "url": "https://doi.org/10.1108/aiie-05-2025-0123",
+ "venue": "Artificial Intelligence in Education",
+ "why": "Students negotiating the AI rules they will be held to - participatory governance of a curriculum question, and a format you could run in a single session.",
+ "wildcard": false,
+ "abstract": "Purpose As generative AI (GenAI) use among students increases, educators face growing questions about how to support learning while addressing ethical and institutional concerns. This exploratory study examines a guided inquiry activity in which students co-designed a GenAI course policy. Design/methodology/approach Students first developed individual policy proposals focused on appropriate and ethical use of GenAI, then collaboratively refined them by incorporating diverse stakeholder perspectives. The following research questions guided the study: (1) what practical factors do students prioritize in their GenAI use policies, and how do they justify these choices? and (2) how do participants reflect on the policy design process? Participants first completed readings, then used GenAI to brainstorm initial policy ideas. Next, they articulated their own perspectives through a written assignment and a course policy they designed individually. Finally, they incorporated diverse stakeholder perspectives by collaborating with peers to develop a collective policy. Findings Analysis of student artifacts and group discussions showed that participants prioritized training for students and instructors, standardized procedures for disclosing AI use, and stronger institutional support. Participants also wanted greater involvement in GenAI-related decision-making. They described the policy design process as a way to engage with multiple perspectives and the inherent trade-offs involved in governing AI use. Originality/value This study offers pedagogical insights into how policy Co-design activities can surface student values, concerns, and sensemaking about GenAI in educational contexts.",
+ "abstractSource": "OpenAlex"
 }

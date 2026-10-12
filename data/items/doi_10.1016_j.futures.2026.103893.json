@@ -1,22 +1,23 @@
 {
-  "authors": "Jules, Parker",
-  "caveat": "Conceptual essay: 'process tracing' is named as the method but never shown, and no Caribbean classroom, teacher or student appears as data.",
-  "date": "2026-10",
-  "doi": "10.1016/j.futures.2026.103893",
-  "kind": "paper",
-  "lang": "en",
-  "run": "2026-09-21",
-  "score": 5,
-  "source": "Crossref · full text read 28 Sep",
-  "status": "new",
-  "themes": [
-    "dec",
-    "eco",
-    "td"
-  ],
-  "title": "From Afro-pessimism to Afrofuturism: Epistemic educational justice through reparations - Lessons for CARICOM countries",
-  "url": "https://doi.org/10.1016/j.futures.2026.103893",
-  "venue": "Futures",
-  "why": "Argues that curriculum grounded in Afrofuturism and reparatory justice is a route to epistemic justice in education — a pluriversal counterpart to your decolonial line, and a foil for the Santos strand in 'Substrate Matters'.",
-  "wildcard": false
+ "authors": "Jules, Parker",
+ "caveat": "Conceptual essay: 'process tracing' is named as the method but never shown, and no Caribbean classroom, teacher or student appears as data.",
+ "date": "2026-10",
+ "doi": "10.1016/j.futures.2026.103893",
+ "kind": "paper",
+ "lang": "en",
+ "run": "2026-09-21",
+ "score": 5,
+ "source": "Crossref · full text read 28 Sep",
+ "status": "new",
+ "themes": [
+  "dec",
+  "eco",
+  "td"
+ ],
+ "title": "From Afro-pessimism to Afrofuturism: Epistemic educational justice through reparations - Lessons for CARICOM countries",
+ "url": "https://doi.org/10.1016/j.futures.2026.103893",
+ "venue": "Futures",
+ "why": "Argues that curriculum grounded in Afrofuturism and reparatory justice is a route to epistemic justice in education — a pluriversal counterpart to your decolonial line, and a foil for the Santos strand in 'Substrate Matters'.",
+ "wildcard": false,
+ "abstractSource": ""
 }

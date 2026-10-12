@@ -1,21 +1,23 @@
 {
-  "authors": "Yen, Wolkenhauer",
-  "caveat": "Efficacy constructs measure belief, not inquiry quality.",
-  "date": "2026-09-20",
-  "doi": "10.1080/19415257.2026.2734909",
-  "kind": "paper",
-  "lang": "en",
-  "run": "2026-09-21",
-  "score": 4,
-  "source": "Crossref",
-  "status": "new",
-  "themes": [
-    "pc",
-    "par"
-  ],
-  "title": "In support of collective teacher efficacy: tapping into sources of efficacy in a practitioner inquiry community",
-  "url": "https://doi.org/10.1080/19415257.2026.2734909",
-  "venue": "Professional Development in Education",
-  "why": "Practitioner inquiry as a collective rather than individual capacity - close to the onderzoekend vermogen debate in Dutch hbo.",
-  "wildcard": false
+ "authors": "Yen, Wolkenhauer",
+ "caveat": "Efficacy constructs measure belief, not inquiry quality.",
+ "date": "2026-09-20",
+ "doi": "10.1080/19415257.2026.2734909",
+ "kind": "paper",
+ "lang": "en",
+ "run": "2026-09-21",
+ "score": 4,
+ "source": "Crossref",
+ "status": "new",
+ "themes": [
+  "pc",
+  "par"
+ ],
+ "title": "In support of collective teacher efficacy: tapping into sources of efficacy in a practitioner inquiry community",
+ "url": "https://doi.org/10.1080/19415257.2026.2734909",
+ "venue": "Professional Development in Education",
+ "why": "Practitioner inquiry as a collective rather than individual capacity - close to the onderzoekend vermogen debate in Dutch hbo.",
+ "wildcard": false,
+ "abstract": "Recent research has indicated the significance of collective teacher efficacy (CTE), with publications highlighting CTE’s positive association with teachers’ good job- and health-related outcomes. Although teacher professional learning is recognised as a key contributor to the development of CTE, there has not been much investigation into the specific efficacy-shaping sources in professional learning settings. This case study explores sources of CTE in a practitioner inquiry community within a school–university partnership in the United States. Qualitative interviews that included emotion-focused reflections and social network mapping were collected and analysed using Bandura’s four sources of efficacy. This analysis led to sixteen aspects of professional learning experiences that tapped into the efficacy-shaping sources within the inquiry community. The findings highlight the significance of all four sources, particularly social persuasion and emotional states, which have been underexplored in prior research. Findings suggest that teacher educators can support CTE by designing shared, collaborative learning spaces, creating opportunities for educators to publicise their practices, and fostering professional dialogue that builds the relational trust needed for intentional collaboration.",
+ "abstractSource": "OpenAlex"
 }

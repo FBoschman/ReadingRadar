@@ -1,0 +1,24 @@
+{
+ "id": "doi_10.1016_j.geoforum.2026.104768",
+ "kind": "paper",
+ "title": "Sedimentary fixations: Bordering governance approaches and ontologies in Dutch Wadden coastal sandscapes",
+ "authors": "Mumford, Toonen, Bush",
+ "venue": "Geoforum",
+ "date": "2026-11",
+ "url": "https://doi.org/10.1016/j.geoforum.2026.104768",
+ "doi": "10.1016/j.geoforum.2026.104768",
+ "lang": "",
+ "source": "Journal watch: Geoforum",
+ "run": "2026-10-12",
+ "abstract": "",
+ "themeGuess": [],
+ "found": "2026-10-12T12:53:02",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ }
+}

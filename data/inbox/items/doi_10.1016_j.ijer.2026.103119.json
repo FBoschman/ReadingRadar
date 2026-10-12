@@ -1,0 +1,24 @@
+{
+ "id": "doi_10.1016_j.ijer.2026.103119",
+ "kind": "paper",
+ "title": "Why should I leave? - The development of teacher attrition intentions in Dutch secondary schools",
+ "authors": "de Jong-Kroon, Vrieling-Teunter, Vermeulen",
+ "venue": "International Journal of Educational Research",
+ "date": "2027",
+ "url": "https://doi.org/10.1016/j.ijer.2026.103119",
+ "doi": "10.1016/j.ijer.2026.103119",
+ "lang": "",
+ "source": "Journal watch: International Journal of Educational Research",
+ "run": "2026-10-12",
+ "abstract": "",
+ "themeGuess": [],
+ "found": "2026-10-12T12:53:04",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ }
+}

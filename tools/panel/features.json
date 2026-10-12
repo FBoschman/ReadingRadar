@@ -1,0 +1,33 @@
+{
+ "frozenAt": "2026-10-12",
+ "build": "commit b158a49 and later, the local cycle release",
+ "note": "This list is frozen for the whole panel. A finding that asks for a different specification changes the feature for the NEXT round; it does not change this list inside a round.",
+ "coreLoop": ["F01", "F04", "F06", "F08", "F09", "F11", "F16", "F23"],
+ "features": [
+  {"id": "F01", "name": "Open the radar and see the state of the week", "section": "Digest", "criterion": "The first screen states the week, the headline and whether the data is current, without a click.", "tasks": ["T01", "T10", "T11"]},
+  {"id": "F02", "name": "Reach the items that the digest names", "section": "Digest", "criterion": "Every item that the digest discusses can be opened from the digest.", "tasks": ["T01"]},
+  {"id": "F03", "name": "See the must-read set of the run", "section": "Digest", "criterion": "The must-read items are marked where the reader meets them, not only in the digest.", "tasks": ["T01", "T07"]},
+  {"id": "F04", "name": "Browse the whole collection", "section": "Browse", "criterion": "All items are reachable and the count shown matches the collection.", "tasks": ["T01", "T06", "T09", "T13"]},
+  {"id": "F05", "name": "Filter by theme, status, kind, run and score", "section": "Browse", "criterion": "A filter narrows the list and the count explains what is shown.", "tasks": ["T02", "T07", "T13"]},
+  {"id": "F06", "name": "Search the collection", "section": "Browse", "criterion": "A search reaches the text a reader would search for, including the abstract and the themes.", "tasks": ["T01", "T02", "T06", "T07", "T13"]},
+  {"id": "F07", "name": "Order the list for the task at hand", "section": "Browse", "criterion": "At least one order serves a real task (newest, strongest, by run).", "tasks": ["T02", "T07"]},
+  {"id": "F08", "name": "Open one item and read its record", "section": "Judge", "criterion": "The record holds the why, the caveat, the metadata, the DOI and the source, without leaving the page.", "tasks": ["T01", "T02", "T07", "T09"]},
+  {"id": "F09", "name": "See the abstract that the why was written from", "section": "Judge", "criterion": "Where a source carried an abstract, the reader can read it.", "tasks": ["T01", "T02", "T07", "T13"]},
+  {"id": "F10", "name": "See the provenance of the record", "section": "Judge", "criterion": "The reader can tell where the metadata came from, who wrote the why and how exact the date is.", "tasks": ["T02", "T07"]},
+  {"id": "F11", "name": "Mark an item keep, maybe or skip", "section": "Act", "criterion": "The reader can record a decision and it reaches the data, so the next run can calibrate on it.", "tasks": ["T01", "T03", "T07", "T13"]},
+  {"id": "F12", "name": "See what the radar learned from the triage", "section": "Act", "criterion": "The effect of the reader's decisions on scoring is visible.", "tasks": ["T03", "T07"]},
+  {"id": "F13", "name": "See the coverage of the journal watch", "section": "Signals", "criterion": "For each watched journal it is clear whether the last run swept it and what it produced.", "tasks": ["T05"]},
+  {"id": "F14", "name": "See which sources failed", "section": "Signals", "criterion": "A failed source is named with a short reason, where the reader will meet it.", "tasks": ["T11"]},
+  {"id": "F15", "name": "See that the data is stale", "section": "Signals", "criterion": "The age of the data is visible and a silent radar is obvious.", "tasks": ["T11"]},
+  {"id": "F16", "name": "See the wiki state of an item", "section": "Act", "criterion": "For an item the reader can see whether an intake note exists, its name, and whether it was ingested.", "tasks": ["T01", "T03", "T04", "T07"]},
+  {"id": "F17", "name": "Follow an item into the wiki", "section": "Act", "criterion": "The intake note and the wiki page it fed can be reached from the radar record.", "tasks": ["T03", "T04"]},
+  {"id": "F18", "name": "Correct or repeat a wiki note", "section": "Act", "criterion": "A note can be rewritten when the score or the why changes.", "tasks": ["T03"]},
+  {"id": "F19", "name": "Carry thinker candidates into the note", "section": "Act", "criterion": "The frontmatter fields the ingest pipeline needs are filled or honestly empty.", "tasks": ["T04"]},
+  {"id": "F20", "name": "Browse the roots documents", "section": "Roots", "criterion": "The lineage documents are reachable with their strands, narrative and references.", "tasks": ["T14"]},
+  {"id": "F21", "name": "Start a roots trace from an item", "section": "Roots", "criterion": "A reader can ask for the roots of a chosen paper from the interface.", "tasks": ["T14"]},
+  {"id": "F22", "name": "See the queue of roots drafts", "section": "Roots", "criterion": "Drafts that wait for a narrative are visible and countable.", "tasks": ["T14"]},
+  {"id": "F23", "name": "Browse and judge the candidate queue", "section": "Act", "criterion": "The candidates from the harvest can be read, filtered and scored inside the radar.", "tasks": ["T01", "T07", "T13"]},
+  {"id": "F24", "name": "Act on the health advice", "section": "Signals", "criterion": "The advice names the next action and the reason, in the order of importance.", "tasks": ["T01", "T11"]},
+  {"id": "F25", "name": "Run and inspect the weekly cycle", "section": "Operator", "criterion": "The operator can run the cycle, see what it did and read the log of the last run.", "tasks": ["T08", "T11"]}
+ ]
+}

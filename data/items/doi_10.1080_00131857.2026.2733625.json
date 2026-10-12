@@ -1,20 +1,22 @@
 {
-  "authors": "Lenehan",
-  "caveat": "Philosophical reading of traditions rather than empirical work with communities.",
-  "date": "2026-09-20",
-  "doi": "10.1080/00131857.2026.2733625",
-  "kind": "paper",
-  "lang": "en",
-  "run": "2026-09-21",
-  "score": 4,
-  "source": "Journal watch: Educational Philosophy and Theory",
-  "status": "new",
-  "themes": [
-    "dec"
-  ],
-  "title": "Plural wisdoms in disaster: Responses from traditional thought and educational implications in Taiwan",
-  "url": "https://doi.org/10.1080/00131857.2026.2733625",
-  "venue": "Educational Philosophy and Theory",
-  "why": "Non-Western knowledge traditions taken seriously as educational resources in a crisis setting - an ecology-of-knowledges case outside the usual Latin American and African references.",
-  "wildcard": false
+ "authors": "Lenehan",
+ "caveat": "Philosophical reading of traditions rather than empirical work with communities.",
+ "date": "2026-09-20",
+ "doi": "10.1080/00131857.2026.2733625",
+ "kind": "paper",
+ "lang": "en",
+ "run": "2026-09-21",
+ "score": 4,
+ "source": "Journal watch: Educational Philosophy and Theory",
+ "status": "new",
+ "themes": [
+  "dec"
+ ],
+ "title": "Plural wisdoms in disaster: Responses from traditional thought and educational implications in Taiwan",
+ "url": "https://doi.org/10.1080/00131857.2026.2733625",
+ "venue": "Educational Philosophy and Theory",
+ "why": "Non-Western knowledge traditions taken seriously as educational resources in a crisis setting - an ecology-of-knowledges case outside the usual Latin American and African references.",
+ "wildcard": false,
+ "abstract": "This text explores how Taiwan, in the face of frequent natural disasters integrates traditional thought to build disaster resilience. Taiwanese people do not respond to disasters in a disjointed way, but instead flexibly apply the triple wisdoms of Buddhism, Confucianism, and Daoism. Buddhist thought assists individuals in transforming suffering and accepting the impermanence of life; Confucian ethics inspire social responsibility through ‘humanness’ (ren) and ‘righteousness’ (yi), strengthening mutual aid and connections within the community; while Daoist philosophy guides people to recognize human limits and pursue harmonious coexistence with nature. Although each tends to manifest more prominently at different levels, they are not confined to the levels we have analytically distinguished. In fact, these three traditions are themselves cross-level in character; they intersect and overlap with one another, forming a dynamic relationship of complementarity. This plurality of practices is not a mere patchwork, but forms a complementary system endowed with intellectual flexibility. Such an approach suggests that modern education should move beyond a purely technical or procedural orientation and instead cultivate learners’ integrative capacities. In this sense, integration does not imply a theoretical unification, but rather a context-sensitive judgment in practice—a flexibility of thought arising from engagement with multiple traditions.",
+ "abstractSource": "OpenAlex"
 }

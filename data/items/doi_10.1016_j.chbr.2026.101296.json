@@ -1,20 +1,22 @@
 {
-  "authors": "Raccanello, Burro, Vicentini",
-  "caveat": "Self-report survey; antecedent claims are correlational.",
-  "date": "2026-12",
-  "doi": "10.1016/j.chbr.2026.101296",
-  "kind": "paper",
-  "lang": "en",
-  "run": "2026-09-21",
-  "score": 3,
-  "source": "Crossref",
-  "status": "new",
-  "themes": [
-    "ai"
-  ],
-  "title": "How do higher education students feel using ChatGPT? A multi-country survey on epistemic emotions and their antecedents",
-  "url": "https://doi.org/10.1016/j.chbr.2026.101296",
-  "venue": "Computers in Human Behavior Reports",
-  "why": "Epistemic emotions are an underused lens on AI use - closer to what students actually experience than competence checklists.",
-  "wildcard": false
+ "authors": "Raccanello, Burro, Vicentini",
+ "caveat": "Self-report survey; antecedent claims are correlational.",
+ "date": "2026-12",
+ "doi": "10.1016/j.chbr.2026.101296",
+ "kind": "paper",
+ "lang": "en",
+ "run": "2026-09-21",
+ "score": 3,
+ "source": "Crossref",
+ "status": "new",
+ "themes": [
+  "ai"
+ ],
+ "title": "How do higher education students feel using ChatGPT? A multi-country survey on epistemic emotions and their antecedents",
+ "url": "https://doi.org/10.1016/j.chbr.2026.101296",
+ "venue": "Computers in Human Behavior Reports",
+ "why": "Epistemic emotions are an underused lens on AI use - closer to what students actually experience than competence checklists.",
+ "wildcard": false,
+ "abstract": "Epistemic emotions concerning knowledge building or generation are important for higher education (HE) students, yet little is known about how they relate to generative artificial intelligence (AI). Guided by Pekrun’s generalized Control-Value Theory (CVT), we examined epistemic emotions associated with ChatGPT use. The sample comprised 11,427 HE students representing 127 countries (based on self-reported citizenship), who completed an online survey. Structural equation modeling showed positive relations between ChatGPT use and ChatGPT control and value. ChatGPT control was positively related to curiosity and negatively related to surprise, enjoyment, anxiety, frustration, and boredom, whereas ChatGPT value was positively related to the three positive emotions and anxiety, and negatively related to the remaining negative emotions (i.e., confusion, frustration, and boredom). The model showed broad comparability across the gender, study field, and developmental-context groups represented in the sample, providing qualified support for the cross-group stability of the relations proposed by the CVT. A linear mixed model indicated that positive emotions were more frequent than negative emotions and identified modest differences across developmental contexts. Overall, these findings provide descriptive evidence of how ChatGPT use, control, and value are associated with HE students’ epistemic emotions and may inform the future development and evaluation of educational practices, while not supporting causal or prescriptive policy conclusions.",
+ "abstractSource": "OpenAlex"
 }

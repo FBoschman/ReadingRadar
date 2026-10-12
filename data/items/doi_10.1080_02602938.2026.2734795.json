@@ -1,21 +1,23 @@
 {
-  "authors": "Weidlich",
-  "caveat": "Conceptual; no empirical test of the proposed reasoning.",
-  "date": "2026-09-20",
-  "doi": "10.1080/02602938.2026.2734795",
-  "kind": "paper",
-  "lang": "en",
-  "run": "2026-09-21",
-  "score": 4,
-  "source": "Crossref",
-  "status": "new",
-  "themes": [
-    "ai",
-    "pc"
-  ],
-  "title": "Which inference is at risk? Assessment validity reasoning and generative AI",
-  "url": "https://doi.org/10.1080/02602938.2026.2734795",
-  "venue": "Assessment & Evaluation in Higher Education",
-  "why": "Asks which inference an assessment actually licenses once AI is in the loop - a cleaner question than the usual integrity panic, and directly usable in curriculum arguments.",
-  "wildcard": false
+ "authors": "Weidlich",
+ "caveat": "Conceptual; no empirical test of the proposed reasoning.",
+ "date": "2026-09-20",
+ "doi": "10.1080/02602938.2026.2734795",
+ "kind": "paper",
+ "lang": "en",
+ "run": "2026-09-21",
+ "score": 4,
+ "source": "Crossref",
+ "status": "new",
+ "themes": [
+  "ai",
+  "pc"
+ ],
+ "title": "Which inference is at risk? Assessment validity reasoning and generative AI",
+ "url": "https://doi.org/10.1080/02602938.2026.2734795",
+ "venue": "Assessment & Evaluation in Higher Education",
+ "why": "Asks which inference an assessment actually licenses once AI is in the loop - a cleaner question than the usual integrity panic, and directly usable in curriculum arguments.",
+ "wildcard": false,
+ "abstract": "Generative artificial intelligence has unsettled higher education assessment because it changes what student performances can reasonably be taken to mean. This conceptual article further develops a validity-centred account of this disruption, distinguishing several problems that are often collapsed in debate: construct underrepresentation, construct-irrelevant variance, attribution of performance, conditional extrapolation, and unsupported score use. It then proposes a practical reasoning sequence for assessment redesign that begins with specifying the intended claim and the AI conditions, proceeds through threat diagnosis and proportionate design response, and ends with local evidence. A compact Validity Reasoning Matrix illustrates how course and program teams can align concerns, threatened inferences, redesigns, and evidence needs. The contribution is both conceptual and practical: it offers a language for moving beyond detection and generic AI-proofing and a usable structure for defending assessment claims in AI-inclusive higher education.",
+ "abstractSource": "OpenAlex"
 }

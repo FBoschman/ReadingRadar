@@ -1,20 +1,22 @@
 {
-  "authors": "Fila, Riach, Funfgeld, Glaser",
-  "caveat": "Adaptation cases only; the typology may not separate approaches that look different but behave the same.",
-  "date": "2026-04-01",
-  "doi": "10.1016/j.envsci.2026.104370",
-  "kind": "paper",
-  "lang": "en",
-  "run": "2026-10-05",
-  "score": 3,
-  "source": "Journal watch: Environmental Science & Policy (via web search; Crossref blocked)",
-  "status": "new",
-  "themes": [
-    "td"
-  ],
-  "title": "Weaving threads of knowledge: Reflecting transdisciplinary approaches and co-production in local climate change adaptation research",
-  "url": "https://doi.org/10.1016/j.envsci.2026.104370",
-  "venue": "Environmental Science & Policy",
-  "why": "Compares co-production approaches by what each one actually produces as knowledge - useful when choosing a form of co-production rather than defaulting to one.",
-  "wildcard": false
+ "authors": "Fila, Riach, Funfgeld, Glaser",
+ "caveat": "Adaptation cases only; the typology may not separate approaches that look different but behave the same.",
+ "date": "2026-04-01",
+ "doi": "10.1016/j.envsci.2026.104370",
+ "kind": "paper",
+ "lang": "en",
+ "run": "2026-10-05",
+ "score": 3,
+ "source": "Journal watch: Environmental Science & Policy (via web search; Crossref blocked)",
+ "status": "new",
+ "themes": [
+  "td"
+ ],
+ "title": "Weaving threads of knowledge: Reflecting transdisciplinary approaches and co-production in local climate change adaptation research",
+ "url": "https://doi.org/10.1016/j.envsci.2026.104370",
+ "venue": "Environmental Science & Policy",
+ "why": "Compares co-production approaches by what each one actually produces as knowledge - useful when choosing a form of co-production rather than defaulting to one.",
+ "wildcard": false,
+ "abstract": "Despite the growing prominence of knowledge co-production in transdisciplinary adaptation research, there is still limited understanding of how different co-production approaches shape transdisciplinary work and its knowledge outcomes. This paper addresses this gap through an ex-post reflexive analysis of a transdisciplinary project on local climate change adaptation (2020–2023) in southwest Germany, conducted by an interdisciplinary team in collaboration with six public administrations (three municipalities and three districts). Drawing on qualitative data such as project documents, interviews, and focus groups, we compare two co-production modes within this project: a normative-procedural (output-oriented) mode oriented to serviceable adaptation knowledge, and a philosophical-analytical (process-oriented) mode oriented to understanding adaptation process within administrations in small municipalities and districts. Across both modes, we examine how positionalities and power relations shaped what could be articulated, prioritised, and institutionalised in transdisciplinary collaboration. We show that output-oriented co-production can generate highly relevant boundary objects that support local adaptation, but it may also stabilise interpretive authority, narrow problem framings, and sideline contestation. Process-oriented co-production, by contrast, enabled deeper inquiry into constraints and enabling conditions within administrations, beyond what an output-driven mode would typically surface, while it brought recurring challenges around roles, ownership of problem framings, and the handling of uncertainty when producing knowledge expected to be actionable. We argue that the key question is not whether co-production “works”, but what it forecloses: different co-production modes influence epistemic authority and closure, highlighting the need to make these trade-offs explicit when designing transdisciplinary adaptation projects with local governments.",
+ "abstractSource": "OpenAlex"
 }

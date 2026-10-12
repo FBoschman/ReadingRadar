@@ -1,21 +1,23 @@
 {
-  "authors": "Elbakidze, Pelyukh, Elmqvist",
-  "caveat": "Metadata only this run. Check whether 'civic ecology practices' is used in Krasny and Tidball's sense or more loosely.",
-  "date": "2026-10-05",
-  "doi": "10.1007/s11625-026-01904-x",
-  "kind": "paper",
-  "lang": "en",
-  "run": "2026-10-12",
-  "score": 3,
-  "source": "Journal watch: Sustainability Science",
-  "status": "new",
-  "themes": [
-    "par",
-    "eco"
-  ],
-  "title": "Greening in turbulent times: insights into civic ecology practices across Ukraine",
-  "url": "https://doi.org/10.1007/s11625-026-01904-x",
-  "venue": "Sustainability Science",
-  "why": "Civic ecology practice where the institutions are not holding. A hard case against the assumption that participatory public-space work needs a stable municipality behind it.",
-  "wildcard": false
+ "authors": "Elbakidze, Pelyukh, Elmqvist",
+ "caveat": "Metadata only this run. Check whether 'civic ecology practices' is used in Krasny and Tidball's sense or more loosely.",
+ "date": "2026-10-05",
+ "doi": "10.1007/s11625-026-01904-x",
+ "kind": "paper",
+ "lang": "en",
+ "run": "2026-10-12",
+ "score": 3,
+ "source": "Journal watch: Sustainability Science",
+ "status": "new",
+ "themes": [
+  "par",
+  "eco"
+ ],
+ "title": "Greening in turbulent times: insights into civic ecology practices across Ukraine",
+ "url": "https://doi.org/10.1007/s11625-026-01904-x",
+ "venue": "Sustainability Science",
+ "why": "Civic ecology practice where the institutions are not holding. A hard case against the assumption that participatory public-space work needs a stable municipality behind it.",
+ "wildcard": false,
+ "abstract": "Abstract Armed conflicts generate profound disruptions to social and ecological systems, weakening institutions, degrading ecosystems, and undermining community resilience. Yet less is known about how grassroots environmental stewardship persists under prolonged crisis conditions. This study examines civic ecology practices in wartime Ukraine to understand how local initiatives sustain environmental stewardship and collective action despite institutional instability and material scarcity. Drawing on qualitative analysis of 76 semi-structured interviews across 20 civic ecology initiatives, including community gardens, park stewardship, Victory Gardens, and school-based greening practices, the study investigates how competencies, meanings, and resources interact in sustaining these initiatives. The analysis combines thematic coding with participatory systems modelling and a system dynamics perspective to explore reinforcing interactions among social capacities, cultural motivations, and resources. The results show that civic ecology practices persist through relational configurations in which leadership, volunteer engagement, and organisational competencies interact with shared meanings of care, recovery, and collective responsibility, while partnerships and resource mobilisation provide enabling conditions for continued activity. These interactions generate reinforcing feedback processes that stabilise participation and allow initiatives to adapt to ongoing disruption. The findings suggest that civic ecology initiatives function as socioecological infrastructures that support cooperation, stewardship, and community resilience in crisis-affected landscapes. By demonstrating how grassroots environmental practices remain viable under conditions of institutional fragility, the study contributes to sustainability science by highlighting the roles of civic action and relational capacities in sustaining socio-ecological resilience during prolonged disruptions.",
+ "abstractSource": "OpenAlex"
 }

@@ -1,23 +1,25 @@
 {
-  "authors": "Maheshwari",
-  "caveat": "Conceptual paper; the author's own MARVI programme is also its main case, and the central concept has no indicator.",
-  "date": "2026-09-01",
-  "doi": "10.1007/s11625-026-01900-1",
-  "kind": "paper",
-  "lang": "en",
-  "ratedAt": "2026-09-28T18:51:57.796Z",
-  "run": "2026-09-19",
-  "score": 3,
-  "source": "Crossref · full text read 28 Sep",
-  "status": "keep",
-  "themes": [
-    "dec",
-    "td",
-    "eco"
-  ],
-  "title": "From compliance to stewardship: a responsibility-centred framework for water governance and policy drawing on the Bhagavad Gita",
-  "url": "https://doi.org/10.1007/s11625-026-01900-1",
-  "venue": "Sustainability Science",
-  "why": "Builds a governance framework from a non-Western philosophical source while keeping analytic discipline — a model, and a target, for pluriversal work. Its 'from consultation to co-responsibility' line also reads as a critique of participatory practice.",
-  "wildcard": true
+ "authors": "Maheshwari",
+ "caveat": "Conceptual paper; the author's own MARVI programme is also its main case, and the central concept has no indicator.",
+ "date": "2026-09-01",
+ "doi": "10.1007/s11625-026-01900-1",
+ "kind": "paper",
+ "lang": "en",
+ "ratedAt": "2026-09-28T18:51:57.796Z",
+ "run": "2026-09-19",
+ "score": 3,
+ "source": "Crossref · full text read 28 Sep",
+ "status": "keep",
+ "themes": [
+  "dec",
+  "td",
+  "eco"
+ ],
+ "title": "From compliance to stewardship: a responsibility-centred framework for water governance and policy drawing on the Bhagavad Gita",
+ "url": "https://doi.org/10.1007/s11625-026-01900-1",
+ "venue": "Sustainability Science",
+ "why": "Builds a governance framework from a non-Western philosophical source while keeping analytic discipline — a model, and a target, for pluriversal work. Its 'from consultation to co-responsibility' line also reads as a critique of participatory practice.",
+ "wildcard": true,
+ "abstract": "Abstract Water governance has grown more sophisticated over the past half-century, yet many water systems remain under severe stress. Aquifers continue to decline, rivers and wetlands continue to degrade, and irrigation and urban water systems face growing pressure from competing demands, pollution and climate variability. This article argues that the paradox reflects a structural imbalance. Contemporary governance is highly developed in instruments of external control, such as licensing, pricing, monitoring and enforcement, but comparatively weak in cultivating the internalised sense of duty, restraint and stewardship that sustains responsible water use when external pressure is absent. As a conceptual and perspective contribution, the article develops a responsibility-centred framework for closing the gap between compliance and stewardship. It draws on four principles from the Bhagavad Gita, read analytically as moral philosophy rather than religious teaching: Dharma as ecological and intergenerational duty; Karma Yoga as collective service and co-responsibility; Sattva as restraint and sufficiency; and Jnana as reflective wisdom and adaptive ethical judgement. Each principle is translated into a concrete institutional design feature: ecological obligation encoded in law, participatory monitoring with formal standing, sufficiency-based extraction thresholds, and professional cultures oriented toward stewardship. Drawing on participatory groundwater management in India, with supporting examples from Bali, the Whanganui settlement in New Zealand, and the johad revival in Rajasthan, the article illustrates that this logic already operates in diverse cultural and legal settings, while making clear that these cases are illustrative rather than causal proof. Groundwater provides the main worked example, but the framework is intended for wider application across community-managed, state-operated and transboundary water systems. It is presented as a complement to, not a substitute for, regulation, incentives and enforcement, and its effectiveness depends on institutional context and enabling conditions. Its central proposal is that the deliberate cultivation of internalised responsibility can be treated as a structural feature of governance and policy design rather than left to individual character.",
+ "abstractSource": "OpenAlex"
 }

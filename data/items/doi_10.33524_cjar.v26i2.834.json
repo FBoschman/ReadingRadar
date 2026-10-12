@@ -1,21 +1,23 @@
 {
-  "authors": "Munroe",
-  "caveat": "Canadian schooling context; transfer to Dutch hbo partnerships needs argument.",
-  "date": "2026-09-22",
-  "doi": "10.33524/cjar.v26i2.834",
-  "kind": "paper",
-  "lang": "en",
-  "run": "2026-09-28",
-  "score": 5,
-  "source": "Crossref",
-  "status": "new",
-  "themes": [
-    "par",
-    "dec"
-  ],
-  "title": "Empowered to Lead: Afrocentric Youth Participatory Action Research and the Transformative Possibilities of Black Youth Knowledge Production",
-  "url": "https://doi.org/10.33524/cjar.v26i2.834",
-  "venue": "The Canadian Journal of Action Research",
-  "why": "YPAR framed through Afrocentric epistemology rather than generic 'youth voice' - a concrete case of whose knowledge counts, usable in the CDC Urban Innovation course.",
-  "wildcard": false
+ "authors": "Munroe",
+ "caveat": "Canadian schooling context; transfer to Dutch hbo partnerships needs argument.",
+ "date": "2026-09-22",
+ "doi": "10.33524/cjar.v26i2.834",
+ "kind": "paper",
+ "lang": "en",
+ "run": "2026-09-28",
+ "score": 5,
+ "source": "Crossref",
+ "status": "new",
+ "themes": [
+  "par",
+  "dec"
+ ],
+ "title": "Empowered to Lead: Afrocentric Youth Participatory Action Research and the Transformative Possibilities of Black Youth Knowledge Production",
+ "url": "https://doi.org/10.33524/cjar.v26i2.834",
+ "venue": "The Canadian Journal of Action Research",
+ "why": "YPAR framed through Afrocentric epistemology rather than generic 'youth voice' - a concrete case of whose knowledge counts, usable in the CDC Urban Innovation course.",
+ "wildcard": false,
+ "abstract": "This article examines Afrocentric Youth Participatory Action Research (YPAR) as a liberatory research praxis emerging from a multi-year, youth-led initiative situated within the Centre of Excellence for Black Student Achievement at the Toronto District School Board (TDSB). Drawing on youth-generated research projects, public presentations, creative artifacts, and program survey data developed through the Black Student Summer Leadership Program (BSSLP), the paper analyzes how Black secondary students engage Afrocentric YPAR to investigate anti-Black racism in schooling, affirm identity and belonging, and mobilize research for institutional and community engagement. Grounded in Afrocentric epistemologies, decolonial praxis, and Black feminist thought, Afrocentric YPAR positions youth not as research subjects but as knowledge producers, theorists, and institutional actors. Findings synthesized across multiple cohorts highlight recurring themes related to educational exclusion, mental health and well-being, curriculum representation, and pathways to leadership and futures-making. The article argues that culturally grounded, youth-led research disrupts Eurocentric research logics while advancing epistemic justice in education. By centering Black youth knowledge, creativity, and collective inquiry, this work contributes to scholarship on participatory research, culturally responsive education, and the role of student-authored knowledge in transforming educational systems. Grounded in Afrocentric epistemologies, decolonial praxis, and Black feminist thought, Afrocentric YPAR positions youth not as research subjects but as knowledge producers, theorists, and institutional actors. Findings synthesized across multiple cohorts highlight recurring themes related to educational exclusion, mental health and well-being, curriculum representation, and pathways to leadership and futures-making. The article argues that culturally grounded, youth-led research disrupts Eurocentric research logics while advancing epistemic justice in education. By centering Black youth knowledge, creativity, and collective inquiry, this work contributes to scholarship on participatory research, culturally responsive education, and the role of student-authored knowledge in transforming educational systems.",
+ "abstractSource": "OpenAlex"
 }

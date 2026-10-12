@@ -10,7 +10,7 @@
    ]
   },
   "items": {
-   "documents": 162,
+   "documents": 160,
    "ids": [
     "cons_09e1970107ba",
     "cons_21e7119b0a25",
@@ -26,7 +26,6 @@
     "cons_e53d95bd0991",
     "doi_10.1002_sce.70106",
     "doi_10.1007_s00146-026-02936-8",
-    "doi_10.1007_s00146-026-03160-0",
     "doi_10.1007_s00146-026-03367-1",
     "doi_10.1007_s10212-026-01089-y",
     "doi_10.1007_s10460-026-10918-1",
@@ -162,7 +161,6 @@
     "sg-automatisering",
     "sg-bigquery",
     "sg-gekozen-bestuurders",
-    "sg-geveke-ai-cursus",
     "sg-heinen-letschert",
     "sg-hva-bestuurder-henk-geveke-wil-verplichte-ai-c",
     "sg-lezerspeiling-gevoelig",
@@ -205,42 +203,46 @@
    ]
   },
   "meta": {
-   "documents": 3,
+   "documents": 6,
    "ids": [
     "digest",
     "lastRun",
-    "profile"
+    "policyAllowList",
+    "profile",
+    "sourceHistory",
+    "status"
    ]
   }
  },
- "exportedAt": "2026-10-12",
  "firstExport": "https://claude.ai/artifact/8EnWDz2BWtdGtGu8BqcQhJ",
+ "generatedAt": "2026-10-12",
  "generatedBy": "tools/build_bundle.py (local cycle)",
  "inbox": {
-  "items": 213,
+  "items": 589,
   "lineage": 5
  },
  "itemRunCounts": {
-  "2026-09-19": 42,
+  "2026-09-19": 41,
   "2026-09-21": 26,
   "2026-09-28": 30,
   "2026-10-05": 18,
-  "2026-10-12": 46
+  "2026-10-12": 45
  },
  "itemStatusCounts": {
   "keep": 1,
-  "new": 151,
+  "new": 149,
   "skip": 10
  },
  "itemThemeCounts": {
-  "ai": 41,
+  "ai": 39,
   "cx": 23,
   "dbr": 21,
-  "dec": 53,
-  "eco": 53,
+  "dec": 52,
+  "eco": 52,
   "par": 35,
-  "pc": 44,
+  "pc": 43,
   "td": 39
  },
+ "lastRun": "2026-10-12",
  "layout": "<collection>/<doc_id>.json ; each file is the document body (no wrapper)"
 }

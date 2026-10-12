@@ -1,21 +1,23 @@
 {
-  "authors": "Jackson, Lambert, Coetzee",
-  "caveat": "Conceptual; MDPI journal.",
-  "date": "2026-09-08",
-  "doi": "10.3390/educsci16091466",
-  "kind": "paper",
-  "lang": "en",
-  "run": "2026-09-19",
-  "score": 4,
-  "source": "Crossref",
-  "status": "new",
-  "themes": [
-    "td",
-    "eco"
-  ],
-  "title": "Assessing Transdisciplinary Work-Integrated Learning for Sustainable Development: A Programmatic Approach",
-  "url": "https://doi.org/10.3390/educsci16091466",
-  "venue": "Education Sciences",
-  "why": "Programmatic assessment for TD learning with external partners — practical for curriculum design.",
-  "wildcard": false
+ "authors": "Jackson, Lambert, Coetzee",
+ "caveat": "Conceptual; MDPI journal.",
+ "date": "2026-09-08",
+ "doi": "10.3390/educsci16091466",
+ "kind": "paper",
+ "lang": "en",
+ "run": "2026-09-19",
+ "score": 4,
+ "source": "Crossref",
+ "status": "new",
+ "themes": [
+  "td",
+  "eco"
+ ],
+ "title": "Assessing Transdisciplinary Work-Integrated Learning for Sustainable Development: A Programmatic Approach",
+ "url": "https://doi.org/10.3390/educsci16091466",
+ "venue": "Education Sciences",
+ "why": "Programmatic assessment for TD learning with external partners — practical for curriculum design.",
+ "wildcard": false,
+ "abstract": "This conceptual article responds to the growing need for universities to embed sustainability education within programs to develop graduates capable of addressing complex global challenges. Drawing on the literature relating to education for sustainable development, transdisciplinary work-integrated learning (TWIL), programmatic assessment, and the ethical use of generative artificial intelligence (GenAI), it explores how assessment can support the development and evaluation of capabilities required for sustainable development. TWIL is presented as a curriculum-based pedagogy in which students and academics from multiple disciplines collaborate with external partners to address authentic environmental, social, and economic sustainability challenges. The article argues for a programmatic approach to assessment that supports authentic, collaborative, and longitudinal capability development while addressing contemporary higher education challenges, including academic integrity and the ethical integration of GenAI as a learning partner. Its principal contribution is the integration of these complementary fields into a conceptual framework that guides the design of longitudinal capability development and assessment within TWIL. It further presents an illustrative programmatic assessment framework demonstrating how scaffolded learning experiences, authentic assessment, learner ownership, and multiple sources of evidence can be integrated across a program. It calls for further empirical research to support the programmatic design, implementation, and scalability of TWIL.",
+ "abstractSource": "OpenAlex"
 }

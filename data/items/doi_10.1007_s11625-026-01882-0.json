@@ -1,21 +1,23 @@
 {
-  "authors": "Bruhn, Fang",
-  "caveat": "Abstract not in the metadata; read before citing.",
-  "date": "2026-09-05",
-  "doi": "10.1007/s11625-026-01882-0",
-  "kind": "paper",
-  "lang": "en",
-  "run": "2026-09-19",
-  "score": 5,
-  "source": "Crossref",
-  "status": "new",
-  "themes": [
-    "td",
-    "dec"
-  ],
-  "title": "Beyond the sustainability Drama: Transformative response-ability and relational dynamics in transdisciplinary processes",
-  "url": "https://doi.org/10.1007/s11625-026-01882-0",
-  "venue": "Sustainability Science",
-  "why": "Reads TD processes through relational dynamics and 'response-ability' rather than method — close to your concern with power and who gets to know.",
-  "wildcard": false
+ "authors": "Bruhn, Fang",
+ "caveat": "Abstract not in the metadata; read before citing.",
+ "date": "2026-09-05",
+ "doi": "10.1007/s11625-026-01882-0",
+ "kind": "paper",
+ "lang": "en",
+ "run": "2026-09-19",
+ "score": 5,
+ "source": "Crossref",
+ "status": "new",
+ "themes": [
+  "td",
+  "dec"
+ ],
+ "title": "Beyond the sustainability Drama: Transformative response-ability and relational dynamics in transdisciplinary processes",
+ "url": "https://doi.org/10.1007/s11625-026-01882-0",
+ "venue": "Sustainability Science",
+ "why": "Reads TD processes through relational dynamics and 'response-ability' rather than method — close to your concern with power and who gets to know.",
+ "wildcard": false,
+ "abstract": "Abstract Efforts toward sustainability transformations increasingly rely on effective collaboration among diverse actors. Yet such collaborative processes are frequently undermined by recurring interaction patterns that impede shared responsibility, learning, and effective problem-solving. Drawing on the Drama Triangle from transactional analysis, this article conceptualizes these patterns as a Sustainability Drama, characterized by relational roles of Victim, Persecutor, and Rescuer that stabilize blame, dependency, and over-responsibility in sustainability-related discourse and practice. While existing scholarship has either focused on diagnosing such dysfunctional dynamics or on promoting empowerment-oriented models of collaboration, less attention has been paid to how these dynamics coexist and are navigated in real-world sustainability contexts. In response, this article introduces Transformative Response-Ability (TRA) as a relational and processual capacity that enables individuals and groups to remain constructively engaged in the presence of Drama dynamics without reproducing them or suppressing conflict. Transformative Response-Ability is conceptualized not as an individual mindset or skill, but as a relational field quality that recalibrates responsibility and power toward shared, situated agency. Rather than depicting a linear transition from Drama to empowerment, the article emphasizes the ongoing tension between these dynamics and articulates how TRA supports collective orientation toward more empowering patterns of interaction under conditions of uncertainty, urgency, and moral pressure. By integrating psychodynamic insights with sustainability science, this conceptual contribution advances understanding of why collaborative sustainability efforts so often become stuck and how transformative spaces can support response-able engagement without denying the persistence of conflict. It offers a theoretically grounded framework for rethinking collaboration, facilitation, and collective agency in sustainability transformations.",
+ "abstractSource": "OpenAlex"
 }

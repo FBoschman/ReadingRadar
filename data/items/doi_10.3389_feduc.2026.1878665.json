@@ -1,21 +1,23 @@
 {
-  "authors": "Suazo Galdames, Santiesteban Velázquez, Saracostti",
-  "caveat": "Check inclusion criteria; review quality varies in this journal.",
-  "date": "2026-09-03",
-  "doi": "10.3389/feduc.2026.1878665",
-  "kind": "paper",
-  "lang": "en",
-  "run": "2026-09-19",
-  "score": 4,
-  "source": "Crossref",
-  "status": "new",
-  "themes": [
-    "ai",
-    "pc"
-  ],
-  "title": "Between cognitive offloading and critical autonomy: a systematic review of the epistemic implications of generative AI in higher education",
-  "url": "https://doi.org/10.3389/feduc.2026.1878665",
-  "venue": "Frontiers in Education",
-  "why": "Quick map of evidence on GenAI and epistemic agency for your AI & curriculum papers.",
-  "wildcard": false
+ "authors": "Suazo Galdames, Santiesteban Velázquez, Saracostti",
+ "caveat": "Check inclusion criteria; review quality varies in this journal.",
+ "date": "2026-09-03",
+ "doi": "10.3389/feduc.2026.1878665",
+ "kind": "paper",
+ "lang": "en",
+ "run": "2026-09-19",
+ "score": 4,
+ "source": "Crossref",
+ "status": "new",
+ "themes": [
+  "ai",
+  "pc"
+ ],
+ "title": "Between cognitive offloading and critical autonomy: a systematic review of the epistemic implications of generative AI in higher education",
+ "url": "https://doi.org/10.3389/feduc.2026.1878665",
+ "venue": "Frontiers in Education",
+ "why": "Quick map of evidence on GenAI and epistemic agency for your AI & curriculum papers.",
+ "wildcard": false,
+ "abstract": "Introduction The rapid integration of generative artificial intelligence (GenAI) into higher education has generated increasing concern regarding its influence on students' epistemic agency, critical thinking, and cognitive autonomy. This systematic review synthesizes current evidence on the epistemic implications of GenAI in higher education, with particular emphasis on the tension between cognitive offloading and critical autonomy. Methods Following PRISMA 2020 guidelines, peer-reviewed studies published between 2022 and 2026 were identified through systematic searches in Scopus, the Web of Science Core Collection, and seven education and multidisciplinary databases accessed through EBSCOhost. Eligible studies examined the educational use of generative AI systems such as ChatGPT, Gemini, Claude, and similar large language models within higher education contexts. Data extraction and thematic synthesis were conducted to identify recurring epistemic, cognitive, pedagogical, and ethical patterns across the included studies. Results The findings reveal that GenAI simultaneously functions as a cognitive scaffold and a source of epistemic vulnerability. While AI-assisted learning environments may support feedback literacy, metacognitive reflection, conceptual clarification, and self-regulated learning, uncritical reliance on AI-generated outputs was frequently associated across the included studies with cognitive offloading, automation bias, superficial information processing, diminished analytical engagement, and weakened evaluative judgment. The evidence further suggests that the educational consequences of GenAI are mediated primarily by pedagogical design, AI literacy, and assessment practices rather than by the technology itself. Discussion Overall, the review supports the need for higher education institutions to promote critical AI literacy and pedagogical frameworks capable of preserving epistemic agency, reflective reasoning, and cognitive autonomy in increasingly AI-mediated learning environments. Systematic Review Registration https://www.crd.york.ac.uk/PROSPERO/view/CRD420261390452 , PROSPERO CRD420261390452.",
+ "abstractSource": "OpenAlex"
 }

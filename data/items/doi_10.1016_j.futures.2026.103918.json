@@ -1,21 +1,23 @@
 {
-  "authors": "Ahola-Launonen, Kurki, Lindroth",
-  "caveat": "Conceptual; the examples may be selected to fit the argument.",
-  "date": "2026-12",
-  "doi": "10.1016/j.futures.2026.103918",
-  "kind": "paper",
-  "lang": "en",
-  "run": "2026-09-28",
-  "score": 4,
-  "source": "Journal watch: Futures",
-  "status": "new",
-  "themes": [
-    "cx",
-    "dec"
-  ],
-  "title": "Harmful hopes in sustainability transitions",
-  "url": "https://doi.org/10.1016/j.futures.2026.103918",
-  "venue": "Futures",
-  "why": "Argues that hope itself can do damage in transition work - a corrective to the optimism that living-lab framings tend to require of participants.",
-  "wildcard": false
+ "authors": "Ahola-Launonen, Kurki, Lindroth",
+ "caveat": "Conceptual; the examples may be selected to fit the argument.",
+ "date": "2026-12",
+ "doi": "10.1016/j.futures.2026.103918",
+ "kind": "paper",
+ "lang": "en",
+ "run": "2026-09-28",
+ "score": 4,
+ "source": "Journal watch: Futures",
+ "status": "new",
+ "themes": [
+  "cx",
+  "dec"
+ ],
+ "title": "Harmful hopes in sustainability transitions",
+ "url": "https://doi.org/10.1016/j.futures.2026.103918",
+ "venue": "Futures",
+ "why": "Argues that hope itself can do damage in transition work - a corrective to the optimism that living-lab framings tend to require of participants.",
+ "wildcard": false,
+ "abstract": "In a world of multiple crises and the concomitant need to build sustainable futures, hope has gained growing popular and scientific attention. Hope – often seen and encouraged as precondition for transformation – has attracted scholarly interest in futures research and sustainability studies as well as in social sciences more broadly. By introducing the notion of harmful hope as a critical lens, this introduction to the Special Issue “Harmful Hopes in Sustainability Transitions”, furthers critical examinations of hope’s ambivalence and its so far underexamined power effects. We argue that hope is actively utilised to organise sustainability debates with the effect of marginalising positions that are incompatible with dominant sustainability frameworks. The article presents discourses of techno-fix hope in sustainability transitions as concrete examples of harmful operations of hope. It then moves on to distinguish dynamics of harmful hopes through four premises: affective, epistemic, moral and ontological. Such an illustration brings forth the ways in which hope becomes embedded in structures of emotion, regimes of knowledge, normative expectations, and ontological assumptions about sustainable futures. Accordingly, the article calls for the need to render hope in all its facets analytically visible.",
+ "abstractSource": "OpenAlex"
 }

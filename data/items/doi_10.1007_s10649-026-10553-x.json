@@ -1,21 +1,23 @@
 {
-  "authors": "Davis, Heyd-Metzuyanim",
-  "caveat": "Written for maths education; check how much of the nesting logic survives translation to multi-stakeholder settings.",
-  "date": "2026-09-24",
-  "doi": "10.1007/s10649-026-10553-x",
-  "kind": "paper",
-  "lang": "en",
-  "ratedAt": "2026-10-12T08:09:22.658Z",
-  "run": "2026-09-28",
-  "score": 5,
-  "source": "Crossref",
-  "status": "skip",
-  "themes": [
-    "cx"
-  ],
-  "title": "Nested syntheses: a complexity-informed approach to incommensurability in mathematics education",
-  "url": "https://doi.org/10.1007/s10649-026-10553-x",
-  "venue": "Educational Studies in Mathematics",
-  "why": "Brent Davis on holding incommensurate theories together without collapsing them into one - a working answer to the problem 'Substrate Matters' poses about enabling constraints across knowledge traditions.",
-  "wildcard": false
+ "authors": "Davis, Heyd-Metzuyanim",
+ "caveat": "Written for maths education; check how much of the nesting logic survives translation to multi-stakeholder settings.",
+ "date": "2026-09-24",
+ "doi": "10.1007/s10649-026-10553-x",
+ "kind": "paper",
+ "lang": "en",
+ "ratedAt": "2026-10-12T08:09:22.658Z",
+ "run": "2026-09-28",
+ "score": 5,
+ "source": "Crossref",
+ "status": "skip",
+ "themes": [
+  "cx"
+ ],
+ "title": "Nested syntheses: a complexity-informed approach to incommensurability in mathematics education",
+ "url": "https://doi.org/10.1007/s10649-026-10553-x",
+ "venue": "Educational Studies in Mathematics",
+ "why": "Brent Davis on holding incommensurate theories together without collapsing them into one - a working answer to the problem 'Substrate Matters' poses about enabling constraints across knowledge traditions.",
+ "wildcard": false,
+ "abstract": "We address the challenge of theoretical fragmentation in mathematics education research by proposing nested synthesis as a complexity-informed approach for working with incommensurate discourses. We focus on situations in which theories are aligned in treating learning as a complex, multi-level phenomenon, yet differ in their objects, data, and explanatory commitments. We argue that theories such as commognition and conceptual metaphor theory can be construed as complexity-aligned discourses, each attending to distinct emergent aspects of mathematics teaching and learning. Through analysis of a classroom episode involving elementary students learning about decimal numbers, we demonstrate how commognition illuminates the development of shared routines and meta-rules, while conceptual metaphor theory reveals the role of metaphorical resources in shaping the understanding of number . Bringing these perspectives into relation, we show how interpretations generated within one discourse can constrain and re-specify those of another, without reducing their differences. We conclude by articulating preliminary guidelines for nested synthesis and discussing its implications for theoretical work in mathematics education.",
+ "abstractSource": "OpenAlex"
 }

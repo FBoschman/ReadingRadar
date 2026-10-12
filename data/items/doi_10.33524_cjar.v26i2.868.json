@@ -1,21 +1,23 @@
 {
-  "authors": "Godfrey",
-  "caveat": "It is a book review, so read it as a pointer to Rappaport's book rather than a source in itself.",
-  "date": "2026-09-22",
-  "doi": "10.33524/cjar.v26i2.868",
-  "kind": "paper",
-  "lang": "en",
-  "run": "2026-09-28",
-  "score": 4,
-  "source": "Crossref",
-  "status": "new",
-  "themes": [
-    "par",
-    "dec"
-  ],
-  "title": "Rappaport, J., Flórez, L., & Pérez \"Altais\", P. (2025). Historieta doble: A graphic history of participatory action research. University of Toronto Press.",
-  "url": "https://doi.org/10.33524/cjar.v26i2.868",
-  "venue": "The Canadian Journal of Action Research",
-  "why": "A review of a graphic history of PAR's Latin American origins - the lineage absence your ROOTS traces keep flagging, in a form you could put in front of students.",
-  "wildcard": false
+ "authors": "Godfrey",
+ "caveat": "It is a book review, so read it as a pointer to Rappaport's book rather than a source in itself.",
+ "date": "2026-09-22",
+ "doi": "10.33524/cjar.v26i2.868",
+ "kind": "paper",
+ "lang": "en",
+ "run": "2026-09-28",
+ "score": 4,
+ "source": "Crossref",
+ "status": "new",
+ "themes": [
+  "par",
+  "dec"
+ ],
+ "title": "Rappaport, J., Flórez, L., & Pérez \"Altais\", P. (2025). Historieta doble: A graphic history of participatory action research. University of Toronto Press.",
+ "url": "https://doi.org/10.33524/cjar.v26i2.868",
+ "venue": "The Canadian Journal of Action Research",
+ "why": "A review of a graphic history of PAR's Latin American origins - the lineage absence your ROOTS traces keep flagging, in a form you could put in front of students.",
+ "wildcard": false,
+ "abstract": "A core tenet of the action research approach is to ground the work in participants' needs, wants, and interests; to begin from where they are and grow together towards common cause and practical solution.This foundation lies at the very heart of Rappaport et al.'s Historieta Doble: A Graphic History of Participatory Action Research (2025).As the authors' note in their introduction, the title of the work is a play on words (working better in Spanish than English)with \"Historieta Doble\" translating to \"Double Comic\" in English but \"Little History\" or \"Little Story\" in Spanish-and serves as a nod to Historia Doble de la Costa (\"Double History of the Coast\") written by Orlando Fals Borda between 1979 and 1986.Chronicling the birth of Participatory Action Research (PAR) and Fals Borda's work with the Caribbean Foundation and the Colombian peasant movement of the 1970s (inspired, as it was, through the organization of collectives by Guzma n and Adamo in the 1920s), this 196-page work weaves together the history of attempts at reform in Colombia with the legacy of those involved.",
+ "abstractSource": "OpenAlex"
 }

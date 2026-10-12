@@ -1,20 +1,22 @@
 {
-  "authors": "Hubley, Guild, Zigarelli",
-  "caveat": "New journal; check the evidence base behind the partnership claims.",
-  "date": "2026-12",
-  "doi": "10.1016/j.sel.2026.100214",
-  "kind": "paper",
-  "lang": "en",
-  "run": "2026-09-21",
-  "score": 3,
-  "source": "Crossref",
-  "status": "new",
-  "themes": [
-    "par"
-  ],
-  "title": "When partnership becomes practice. A participatory co-design approach to social and emotional learning",
-  "url": "https://doi.org/10.1016/j.sel.2026.100214",
-  "venue": "Social and Emotional Learning: Research, Practice, and Policy",
-  "why": "Traces what happens when a co-design partnership has to become routine practice - the sustainability problem every participatory project hits.",
-  "wildcard": false
+ "authors": "Hubley, Guild, Zigarelli",
+ "caveat": "New journal; check the evidence base behind the partnership claims.",
+ "date": "2026-12",
+ "doi": "10.1016/j.sel.2026.100214",
+ "kind": "paper",
+ "lang": "en",
+ "run": "2026-09-21",
+ "score": 3,
+ "source": "Crossref",
+ "status": "new",
+ "themes": [
+  "par"
+ ],
+ "title": "When partnership becomes practice. A participatory co-design approach to social and emotional learning",
+ "url": "https://doi.org/10.1016/j.sel.2026.100214",
+ "venue": "Social and Emotional Learning: Research, Practice, and Policy",
+ "why": "Traces what happens when a co-design partnership has to become routine practice - the sustainability problem every participatory project hits.",
+ "wildcard": false,
+ "abstract": "Social and emotional learning (SEL) equips young people with the skills to understand and regulate emotions, build relationships, and make thoughtful decisions—skills that are increasingly vital in today’s world. While SEL is widely implemented across educational and out-of-school-time settings, opportunities remain for engaging young people meaningfully and adapting programming to the realities of diverse communities. This case study describes a collaborative, participatory approach to designing InsideU , a digital SEL program inspired by Disney and Pixar’s animated film Inside Out . Developed through an academic-community partnership with elementary-aged youth, after-school mental health professionals, digital designers, and subject matter experts, InsideU uses participatory co-design to integrate evidence-informed practices with entertainment education. Guided by an iterative co-design cycle, we detail how young people and after-school mental health professionals shaped the program’s content, structure, and implementation. Qualitative data including partner interviews, co-design artifacts, and field notes, highlight the potential impact of co-designing SEL programming. By centering youth voice and community wisdom, this case study offers a model for designing SEL that is not only effective, but also joyful, scalable, and responsive to the communities it intends to serve.",
+ "abstractSource": "OpenAlex"
 }

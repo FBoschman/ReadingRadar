@@ -1,21 +1,23 @@
 {
-  "authors": "Young, Skrimizea",
-  "caveat": "",
-  "date": "2026-07-20",
-  "doi": "10.1007/s11625-026-01871-3",
-  "kind": "paper",
-  "lang": "en",
-  "run": "2026-09-19",
-  "score": 3,
-  "source": "Crossref",
-  "status": "new",
-  "themes": [
-    "dec",
-    "td"
-  ],
-  "title": "Conflict, legitimacy, and gendered power in European agroecology: towards a conflict-sensitive feminist analytical perspective",
-  "url": "https://doi.org/10.1007/s11625-026-01871-3",
-  "venue": "Sustainability Science",
-  "why": "Feminist, conflict-sensitive analysis of power in transition networks.",
-  "wildcard": false
+ "authors": "Young, Skrimizea",
+ "caveat": "",
+ "date": "2026-07-20",
+ "doi": "10.1007/s11625-026-01871-3",
+ "kind": "paper",
+ "lang": "en",
+ "run": "2026-09-19",
+ "score": 3,
+ "source": "Crossref",
+ "status": "new",
+ "themes": [
+  "dec",
+  "td"
+ ],
+ "title": "Conflict, legitimacy, and gendered power in European agroecology: towards a conflict-sensitive feminist analytical perspective",
+ "url": "https://doi.org/10.1007/s11625-026-01871-3",
+ "venue": "Sustainability Science",
+ "why": "Feminist, conflict-sensitive analysis of power in transition networks.",
+ "wildcard": false,
+ "abstract": "Abstract Agroecology in Europe is increasingly framed as a transformative response to environmental, social, and economic pressures in contemporary agriculture. Although agroecological initiatives remain unevenly distributed and far from mainstream, current efforts to scale up and scale out are intensifying debates around legitimacy, governance, and sustainability. This paper provides a critical and conceptual interpretive framework through which agroecological transformations in Europe can be explored, focusing on how gendered power relations shape conflict, empowerment, and sustainability as agroecology becomes more visible and institutionalised. Drawing on a critical and interpretive review of interdisciplinary agroecology scholarship, feminist political ecology, and widely used empowerment and sustainability evaluation frameworks, we develop a conceptual lens that brings together gender, power, and conflict. The analysis identifies two interrelated blind spots in existing research. First, gendered power relations remain marginal in analyses of conflict and legitimacy in agroecological transformations, leading to depoliticised interpretations of struggles over authority, recognition, and participation, particularly under conditions of scaling. Second, prevailing approaches to evaluating women’s empowerment and agroecological sustainability rely on static and exogenous measures that obscure relational power dynamics, conflict, and long-term change. Building on conflict transformation theory, we argue that conflicts accompanying agroecological scaling are constitutive processes through which legitimacy, empowerment, and sustainability are negotiated across spatial, governance, and temporal scales. By centring women’s endogenous perceptions of empowerment, this paper reframes agroecological scaling as an ongoing process of legitimacy-making rather than linear expansion, contributing a theoretically grounded perspective for analysing sustainability transformations in European agroecology.",
+ "abstractSource": "OpenAlex"
 }

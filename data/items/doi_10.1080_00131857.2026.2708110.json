@@ -1,20 +1,22 @@
 {
-  "authors": "Rucker, Scholl, De Maddalena",
-  "caveat": "Abstract not in the metadata.",
-  "date": "2026-07-29",
-  "doi": "10.1080/00131857.2026.2708110",
-  "kind": "paper",
-  "lang": "en",
-  "run": "2026-09-19",
-  "score": 5,
-  "source": "Crossref",
-  "status": "new",
-  "themes": [
-    "cx"
-  ],
-  "title": "Irreducible perspectivity and open-ended dynamics: Toward a complexity-oriented philosophy of education",
-  "url": "https://doi.org/10.1080/00131857.2026.2708110",
-  "venue": "Educational Philosophy and Theory",
-  "why": "Philosophical grounding for complexity in education; useful next to Juarrero's enabling constraints in your CARN argument.",
-  "wildcard": false
+ "authors": "Rucker, Scholl, De Maddalena",
+ "caveat": "Abstract not in the metadata.",
+ "date": "2026-07-29",
+ "doi": "10.1080/00131857.2026.2708110",
+ "kind": "paper",
+ "lang": "en",
+ "run": "2026-09-19",
+ "score": 5,
+ "source": "Crossref",
+ "status": "new",
+ "themes": [
+  "cx"
+ ],
+ "title": "Irreducible perspectivity and open-ended dynamics: Toward a complexity-oriented philosophy of education",
+ "url": "https://doi.org/10.1080/00131857.2026.2708110",
+ "venue": "Educational Philosophy and Theory",
+ "why": "Philosophical grounding for complexity in education; useful next to Juarrero's enabling constraints in your CARN argument.",
+ "wildcard": false,
+ "abstract": "This paper outlines a framework for a complexity-oriented philosophy of education rooted in the German-speaking tradition, which places educational questions about education at its center. We introduce a proposal for systematizing the concept of complexity, distinguishing between the complexity of the situation and the complexity of the subject matter. In light of this distinction, we argue that philosophy of education should be conceived as a self-generating process of problematizing the presuppositions underlying educational ideas and practices, and as an open-ended search for alternatives. Finally, we turn to the complexity of the subject matter and reconstruct selected descriptions of education [Erziehung] and Bildung, showing how certain traditions in German-speaking philosophy of education already articulate a mode of thinking in complexity – an approach that a complexity-oriented philosophy of education can productively build on.",
+ "abstractSource": "OpenAlex"
 }

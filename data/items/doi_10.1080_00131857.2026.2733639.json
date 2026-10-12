@@ -1,20 +1,22 @@
 {
-  "authors": "Rumjahn, Kenklies, Waterman Quist et al. (18 authors)",
-  "caveat": "Multi-voiced symposium; no single argument to cite, so quote carefully.",
-  "date": "2026-09-23",
-  "doi": "10.1080/00131857.2026.2733639",
-  "kind": "paper",
-  "lang": "en",
-  "run": "2026-09-28",
-  "score": 4,
-  "source": "Journal watch: Educational Philosophy and Theory",
-  "status": "new",
-  "themes": [
-    "dec"
-  ],
-  "title": "Is philosophy of education Western? Considerations for doctoral supervision",
-  "url": "https://doi.org/10.1080/00131857.2026.2733639",
-  "venue": "Educational Philosophy and Theory",
-  "why": "Eighteen authors disagreeing in print about whose philosophy counts - the plural-voices format is itself a model for how to stage epistemic difference.",
-  "wildcard": false
+ "authors": "Rumjahn, Kenklies, Waterman Quist et al. (18 authors)",
+ "caveat": "Multi-voiced symposium; no single argument to cite, so quote carefully.",
+ "date": "2026-09-23",
+ "doi": "10.1080/00131857.2026.2733639",
+ "kind": "paper",
+ "lang": "en",
+ "run": "2026-09-28",
+ "score": 4,
+ "source": "Journal watch: Educational Philosophy and Theory",
+ "status": "new",
+ "themes": [
+  "dec"
+ ],
+ "title": "Is philosophy of education Western? Considerations for doctoral supervision",
+ "url": "https://doi.org/10.1080/00131857.2026.2733639",
+ "venue": "Educational Philosophy and Theory",
+ "why": "Eighteen authors disagreeing in print about whose philosophy counts - the plural-voices format is itself a model for how to stage epistemic difference.",
+ "wildcard": false,
+ "abstract": "The higher education landscape has continued to experience structural changes, public accountability regimes, and ongoing funding challenges. The nature of doctoral education—as a formal, structured process leading to the attainment of a Doctor of Philosophy (PhD) degree—has been affected due to an increasingly competitive, global market. This impacts the work of doctoral supervisors and PhD students or candidates, directly holding implications for the supervisory relationship as the expectations, practices, and definitions of success are continually changing by structural forces (Bastalich, Citation2017; Friedrich-Nel & Mac Kinnon, Citation2019). As supervision is a fundamental part of the PhD, arguably, one of most important decisions for those considering applying for or in the beginning stages of a doctoral program is who one chooses to have as their supervisor (Friedrich-Nel & Mac Kinnon, Citation2019). This generally refers to one’s senior supervisor, but it also extends to include a co-supervisor in some circumstances, as well as other committee members. Professors and academic faculty are simultaneously considering the types of doctoral students they wish to spend, on average, 3–5 years engaging, researching, and building a relationship with.",
+ "abstractSource": "OpenAlex"
 }

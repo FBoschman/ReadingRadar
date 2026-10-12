@@ -1,20 +1,22 @@
 {
-  "authors": "Giua, Marovelli, Moretti",
-  "caveat": "",
-  "date": "2026-07-29",
-  "doi": "10.1007/s11625-026-01873-1",
-  "kind": "paper",
-  "lang": "en",
-  "run": "2026-09-19",
-  "score": 3,
-  "source": "Crossref",
-  "status": "new",
-  "themes": [
-    "eco"
-  ],
-  "title": "Navigating rural digital transition: lessons from innovation ecosystems in practice",
-  "url": "https://doi.org/10.1007/s11625-026-01873-1",
-  "venue": "Sustainability Science",
-  "why": "Innovation ecosystems in regional digital transitions — background for Digital Twin Flevoland.",
-  "wildcard": false
+ "authors": "Giua, Marovelli, Moretti",
+ "caveat": "",
+ "date": "2026-07-29",
+ "doi": "10.1007/s11625-026-01873-1",
+ "kind": "paper",
+ "lang": "en",
+ "run": "2026-09-19",
+ "score": 3,
+ "source": "Crossref",
+ "status": "new",
+ "themes": [
+  "eco"
+ ],
+ "title": "Navigating rural digital transition: lessons from innovation ecosystems in practice",
+ "url": "https://doi.org/10.1007/s11625-026-01873-1",
+ "venue": "Sustainability Science",
+ "why": "Innovation ecosystems in regional digital transitions — background for Digital Twin Flevoland.",
+ "wildcard": false,
+ "abstract": "Abstract Rural areas, encompassing 80% of the EU’s territory and nearly 30% of its population, face complex socio-ecological challenges. EU rural policies put significant emphasis on the role of (digital) innovation to address issues such as employment opportunities, service accessibility, and infrastructure management. Yet the transition from analog to digital is accompanied by tensions and conflicts among the diverse actors engaged in rural innovation ecosystems (RIEs), including local administrators, technology providers and rural communities negotiating their needs, interests and values. Such frictions are visible in small municipalities, even when collaborative design processes are adopted. This paper contributes to the debate on rural sustainable digital transitions on three levels. First, it advances RIE as both a theoretical and analytical lens. While the innovation ecosystem concept has gained traction in the EU rural innovation policy, its implications remain underexplored for rural settings. Secondly, it operationalizes the RIE conceptual framework to analyse the co-creation of digital solutions in three different rural areas, proving that this lens is particularly useful for understanding the conflictual dynamics underpinning digital transitions in rural contexts, by leveraging their transformative potential. Thirdly, by foregrounding conflict as an inherent dimension of digital transitions, this paper demonstrates how RIEs can both expose and mediate competing logics in rural innovation. The proposed framework contributes conceptually to the contextualisation of innovation ecosystems in rural sustainability studies, while empirically offering insights into the contested pathways through which digitalisation unfolds. Ultimately, it highlights how conflict-sensitive approaches can support more just and inclusive rural digital futures.",
+ "abstractSource": "OpenAlex"
 }

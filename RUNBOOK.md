@@ -43,6 +43,30 @@ The steps of one weekly cycle, in order:
 `python tools/weekly.py` runs steps 1, 2, 7 and 9 in one command. It does not run the judgement pass,
 the roots narrative or the digest, because those are decisions. The task catches up on a missed start.
 
+## The reader's own step (added after the panel test of 12 October 2026)
+
+The radar page can mark items keep, maybe or skip, and it can queue a roots trace. Those marks stay in
+the browser until they are exported:
+
+1. In the page, mark what you read. The pending box counts the marks.
+2. Press "Download it" (or copy the file) and save it as `radar-actions.json` in this folder.
+3. Run: `python tools/apply_actions.py --file radar-actions.json --notes`
+   The marks become the `status` of the item, the roots requests enter the queue, and the wiki notes are
+   refreshed.
+
+Without step 3, the marks stay in one browser and the radar learns nothing. The Health card says how many
+items carry a decision, so a forgotten export shows up as a flat line.
+
+## The risk that the panel accepted
+
+The weekly task commits and pushes to a public repository without a person in the loop. `validate.py`
+runs before the commit, so a document that breaks the schema or the written policy stops the run, but the
+taste of the content is not checked. The panel refused a manual merge step, on the ground that it would
+be skipped. The risk is accepted with two mitigations:
+
+- the commit message names the run and its counts, so a bad run is visible in the log;
+- a bad run is undone with `git revert HEAD` and a push.
+
 ## Step 1 — Load state
 
 1. Read `meta/profile`. This is configuration.

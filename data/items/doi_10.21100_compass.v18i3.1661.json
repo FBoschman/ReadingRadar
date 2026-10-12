@@ -1,20 +1,22 @@
 {
-  "authors": "Lessner Listiakova, Atenas, Ruiter",
-  "caveat": "Practitioner journal.",
-  "date": "2026-07-31",
-  "doi": "10.21100/compass.v18i3.1661",
-  "kind": "paper",
-  "lang": "en",
-  "run": "2026-09-19",
-  "score": 3,
-  "source": "Crossref",
-  "status": "new",
-  "themes": [
-    "eco"
-  ],
-  "title": "Redefining Co-Creation to Transform and Empower Higher Education Communities",
-  "url": "https://doi.org/10.21100/compass.v18i3.1661",
-  "venue": "Compass: J. of Learning and Teaching in HE",
-  "why": "Re-theorises co-creation as community change rather than student engagement.",
-  "wildcard": false
+ "authors": "Lessner Listiakova, Atenas, Ruiter",
+ "caveat": "Practitioner journal.",
+ "date": "2026-07-31",
+ "doi": "10.21100/compass.v18i3.1661",
+ "kind": "paper",
+ "lang": "en",
+ "run": "2026-09-19",
+ "score": 3,
+ "source": "Crossref",
+ "status": "new",
+ "themes": [
+  "eco"
+ ],
+ "title": "Redefining Co-Creation to Transform and Empower Higher Education Communities",
+ "url": "https://doi.org/10.21100/compass.v18i3.1661",
+ "venue": "Compass: J. of Learning and Teaching in HE",
+ "why": "Re-theorises co-creation as community change rather than student engagement.",
+ "wildcard": false,
+ "abstract": "Co-creation in higher education (HE) has a focus on the student-lecturer partnership and promotes student engagement in the classroom. It represents a different way of working that disrupts traditional staff-student relationships. However, relationship-building requires a change in attitudes in order to promote trust and cooperation, not only between lecturers and students but among other stakeholders in the community of practice. Using thematic analysis, this paper presents a triangular perspective on the experience of co-creation, explored through narrative collective autoethnography, drawing insights from the learning community of practice that was engaged to co-create a product of digital educational resources that mattered to the participants and their HE context.",
+ "abstractSource": "OpenAlex"
 }

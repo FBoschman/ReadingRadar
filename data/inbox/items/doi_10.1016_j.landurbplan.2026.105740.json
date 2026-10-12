@@ -1,0 +1,24 @@
+{
+ "id": "doi_10.1016_j.landurbplan.2026.105740",
+ "kind": "paper",
+ "title": "High-resolution pavement material data can improve estimates of water supply from precipitation to street trees",
+ "authors": "Willaredt, Haase, Ossola",
+ "venue": "Landscape and Urban Planning",
+ "date": "2026-12",
+ "url": "https://doi.org/10.1016/j.landurbplan.2026.105740",
+ "doi": "10.1016/j.landurbplan.2026.105740",
+ "lang": "",
+ "source": "Journal watch: Landscape and Urban Planning",
+ "run": "2026-10-12",
+ "abstract": "",
+ "themeGuess": [],
+ "found": "2026-10-12T12:52:55",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ }
+}

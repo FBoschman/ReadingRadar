@@ -1,0 +1,24 @@
+{
+ "id": "doi_10.1016_j.tate.2026.105847",
+ "kind": "paper",
+ "title": "Navigating equity tensions and enacting agency in Chinese TESOL practicums",
+ "authors": "Yan, Yao, Song et al.",
+ "venue": "Teaching and Teacher Education",
+ "date": "2026-12",
+ "url": "https://doi.org/10.1016/j.tate.2026.105847",
+ "doi": "10.1016/j.tate.2026.105847",
+ "lang": "",
+ "source": "Journal watch: Teaching and Teacher Education",
+ "run": "2026-10-12",
+ "abstract": "",
+ "themeGuess": [],
+ "found": "2026-10-12T12:52:38",
+ "status": "candidate",
+ "judgement": {
+  "score": null,
+  "themes": [],
+  "why": "",
+  "caveat": "",
+  "wildcard": false
+ }
+}
