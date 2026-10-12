@@ -1,0 +1,262 @@
+{
+  "absent": "No participatory or action research, no Santos, no African-continental education scholarship, and no empirical education research; the Dutch and European vocational context is naturally outside its frame.",
+  "confidence": "medium",
+  "forYou": "Wynter, Mignolo and Táíwò here overlap with your decolonial line, but the Fals-Borda and Santos strands you work from are absent — the argument runs through US Black studies rather than Latin American participatory thought.",
+  "itemId": "doi_10.1016_j.futures.2026.103893",
+  "median": 2014,
+  "method": "References from the paper; strands and narrative by Claude, grounded only in that list.",
+  "narrative": [
+    "The deep root is Caribbean anticolonial thought: Fanon (1963, 2008), C.L.R. James (1989), Glissant (1992) and above all Sylvia Wynter (1976, 2003) on the coloniality of being.",
+    "Onto that the paper grafts US Afro-pessimism — Wilderson (2003, 2010, 2017) and Hartman (2007) — as its account of why emancipation did not produce full membership. The positive half comes from Afrofuturism, from Dery's coinage (1994) through Eshun (2003) and Kilgore (2014).",
+    "Reparations enter through Táíwò (2022), whose 'constructive view' the authors treat as the one that fits a futures orientation. Method is represented by a single source, Collier (2011) on process tracing."
+  ],
+  "parsed": 24,
+  "refCount": 60,
+  "refs": [
+    {
+      "a": "Wynter",
+      "d": "",
+      "j": "Alcheringa",
+      "t": "Ethno or socio poetics",
+      "y": 1976
+    },
+    {
+      "a": "Fanon",
+      "d": "",
+      "j": "",
+      "t": "The wretched of the earth",
+      "y": 1963
+    },
+    {
+      "a": "Fanon",
+      "d": "",
+      "j": "",
+      "t": "Black skin, white masks",
+      "y": 2008
+    },
+    {
+      "a": "James",
+      "d": "",
+      "j": "",
+      "t": "The Black Jacobins",
+      "y": 1989
+    },
+    {
+      "a": "Glissant",
+      "d": "",
+      "j": "",
+      "t": "Caribbean discourse: Selected essays",
+      "y": 1992
+    },
+    {
+      "a": "Dery",
+      "d": "",
+      "j": "Flame wars",
+      "t": "Black to the future",
+      "y": 1994
+    },
+    {
+      "a": "hooks",
+      "d": "",
+      "j": "",
+      "t": "Teaching to transgress: Education as the practice of freedom",
+      "y": 1994
+    },
+    {
+      "a": "Hall",
+      "d": "",
+      "j": "",
+      "t": "Race, articulation, and societies structured in dominance",
+      "y": 1996
+    },
+    {
+      "a": "Robinson",
+      "d": "",
+      "j": "",
+      "t": "Black Marxism (racial capitalism)",
+      "y": 2000
+    },
+    {
+      "a": "White",
+      "d": "",
+      "j": "Third World Quarterly",
+      "t": "Thinking race, thinking development",
+      "y": 2002
+    },
+    {
+      "a": "Wynter",
+      "d": "",
+      "j": "CR: The New Centennial Review",
+      "t": "Unsettling the coloniality of being/power/truth/freedom",
+      "y": 2003
+    },
+    {
+      "a": "Wilderson",
+      "d": "",
+      "j": "Social Identities",
+      "t": "Gramsci's Black Marx: Whither the slave in civil society?",
+      "y": 2003
+    },
+    {
+      "a": "Eshun",
+      "d": "",
+      "j": "CR: The New Centennial Review",
+      "t": "Further considerations on Afrofuturism",
+      "y": 2003
+    },
+    {
+      "a": "Hartman",
+      "d": "",
+      "j": "",
+      "t": "Lose your mother: A journey along the Atlantic slave route",
+      "y": 2007
+    },
+    {
+      "a": "Winter",
+      "d": "",
+      "j": "Critical terms in futures studies",
+      "t": "Afro-pessimism",
+      "y": 2009
+    },
+    {
+      "a": "Wilderson",
+      "d": "",
+      "j": "",
+      "t": "Red, White, and Black: Cinema and the structure of U.S. antagonisms",
+      "y": 2010
+    },
+    {
+      "a": "Collier",
+      "d": "10.1017/S1049096511001429",
+      "j": "PS: Political Science & Politics",
+      "t": "Understanding process tracing",
+      "y": 2011
+    },
+    {
+      "a": "Mignolo",
+      "d": "",
+      "j": "",
+      "t": "The darker side of Western modernity",
+      "y": 2011
+    },
+    {
+      "a": "Elia",
+      "d": "",
+      "j": "Lingue e Linguaggi",
+      "t": "The languages of Afrofuturism",
+      "y": 2014
+    },
+    {
+      "a": "Kilgore",
+      "d": "",
+      "j": "The Oxford handbook of science fiction",
+      "t": "Afrofuturism",
+      "y": 2014
+    },
+    {
+      "a": "Wilderson",
+      "d": "",
+      "j": "Racked & Dispatched",
+      "t": "Afro-pessimism: An introduction",
+      "y": 2017
+    },
+    {
+      "a": "CARICOM",
+      "d": "",
+      "j": "",
+      "t": "CARICOM Human Resource Development 2030 Strategy",
+      "y": 2018
+    },
+    {
+      "a": "Boyd Accuff",
+      "d": "",
+      "j": "",
+      "t": "Afrofuturism and art education",
+      "y": 2020
+    },
+    {
+      "a": "Taiwo",
+      "d": "",
+      "j": "",
+      "t": "Reconsidering reparations (harm repair, relationship repair, the constructive view)",
+      "y": 2022
+    }
+  ],
+  "source": "The article's reference list (pp. 11-12), read from the PDF; a selection of 24 entries",
+  "strands": [
+    {
+      "kind": "root",
+      "name": "Caribbean radical and decolonial thought",
+      "note": "The older Caribbean line the paper stands on: Fanon, James, Glissant, Wynter.",
+      "refs": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        10
+      ]
+    },
+    {
+      "kind": "frame",
+      "name": "Afro-pessimism",
+      "note": "Wilderson, Hartman and the 2017 collection supply the structural account of Blackness the argument assumes.",
+      "refs": [
+        11,
+        13,
+        15,
+        20,
+        14
+      ]
+    },
+    {
+      "kind": "frame",
+      "name": "Afrofuturism",
+      "note": "From Dery's coinage through Eshun and Kilgore to art education: the paper's positive proposal.",
+      "refs": [
+        5,
+        12,
+        18,
+        19,
+        22
+      ]
+    },
+    {
+      "kind": "debate",
+      "name": "Racial capitalism and development critique",
+      "note": "Race as constitutive of capitalism and of development policy.",
+      "refs": [
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "kind": "method",
+      "name": "Reparations and pedagogy",
+      "note": "Táíwò's three forms of reparation, hooks on liberatory teaching, and the CARICOM strategy the paper reads against them.",
+      "refs": [
+        6,
+        21,
+        23
+      ]
+    },
+    {
+      "kind": "method",
+      "name": "Method",
+      "note": "A single methods citation: Collier on process tracing.",
+      "refs": [
+        16
+      ]
+    },
+    {
+      "kind": "frame",
+      "name": "Coloniality of knowledge",
+      "note": "Mignolo's modernity/coloniality, used to argue for pluriversality.",
+      "refs": [
+        17
+      ]
+    }
+  ],
+  "tracedAt": "2026-09-28"
+}

@@ -1,0 +1,207 @@
+{
+  "absent": "No participatory action research literature, no critical or feminist political ecology, and nothing on caste or gender in water access, though the framework assigns duties to users.",
+  "confidence": "low",
+  "forYou": "A worked example of building a framework from a non-Western philosophical source while keeping analytic discipline — useful as a model, and as a target, for your pluriversal work.",
+  "itemId": "doi_10.1007_s11625-026-01900-1",
+  "median": 2009,
+  "method": "References read from the article text; strands and narrative by Claude, grounded only in those citations.",
+  "narrative": [
+    "The root is Ostrom (1990, 2005) and the commons tradition: communities can govern shared resources without state or market, under structural conditions.",
+    "The paper's move is to say that this tradition, along with adaptive governance (Pahl-Wostl 2007) and the OECD principles (2015), treats moral orientation as something institutions draw on rather than form. Motivation-crowding work (Frey & Jegen 2001; Bowles 2008) supplies the mechanism for why that matters.",
+    "Its distinctive resource is the Bhagavad Gita in Sargeant's translation, read alongside Indian management scholarship (Chakraborty 1995; Bhawuk 2011) and balanced by Leopold (1949) and Groenfeldt (2013) so the argument is not framed as East versus West. The hydrology (Jasechko et al. 2024; Grafton et al. 2018; Shah 2009) carries the problem statement."
+  ],
+  "parsed": 18,
+  "refCount": 18,
+  "refs": [
+    {
+      "a": "Leopold",
+      "d": "",
+      "j": "",
+      "t": "A Sand County almanac (the land ethic)",
+      "y": 1949
+    },
+    {
+      "a": "Ostrom",
+      "d": "",
+      "j": "",
+      "t": "Governing the commons",
+      "y": 1990
+    },
+    {
+      "a": "Chakraborty",
+      "d": "",
+      "j": "",
+      "t": "Ethics in management: Vedantic perspectives",
+      "y": 1995
+    },
+    {
+      "a": "Agarwal",
+      "d": "",
+      "j": "",
+      "t": "Dying wisdom: Rise, fall and potential of India's traditional water harvesting systems",
+      "y": 1997
+    },
+    {
+      "a": "Frey",
+      "d": "",
+      "j": "Journal of Economic Surveys",
+      "t": "Motivation crowding theory",
+      "y": 2001
+    },
+    {
+      "a": "Dietz",
+      "d": "",
+      "j": "Science",
+      "t": "The struggle to govern the commons",
+      "y": 2003
+    },
+    {
+      "a": "Norton",
+      "d": "",
+      "j": "",
+      "t": "Sustainability: A philosophy of adaptive ecosystem management",
+      "y": 2005
+    },
+    {
+      "a": "Ostrom",
+      "d": "",
+      "j": "",
+      "t": "Understanding institutional diversity",
+      "y": 2005
+    },
+    {
+      "a": "Pahl-Wostl",
+      "d": "",
+      "j": "Water Resources Management",
+      "t": "Transitions towards adaptive management of water facing climate and global change",
+      "y": 2007
+    },
+    {
+      "a": "Bowles",
+      "d": "",
+      "j": "Science",
+      "t": "Policies designed for self-interested citizens may undermine 'the moral sentiments'",
+      "y": 2008
+    },
+    {
+      "a": "Shah",
+      "d": "",
+      "j": "",
+      "t": "Taming the anarchy: Groundwater governance in South Asia",
+      "y": 2009
+    },
+    {
+      "a": "Sargeant",
+      "d": "",
+      "j": "",
+      "t": "The Bhagavad Gita (translation)",
+      "y": 2009
+    },
+    {
+      "a": "Bhawuk",
+      "d": "",
+      "j": "",
+      "t": "Spirituality and Indian psychology",
+      "y": 2011
+    },
+    {
+      "a": "Groenfeldt",
+      "d": "",
+      "j": "",
+      "t": "Water ethics: A values approach to solving the water crisis",
+      "y": 2013
+    },
+    {
+      "a": "OECD",
+      "d": "",
+      "j": "",
+      "t": "OECD principles on water governance",
+      "y": 2015
+    },
+    {
+      "a": "Everard",
+      "d": "",
+      "j": "",
+      "t": "Community-based groundwater and ecosystem restoration in semi-arid north Rajasthan",
+      "y": 2016
+    },
+    {
+      "a": "Grafton",
+      "d": "",
+      "j": "Science",
+      "t": "The paradox of irrigation efficiency",
+      "y": 2018
+    },
+    {
+      "a": "Jasechko",
+      "d": "",
+      "j": "Nature",
+      "t": "Rapid groundwater decline and some cases of recovery in aquifers globally",
+      "y": 2024
+    }
+  ],
+  "source": "Works cited in the body text, read from the PDF (not the full reference list)",
+  "strands": [
+    {
+      "kind": "root",
+      "name": "Commons governance",
+      "note": "Ostrom's design principles and the Science synthesis that followed: the tradition the paper builds on and gently corrects.",
+      "refs": [
+        1,
+        5,
+        7
+      ]
+    },
+    {
+      "kind": "frame",
+      "name": "Adaptive and principled water governance",
+      "note": "Adaptive management and the OECD's governance principles as the current orthodoxy.",
+      "refs": [
+        8,
+        14
+      ]
+    },
+    {
+      "kind": "frame",
+      "name": "Water ethics and land ethic",
+      "note": "Groenfeldt's water ethics and Leopold's land ethic, used to argue that the West too has ethical resources.",
+      "refs": [
+        0,
+        6,
+        13
+      ]
+    },
+    {
+      "kind": "frame",
+      "name": "Indian philosophical sources",
+      "note": "The Gita in Sargeant's translation, read through management and psychology scholarship.",
+      "refs": [
+        2,
+        11,
+        12
+      ]
+    },
+    {
+      "kind": "debate",
+      "name": "Motivation crowding",
+      "note": "Why more rules and prices can produce less responsibility.",
+      "refs": [
+        4,
+        9
+      ]
+    },
+    {
+      "kind": "context",
+      "name": "Hydrology and the Indian groundwater case",
+      "note": "The empirical backbone: global decline, the efficiency paradox, South Asian groundwater anarchy, johad restoration.",
+      "refs": [
+        3,
+        10,
+        15,
+        16,
+        17
+      ]
+    }
+  ],
+  "tracedAt": "2026-09-28"
+}

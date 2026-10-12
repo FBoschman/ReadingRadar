@@ -1,0 +1,22 @@
+{
+  "authors": "Briers, Vienni-Baptista",
+  "caveat": "Integrated assessment models are climate-policy instruments, not digital twins; test how far the legitimacy argument transfers.",
+  "date": "2026-06-16",
+  "doi": "10.1007/s11625-026-01857-1",
+  "kind": "paper",
+  "lang": "en",
+  "run": "2026-10-05",
+  "score": 5,
+  "source": "Journal watch: Sustainability Science (via web search; Crossref blocked)",
+  "status": "new",
+  "themes": [
+    "td",
+    "cx",
+    "eco"
+  ],
+  "title": "Advancing key transdisciplinary principles: enabling co-production in integrated assessment modelling for sustainable development",
+  "url": "https://doi.org/10.1007/s11625-026-01857-1",
+  "venue": "Sustainability Science",
+  "why": "Vienni-Baptista applies co-production principles inside modelling practice, arguing the legitimacy problem lives in how a model is built rather than in its outputs. The closest thing yet to a TD critique you can use on Digital Twin Flevoland.",
+  "wildcard": false
+}

@@ -1,0 +1,21 @@
+{
+  "authors": "Cáñez-Cota",
+  "caveat": "Water sector cases; check whether 'actionable' is defined by uptake or by researcher claim.",
+  "date": "2026-10",
+  "doi": "10.1016/j.envsci.2026.104504",
+  "kind": "paper",
+  "lang": "en",
+  "run": "2026-09-28",
+  "score": 4,
+  "source": "Crossref",
+  "status": "new",
+  "themes": [
+    "td",
+    "par"
+  ],
+  "title": "Researchers as governance actors: How scientific knowledge becomes actionable in transdisciplinary water projects",
+  "url": "https://doi.org/10.1016/j.envsci.2026.104504",
+  "venue": "Environmental Science & Policy",
+  "why": "Takes the researcher's own governance role as the object of study rather than a background condition - the reflexive question behind every living lab you run.",
+  "wildcard": false
+}

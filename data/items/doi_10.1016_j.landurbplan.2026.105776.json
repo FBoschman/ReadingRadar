@@ -1,0 +1,21 @@
+{
+  "authors": "Hu, Lima",
+  "caveat": "Stated-preference method; choices are hypothetical.",
+  "date": "2027-02",
+  "doi": "10.1016/j.landurbplan.2026.105776",
+  "kind": "paper",
+  "lang": "en",
+  "run": "2026-09-21",
+  "score": 3,
+  "source": "Journal watch: Landscape and Urban Planning",
+  "status": "new",
+  "themes": [
+    "par",
+    "eco"
+  ],
+  "title": "Urban park biodiversity preferences and trade-offs: A comparison between residents and professionals using Adaptive Choice-Based Conjoint analysis",
+  "url": "https://doi.org/10.1016/j.landurbplan.2026.105776",
+  "venue": "Landscape and Urban Planning",
+  "why": "Residents and professionals compared directly on the same choices - evidence for the knowledge asymmetry the CDC Urban Innovation course is about.",
+  "wildcard": false
+}

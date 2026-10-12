@@ -1,0 +1,450 @@
+{
+  "absent": "No complexity theory, no Juarrero, Levin, Tsing or Santos, and nothing from the Global South or from participatory traditions; constraint is theorised almost entirely through Anglophone psychology and Australian arts education, so power over who sets the constraint never becomes a question.",
+  "confidence": "medium",
+  "forYou": "'Active constraints' is the same claim as enabling constraints in your CARN workshop, arrived at from experimental psychology instead of from Juarrero - and the Torrents line on releasing degrees of freedom is close enough to Juarrero's own language to be worth reading as a parallel derivation rather than a competitor.",
+  "itemId": "doi_10.1016_j.tsc.2026.102375",
+  "median": 2019,
+  "method": "References from Crossref; strands and narrative by Claude, grounded only in the reference list and title.",
+  "narrative": "The paper's oldest layer is experimental: Chau (2008), Peterson (2013), Medeiros (2014) and Rietzschel (2014) testing how much limitation a task can carry before creative output falls away, with Haught-Tromp (2017) giving the line its memorable form in the Green Eggs and Ham hypothesis. Tromp's own run of papers (2022, 2023, 2024) then turns that scattered evidence into an integrated model, and it is Tromp's vocabulary of constraint types that the review adopts.\n\nRunning alongside it is a quieter and older-feeling lineage from the arts. Kawka (2011) on emergent learning in interactive media, Rowe (2013) on dance as practice research, and Torrents Martin (2015) and Torrents (2021) on constraining movement to release degrees of freedom describe constraint as something that generates form rather than something that limits a subject's output. Richard (2024) carries it forward. These authors sit in a different epistemology from the psychology strand, and the review does not obviously reconcile them.\n\nThe third layer is where the argument is actually aimed: assessment. Beck (2013), Harris (2018) on assessment resistance as agency, Villarroel (2018) on authentic assessment, Rickett (2019) on co-constructed rubrics and Wragg (2023) on removing grades treat the assessment regime as the constraint that matters most in teacher education. Underneath all three sits a method apparatus (Arksey, 2005; Tricco, 2018) and a largely Australian arts-teacher-education setting (Davis, 2018; Burke, 2023; Baker, 2026). The unresolved question, carried by Chen (2006), Priest (2006) and Baer (2015), is whether creativity is domain-general enough for any of this to transfer.",
+  "parsed": 47,
+  "refCount": 48,
+  "refs": [
+    {
+      "a": "Amnouychokanant",
+      "d": "10.26803/ijlter.22.10.2",
+      "j": "International Journal of Learning, Teaching and Educational Research",
+      "t": "Knowledge management using storytelling with infographics to develop creativity of undergraduate students",
+      "y": 2023
+    },
+    {
+      "a": "Arksey",
+      "d": "10.1080/1364557032000119616",
+      "j": "International Journal of Social Research Methodology",
+      "t": "Scoping studies: Towards a methodological framework",
+      "y": 2005
+    },
+    {
+      "a": "Baer",
+      "d": "10.1080/02783193.2015.1047480",
+      "j": "Roeper Review",
+      "t": "The importance of domain-specific expertise in creativity",
+      "y": 2015
+    },
+    {
+      "a": "Baker",
+      "d": "",
+      "j": "International Journal of Education & the Arts",
+      "t": "They're far more prepared to teach children: Authentic assessment of the arts in primary initial teacher education degrees in six Australian universities",
+      "y": 2026
+    },
+    {
+      "a": "Beck",
+      "d": "10.1080/02602938.2011.630978",
+      "j": "Assessment and Evaluation in Higher Education",
+      "t": "A study of sustainable assessment theory in higher education tutorials",
+      "y": 2013
+    },
+    {
+      "a": "Beltran-Palanques",
+      "d": "10.1016/j.asw.2024.100809",
+      "j": "Assessing Writing",
+      "t": "Assessing video game narratives: Implications for the assessment of multimodal literacy in ESP",
+      "y": 2024
+    },
+    {
+      "a": "Brown",
+      "d": "",
+      "j": "",
+      "t": "Creativity in education: International perspectives",
+      "y": 2024
+    },
+    {
+      "a": "Burke",
+      "d": "",
+      "j": "",
+      "t": "",
+      "y": null
+    },
+    {
+      "a": "Burke",
+      "d": "10.1080/01587919.2023.2198486",
+      "j": "Distance Education",
+      "t": "Getting hands-on: Praxis-focused assessment to enhance online arts teacher education",
+      "y": 2023
+    },
+    {
+      "a": "Chau",
+      "d": "10.1002/j.2162-6057.2008.tb01293.x",
+      "j": "Journal of Creative Behavior",
+      "t": "Creativity as a matter of choice: Prior experience and task instruction as boundary conditions for the positive effect of choice on creativity",
+      "y": 2008
+    },
+    {
+      "a": "Chen",
+      "d": "10.1002/j.2162-6057.2006.tb01272.x",
+      "j": "Journal of Creative Behavior",
+      "t": "Boundless creativity: Evidence for the domain generality of individual differences in creativity",
+      "y": 2006
+    },
+    {
+      "a": "Creed",
+      "d": "",
+      "j": "Frontier Psychology",
+      "t": "Students managing work and study role boundaries: A person-centred approach",
+      "y": 2023
+    },
+    {
+      "a": "Davis",
+      "d": "",
+      "j": "Creativity policy, partnerships and practice in education",
+      "t": "Flexibility, constraints and creativity: Cultivating creativity in teacher education",
+      "y": 2018
+    },
+    {
+      "a": "Harris",
+      "d": "10.1007/s13384-018-0264-0",
+      "j": "The Australian Educational Researcher",
+      "t": "Not playing the game: Student assessment resistance as a form of agency",
+      "y": 2018
+    },
+    {
+      "a": "Haught-Tromp",
+      "d": "10.1037/aca0000061",
+      "j": "Psychology of Aesthetics, Creativity, and the Arts",
+      "t": "The Green Eggs and Ham hypothesis: How constraints facilitate creativity",
+      "y": 2017
+    },
+    {
+      "a": "Ismail",
+      "d": "",
+      "j": "Malaysian Online Journal of Educational Management",
+      "t": "Managing the creative arts through visual diary; a method to generate ideas for students",
+      "y": 2022
+    },
+    {
+      "a": "Kawka",
+      "d": "10.19173/irrodl.v12i7.1028",
+      "j": "International Review of Research in Open & Distance Learning",
+      "t": "Emergent learning and interactive media artworks: Parameters of interaction for novice groups",
+      "y": 2011
+    },
+    {
+      "a": "Labbe",
+      "d": "",
+      "j": "Teaching American Literature: A Journal of Theory and Practice",
+      "t": "Creativity is not a luxury: Students (re)writing American literature",
+      "y": 2016
+    },
+    {
+      "a": "Lee",
+      "d": "10.53761/1.20.01.16",
+      "j": "Journal of University Teaching and Learning Practice",
+      "t": "Collaborative creativity among undergraduate students as game creators during gamification in a university-wide elective course",
+      "y": 2023
+    },
+    {
+      "a": "Logan",
+      "d": "10.1002/jrsm.1742",
+      "j": "Research Synthesis Methods",
+      "t": "Scoping review search practices in the social sciences: A scoping review",
+      "y": 2024
+    },
+    {
+      "a": "Mannahali",
+      "d": "10.17323/jle.2023.14704",
+      "j": "Journal of Language and Education",
+      "t": "An investigation into the effect of problem-based learning on learners' writing performance, critical and creative thinking skills",
+      "y": 2023
+    },
+    {
+      "a": "Mashfufah",
+      "d": "10.12973/eu-jer.13.2.427",
+      "j": "European Journal of Educational Research",
+      "t": "Community-based project learning: Empowering students' self-regulated learning and creativity",
+      "y": 2024
+    },
+    {
+      "a": "May",
+      "d": "10.1016/j.tsc.2020.100739",
+      "j": "Thinking Skills and Creativity",
+      "t": "Enhancing creativity by training metacognitive skills in mental imagery",
+      "y": 2020
+    },
+    {
+      "a": "Medeiros",
+      "d": "10.1037/a0036210",
+      "j": "Psychology of Aesthetics, Creativity, and the Arts",
+      "t": "Not too much, not too little: The influence of constraints on creative problem solving",
+      "y": 2014
+    },
+    {
+      "a": "Medeiros",
+      "d": "10.1037/aca0000148",
+      "j": "Psychology of Aesthetics, Creativity, and the Arts",
+      "t": "Timing is everything: Examining the role of constraints throughout the creative process",
+      "y": 2018
+    },
+    {
+      "a": "Peterson",
+      "d": "10.1080/10400419.2013.813809",
+      "j": "Creativity Research Journal",
+      "t": "Teaching people to manage constraints: Effects on creative problem-solving",
+      "y": 2013
+    },
+    {
+      "a": "Pham",
+      "d": "10.1002/jrsm.1123",
+      "j": "Research Synthesis Methods",
+      "t": "A scoping review of scoping reviews: Advancing the approach and enhancing the consistency",
+      "y": 2014
+    },
+    {
+      "a": "Priest",
+      "d": "",
+      "j": "Bulletin of the Council for Research in Music Education",
+      "t": "The reliability of three groups of judges' assessments of creativity under three conditions",
+      "y": 2006
+    },
+    {
+      "a": "Rahimi",
+      "d": "10.1016/j.compedu.2021.104312",
+      "j": "Computers & Education",
+      "t": "First inspire, then instruct to improve students' creativity",
+      "y": 2021
+    },
+    {
+      "a": "Reynolds",
+      "d": "10.1080/87567555.2012.731660",
+      "j": "College Teaching",
+      "t": "I'm in a professional school! why are you making me do this? A cross-disciplinary study of the use of creative classroom projects on student learning",
+      "y": 2013
+    },
+    {
+      "a": "Richard",
+      "d": "10.1002/jocb.673",
+      "j": "Journal of Creative Behavior",
+      "t": "The exploration of the holistic and complex impacts of creative dance on creative potential enhancement",
+      "y": 2024
+    },
+    {
+      "a": "Rickett",
+      "d": "",
+      "j": "Text (Australia)",
+      "t": "Peripheries and praxis: The effect of rubric co-construction on student perceptions of their learning",
+      "y": 2019
+    },
+    {
+      "a": "Rietzschel",
+      "d": "10.1080/10400419.2014.901084",
+      "j": "Creativity Research Journal",
+      "t": "Effects of problem scope and creativity instructions on idea generation and selection",
+      "y": 2014
+    },
+    {
+      "a": "Rowe",
+      "d": "10.1080/07294360.2013.806440",
+      "j": "Higher Education Research and Development",
+      "t": "Moths, candles and fires: Examining dance as creative practice research in a Master's degree",
+      "y": 2013
+    },
+    {
+      "a": "Roy",
+      "d": "",
+      "j": "",
+      "t": "Teaching the arts: Early childhood and primary education",
+      "y": 2025
+    },
+    {
+      "a": "Saldana",
+      "d": "",
+      "j": "Expanding approaches to thematic analysis: Creative engagements with qualitative data",
+      "t": "An introduction to themeing the data",
+      "y": 2024
+    },
+    {
+      "a": "Sola",
+      "d": "10.1108/JWAM-03-2020-0017",
+      "j": "Journal of Work-Applied Management",
+      "t": "Mind the gap: Identifying barriers to students engaging in creative practices in higher education",
+      "y": 2020
+    },
+    {
+      "a": "Torrents",
+      "d": "10.1037/aca0000291",
+      "j": "Psychology of Aesthetics, Creativity, and the Arts",
+      "t": "The motor creativity paradox: Constraining to release degrees of freedom",
+      "y": 2021
+    },
+    {
+      "a": "Torrents Martin",
+      "d": "10.1037/a0038706",
+      "j": "Psychology of Aesthetics, Creativity, and the Arts",
+      "t": "Creativity and emergence of specific dance movements using instructional constraints",
+      "y": 2015
+    },
+    {
+      "a": "Tricco",
+      "d": "10.7326/M18-0850",
+      "j": "Annuals of Internal Medicine",
+      "t": "PRISMA extension for scoping reviews (PRISMA-ScR): Checklist and explanation",
+      "y": 2018
+    },
+    {
+      "a": "Tromp",
+      "d": "10.1177/10892680211060027",
+      "j": "Review of General Psychology",
+      "t": "Integrated constraints in creativity: Foundations for a unifying model",
+      "y": 2023
+    },
+    {
+      "a": "Tromp",
+      "d": "10.1016/j.tsc.2022.101184",
+      "j": "Thinking Skills and Creativity",
+      "t": "Creativity from constraints: Theory and applications to education",
+      "y": 2022
+    },
+    {
+      "a": "Tromp",
+      "d": "10.1037/aca0000493",
+      "j": "Psychology of Aesthetics, Creativity, and the Arts",
+      "t": "How constraints impact creativity: An interaction paradigm",
+      "y": 2024
+    },
+    {
+      "a": "Villarroel",
+      "d": "10.1080/02602938.2017.1412396",
+      "j": "Assessment & Evaluation in Higher Education",
+      "t": "Authentic assessment: Creating a blueprint for course design",
+      "y": 2018
+    },
+    {
+      "a": "Vincent-Lancrin",
+      "d": "",
+      "j": "",
+      "t": "Fostering students' creativity and critical thinking: What it means in school",
+      "y": 2019
+    },
+    {
+      "a": "Wang",
+      "d": "10.1016/j.tsc.2022.101008",
+      "j": "Thinking Skills and Creativity",
+      "t": "Effects of modifying the process of creating on novices' creativity in drawing",
+      "y": 2022
+    },
+    {
+      "a": "Wragg",
+      "d": "10.1386/dbs_00046_1",
+      "j": "Journal of Design, Business and Society",
+      "t": "Designing pedagogical change: Fostering creativity in communication design education by removing grades",
+      "y": 2023
+    },
+    {
+      "a": "Zedelius",
+      "d": "10.3758/s13428-018-1137-1",
+      "j": "Behavior Research Methods",
+      "t": "Beyond subjective judgments: Predicting evaluations of creative writing from computational linguistic features",
+      "y": 2019
+    }
+  ],
+  "source": "Crossref reference list (reference text read automatically; spot-check spellings)",
+  "strands": [
+    {
+      "kind": "root",
+      "name": "Constraints as the engine of creativity",
+      "note": "The tradition the paper grows from: experimental psychology showing that well-placed limits raise rather than depress creative output.",
+      "refs": [
+        9,
+        25,
+        23,
+        32,
+        14,
+        24,
+        41,
+        40,
+        42
+      ]
+    },
+    {
+      "kind": "frame",
+      "name": "Constraint and emergence in movement and the arts",
+      "note": "A second lineage in which constraints release degrees of freedom and new forms emerge, drawn from dance, media art and motor learning rather than from the lab.",
+      "refs": [
+        16,
+        33,
+        38,
+        37,
+        30
+      ]
+    },
+    {
+      "kind": "debate",
+      "name": "Is creativity domain-general?",
+      "note": "The unresolved argument about whether creativity travels across domains, which decides whether a constraint that works in dance means anything for teacher education.",
+      "refs": [
+        10,
+        27,
+        2,
+        47
+      ]
+    },
+    {
+      "kind": "frame",
+      "name": "Assessment as the site of the problem",
+      "note": "Work treating assessment design, rubrics and grading as the thing that makes or breaks creative work, including students' refusal of it.",
+      "refs": [
+        4,
+        13,
+        43,
+        31,
+        46,
+        5
+      ]
+    },
+    {
+      "kind": "method",
+      "name": "Scoping review method",
+      "note": "The procedural apparatus the review runs on, from Arksey and O'Malley through PRISMA-ScR to recent critiques of scoping practice.",
+      "refs": [
+        1,
+        26,
+        39,
+        19,
+        35
+      ]
+    },
+    {
+      "kind": "context",
+      "name": "Initial teacher education and the arts",
+      "note": "The occupational setting: how arts and creativity are taught and assessed in primary and early-childhood teacher preparation, largely Australian.",
+      "refs": [
+        12,
+        8,
+        6,
+        34,
+        3,
+        7
+      ]
+    },
+    {
+      "kind": "context",
+      "name": "Other / case context",
+      "note": "Classroom interventions and survey studies used as illustrative cases rather than as theory.",
+      "refs": [
+        29,
+        17,
+        44,
+        22,
+        36,
+        28,
+        45,
+        15,
+        0,
+        18,
+        20,
+        11,
+        21
+      ]
+    }
+  ],
+  "tracedAt": "2026-09-28"
+}

@@ -1,0 +1,21 @@
+{
+  "authors": "Dong",
+  "caveat": "Published 5 June 2026, outside the window. A single-author comparative argument built on a three-stage model rather than new empirical work.",
+  "date": "2026-06-05",
+  "doi": "10.1007/s11948-026-00608-w",
+  "kind": "paper",
+  "lang": "en",
+  "run": "2026-10-12",
+  "score": 3,
+  "source": "Web search + publisher page",
+  "status": "new",
+  "themes": [
+    "dec",
+    "td"
+  ],
+  "title": "From Biopiracy to Sustainable Knowledge Governance: Epistemic Justice and the Reconstruction of Resource Sovereignty in the Global South",
+  "url": "https://doi.org/10.1007/s11948-026-00608-w",
+  "venue": "Science and Engineering Ethics",
+  "why": "Treats biopiracy as epistemic colonialism and compares India, Brazil and South Africa on rebuilding knowledge sovereignty. Concrete material for the Santos strand of the CARN workshop.",
+  "wildcard": false
+}

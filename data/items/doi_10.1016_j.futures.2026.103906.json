@@ -1,0 +1,21 @@
+{
+  "authors": "Park, Ju, Kang",
+  "caveat": "'Social empathy' is doing a lot of work; check whether it is operationalised.",
+  "date": "2026-12",
+  "doi": "10.1016/j.futures.2026.103906",
+  "kind": "paper",
+  "lang": "en",
+  "run": "2026-09-28",
+  "score": 4,
+  "source": "Crossref; Journal watch: Futures",
+  "status": "new",
+  "themes": [
+    "ai",
+    "par"
+  ],
+  "title": "Toward future accountability: Generative AI, social empathy, and participatory persona design",
+  "url": "https://doi.org/10.1016/j.futures.2026.103906",
+  "venue": "Futures",
+  "why": "Personas built with participants rather than generated for them - a caution worth reading before any AI-assisted stakeholder mapping in Flevoland.",
+  "wildcard": false
+}

@@ -1,0 +1,21 @@
+{
+  "authors": "Samuel",
+  "caveat": "Single author, theory only; nothing shows co-agency is empirically distinguishable from offloading.",
+  "date": "2026-03-16",
+  "doi": "10.1016/j.caeai.2026.100573",
+  "kind": "paper",
+  "lang": "en",
+  "run": "2026-10-05",
+  "score": 4,
+  "source": "Journal watch: Computers and Education: Artificial Intelligence (via web search; Crossref blocked)",
+  "status": "new",
+  "themes": [
+    "ai",
+    "pc"
+  ],
+  "title": "Learning with machines: Toward a theory of epistemic co-agency",
+  "url": "https://doi.org/10.1016/j.caeai.2026.100573",
+  "venue": "Computers and Education: Artificial Intelligence",
+  "why": "Proposes 'epistemic co-agency' as the positive term the cognitive-offloading literature on your radar keeps lacking.",
+  "wildcard": false
+}

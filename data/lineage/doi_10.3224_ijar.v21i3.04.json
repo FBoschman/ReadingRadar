@@ -1,0 +1,575 @@
+{
+  "absent": "Santos is not cited despite 'inter-knowledge'; the concept is developed from Mexican sources (Bonfil, Zemelman) instead. Little English-language TD literature.",
+  "confidence": "medium",
+  "earliest": 1957,
+  "forYou": "Greenwood & Levin (2007) is here: if your 'Levin' is Morten Levin, this paper puts him in dialogue with Fals Borda. Stavenhagen (1971) is an early, rarely cited source for your decolonial line.",
+  "itemId": "doi_10.3224_ijar.v21i3.04",
+  "median": 2001,
+  "method": "References from Crossref; strands and narrative by Claude, grounded only in the reference list and title.",
+  "narrative": [
+    "This paper stands in the Latin American founding line of PAR: Stavenhagen's 'Decolonializing applied social sciences' (1971) and Fals Borda's 'Ciencia propia y colonialismo intelectual' (1976) and 'El problema de cómo investigar la realidad para transformarla' (1979).",
+    "Its second root is the author's own history: five decades of work in San Miguel Tzinacapan, from the 1980s participatory research centre to recent writing on Zapatismo. Community-authored texts are cited as sources, not as data.",
+    "Northern action research appears mainly as Greenwood and Levin's 'Introduction to action research' (2007), which the paper sets against a lived, solidarity-based practice."
+  ],
+  "parsed": 63,
+  "refCount": 63,
+  "refs": [
+    {
+      "a": "Almeida",
+      "d": "10.1177/002188638301900307",
+      "j": "Journal of Applied Behavioral Science",
+      "t": "Development of a participatory research center as part of an ongoing rural development program",
+      "y": 1983
+    },
+    {
+      "a": "Almeida",
+      "d": "",
+      "j": "",
+      "t": "Conocimiento y acción en Tzinacapan: Autobiografías razonadas",
+      "y": 2001
+    },
+    {
+      "a": "Almeida",
+      "d": "10.1075/cat.9.1.05alm",
+      "j": "Concepts and Transformations",
+      "t": "Action research: A Latin American perspective",
+      "y": 2004
+    },
+    {
+      "a": "Almeida",
+      "d": "",
+      "j": "",
+      "t": "Comunidad: Interacción, conflicto y utopía",
+      "y": 2014
+    },
+    {
+      "a": "Bonfil",
+      "d": "",
+      "j": "",
+      "t": "México profundo: Una civilización negada",
+      "y": 1990
+    },
+    {
+      "a": "Caamaño",
+      "d": "",
+      "j": "Procesos Psicológicos y Sociales",
+      "t": "La ambigüedad como salud mental",
+      "y": 2010
+    },
+    {
+      "a": "Camus",
+      "d": "",
+      "j": "",
+      "t": "El escritor puesto al servicio de los que sufren la historia",
+      "y": 1957
+    },
+    {
+      "a": "Carabaña",
+      "d": "",
+      "j": "El País",
+      "t": "Los tres secretos de uno de los centros más premiados en México",
+      "y": 2017
+    },
+    {
+      "a": "Carrasco",
+      "d": "10.1525/aa.1961.63.3.02a00020",
+      "j": "American Anthropologist",
+      "t": "The civil religious hierarchy in Mesoamerican communities",
+      "y": 1961
+    },
+    {
+      "a": "Castillo",
+      "d": "",
+      "j": "Anales de Antropología",
+      "t": "El estudio de las actitudes lingüísticas en el contexto sociocultural: El caso del mexicano de Cuetzalan",
+      "y": 2006
+    },
+    {
+      "a": "Comité",
+      "d": "",
+      "j": "",
+      "t": "La autoridad como solidaridad: Cargos tradicionales indígenas",
+      "y": 1991
+    },
+    {
+      "a": "Coronado",
+      "d": "10.1080/13260219.1999.10429961",
+      "j": "Journal of Iberian and Latin American Research",
+      "t": "Una versión indígena de la historia: Los Nahuas de Cuetzalan",
+      "y": 1999
+    },
+    {
+      "a": "De la Hidalga",
+      "d": "",
+      "j": "",
+      "t": "Blanquitud, racialización y ciudadanía en México",
+      "y": 2022
+    },
+    {
+      "a": "Desroche",
+      "d": "",
+      "j": "",
+      "t": "Commentaires à Une communauté indienne mexicaine en développement synergique",
+      "y": 1985
+    },
+    {
+      "a": "Desroche",
+      "d": "",
+      "j": "",
+      "t": "Entreprendre d'apprendre: D'une autobiographie raisonnée aux projets d'une recherche-action",
+      "y": 1990
+    },
+    {
+      "a": "Dietz",
+      "d": "",
+      "j": "",
+      "t": "Multiculturalismo, interculturalidad y diversidad en educación",
+      "y": 2012
+    },
+    {
+      "a": "Ellis",
+      "d": "",
+      "j": "Historical Social Research",
+      "t": "Autoethnography: an overview",
+      "y": 2011
+    },
+    {
+      "a": "Enlace",
+      "d": "",
+      "j": "",
+      "t": "¿De qué nos van a perdonar?",
+      "y": 1994
+    },
+    {
+      "a": "Enlace",
+      "d": "",
+      "j": "",
+      "t": "En San Miguel Tzinacapan",
+      "y": 2006
+    },
+    {
+      "a": "Enlace",
+      "d": "",
+      "j": "",
+      "t": "La Travesía por la Vida. ¿A qué vamos?",
+      "y": 2021
+    },
+    {
+      "a": "Enlace",
+      "d": "",
+      "j": "",
+      "t": "Apenas 500 años después",
+      "y": 2021
+    },
+    {
+      "a": "Enlace",
+      "d": "",
+      "j": "",
+      "t": "Dieciochava parte: La rabia",
+      "y": 2023
+    },
+    {
+      "a": "Enlace",
+      "d": "",
+      "j": "",
+      "t": "Doceava parte. Fragmentos",
+      "y": 2023
+    },
+    {
+      "a": "Fals Borda",
+      "d": "",
+      "j": "",
+      "t": "Revoluciones inconclusas en América Latina",
+      "y": 1975
+    },
+    {
+      "a": "Fals Borda",
+      "d": "",
+      "j": "",
+      "t": "Ciencia propia y colonialismo intelectual",
+      "y": 1976
+    },
+    {
+      "a": "Fals Borda",
+      "d": "",
+      "j": "",
+      "t": "El problema de cómo investigar la realidad para transformarla",
+      "y": 1979
+    },
+    {
+      "a": "García",
+      "d": "",
+      "j": "",
+      "t": "Los pueblos de la Sierra: El poder y el espacio entre los indios del norte de Puebla hasta 1700",
+      "y": 1987
+    },
+    {
+      "a": "González Casanova",
+      "d": "",
+      "j": "La Jornada",
+      "t": "Causas de la rebelión en Chiapas",
+      "y": 1995
+    },
+    {
+      "a": "Greenwood",
+      "d": "",
+      "j": "Revista de Antropología Social",
+      "t": "De la observación a la investigación-acción participativa",
+      "y": 2000
+    },
+    {
+      "a": "Greenwood",
+      "d": "",
+      "j": "",
+      "t": "Introduction to action research: Social research for social change",
+      "y": 2007
+    },
+    {
+      "a": "Gómez",
+      "d": "",
+      "j": "",
+      "t": "La ideología mestizante, el guadalupanismo y sus repercusiones sociales",
+      "y": 2012
+    },
+    {
+      "a": "Hernández Navarro",
+      "d": "",
+      "j": "La Jornada",
+      "t": "Chiapas, la guerra que no dice su nombre",
+      "y": 2023
+    },
+    {
+      "a": "Ibarra",
+      "d": "",
+      "j": "",
+      "t": "Entre contextos locales y ciudades globales: Circuitos migratorios Puebla–Nueva York",
+      "y": 2011
+    },
+    {
+      "a": "Ibarra de Piedra",
+      "d": "",
+      "j": "",
+      "t": "¡Que se abra esa puerta!",
+      "y": 1981
+    },
+    {
+      "a": "Launey",
+      "d": "",
+      "j": "",
+      "t": "Introduction à la langue et à la littérature aztèques",
+      "y": 1981
+    },
+    {
+      "a": "López Caballero",
+      "d": "",
+      "j": "",
+      "t": "Las políticas indigenistas y la fábrica de su sujeto de intervención",
+      "y": 2015
+    },
+    {
+      "a": "Lupo",
+      "d": "",
+      "j": "Joaquín Costa",
+      "t": "Los cuentos de los abuelos: Construcción de la memoria entre los nahuas de la Sierra Norte de Puebla",
+      "y": 1998
+    },
+    {
+      "a": "Mantilla Gálvez",
+      "d": "10.32399/rtla.12.44.598",
+      "j": "Tla-melaua",
+      "t": "El impacto de la educación telesecundaria en México y su relación con la educación intercultural",
+      "y": 2018
+    },
+    {
+      "a": "Marroni",
+      "d": "",
+      "j": "",
+      "t": "Frontera perversa, familias fracturadas",
+      "y": 2009
+    },
+    {
+      "a": "Millán",
+      "d": "",
+      "j": "",
+      "t": "Des-ordenando el género/¿Des-centrando la nación? El zapatismo de las mujeres indígenas",
+      "y": 2014
+    },
+    {
+      "a": "Osorio",
+      "d": "",
+      "j": "",
+      "t": "Movimientos organizativos en la Sierra Norte",
+      "y": 2001
+    },
+    {
+      "a": "Paré",
+      "d": "",
+      "j": "",
+      "t": "Caciquismo y estructura de poder en la Sierra Norte de Puebla",
+      "y": 1975
+    },
+    {
+      "a": "Poniatowska",
+      "d": "",
+      "j": "",
+      "t": "La noche de Tlatelolco: Testimonios de historia oral",
+      "y": 1971
+    },
+    {
+      "a": "Pury-Toumi",
+      "d": "",
+      "j": "",
+      "t": "Vocabulario mexicano de Tzinacapan",
+      "y": 1984
+    },
+    {
+      "a": "Pury-Toumi",
+      "d": "10.4000/books.cemca.1735",
+      "j": "",
+      "t": "De palabras y maravillas: Ensayo sobre la lengua y la cultura de los nahuas",
+      "y": 1997
+    },
+    {
+      "a": "Sánchez-Acevedo",
+      "d": "10.1080/25729861.2019.1586344",
+      "j": "Tapuya: Latin American Science, Technology and Society",
+      "t": "The regulatory system and subjectivity in a Nahuat community",
+      "y": 2019
+    },
+    {
+      "a": "Sánchez",
+      "d": "10.1007/BF02691933",
+      "j": "The American Sociologist",
+      "t": "Synergistic development and participatory action research in a Nahuat community",
+      "y": 1992
+    },
+    {
+      "a": "Sánchez",
+      "d": "",
+      "j": "",
+      "t": "Las veredas de la incertidumbre: Relaciones interculturales y supervivencia digna",
+      "y": 2005
+    },
+    {
+      "a": "Sánchez",
+      "d": "",
+      "j": "",
+      "t": "Como las mariposas monarca: Migración, identidad y métodos biográficos",
+      "y": 2012
+    },
+    {
+      "a": "Sánchez",
+      "d": "",
+      "j": "",
+      "t": "Desgarramientos civilizatorios: Símbolos, territorios, corporeidades",
+      "y": 2021
+    },
+    {
+      "a": "Sánchez",
+      "d": "10.55466/3.V5.PDS",
+      "j": "Revista Incidencias",
+      "t": "Presentes dignos sin dejar de luchar: A 30 años del levantamiento zapatista",
+      "y": 2024
+    },
+    {
+      "a": "Sassen",
+      "d": "10.2307/j.ctvm7bdqr",
+      "j": "",
+      "t": "Expulsiones: Brutalidad y complejidad en la economía global",
+      "y": 2015
+    },
+    {
+      "a": "Scott",
+      "d": "",
+      "j": "",
+      "t": "Los dominados y el arte de la resistencia: Discursos ocultos",
+      "y": 2000
+    },
+    {
+      "a": "Soto",
+      "d": "",
+      "j": "The Wisconsin Sociologist",
+      "t": "A global experience of self-promotion: The case of San Miguel Tzinacapan",
+      "y": 1985
+    },
+    {
+      "a": "Stavenhagen",
+      "d": "",
+      "j": "",
+      "t": "Siete tesis equivocadas sobre América Latina",
+      "y": 1965
+    },
+    {
+      "a": "Stavenhagen",
+      "d": "10.17730/humo.30.4.p1w7700v333n6871",
+      "j": "Human Organization",
+      "t": "Decolonializing applied social sciences",
+      "y": 1971
+    },
+    {
+      "a": "Taller",
+      "d": "",
+      "j": "",
+      "t": "Relatos indígenas de la Sierra Norte de Puebla",
+      "y": 1989
+    },
+    {
+      "a": "Taller",
+      "d": "",
+      "j": "",
+      "t": "Les oíamos contar a nuestros abuelos",
+      "y": 1994
+    },
+    {
+      "a": "Taller",
+      "d": "",
+      "j": "",
+      "t": "Maseual sanilmej: Cuentos indígenas de la región de San Miguel Tzinacapan",
+      "y": 2011
+    },
+    {
+      "a": "Thomson",
+      "d": "",
+      "j": "",
+      "t": "El liberalismo popular mexicano: Juan Francisco Lucas y la Sierra de Puebla",
+      "y": 2011
+    },
+    {
+      "a": "Villoro",
+      "d": "",
+      "j": "Revista de la Universidad de México",
+      "t": "El futuro, instrucciones de uso",
+      "y": 2023
+    },
+    {
+      "a": "Walsh",
+      "d": "",
+      "j": "Visão Global",
+      "t": "Interculturalidad y (de)colonialidad: Perspectivas críticas y políticas",
+      "y": 2012
+    },
+    {
+      "a": "Zemelman",
+      "d": "10.2307/j.ctv6jmxq2",
+      "j": "",
+      "t": "Problemas antropológicos y utópicos del conocimiento",
+      "y": 1996
+    }
+  ],
+  "source": "Crossref reference list (reference text read automatically; spot-check spellings)",
+  "strands": [
+    {
+      "kind": "root",
+      "name": "Latin American PAR and critical sociology",
+      "note": "The founding generation: Fals Borda's 'ciencia propia' and Stavenhagen's call to decolonise applied social science.",
+      "refs": [
+        54,
+        55,
+        23,
+        24,
+        25,
+        62
+      ]
+    },
+    {
+      "kind": "root",
+      "name": "Tzinacapan: 50 years of one PAR process",
+      "note": "The author's own long-running work with a Nahuat community, including earlier English-language accounts.",
+      "refs": [
+        0,
+        53,
+        13,
+        14,
+        46,
+        1,
+        2,
+        47,
+        48,
+        3,
+        45,
+        49,
+        50
+      ]
+    },
+    {
+      "kind": "method",
+      "name": "Northern action research",
+      "note": "The Anglo-American AR handbook tradition the paper reads PAR against.",
+      "refs": [
+        28,
+        29,
+        16
+      ]
+    },
+    {
+      "kind": "frame",
+      "name": "Decolonial and intercultural thought",
+      "note": "Mexican and Andean thought on denied civilisations, interculturality and whiteness.",
+      "refs": [
+        4,
+        61,
+        15,
+        30,
+        35,
+        12
+      ]
+    },
+    {
+      "kind": "frame",
+      "name": "Resistance, violence and dispossession",
+      "note": "Hidden transcripts, Zapatismo and global expulsions.",
+      "refs": [
+        6,
+        42,
+        27,
+        52,
+        39,
+        51,
+        31,
+        60
+      ]
+    },
+    {
+      "kind": "context",
+      "name": "Community voice: Nahuat writing and oral history",
+      "note": "Texts produced by the community itself (Taller de Tradición Oral, Enlace), cited as sources in their own right.",
+      "refs": [
+        56,
+        10,
+        57,
+        17,
+        18,
+        58,
+        19,
+        20,
+        21,
+        22
+      ]
+    },
+    {
+      "kind": "context",
+      "name": "Other / case context",
+      "note": "Empirical, regional or topical sources not assigned to a strand.",
+      "refs": [
+        8,
+        41,
+        33,
+        34,
+        43,
+        26,
+        44,
+        36,
+        11,
+        40,
+        9,
+        38,
+        5,
+        32,
+        59,
+        7,
+        37
+      ]
+    }
+  ],
+  "tracedAt": "2026-09-19"
+}

@@ -1,0 +1,58 @@
+{
+  "absent": "Almost everything: the reference list is too short to show a lineage.",
+  "confidence": "low",
+  "earliest": 2009,
+  "forYou": "Too thin to trace a lineage. Cook's 'messy turn' could be a useful reference for an extraction-loss test that has to stay messy.",
+  "itemId": "doi_10.1080_09650792.2026.2720840",
+  "median": 2009,
+  "method": "References from Crossref; strands and narrative by Claude, grounded only in the reference list and title.",
+  "narrative": [
+    "Only three references: this is probably a short editorial or reflection piece. It draws on Brydon-Miller and Maguire's account of PAR in practitioner inquiry (2009), Cook's 'messy turn' (2009) and the Wiley handbook chapter Embury co-wrote with Bradbury and Lewis (2019)."
+  ],
+  "parsed": 3,
+  "refCount": 3,
+  "refs": [
+    {
+      "a": "Bradbury",
+      "d": "10.1002/9781119399490.ch1",
+      "j": "The Wiley Handbook of Action Research in Education",
+      "t": "Education action research",
+      "y": 2019
+    },
+    {
+      "a": "Brydon-Miller",
+      "d": "10.1080/09650790802667469",
+      "j": "Educational Action Research",
+      "t": "Participatory action research: contributions to the development of practitioner inquiry in education",
+      "y": 2009
+    },
+    {
+      "a": "Cook",
+      "d": "10.1080/09650790902914241",
+      "j": "Educational Action Research",
+      "t": "The purpose of mess in action research: building rigour though a messy turn",
+      "y": 2009
+    }
+  ],
+  "source": "Crossref reference list (reference text read automatically; spot-check spellings)",
+  "strands": [
+    {
+      "kind": "root",
+      "name": "Action research in education",
+      "note": "Handbook and review sources on education action research and PAR.",
+      "refs": [
+        1,
+        0
+      ]
+    },
+    {
+      "kind": "frame",
+      "name": "Messiness and rigour",
+      "note": "Cook's 'messy turn' as a source of rigour.",
+      "refs": [
+        2
+      ]
+    }
+  ],
+  "tracedAt": "2026-09-19"
+}

@@ -1,0 +1,364 @@
+{
+  "absent": "There is no Latin American participatory-research lineage at all - no Freire, Fals Borda or Santos - so 'partnership' arrives with no ecology-of-knowledges or PAR grounding, and the decolonial reading runs almost entirely through anglophone UK sources with Mignolo (2018) as the lone exception.",
+  "confidence": "medium",
+  "forYou": "The move here - taking a partnership technology built for engagement and asking it to carry an epistemic argument - is the same structural bet you are making when you locate professional criticality in an ecosystem rather than in an individual, and it is worth holding up at CARN 2026 when 'Substrate Matters' asks what a partnership is actually growing in.",
+  "itemId": "doi_10.1080_03075079.2026.2733943",
+  "median": 2019,
+  "method": "References from Crossref; strands and narrative by Claude, grounded only in the reference list and title. 22 of the 61 references carry a DOI and nothing else in Crossref, and the batch DOI lookup returned unrelated records this run, so those 22 are omitted rather than guessed.",
+  "narrative": "The oldest layer in this reference list is not education at all. Miller (1961) on dividend policy and Hull (2009) on derivatives sit there as the canon the paper reads against - the finance and business teaching, extended by Heath (2018) and Crane (2019), that the authors treat as colonial by default rather than by intent. Against that sits a decolonial tradition entering UK higher education through Tuck (2012), Ahmed (2012) and Dei (2017), consolidating around Bhambra (2018), Andrews (2018) and Mignolo (2018), and reaching the disciplines with Moncrieffe (2020), Adebisi (2024) and Gilani (2024).\n\nA second strand is empirical and institutional. Bhopal (2018), Arday (2018), Sian (2019), Andrews (2021) and Joseph-Salisbury (2021) document racism inside British universities, with Universities UK (2020) and the Office for Students (2022) supplying the official record. From 2024 this turns into case work - Davis (2024) in Welsh initial teacher education, Tamimi (2024) at a UK university, Memon (2025) at Cardiff - which is the genre this paper joins.\n\nThe third strand is older and was developed separately: students as partners, via Thomas (2012), Cook-Sather (2014) and Healey (2014). The paper's actual move is to graft that machinery onto the decolonial argument, a join already being attempted by Araneta (2022, 2025). Race (2022) and Pillay (2022) mark the live disagreement it enters - whether decolonising means changing what is on the reading list or what counts as knowledge - with Banks (2019) as the multicultural-education precursor the decolonial writers define themselves against.",
+  "parsed": 39,
+  "refCount": 61,
+  "refs": [
+    {
+      "a": "Miller",
+      "d": "10.1086/294442",
+      "j": "The Journal of Business",
+      "t": "Dividend Policy, Growth, and the Valuation of Shares",
+      "y": 1961
+    },
+    {
+      "a": "Hull",
+      "d": "",
+      "j": "Pearson Prentice Hall",
+      "t": "Options, Futures, and Other Derivatives",
+      "y": 2009
+    },
+    {
+      "a": "Ahmed",
+      "d": "10.1215/9780822395324",
+      "j": "",
+      "t": "On Being Included",
+      "y": 2012
+    },
+    {
+      "a": "Thomas",
+      "d": "",
+      "j": "Paul Hamlyn Foundation",
+      "t": "Building Student Engagement and Belonging in Higher Education at a Time of Change: Final Report from the What Works? Student Retention & Success Programme",
+      "y": 2012
+    },
+    {
+      "a": "Tuck",
+      "d": "",
+      "j": "Decolonization: Indigeneity, Education & Society",
+      "t": "Decolonization Is Not a Metaphor",
+      "y": 2012
+    },
+    {
+      "a": "Cook-Sather",
+      "d": "",
+      "j": "Jossey-Bass",
+      "t": "Engaging Students as Partners in Learning and Teaching: A Guide for Faculty",
+      "y": 2014
+    },
+    {
+      "a": "Healey",
+      "d": "",
+      "j": "Higher Education Academy",
+      "t": "Engagement through Partnership: Students as Partners in Learning and Teaching in Higher Education",
+      "y": 2014
+    },
+    {
+      "a": "Dei",
+      "d": "10.1007/978-3-319-53079-6",
+      "j": "",
+      "t": "Reframing Blackness and Black Solidarities through Anti-colonial and Decolonial Prisms",
+      "y": 2017
+    },
+    {
+      "a": "Andrews",
+      "d": "10.2307/j.ctv4ncntg.10",
+      "j": "Decolonising the University",
+      "t": "The Challenge for Black Studies in the Neoliberal University",
+      "y": 2018
+    },
+    {
+      "a": "Arday",
+      "d": "10.1007/978-3-319-60261-5_9",
+      "j": "Dismantling Race in Higher Education",
+      "t": "Being Black, Male and Academic: Navigating the White Academy",
+      "y": 2018
+    },
+    {
+      "a": "Arday",
+      "d": "10.1007/978-3-319-60261-5",
+      "j": "",
+      "t": "Dismantling Race in Higher Education",
+      "y": 2018
+    },
+    {
+      "a": "Bhambra",
+      "d": "10.2307/j.ctv4ncntg",
+      "j": "",
+      "t": "Decolonising the University",
+      "y": 2018
+    },
+    {
+      "a": "Bhopal",
+      "d": "10.2307/j.ctt22h6r81",
+      "j": "",
+      "t": "White privilege",
+      "y": 2018
+    },
+    {
+      "a": "Heath",
+      "d": "10.4324/9781315764818",
+      "j": "Routledge",
+      "t": "The Routledge Companion to Business Ethics",
+      "y": 2018
+    },
+    {
+      "a": "Mignolo",
+      "d": "10.1215/9780822371779",
+      "j": "",
+      "t": "On Decoloniality",
+      "y": 2018
+    },
+    {
+      "a": "Banks",
+      "d": "",
+      "j": "Pearson",
+      "t": "An Introduction to Multicultural Education",
+      "y": 2019
+    },
+    {
+      "a": "Crane",
+      "d": "",
+      "j": "Oxford University Press",
+      "t": "Business Ethics: Managing Corporate Citizenship and Sustainability in the Age of Globalization",
+      "y": 2019
+    },
+    {
+      "a": "Sian",
+      "d": "10.1007/978-3-030-14284-1",
+      "j": "",
+      "t": "Navigating Institutional Racism in British Universities",
+      "y": 2019
+    },
+    {
+      "a": "University of Brighton",
+      "d": "",
+      "j": "",
+      "t": "Access and participation plan 2020-21-2024-25",
+      "y": 2019
+    },
+    {
+      "a": "Moncrieffe",
+      "d": "",
+      "j": "Research Intelligence",
+      "t": "Decolonising the Curriculum: Transnational Perspectives",
+      "y": 2020
+    },
+    {
+      "a": "Moncrieffe",
+      "d": "10.1007/978-3-030-57945-6",
+      "j": "",
+      "t": "Decolonising the History Curriculum",
+      "y": 2020
+    },
+    {
+      "a": "Thomas",
+      "d": "",
+      "j": "Counterpress",
+      "t": "Towards Decolonising the University: A Kaleidoscope for Empowered Action",
+      "y": 2020
+    },
+    {
+      "a": "Universities UK",
+      "d": "",
+      "j": "",
+      "t": "Tackling racial harassment in higher education",
+      "y": 2020
+    },
+    {
+      "a": "Andrews",
+      "d": "",
+      "j": "Allen Lane",
+      "t": "The New Age of Empire: How Racism and Colonialism Still Rule the World",
+      "y": 2021
+    },
+    {
+      "a": "Joseph-Salisbury",
+      "d": "10.7765/9781526157973",
+      "j": "",
+      "t": "Anti-racist scholar-activism",
+      "y": 2021
+    },
+    {
+      "a": "Quinlan",
+      "d": "10.14324/LRE.19.1.03",
+      "j": "London Review of Education",
+      "t": "Do higher education students really seek 'value for money'?: Debunking the myth",
+      "y": 2021
+    },
+    {
+      "a": "Araneta",
+      "d": "",
+      "j": "Centre for Education and Teaching Innovation, University of Westminster",
+      "t": "University of Westminster Student Partnership Framework",
+      "y": 2022
+    },
+    {
+      "a": "Office for Students",
+      "d": "",
+      "j": "",
+      "t": "Equality Diversity and Student Characteristics Data",
+      "y": 2022
+    },
+    {
+      "a": "Pillay",
+      "d": "10.14324/LRE.20.1.14",
+      "j": "London Review of Education",
+      "t": "Considering the role of social media: #BlackLivesMatter as a pedagogical intervention to decolonise curriculum",
+      "y": 2022
+    },
+    {
+      "a": "Race",
+      "d": "10.14324/LRE.20.1.12",
+      "j": "London Review of Education",
+      "t": "Decolonising curriculum in education: continuing proclamations and provocations",
+      "y": 2022
+    },
+    {
+      "a": "Adebisi",
+      "d": "10.4324/9781003481324",
+      "j": "",
+      "t": "Decolonisation and the Law School: Dreaming Beyond Aesthetic Changes to the Curriculum",
+      "y": 2024
+    },
+    {
+      "a": "Adebisi",
+      "d": "",
+      "j": "Routledge",
+      "t": "Decolonisation, Anti-Racism, and Legal Pedagogy: Strategies, Successes, and Challenges",
+      "y": 2024
+    },
+    {
+      "a": "Davis",
+      "d": "10.1002/berj.4007",
+      "j": "British Educational Research Journal",
+      "t": "Re-imagining a decolonised, anti-racist curriculum within initial teacher education in a Welsh university",
+      "y": 2024
+    },
+    {
+      "a": "Gilani",
+      "d": "10.4324/9781032698083",
+      "j": "",
+      "t": "Decolonizing Marketing Theory and Practice: Beyond Inclusivity and Sustainability Debates",
+      "y": 2024
+    },
+    {
+      "a": "Tamimi",
+      "d": "10.1007/s10734-023-01144-3",
+      "j": "Higher Education",
+      "t": "Towards decolonising higher education: a case study from a UK university",
+      "y": 2024
+    },
+    {
+      "a": "Araneta",
+      "d": "10.3390/socsci14010037",
+      "j": "Social Sciences",
+      "t": "Social Justice Work in the University: Understanding Student and Staff Perceptions and Aspirations for Decolonising the Curriculum from a University-Wide Survey",
+      "y": 2025
+    },
+    {
+      "a": "Memon",
+      "d": "",
+      "j": "The Learned Society of Wales (ECR Blog)",
+      "t": "Decolonisation in the Context of Welsh Higher Education",
+      "y": 2025
+    },
+    {
+      "a": "Memon",
+      "d": "",
+      "j": "",
+      "t": "Racism and Decolonisation at Cardiff University: A Preliminary Report (2022-2024)",
+      "y": 2025
+    },
+    {
+      "a": "CORE Economics Education",
+      "d": "",
+      "j": "",
+      "t": "CORE Econ",
+      "y": null
+    }
+  ],
+  "source": "Crossref reference list (reference text read automatically; spot-check spellings)",
+  "strands": [
+    {
+      "kind": "root",
+      "name": "Decolonising the university",
+      "note": "The tradition the paper grows from: the argument that the university's knowledge base, not just its intake, is colonial.",
+      "refs": [
+        4,
+        7,
+        11,
+        8,
+        14,
+        21,
+        20,
+        19,
+        30,
+        31,
+        33
+      ]
+    },
+    {
+      "kind": "context",
+      "name": "Race and the British academy",
+      "note": "Empirical and testimonial sources on racism inside UK higher education, which supply the paper's problem.",
+      "refs": [
+        2,
+        12,
+        10,
+        9,
+        17,
+        22,
+        23,
+        24,
+        27,
+        32,
+        34,
+        36,
+        37
+      ]
+    },
+    {
+      "kind": "frame",
+      "name": "Students as partners",
+      "note": "The pedagogic machinery the paper borrows: partnership, engagement and belonging as ways of redistributing curricular authority.",
+      "refs": [
+        3,
+        5,
+        6,
+        18,
+        26,
+        35
+      ]
+    },
+    {
+      "kind": "debate",
+      "name": "What counts as curriculum change",
+      "note": "The controversy the paper enters: whether decolonising means adding diverse content or changing the epistemic basis of a course.",
+      "refs": [
+        15,
+        25,
+        29,
+        28
+      ]
+    },
+    {
+      "kind": "context",
+      "name": "Other / case context: business and finance teaching",
+      "note": "The disciplinary texts the paper works on, which show what an undecolonised curriculum actually looks like.",
+      "refs": [
+        0,
+        1,
+        13,
+        16,
+        38
+      ]
+    }
+  ],
+  "tracedAt": "2026-09-21"
+}

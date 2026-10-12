@@ -1,0 +1,21 @@
+{
+  "authors": "Polk, Palmer, Raviola",
+  "caveat": "Framework paper; check how much empirical material underpins it.",
+  "date": "2026-09-01",
+  "doi": "10.1007/s11625-026-01877-x",
+  "kind": "paper",
+  "lang": "en",
+  "run": "2026-09-19",
+  "score": 5,
+  "source": "Crossref",
+  "status": "new",
+  "themes": [
+    "eco",
+    "td"
+  ],
+  "title": "Unbounded problems in a bounded world: using the core features of wicked problems to understand and manage the dilemmas that arise in cross-sector collaborations around complex societal problems",
+  "url": "https://doi.org/10.1007/s11625-026-01877-x",
+  "venue": "Sustainability Science",
+  "why": "Maps the recurring dilemmas of cross-sector collaboration on wicked problems — the core situation of learning in stakeholder ecosystems.",
+  "wildcard": false
+}

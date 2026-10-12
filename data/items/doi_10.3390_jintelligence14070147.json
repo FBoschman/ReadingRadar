@@ -1,0 +1,21 @@
+{
+  "authors": "Kırcaburun",
+  "caveat": "Treats critical thinking as an individual disposition.",
+  "date": "2026-07-13",
+  "doi": "10.3390/jintelligence14070147",
+  "kind": "paper",
+  "lang": "en",
+  "run": "2026-09-19",
+  "score": 3,
+  "source": "Crossref",
+  "status": "new",
+  "themes": [
+    "ai",
+    "pc"
+  ],
+  "title": "Generative AI Use and Critical Thinking Dispositions in Higher Education: A Cross-Sample Study of the Sequential Role of Metacognitive Weakness and Epistemic Laziness",
+  "url": "https://doi.org/10.3390/jintelligence14070147",
+  "venue": "Journal of Intelligence",
+  "why": "Psychometric take on critical thinking and AI — a useful contrast to the normative PC view.",
+  "wildcard": false
+}

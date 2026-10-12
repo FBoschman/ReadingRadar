@@ -1,0 +1,970 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Reading Radar - dashboard</title>
+<style>
+:root {
+  --bg: #f5f6f8;
+  --card: #ffffff;
+  --ink: #17202b;
+  --ink-soft: #55636f;
+  --line: #d3d9e0;
+  --accent: #1f4e79;
+  --accent-soft: #e8eef6;
+  --red: #a3271f;
+  --red-soft: #fbe9e7;
+  --amber: #8a5a00;
+  --amber-soft: #fdf3e0;
+  --green: #1d6b3a;
+  --green-soft: #e8f4ec;
+  --violet: #5b3a86;
+  --violet-soft: #f0eaf8;
+  --mono: Consolas, "Courier New", monospace;
+}
+* { box-sizing: border-box; }
+html, body { margin: 0; padding: 0; }
+body {
+  background: var(--bg);
+  color: var(--ink);
+  font: 15px/1.55 "Segoe UI", Tahoma, Verdana, sans-serif;
+  padding-bottom: 40px;
+}
+a { color: var(--accent); }
+header.top { background: var(--accent); color: #fff; padding: 18px 20px 14px; }
+header.top h1 { margin: 0 0 4px; font-size: 22px; }
+header.top p.sub { margin: 0; font-size: 14px; opacity: .95; }
+.clock { display: flex; flex-wrap: wrap; gap: 9px; margin-top: 12px; }
+.chip {
+  background: rgba(255,255,255,.14);
+  border: 1px solid rgba(255,255,255,.35);
+  border-radius: 4px;
+  font-size: 13px;
+  padding: 5px 9px;
+}
+nav.tabs { background: #173d61; display: flex; flex-wrap: wrap; gap: 2px; padding: 0 12px; }
+nav.tabs button {
+  background: transparent;
+  border: 0;
+  border-bottom: 3px solid transparent;
+  color: #d6e2ee;
+  cursor: pointer;
+  font: inherit;
+  font-size: 14px;
+  padding: 11px 12px 9px;
+}
+nav.tabs button:hover { background: rgba(255,255,255,.10); color: #fff; }
+nav.tabs button[aria-selected="true"] {
+  background: var(--bg);
+  border-bottom-color: #ffc857;
+  color: var(--ink);
+  font-weight: 600;
+}
+main { margin: 0 auto; max-width: 1280px; padding: 18px 14px 30px; }
+.panel { display: none; }
+.panel.active { display: block; }
+h2.sec { border-bottom: 2px solid var(--accent); font-size: 18px; margin: 6px 0 6px; padding-bottom: 5px; }
+h3.sub { color: var(--accent); font-size: 15px; margin: 18px 0 6px; }
+p.lead { margin: 8px 0 14px; max-width: 92ch; }
+p, li { max-width: 95ch; }
+.grid { display: grid; gap: 12px; }
+.grid.two { grid-template-columns: repeat(auto-fit, minmax(330px, 1fr)); }
+.grid.side { grid-template-columns: minmax(300px, 380px) 1fr; align-items: start; }
+@media (max-width: 860px) { .grid.side { grid-template-columns: 1fr; } }
+.card { background: var(--card); border: 1px solid var(--line); border-radius: 5px; padding: 12px 14px; }
+.card.left-red { border-left: 5px solid var(--red); }
+.card.left-amber { border-left: 5px solid var(--amber); }
+.card.left-green { border-left: 5px solid var(--green); }
+.card.left-accent { border-left: 5px solid var(--accent); }
+.card h4 { font-size: 15px; margin: 0 0 6px; }
+.card p { margin: 6px 0; }
+.badge {
+  border-radius: 3px;
+  display: inline-block;
+  font-size: 11.5px;
+  font-weight: 700;
+  letter-spacing: .3px;
+  padding: 1px 6px;
+  text-transform: uppercase;
+  vertical-align: middle;
+}
+.b-red { background: var(--red-soft); border: 1px solid #e2b6b2; color: var(--red); }
+.b-amber { background: var(--amber-soft); border: 1px solid #e8d3ab; color: var(--amber); }
+.b-green { background: var(--green-soft); border: 1px solid #b6d8c3; color: var(--green); }
+.b-blue { background: var(--accent-soft); border: 1px solid #b9cbe6; color: var(--accent); }
+table { background: var(--card); border-collapse: collapse; font-size: 14px; margin: 10px 0; width: 100%; }
+th, td { border: 1px solid var(--line); padding: 6px 8px; text-align: left; vertical-align: top; }
+th { background: var(--accent-soft); font-weight: 600; }
+td.num, th.num { text-align: right; white-space: nowrap; }
+.verdict { border-radius: 5px; font-size: 16px; font-weight: 600; margin: 10px 0; padding: 12px 14px; }
+.verdict span { display: block; }
+.verdict p { font-weight: 400; margin: 6px 0 0; }
+.verdict.go { background: var(--green-soft); border: 1px solid #a9d3b9; color: var(--green); }
+.verdict.warn { background: var(--amber-soft); border: 1px solid #e0c893; color: var(--amber); }
+.verdict.no { background: var(--red-soft); border: 1px solid #dda9a4; color: var(--red); }
+label.field { display: block; font-size: 12.5px; font-weight: 600; margin: 8px 0 2px; }
+input[type="search"], input[type="text"], select {
+  border: 1px solid var(--line);
+  border-radius: 3px;
+  font: inherit;
+  font-size: 14px;
+  padding: 5px 7px;
+  width: 100%;
+}
+button.act {
+  background: var(--accent);
+  border: 0;
+  border-radius: 4px;
+  color: #fff;
+  cursor: pointer;
+  font: inherit;
+  font-size: 14px;
+  padding: 7px 12px;
+}
+button.act:hover { background: #173d61; }
+button.act.ghost { background: #fff; border: 1px solid var(--accent); color: var(--accent); }
+button.act.ghost:hover { background: var(--accent-soft); }
+.row { align-items: center; display: flex; flex-wrap: wrap; gap: 8px; margin: 10px 0; }
+.muted { color: var(--ink-soft); font-size: 13px; }
+.list { max-height: 72vh; overflow: auto; padding-right: 4px; }
+.item {
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 4px;
+  cursor: pointer;
+  margin-bottom: 6px;
+  padding: 8px 10px;
+}
+.item:hover { border-color: var(--accent); }
+.item.sel { border-color: var(--accent); box-shadow: inset 3px 0 0 var(--accent); }
+.item .t { font-weight: 600; }
+.item .meta { color: var(--ink-soft); display: block; font-size: 12.5px; margin-top: 2px; }
+.detail { background: var(--card); border: 1px solid var(--line); border-radius: 5px; padding: 14px 16px; }
+.detail h3 { font-size: 17px; margin: 0 0 6px; }
+.detail dl { display: grid; font-size: 14px; gap: 3px 12px; grid-template-columns: minmax(110px, 160px) 1fr; margin: 10px 0; }
+.detail dt { font-weight: 600; }
+.detail dd { margin: 0; }
+blockquote { border-left: 3px solid var(--line); color: var(--ink-soft); margin: 8px 0; padding: 2px 0 2px 10px; }
+.bar { background: #e3e8ee; border-radius: 999px; height: 14px; overflow: hidden; }
+.bar > span { background: var(--accent); display: block; height: 100%; width: 0; }
+footer.foot { border-top: 1px solid var(--line); color: var(--ink-soft); font-size: 12.5px; margin: 26px auto 0; max-width: 1280px; padding: 12px 14px 0; }
+@media print { nav.tabs, button.act { display: none; } .panel { display: block !important; page-break-after: always; } body { background: #fff; } .list { max-height: none; } }
+</style>
+</head>
+<body>
+<header class="top">
+  <h1>Reading Radar</h1>
+  <p class="sub">A weekly watch on research and professional debate across eight themes. Export of 12 October 2026.</p>
+  <div class="clock" id="clock"></div>
+</header>
+
+<nav class="tabs" role="tablist" aria-label="Sections">
+  <button type="button" role="tab" data-target="digest" aria-selected="true">Digest</button>
+  <button type="button" role="tab" data-target="items" aria-selected="false">Items</button>
+  <button type="button" role="tab" data-target="roots" aria-selected="false">Roots</button>
+  <button type="button" role="tab" data-target="events" aria-selected="false">Events</button>
+  <button type="button" role="tab" data-target="config" aria-selected="false">Config</button>
+  <button type="button" role="tab" data-target="health" aria-selected="false">Health</button>
+</nav>
+
+<main>
+<section id="digest" class="panel active" role="tabpanel">
+  <h2 class="sec">Digest</h2>
+  <div id="digestBody">Loading the data.</div>
+</section>
+
+<section id="items" class="panel" role="tabpanel">
+  <h2 class="sec">Items</h2>
+  <p class="lead">Every paper and discourse piece in the export. Use the filters to find the items that matter. Select an item to read the reason, the caveat and the source.</p>
+  <div class="card">
+    <div class="grid two">
+      <div>
+        <label class="field" for="q">Search in the title, the authors, the venue and the reason</label>
+        <input type="search" id="q" placeholder="For example: complexity">
+      </div>
+      <div>
+        <label class="field" for="fTheme">Theme</label>
+        <select id="fTheme"></select>
+      </div>
+      <div>
+        <label class="field" for="fStatus">Status from the reader</label>
+        <select id="fStatus"></select>
+      </div>
+      <div>
+        <label class="field" for="fKind">Kind</label>
+        <select id="fKind"></select>
+      </div>
+      <div>
+        <label class="field" for="fRun">Run</label>
+        <select id="fRun"></select>
+      </div>
+      <div>
+        <label class="field" for="fScore">Minimum score</label>
+        <select id="fScore"></select>
+      </div>
+      <div>
+        <label class="field" for="fSort">Order</label>
+        <select id="fSort">
+          <option value="score">Score, high first</option>
+          <option value="date">Date, new first</option>
+          <option value="run">Run, new first</option>
+          <option value="title">Title, A to Z</option>
+        </select>
+      </div>
+      <div>
+        <label class="field" for="fMust">Show</label>
+        <select id="fMust">
+          <option value="all">All items</option>
+          <option value="must">Must-read items only</option>
+          <option value="wild">Wildcards only</option>
+          <option value="nocaveat">Items without a caveat</option>
+          <option value="nolineage">Items at score 4 and 5 without a roots document</option>
+        </select>
+      </div>
+    </div>
+    <div class="row">
+      <button class="act ghost" type="button" data-action="reset-filters">Reset the filters</button>
+      <span class="muted" id="itemCount"></span>
+    </div>
+  </div>
+  <div class="grid side" style="margin-top:12px">
+    <div class="list" id="itemList"></div>
+    <div class="detail" id="itemDetail"><p class="muted">Select an item.</p></div>
+  </div>
+</section>
+
+<section id="roots" class="panel" role="tabpanel">
+  <h2 class="sec">Roots (intellectual lineage)</h2>
+  <p class="lead">Each document traces the reference list of one paper. A hard rule applies: the narrative and the strands may only name works that appear in the reference list. Read the method and the confidence before you cite a strand.</p>
+  <div class="row">
+    <button class="act ghost" type="button" data-action="roots-queued">Show the request queue too</button>
+    <span class="muted" id="rootsCount"></span>
+  </div>
+  <div class="grid side">
+    <div class="list" id="rootList"></div>
+    <div class="detail" id="rootDetail"><p class="muted">Select a lineage document.</p></div>
+  </div>
+</section>
+
+<section id="events" class="panel" role="tabpanel">
+  <h2 class="sec">Events and deadlines</h2>
+  <p class="lead">Conferences, calls and dates that the radar found. The radar only records a date that it read on the source page.</p>
+  <div class="row">
+    <label class="muted"><input type="checkbox" id="showPassed"> Show the dates that have passed</label>
+  </div>
+  <div id="eventList"></div>
+</section>
+
+<section id="config" class="panel" role="tabpanel">
+  <h2 class="sec">Config (the profile)</h2>
+  <p class="lead">The profile is the configuration of the radar. It holds the themes, the journal watch, the limits and the reader's own choices. The radar may change only the parts that it must update after a run.</p>
+  <div class="grid two">
+    <div class="card left-accent">
+      <h4>Run settings</h4>
+      <div id="configSettings"></div>
+    </div>
+    <div class="card left-accent">
+      <h4>The eight themes and their keywords</h4>
+      <div id="configThemes"></div>
+    </div>
+    <div class="card left-amber">
+      <h4>Hard exclusions</h4>
+      <div id="configExclusions"></div>
+    </div>
+    <div class="card left-amber">
+      <h4>Vault handover (FUNGI)</h4>
+      <div id="configVault"></div>
+    </div>
+  </div>
+  <h3 class="sub">Journal watch</h3>
+  <div id="configJournals"></div>
+</section>
+
+<section id="health" class="panel" role="tabpanel">
+  <h2 class="sec">Health and the next steps</h2>
+  <p class="lead">This section checks the export against the runbook. It shows what is broken, what is missing and what to do next. The checks use the data in this repository only.</p>
+  <div id="healthVerdict" class="verdict warn">Loading the checks.</div>
+
+  <div class="grid two">
+    <div class="card left-red">
+      <h4>Blockers that the runbook records</h4>
+      <div id="healthBlockers"></div>
+    </div>
+    <div class="card left-amber">
+      <h4>Sources in the last run</h4>
+      <div id="healthSources"></div>
+    </div>
+    <div class="card left-amber">
+      <h4>Journal watch coverage</h4>
+      <div id="healthJournals"></div>
+    </div>
+    <div class="card left-green">
+      <h4>Triage by the reader</h4>
+      <div id="healthTriage"></div>
+    </div>
+    <div class="card left-green">
+      <h4>Data quality</h4>
+      <div id="healthQuality"></div>
+    </div>
+    <div class="card left-green">
+      <h4>Roots coverage</h4>
+      <div id="healthRoots"></div>
+    </div>
+  </div>
+
+  <h3 class="sub">Do these actions next</h3>
+  <div id="healthActions"></div>
+</section>
+</main>
+
+<footer class="foot">
+  <p>This dashboard reads the project kit in this repository. It needs no server and no internet connection. The texts of the items, the digest and the lineage are copied from the export, without a change.</p>
+  <p>The interface text uses ASD-STE100 Simplified Technical English.</p>
+  <p>Data: <code>data/</code>, exported 12 October 2026 from the live dashboard. The bundle <code>data/radar-data.js</code> is generated. To rebuild it after a new export, run <code>python tools/build_bundle.py</code>.</p>
+</footer>
+<script src="data/radar-data.js"></script>
+<script>
+var DATA = window.RADAR_DATA || null;
+var ITEMS = [], ROOTS = [], EVENTS = [], REQUESTS = [], PROFILE = {}, LAST = {}, DIGEST = {}, MANIFEST = {};
+var THEMES = {};
+var state = { q: '', theme: 'all', status: 'all', kind: 'all', run: 'all', score: 0, sort: 'score', show: 'all', rootView: 'lineage', selected: null, selectedRoot: null };
+
+function el(id) { return document.getElementById(id); }
+function set(id, html) { var n = el(id); if (n) { n.innerHTML = html; } }
+function esc(value) {
+  return String(value === null || value === undefined ? '' : value)
+    .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+}
+function link(url, text) {
+  if (!url) { return esc(text); }
+  return '<a href="' + esc(url) + '" target="_blank" rel="noopener">' + esc(text) + '</a>';
+}
+function fmtDate(value) {
+  var s = String(value || '');
+  var m = /^(\d{4})-(\d{2})-(\d{2})$/.exec(s);
+  if (m) {
+    var months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+    return Number(m[3]) + ' ' + months[Number(m[2]) - 1] + ' ' + m[1];
+  }
+  m = /^(\d{4})-(\d{2})$/.exec(s);
+  if (m) { return 'Month ' + m[2] + ' of ' + m[1]; }
+  if (/^\d{4}$/.test(s)) { return 'Year ' + s; }
+  return s || 'no date';
+}
+function scoreBadge(score) {
+  var n = Number(score);
+  var cls = n >= 4 ? 'b-green' : (n >= 3 ? 'b-blue' : 'b-grey');
+  return '<span class="badge ' + cls + '">Score ' + n + '</span>';
+}
+function statusBadge(status) {
+  var map = { keep: 'b-green', maybe: 'b-amber', skip: 'b-red', new: 'b-grey' };
+  return '<span class="badge ' + (map[status] || 'b-grey') + '">' + esc(status || 'unknown') + '</span>';
+}
+function themeChips(list) {
+  var codes = list || [];
+  var out = '';
+  var i;
+  for (i = 0; i < codes.length; i++) {
+    var name = THEMES[codes[i]] || codes[i];
+    out += ' <span class="badge b-violet" title="' + esc(name) + '">' + esc(codes[i]) + '</span>';
+  }
+  return out;
+}
+function daysBetween(from, to) { return (to.getTime() - from.getTime()) / 86400000; }
+function statusKind(text) {
+  var s = String(text || '').toLowerCase();
+  if (s.indexOf('failed') === 0) { return 'failed'; }
+  if (s.indexOf('partial') === 0) { return 'partial'; }
+  if (s.indexOf('ok') === 0) { return 'ok'; }
+  if (s.indexOf('none') === 0) { return 'none'; }
+  if (s.indexOf('not swept') === 0) { return 'not-swept'; }
+  if (s === '') { return 'not-reported'; }
+  return 'other';
+}
+var KIND_CLASS = { ok: 'b-green', partial: 'b-amber', failed: 'b-red', none: 'b-grey', 'not-swept': 'b-red', 'not-reported': 'b-grey', other: 'b-grey' };
+
+function prepare() {
+  var i, keys;
+  if (!DATA) { return false; }
+  keys = Object.keys(DATA.items || {});
+  for (i = 0; i < keys.length; i++) { var item = DATA.items[keys[i]]; item.id = keys[i]; ITEMS.push(item); }
+  keys = Object.keys(DATA.lineage || {});
+  for (i = 0; i < keys.length; i++) { var root = DATA.lineage[keys[i]]; root.id = keys[i]; ROOTS.push(root); }
+  keys = Object.keys(DATA.events || {});
+  for (i = 0; i < keys.length; i++) { var ev = DATA.events[keys[i]]; ev.id = keys[i]; EVENTS.push(ev); }
+  keys = Object.keys(DATA.lineageRequests || {});
+  for (i = 0; i < keys.length; i++) { var req = DATA.lineageRequests[keys[i]]; req.id = keys[i]; REQUESTS.push(req); }
+  PROFILE = (DATA.meta && DATA.meta.profile) || {};
+  LAST = (DATA.meta && DATA.meta.lastRun) || {};
+  DIGEST = (DATA.meta && DATA.meta.digest) || {};
+  MANIFEST = DATA.manifest || {};
+  var themes = PROFILE.themes || [];
+  for (i = 0; i < themes.length; i++) { THEMES[themes[i].code] = themes[i].name; }
+  return true;
+}
+
+function itemById(id) {
+  var i;
+  for (i = 0; i < ITEMS.length; i++) { if (ITEMS[i].id === id) { return ITEMS[i]; } }
+  return null;
+}
+
+function rootById(id) {
+  var i;
+  for (i = 0; i < ROOTS.length; i++) { if (ROOTS[i].id === id) { return ROOTS[i]; } }
+  return null;
+}
+
+function dataAge() {
+  var exported = MANIFEST.exportedAt;
+  if (!exported) { return null; }
+  var parts = String(exported).split('-');
+  if (parts.length < 3) { return null; }
+  var then = new Date(Number(parts[0]), Number(parts[1]) - 1, Number(parts[2]));
+  return Math.round(daysBetween(then, new Date()));
+}
+
+function renderClock() {
+  var journalsOn = (PROFILE.journalWatch || []).filter(function (j) { return j.on; }).length;
+  var age = dataAge();
+  var chips = [
+    'Items: <b>' + ITEMS.length + '</b>',
+    'Roots: <b>' + ROOTS.length + '</b>',
+    'Queue: <b>' + REQUESTS.length + '</b>',
+    'Events: <b>' + EVENTS.length + '</b>',
+    'Journals on: <b>' + journalsOn + '</b>',
+    'Export: <b>' + esc(MANIFEST.exportedAt || 'unknown') + '</b>'
+  ];
+  if (age !== null) {
+    chips.push(age < 0 ? '<b>Check the clock:</b> the export date is in the future' : 'Age of the data: <b>' + age + '</b> days');
+  }
+  set('clock', chips.map(function (c) { return '<span class="chip">' + c + '</span>'; }).join(''));
+}
+
+function renderDigest() {
+  if (!DIGEST.headline) { set('digestBody', '<p>No digest in the export.</p>'); return; }
+  var must = (DIGEST.mustRead || []).map(function (id) {
+    var item = itemById(id);
+    var label = item ? item.title : id;
+    return '<li><a href="#items" data-action="open-item" data-id="' + esc(id) + '">' + esc(label) + '</a> <span class="muted">' + esc(id) + '</span></li>';
+  }).join('');
+  var paras = (DIGEST.paras || []).map(function (p) { return '<p>' + esc(p) + '</p>'; }).join('');
+  var run = LAST.date ? '<p class="muted">Last run: ' + esc(LAST.date) + '. Harvested ' + (LAST.harvested || 0) + ', unique ' + (LAST.unique || 0) + ', kept ' + (LAST.kept || 0) + '.</p>' : '';
+  set('digestBody',
+    '<div class="card left-accent">' +
+      '<h3 class="sub" style="margin-top:0">' + esc(DIGEST.week || 'Unknown week') + ' - created ' + esc(DIGEST.created || '') + '</h3>' +
+      '<p style="font-size:17px;font-weight:600;margin:8px 0">' + esc(DIGEST.headline) + '</p>' + paras + run +
+    '</div>' +
+    '<h3 class="sub">Must-read items</h3><ul>' + must + '</ul>');
+}
+
+function optionList(values, labels, current) {
+  var out = '';
+  var i;
+  for (i = 0; i < values.length; i++) {
+    out += '<option value="' + esc(values[i]) + '"' + (String(values[i]) === String(current) ? ' selected' : '') + '>' + esc(labels[i]) + '</option>';
+  }
+  return out;
+}
+
+function distinct(list, key) {
+  var seen = {}, out = [], i, v;
+  for (i = 0; i < list.length; i++) {
+    v = list[i][key];
+    if (v !== undefined && v !== null && v !== '' && !seen[v]) { seen[v] = 1; out.push(v); }
+  }
+  return out;
+}
+
+function fillItemControls() {
+  var themes = PROFILE.themes || [];
+  var tValues = ['all'], tLabels = ['All themes'];
+  var i;
+  for (i = 0; i < themes.length; i++) {
+    tValues.push(themes[i].code);
+    tLabels.push(themes[i].code + ' - ' + themes[i].name);
+  }
+  set('fTheme', optionList(tValues, tLabels, 'all'));
+
+  var statuses = distinct(ITEMS, 'status').sort();
+  set('fStatus', optionList(['all'].concat(statuses), ['All statuses'].concat(statuses), 'all'));
+
+  var kinds = distinct(ITEMS, 'kind').sort();
+  set('fKind', optionList(['all'].concat(kinds), ['All kinds'].concat(kinds), 'all'));
+
+  var runs = distinct(ITEMS, 'run').sort().reverse();
+  set('fRun', optionList(['all'].concat(runs), ['All runs'].concat(runs), 'all'));
+
+  set('fScore', optionList(['0', '1', '2', '3', '4', '5'],
+    ['All scores', '1 or more', '2 or more', '3 or more (the limit of the profile)', '4 or more', '5 only'], '0'));
+}
+
+function readFilters() {
+  var pick = function (id, fallback) {
+    var node = el(id);
+    var value = node ? String(node.value) : '';
+    return value === '' ? fallback : value;
+  };
+  state.q = pick('q', '');
+  state.theme = pick('fTheme', 'all');
+  state.status = pick('fStatus', 'all');
+  state.kind = pick('fKind', 'all');
+  state.run = pick('fRun', 'all');
+  state.score = Number(pick('fScore', '0'));
+  state.sort = pick('fSort', 'score');
+  state.show = pick('fMust', 'all');
+}
+
+function inDigestMustRead(id) {
+  return (DIGEST.mustRead || []).indexOf(id) >= 0;
+}
+function filteredItems() {
+  var q = state.q.trim().toLowerCase();
+  var out = ITEMS.filter(function (item) {
+    if (state.theme !== 'all' && (item.themes || []).indexOf(state.theme) < 0) { return false; }
+    if (state.status !== 'all' && item.status !== state.status) { return false; }
+    if (state.kind !== 'all' && item.kind !== state.kind) { return false; }
+    if (state.run !== 'all' && item.run !== state.run) { return false; }
+    if (Number(item.score || 0) < state.score) { return false; }
+    if (state.show === 'must' && !inDigestMustRead(item.id)) { return false; }
+    if (state.show === 'wild' && !item.wildcard) { return false; }
+    if (state.show === 'nocaveat' && item.caveat) { return false; }
+    if (state.show === 'nolineage' && (Number(item.score || 0) < 4 || rootById(item.id))) { return false; }
+    if (q) {
+      var hay = [item.title, item.authors, item.venue, item.why, item.source, item.doi].join(' ').toLowerCase();
+      if (hay.indexOf(q) < 0) { return false; }
+    }
+    return true;
+  });
+  out.sort(function (a, b) {
+    if (state.sort === 'title') { return String(a.title || '').localeCompare(String(b.title || '')); }
+    if (state.sort === 'date') { return String(b.date || '').localeCompare(String(a.date || '')); }
+    if (state.sort === 'run') { return String(b.run || '').localeCompare(String(a.run || '')); }
+    var d = Number(b.score || 0) - Number(a.score || 0);
+    if (d !== 0) { return d; }
+    return String(b.date || '').localeCompare(String(a.date || ''));
+  });
+  return out;
+}
+
+function renderItemList() {
+  var list = filteredItems();
+  if (el('itemCount')) { el('itemCount').textContent = list.length + ' of ' + ITEMS.length + ' items are shown.'; }
+  if (!list.length) { set('itemList', '<p class="muted">No item matches the filters.</p>'); return; }
+  var html = '';
+  var i;
+  for (i = 0; i < list.length; i++) {
+    var item = list[i];
+    html += '<div class="item' + (state.selected === item.id ? ' sel' : '') + '" data-action="open-item" data-id="' + esc(item.id) + '">' +
+      scoreBadge(item.score) + ' ' + statusBadge(item.status) + themeChips(item.themes) +
+      (item.wildcard ? ' <span class="badge b-amber">Wildcard</span>' : '') +
+      (inDigestMustRead(item.id) ? ' <span class="badge b-green">Must-read</span>' : '') +
+      (rootById(item.id) ? ' <span class="badge b-blue">Roots</span>' : '') +
+      '<span class="t"> ' + esc(item.title) + '</span>' +
+      '<span class="meta">' + esc(item.authors || 'no author') + ' - ' + esc(item.venue || 'no venue') + ' - ' + esc(fmtDate(item.date)) +
+      ' - added ' + esc(item.run || '') + '</span></div>';
+  }
+  set('itemList', html);
+}
+function renderItemDetail(id) {
+  var item = itemById(id);
+  if (!item) { set('itemDetail', '<p class="muted">Select an item.</p>'); return; }
+  state.selected = id;
+  var root = rootById(id);
+  var doiLine = item.doi
+    ? link('https://doi.org/' + item.doi, item.doi)
+    : (item.kind === 'paper' ? '<span class="muted">No DOI. The item was found under a Consensus hash.</span>' : '<span class="muted">Not applicable for discourse.</span>');
+  var dateNote = String(item.date || '').length < 10 ? ' <span class="badge b-amber">No exact date</span>' : '';
+  var caveat = item.caveat
+    ? '<p>' + esc(item.caveat) + '</p>'
+    : '<p class="muted">No caveat in the record. The runbook asks for one limitation on every item.</p>';
+  var html =
+    '<h3>' + esc(item.title) + '</h3>' +
+    '<p>' + scoreBadge(item.score) + ' ' + statusBadge(item.status) + themeChips(item.themes) +
+      (item.wildcard ? ' <span class="badge b-amber">Wildcard</span>' : '') + '</p>' +
+    '<dl>' +
+      '<dt>Authors</dt><dd>' + esc(item.authors || 'not given') + '</dd>' +
+      '<dt>Venue</dt><dd>' + esc(item.venue || 'not given') + '</dd>' +
+      '<dt>Date</dt><dd>' + esc(fmtDate(item.date)) + dateNote + '</dd>' +
+      '<dt>Language</dt><dd>' + esc(item.lang || 'not given') + '</dd>' +
+      '<dt>Kind</dt><dd>' + esc(item.kind || 'not given') + '</dd>' +
+      '<dt>Source</dt><dd>' + esc(item.source || 'not given') + '</dd>' +
+      '<dt>Run</dt><dd>' + esc(item.run || 'not given') + '</dd>' +
+      '<dt>DOI</dt><dd>' + doiLine + '</dd>' +
+      '<dt>Link</dt><dd>' + link(item.url, item.url || '') + '</dd>' +
+      '<dt>Document id</dt><dd><code>' + esc(item.id) + '</code></dd>' +
+    '</dl>' +
+    '<h4>Why it matters</h4><p>' + esc(item.why || 'not given') + '</p>' +
+    '<h4>Caveat</h4>' + caveat +
+    '<h4>Roots</h4>' + (root
+      ? '<p>A lineage document exists for this item. Open the Roots section to read it.</p>'
+      : '<p class="muted">No lineage document for this item.</p>');
+  set('itemDetail', html);
+  renderItemList();
+}
+function renderRootList() {
+  var sorted = ROOTS.slice().sort(function (a, b) { return String(b.tracedAt || '').localeCompare(String(a.tracedAt || '')); });
+  var html = '';
+  var i;
+  for (i = 0; i < sorted.length; i++) {
+    var root = sorted[i];
+    var item = itemById(root.itemId);
+    var queue = REQUESTS.filter(function (r) { return r.status === 'queued'; });
+    html += '<div class="item' + (state.selectedRoot === root.id ? ' sel' : '') + '" data-action="open-root" data-id="' + esc(root.id) + '">' +
+      '<span class="badge ' + (root.confidence === 'low' ? 'b-amber' : 'b-green') + '">' + esc(root.confidence || 'unknown') + ' confidence</span>' +
+      '<span class="badge b-grey">' + (root.parsed || 0) + ' of ' + (root.refCount || 0) + ' references</span>' +
+      '<span class="badge b-grey">median year ' + esc(root.median) + '</span>' +
+      '<span class="t"> ' + esc(item ? item.title : root.id) + '</span>' +
+      '<span class="meta">' + esc(root.itemId) + ' - traced ' + esc(root.tracedAt || '') + '</span></div>';
+  }
+  if (state.rootView === 'queue') {
+    for (i = 0; i < REQUESTS.length; i++) {
+      var req = REQUESTS[i];
+      html += '<div class="item"><span class="badge ' + (req.status === 'queued' ? 'b-amber' : 'b-grey') + '">' + esc(req.status) + '</span>' +
+        '<span class="t"> ' + esc(req.title || req.itemId) + '</span>' +
+        '<span class="meta">requested ' + esc(req.requestedAt || '') + (req.note ? ' - ' + esc(req.note) : '') + '</span></div>';
+    }
+  }
+  set('rootList', html);
+  var queue = REQUESTS.filter(function (r) { return r.status === 'queued'; }).length;
+  if (el('rootsCount')) {
+    el('rootsCount').textContent = sorted.length + ' lineage documents and ' + queue + ' requests in the queue.';
+  }
+}
+
+function refLine(ref) {
+  if (!ref) { return '<li>missing entry</li>'; }
+  var bits = [];
+  bits.push(esc((ref.a || 'unknown author') + (ref.y ? ' (' + ref.y + ')' : '')));
+  if (ref.t) { bits.push(esc(ref.t)); }
+  if (ref.j) { bits.push('<span class="muted">' + esc(ref.j) + '</span>'); }
+  if (ref.d) { bits.push(link('https://doi.org/' + ref.d, ref.d)); }
+  return '<li>' + bits.join('. ') + '</li>';
+}
+
+function renderRootDetail(id) {
+  var root = rootById(id);
+  if (!root) { set('rootDetail', '<p class="muted">Select a lineage document.</p>'); return; }
+  state.selectedRoot = id;
+  var item = itemById(root.itemId);
+  var strands = (root.strands || []).map(function (s) {
+    var refs = (s.refs || []).map(function (idx) { return refLine((root.refs || [])[idx]); }).join('');
+    return '<h4>' + esc(s.name) + ' <span class="badge b-blue">' + esc(s.kind) + '</span></h4>' +
+      (s.note ? '<p>' + esc(s.note) + '</p>' : '') +
+      (refs ? '<ul>' + refs + '</ul>' : '<p class="muted">No reference in this strand.</p>');
+  }).join('');
+  var used = {};
+  (root.strands || []).forEach(function (s) { (s.refs || []).forEach(function (i) { used[i] = 1; }); });
+  var unassigned = (root.refs || []).filter(function (r, i) { return !used[i]; });
+  var html =
+    '<h3>' + esc(item ? item.title : root.itemId) + '</h3>' +
+    '<p><span class="badge b-grey">' + (root.parsed || 0) + ' of ' + (root.refCount || 0) + ' references read</span> ' +
+      '<span class="badge ' + (root.confidence === 'low' ? 'b-amber' : 'b-green') + '">' + esc(root.confidence || 'unknown') + ' confidence</span> ' +
+      '<span class="badge b-grey">median year ' + esc(root.median) + '</span> ' +
+      '<span class="badge ' + (String(root.parsed || 0) < 10 ? 'b-red' : 'b-green') + '">' + (String(root.parsed || 0) < 10 ? 'Fewer than 10 references: low confidence by rule' : 'More than 10 references') + '</span></p>' +
+    '<p class="muted">Traced ' + esc(root.tracedAt || '') + '. Item id <code>' + esc(root.itemId) + '</code>.</p>' +
+    '<h4>How the thinking developed</h4><p>' + esc(root.narrative || 'not given') + '</p>' +
+    '<h4>Why it matters for you</h4><p>' + esc(root.forYou || 'not given') + '</p>' +
+    '<h4>Notable absences</h4><p>' + esc(root.absent || 'not given') + '</p>' +
+    '<h4>Strands</h4>' + strands +
+    (unassigned.length ? '<h4>References that no strand uses</h4><ul>' + unassigned.map(refLine).join('') + '</ul>' : '') +
+    '<h4>Method and source</h4><p>' + esc(root.method || 'not given') + '</p><p class="muted">' + esc(root.source || '') + '</p>';
+  set('rootDetail', html);
+  renderRootList();
+}
+function eventDate(ev) { return ev.start || ev.deadline || ev.end || ''; }
+
+function renderEvents() {
+  var showPassed = el('showPassed') ? el('showPassed').checked : false;
+  var now = new Date();
+  var sorted = EVENTS.slice().sort(function (a, b) { return String(eventDate(a)).localeCompare(String(eventDate(b))); });
+  var html = '';
+  var shown = 0, passed = 0;
+  var i;
+  for (i = 0; i < sorted.length; i++) {
+    var ev = sorted[i];
+    var key = eventDate(ev);
+    var parts = String(key).split('-');
+    var when = parts.length === 3 ? new Date(Number(parts[0]), Number(parts[1]) - 1, Number(parts[2])) : null;
+    var isPassed = when ? daysBetween(now, when) < 0 : false;
+    if (isPassed) { passed += 1; if (!showPassed) { continue; } }
+    shown += 1;
+    html += '<div class="card ' + (isPassed ? 'left-red' : 'left-green') + '" style="margin-bottom:8px">' +
+      '<h4>' + link(ev.url, ev.title || ev.id) + ' ' + (isPassed ? '<span class="badge b-red">Passed</span>' : '<span class="badge b-green">Ahead</span>') + '</h4>' +
+      '<p><b>' + esc(fmtDate(ev.start)) + '</b>' + (ev.end ? ' to <b>' + esc(fmtDate(ev.end)) + '</b>' : '') +
+      (ev.location ? ' - ' + esc(ev.location) : '') + '</p>' +
+      (ev.deadline ? '<p>' + esc(ev.deadlineLabel || 'Deadline') + ': <b>' + esc(fmtDate(ev.deadline)) + '</b></p>' : '') +
+      (ev.note ? '<p>' + esc(ev.note) + '</p>' : '') +
+      '<p>' + themeChips(ev.themes) + '</p></div>';
+  }
+  set('eventList', (html || '<p class="muted">No event matches the filter.</p>') +
+    '<p class="muted">Events shown: ' + shown + ' of ' + EVENTS.length + '. Dates that have passed: ' + passed + '.</p>');
+}
+
+function renderConfig() {
+  var c = PROFILE.consensus || {};
+  var b = PROFILE.bluesky || {};
+  var v = PROFILE.vault || {};
+  set('configSettings',
+    '<dl class="detail" style="border:0;padding:0"><dt>Cadence</dt><dd>' + esc(PROFILE.cadence || '') + '</dd>' +
+    '<dt>Minimum score</dt><dd>' + esc(PROFILE.minScore) + '</dd>' +
+    '<dt>Consensus</dt><dd>On: ' + (c.on ? 'yes' : 'no') + '. Searches for each week: ' + esc(c.perWeek) + '. Quota for each month: ' + esc(c.monthlyQuota) + '. Next theme index: ' + esc(c.nextTheme) + '.</dd>' +
+    '<dt>Bluesky</dt><dd>Handle: ' + esc(b.handle || '') + '. List: ' + esc(b.listName || '') + '. Accounts: ' + esc((b.accounts || []).join(', ')) + '. Maximum accounts: ' + esc(b.maxAccounts) + '.</dd>' +
+    '<dt>Feeds the reader wants</dt><dd>' + esc((PROFILE.feeds || []).join(' / ')) + '</dd>' +
+    '<dt>Library proxy</dt><dd>' + esc(PROFILE.libraryProxy || 'not set') + '</dd>' +
+    '<dt>Profile edited</dt><dd>' + esc(PROFILE.editedAt || '') + '</dd></dl>' +
+    (c.note ? '<h4>Note on the quota</h4><p>' + esc(c.note) + '</p>' : '') +
+    (b.status ? '<h4>Note on Bluesky</h4><p>' + esc(b.status) + '</p>' : ''));
+
+  var themes = (PROFILE.themes || []).map(function (t, index) {
+    return '<p><b>' + esc(t.code) + '</b> - ' + esc(t.name) + ' <span class="muted">(rotation position ' + index + ')</span><br>' +
+      '<span class="muted">' + esc((t.keywords || []).join(', ')) + '</span></p>';
+  }).join('');
+  set('configThemes', themes || '<p class="muted">No theme in the profile.</p>');
+
+  set('configExclusions', '<ul>' + (PROFILE.exclusions || []).map(function (x) { return '<li>' + esc(x) + '</li>'; }).join('') + '</ul>' +
+    '<p class="muted">The list grows: when the reader marks an item "skip" for a reason that will come back, the radar proposes a new exclusion.</p>');
+
+  set('configVault',
+    '<p><b>' + esc(v.name || 'vault') + '</b> at <code>' + esc(v.path || '') + '</code>. Intake notes go to <code>' + esc(v.inbox || '') + '</code> for the /ingest pipeline. Auto notes at score ' + esc(v.autoMin) + ' and higher.</p>' +
+    '<p>Two rules are absolute: never write in <code>wiki/</code>, and never touch <code>raw/fieldwork</code> or <code>raw/legacy</code>.</p>' +
+    '<p class="badge b-red">Last write: ' + esc(v.lastWrite || 'no record') + '</p>');
+
+  var js = PROFILE.journalWatch || [];
+  var rows = js.map(function (j) {
+    var kind = statusKind(j.status);
+    return '<tr><td>' + esc(j.name) + '</td><td>' + esc(j.issn || '') + '</td><td>' + esc(j.publisher || '') + '</td>' +
+      '<td>' + (j.on ? '<span class="badge b-green">On</span>' : '<span class="badge b-grey">Parked</span>') + '</td>' +
+      '<td><span class="badge ' + KIND_CLASS[kind] + '">' + esc(kind) + '</span> ' + esc(j.status || 'no record for the last run') + '</td>' +
+      '<td>' + esc(j.why || '') + '</td></tr>';
+  }).join('');
+  set('configJournals',
+    '<p class="muted">' + js.filter(function (j) { return j.on; }).length + ' of ' + js.length + ' entries are switched on. A parked entry is not deleted.</p>' +
+    '<table><thead><tr><th>Journal</th><th>ISSN</th><th>Publisher</th><th>State</th><th>Last run</th><th>Why it is watched</th></tr></thead><tbody>' + rows + '</tbody></table>');
+}
+var BLOCKERS = [
+  { title: 'The fetch provenance rule (the main blocker)', sev: 'b-red', text: 'In a scheduled run the fetch tool loads a URL only when that URL appeared word for word in a search result. Every other URL asks for a permission that nobody can give. Result: no API (Crossref, Bluesky, RSS) and no constructed query URL.', fix: 'Fix it on the task side: give the scheduled task a permission mode that approves a fetch, or put the base URLs in the stored prompt in a form that the permission layer accepts.' },
+  { title: 'The shell is not a fallback', sev: 'b-red', text: 'curl to api.crossref.org:443 ends with "CONNECT tunnel failed, response 403". The egress proxy denies the host.', fix: 'Do not plan a shell route. Use the web-search route below.' },
+  { title: 'ScienceDirect is closed', sev: 'b-red', text: 'Every sciencedirect.com URL returns ROBOTS_DISALLOWED. The 10 Elsevier titles on the journal watch have no route at all. A permission change does not repair this.', fix: 'Reach those papers through the paper-search tool, or through a repository copy found by a web search.' },
+  { title: 'Publisher sites that do not answer', sev: 'b-amber', text: 'tandfonline.com (5 watch titles), journals.sagepub.com (Action Research) and the EDeR issue page are not fetchable in a scheduled run.', fix: 'jprm.scholasticahq.com is fetchable. Put it first in the rotation. For the others, use the article page of the publisher or a repository copy.' },
+  { title: 'No access to the local vault', sev: 'b-amber', text: 'Since 5 October 2026 a cloud run has no file access to the reader\'s machine. Intake notes cannot go into the Obsidian wiki.', fix: 'Deliver the intake notes in the report until the file access returns.' },
+  { title: 'The route that does work', sev: 'b-green', text: 'Web-search for a publisher listing page, fetch that listing page, then web-search the title of a good paper to get its DOI, and fetch the article page only when you need the abstract or the reference list.', fix: 'State in the report that this route has no date filter. The window widens to "published in 2026 and not already on the radar", and every item outside the week carries its exact date and a caveat.' }
+];
+
+function collectHealth() {
+  var out = { sources: [], journals: { on: 0, off: 0, ok: 0, partial: 0, notSwept: 0, notReported: 0 }, triage: { new: 0, keep: 0, maybe: 0, skip: 0 }, kinds: {}, langs: {}, themes: {} };
+  var i;
+  for (i = 0; i < ITEMS.length; i++) {
+    var item = ITEMS[i];
+    if (out.triage[item.status] !== undefined) { out.triage[item.status] += 1; }
+    out.kinds[item.kind] = (out.kinds[item.kind] || 0) + 1;
+    out.langs[item.lang] = (out.langs[item.lang] || 0) + 1;
+    (item.themes || []).forEach(function (t) { out.themes[t] = (out.themes[t] || 0) + 1; });
+  }
+  out.flatMono = ITEMS.filter(function (x) { return !x.caveat; });
+  out.noDoi = ITEMS.filter(function (x) { return !x.doi; });
+  out.impreciseDate = ITEMS.filter(function (x) { return String(x.date || '').length < 10; });
+  out.wildcards = ITEMS.filter(function (x) { return x.wildcard; });
+  out.multiSource = ITEMS.filter(function (x) { return String(x.source || '').indexOf(',') >= 0; });
+  out.mustReadNoRoot = (DIGEST.mustRead || []).filter(function (id) { return !rootById(id); });
+  out.highNoRoot = ITEMS.filter(function (x) { return Number(x.score || 0) >= 4 && !rootById(x.id); })
+    .sort(function (a, b) { return Number(b.score) - Number(a.score); });
+  out.queued = REQUESTS.filter(function (r) { return r.status === 'queued'; });
+  out.noRefs = REQUESTS.filter(function (r) { return r.status === 'no-references'; });
+  var js = PROFILE.journalWatch || [];
+  for (i = 0; i < js.length; i++) {
+    if (!js[i].on) { out.journals.off += 1; continue; }
+    out.journals.on += 1;
+    var kind = statusKind(js[i].status);
+    if (kind === 'ok') { out.journals.ok += 1; }
+    else if (kind === 'partial') { out.journals.partial += 1; }
+    else if (kind === 'not-swept') { out.journals.notSwept += 1; }
+    else if (kind === 'not-reported') { out.journals.notReported += 1; }
+  }
+  var src = LAST.sources || [];
+  for (i = 0; i < src.length; i++) {
+    out.sources.push({ name: src[i].name, status: src[i].status, kind: statusKind(src[i].status) });
+  }
+  return out;
+}
+function renderHealth() {
+  var h = collectHealth();
+  var failed = h.sources.filter(function (s) { return s.kind === 'failed'; }).length;
+  var triageTotal = h.triage.new + h.triage.keep + h.triage.maybe + h.triage.skip;
+  var triageDone = h.triage.keep + h.triage.maybe + h.triage.skip;
+
+  var box = el('healthVerdict');
+  if (box) {
+    if (failed >= 2) {
+      box.className = 'verdict no';
+      box.innerHTML = '<span>The radar runs degraded: ' + failed + ' sources failed in the last run.</span>' +
+        '<p>Two runs in a row had the main plumbing down. The science is still usable, but the picture is narrow: the digest of ' + esc(LAST.date || '') + ' rests on the paper-search tool, one publisher listing page and one news site. Fix the fetch permission before the next run.</p>';
+    } else if (failed === 1 || h.journals.notSwept > 0) {
+      box.className = 'verdict warn';
+      box.innerHTML = '<span>The radar has gaps.</span><p>' + failed + ' sources failed. ' + h.journals.notSwept + ' journals were not swept. Close the gaps before you trust the coverage.</p>';
+    } else {
+      box.className = 'verdict go';
+      box.innerHTML = '<span>The last run looks healthy.</span><p>No source failed. Keep the triage current.</p>';
+    }
+  }
+
+  var blockers = BLOCKERS.map(function (b) {
+    return '<p><span class="badge ' + b.sev + '">' + (b.sev === 'b-red' ? 'blocker' : (b.sev === 'b-amber' ? 'workaround' : 'route')) + '</span> <b>' + esc(b.title) + '</b><br>' +
+      esc(b.text) + '<br><span class="muted">Action: ' + esc(b.fix) + '</span></p>';
+  }).join('');
+  set('healthBlockers', blockers + '<p class="muted">The full text is in BLOCKERS.md.</p>');
+
+  var srcRows = h.sources.map(function (s) {
+    return '<p><span class="badge ' + KIND_CLASS[s.kind] + '">' + esc(s.kind) + '</span> <b>' + esc(s.name) + '</b><br><span class="muted">' + esc(s.status) + '</span></p>';
+  }).join('');
+  set('healthSources',
+    '<p class="muted">Harvested ' + esc(LAST.harvested || 0) + ', unique ' + esc(LAST.unique || 0) + ', kept ' + esc(LAST.kept || 0) + ' on ' + esc(LAST.date || '') + '.</p>' +
+    (srcRows || '<p class="muted">No source record in the export.</p>'));
+
+  set('healthJournals',
+    '<p><span class="badge b-green">' + h.journals.ok + ' swept</span> ' +
+    '<span class="badge b-amber">' + h.journals.partial + ' partial</span> ' +
+    '<span class="badge b-red">' + h.journals.notSwept + ' not swept</span> ' +
+    '<span class="badge b-grey">' + h.journals.notReported + ' without a record</span> of <b>' + h.journals.on + '</b> titles that are on.</p>' +
+    '<p class="muted">' + h.journals.off + ' further entries are parked. See the Config section for each title.</p>');
+
+  var triageBar = triageTotal ? Math.round((triageDone / triageTotal) * 100) : 0;
+  set('healthTriage',
+    '<p><span class="badge b-green">' + h.triage.keep + ' keep</span> <span class="badge b-amber">' + h.triage.maybe + ' maybe</span> ' +
+    '<span class="badge b-red">' + h.triage.skip + ' skip</span> <span class="badge b-grey">' + h.triage.new + ' new</span></p>' +
+    '<div class="bar"><span style="width:' + triageBar + '%"></span></div>' +
+    '<p class="muted">' + triageDone + ' of ' + triageTotal + ' items carry a decision. The skip set is the most useful part: read those titles before you score a new run.</p>');
+
+  var themeList = Object.keys(h.themes).sort().map(function (t) { return esc(t) + ': ' + h.themes[t]; }).join(' | ');
+  set('healthQuality',
+    '<p>Items without a DOI: <b>' + h.noDoi.length + '</b>. Items without an exact date: <b>' + h.impreciseDate.length + '</b>. Items without a caveat: <b>' + h.flatMono.length + '</b>.</p>' +
+    '<p>Wildcards: <b>' + h.wildcards.length + '</b>. Items from more than one source: <b>' + h.multiSource.length + '</b>.</p>' +
+    '<p class="muted">Items for each theme: ' + (themeList || 'none') + '</p>' +
+    '<p class="muted">Kind: ' + Object.keys(h.kinds).map(function (k) { return k + ' ' + h.kinds[k]; }).join(', ') + '</p>');
+
+  set('healthRoots',
+    '<p><b>' + ROOTS.length + '</b> lineage documents. <b>' + h.queued.length + '</b> requests are in the queue. <b>' + h.noRefs.length + '</b> requests ended with no reference list.</p>' +
+    '<p><b>' + h.highNoRoot.length + '</b> items at score 4 or 5 have no lineage document yet. <b>' + h.mustReadNoRoot.length + '</b> of the must-read items of this week are among them.</p>' +
+    '<p class="muted">The runbook allows 5 traces in one run. Each trace costs one slow publisher-page fetch.</p>');
+  var actions = [];
+  var age = h.age;
+  if (failed >= 1) {
+    actions.push(['b-red', 'Fix the fetch permission of the scheduled task.', 'The main sources stay dark until this is done. Two runs in a row were thin because of it.']);
+  }
+  if (h.triage.new > 0) {
+    actions.push(['b-amber', 'Triage the ' + h.triage.new + ' items that are still new.', 'The radar cannot calibrate the scoring without decisions. Read the skip titles first.']);
+  }
+  if (age !== null && (age > 7 || age < 0)) {
+    actions.push(['b-amber', 'Publish a new export and rebuild the bundle.', age < 0 ? 'The export date is in the future. Check the clock of the computer that made the export.' : 'The data is ' + age + ' days old. The radar runs each week.']);
+  }
+  if (h.mustReadNoRoot.length > 0) {
+    actions.push(['b-blue', 'Trace the roots of the must-read items that have none (' + h.mustReadNoRoot.length + ').', 'Work the queued requests first, then this week\'s must-reads. Up to 5 traces in one run.']);
+  }
+  if (h.journals.notSwept > 0) {
+    actions.push(['b-blue', 'Rotate the journal watch.', h.journals.notSwept + ' titles were not swept. The runbook asks for every title at least every two weeks.']);
+  }
+  if (h.flatMono.length > 0) {
+    actions.push(['b-grey', 'Write a caveat for the ' + h.flatMono.length + ' items that have none.', 'A caveat records one limitation. An empty caveat hides the limit from the reader.']);
+  }
+  if (h.highNoRoot.length > h.mustReadNoRoot.length) {
+    actions.push(['b-grey', 'Put the strongest older items in the roots queue.', h.highNoRoot.length + ' items at score 4 or 5 have no lineage document.']);
+  }
+  if (!actions.length) {
+    actions.push(['b-green', 'Nothing urgent. Keep the weekly cycle.', 'The run looks healthy and the triage is current.']);
+  }
+  set('healthActions', actions.map(function (a) {
+    return '<p><span class="badge ' + a[0] + '">' + (a[0] === 'b-red' ? 'urgent' : (a[0] === 'b-green' ? 'none' : 'next')) + '</span> <b>' + esc(a[1]) + '</b><br><span class="muted">' + esc(a[2]) + '</span></p>';
+  }).join(''));
+}
+
+function showTab(id) {
+  var tabs = document.querySelectorAll('nav.tabs button');
+  var panels = document.querySelectorAll('main .panel');
+  var i;
+  for (i = 0; i < tabs.length; i++) {
+    tabs[i].setAttribute('aria-selected', tabs[i].getAttribute('data-target') === id ? 'true' : 'false');
+  }
+  for (i = 0; i < panels.length; i++) {
+    panels[i].className = panels[i].id === id ? 'panel active' : 'panel';
+  }
+}
+
+function resetFilters() {
+  var ids = ['q', 'fTheme', 'fStatus', 'fKind', 'fRun', 'fScore', 'fSort', 'fMust'];
+  var i, node;
+  for (i = 0; i < ids.length; i++) {
+    node = el(ids[i]);
+    if (!node) { continue; }
+    if (node.tagName === 'INPUT') { node.value = ''; } else { node.selectedIndex = 0; }
+  }
+  readFilters();
+  state.selected = null;
+  renderItemList();
+  set('itemDetail', '<p class="muted">Select an item.</p>');
+}
+
+function onDocumentClick(event) {
+  var node = event.target;
+  while (node && node !== document.body && !(node.getAttribute && node.getAttribute('data-action'))) { node = node.parentElement; }
+  if (!node || !node.getAttribute) { return; }
+  var action = node.getAttribute('data-action');
+  var id = node.getAttribute('data-id');
+  if (action === 'open-item') { event.preventDefault(); showTab('items'); renderItemDetail(id); }
+  if (action === 'open-root') { event.preventDefault(); showTab('roots'); renderRootDetail(id); }
+  if (action === 'reset-filters') { resetFilters(); }
+  if (action === 'roots-queued') {
+    state.rootView = state.rootView === 'queue' ? 'lineage' : 'queue';
+    node.textContent = state.rootView === 'queue' ? 'Hide the request queue' : 'Show the request queue too';
+    renderRootList();
+  }
+}
+
+function wireItemFilters() {
+  var ids = ['q', 'fTheme', 'fStatus', 'fKind', 'fRun', 'fScore', 'fSort', 'fMust'];
+  var i, node;
+  var apply = function () { readFilters(); renderItemList(); };
+  for (i = 0; i < ids.length; i++) {
+    node = el(ids[i]);
+    if (!node) { continue; }
+    node.addEventListener('input', apply);
+    node.addEventListener('change', apply);
+  }
+  if (el('showPassed')) { el('showPassed').addEventListener('change', renderEvents); }
+}
+
+function init() {
+  if (!prepare()) {
+    document.body.innerHTML = '<main style="max-width:760px">' +
+      '<h2 class="sec">The data bundle is missing</h2>' +
+      '<p>The page needs the file <code>data/radar-data.js</code>. Build it from the project kit:</p>' +
+      '<p><code>python tools/build_bundle.py</code></p>' +
+      '<p>Then reload this page.</p></main>';
+    return;
+  }
+  var tabs = document.querySelectorAll('nav.tabs button');
+  var i;
+  for (i = 0; i < tabs.length; i++) {
+    tabs[i].addEventListener('click', function () { showTab(this.getAttribute('data-target')); });
+  }
+  document.addEventListener('click', onDocumentClick);
+  renderClock();
+  renderDigest();
+  fillItemControls();
+  wireItemFilters();
+  readFilters();
+  renderItemList();
+  renderRootList();
+  renderEvents();
+  renderConfig();
+  renderHealth();
+}
+
+if (document.readyState === 'loading') {
+  document.addEventListener('DOMContentLoaded', init);
+} else {
+  init();
+}
+</script>
+</body>
+</html>

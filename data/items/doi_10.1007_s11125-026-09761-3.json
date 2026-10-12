@@ -1,0 +1,20 @@
+{
+  "authors": "Schmid, Rehm, Rinaldi",
+  "caveat": "Check whether enabling constraints survive the consolidation or get turned into variables.",
+  "date": "2026-04-15",
+  "doi": "10.1007/s11125-026-09761-3",
+  "kind": "paper",
+  "lang": "en",
+  "run": "2026-10-05",
+  "score": 3,
+  "source": "Web search + publisher page (Crossref API blocked)",
+  "status": "new",
+  "themes": [
+    "cx"
+  ],
+  "title": "Ternary complexity: A consolidated conceptual framework for addressing global issues in education",
+  "url": "https://doi.org/10.1007/s11125-026-09761-3",
+  "venue": "PROSPECTS",
+  "why": "Worth reading as a foil rather than a resource: it consolidates into a framework what Juarrero and Levin keep arguing cannot be consolidated.",
+  "wildcard": false
+}

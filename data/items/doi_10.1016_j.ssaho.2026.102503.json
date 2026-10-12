@@ -1,0 +1,21 @@
+{
+  "authors": "Kocovic De Santo",
+  "caveat": "Single author, open-access venue; check how the degrowth framing travels to a Dutch UAS context before borrowing it.",
+  "date": "2026-03-17",
+  "doi": "10.1016/j.ssaho.2026.102503",
+  "kind": "paper",
+  "lang": "en",
+  "run": "2026-10-05",
+  "score": 4,
+  "source": "Web search + publisher page (Crossref API blocked)",
+  "status": "new",
+  "themes": [
+    "dec",
+    "eco"
+  ],
+  "title": "Beyond performative decolonization: Epistemic justice in degrowth curricula",
+  "url": "https://doi.org/10.1016/j.ssaho.2026.102503",
+  "venue": "Social Sciences & Humanities Open",
+  "why": "Uses Ahmed's non-performativity to ask whether decolonial curriculum work changes anything, which is the sharper version of the question your decolonial strand is circling.",
+  "wildcard": false
+}

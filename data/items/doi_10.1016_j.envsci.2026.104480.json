@@ -1,0 +1,22 @@
+{
+  "authors": "Capra",
+  "caveat": "Single-author piece; check whether the community knowledge is documented or invoked.",
+  "date": "2026-10",
+  "doi": "10.1016/j.envsci.2026.104480",
+  "kind": "paper",
+  "lang": "en",
+  "run": "2026-09-21",
+  "score": 5,
+  "source": "Journal watch: Environmental Science & Policy",
+  "status": "new",
+  "themes": [
+    "par",
+    "dec",
+    "eco"
+  ],
+  "title": "Urban ethnopedology: Integrating community soil knowledge into environmental justice and urban greening policy",
+  "url": "https://doi.org/10.1016/j.envsci.2026.104480",
+  "venue": "Environmental Science & Policy",
+  "why": "Community soil knowledge in urban greening policy - substrate taken literally, which is both the CDC Urban Innovation case and the metaphor your CARN workshop runs on.",
+  "wildcard": false
+}

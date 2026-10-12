@@ -1,0 +1,443 @@
+{
+  "absent": "There is nothing on cognitive offloading from before generative AI - no Sparrow, Risko and Gilbert, or Clark and Chalmers - and no educational-philosophical tradition at all: no Dewey, Freire or Barnett, and no decolonial or epistemic-justice sources, even though several of the empirical sites are in Palestine, Indonesia, Vietnam and Ecuador.",
+  "confidence": "medium",
+  "forYou": "For the AI and Professional Criticality papers this is a useful map of the opposition: the field is arguing about offloading with two-year-old evidence and no epistemology older than the tool, which is precisely the gap your argument about professional judgement can occupy.",
+  "itemId": "doi_10.3389_feduc.2026.1878665",
+  "median": 2025,
+  "method": "References from Crossref; strands and narrative by Claude, grounded only in the reference list and title. One duplicated entry in the Crossref list was merged, so 48 of the 49 slots are listed.",
+  "narrative": "What stands out in this reference list is how shallow it is in time. Apart from the review machinery - Carroll (2011), Cooke (2012), Aromataris (2020), Campbell (2020), Page (2021), Rethlefsen (2021) and Valizadeh (2022), all borrowed from health-sciences evidence synthesis - almost every source dates from 2024 onwards. The field this paper synthesises has, on its own showing, no memory older than ChatGPT.\n\nWithin that thin band two arguments run side by side. One is epistemic: Urban (2025) on metacognitive accuracy, Harkkl (2025) on students' dualistic epistemic practices, Brummernhenrich (2025) on trust cued by politeness, Tomaszewski (2025) on evaluative frameworks, and Pandey (2026) and Susena (2026) on AI as a source of authority. The other is behavioural: Zhang (2024) on AI dependency, Alhur (2025) and Albannai (2025) on reliance, Peters (2025) on assessment integrity, and Pachava (2026) on institutional over-reliance. The review's title promises to hold offloading and autonomy together, and these are the two halves it is trying to join.\n\nThe critical-thinking evidence it weighs is mostly very recent and mostly small: Hong (2025), Raitskaya (2025), Waziana (2025), Izquierdo-Condoy (2025), then Balart (2026), Li (2026), Schorr (2026), Chase (2026) and Vendrell (2026). A large share of the underlying studies are language-classroom cases - Thi (2024), Andewi (2025), Pakdel (2025), Al-Atrash (2026), Fujimoto (2026) - which is worth knowing before the conclusions are read as general claims about higher education.",
+  "parsed": 48,
+  "refCount": 49,
+  "refs": [
+    {
+      "a": "Carroll",
+      "d": "10.1186/1471-2288-11-29",
+      "j": "BMC. Med. Res. Methodol.",
+      "t": "A worked example of \"best fit\" framework synthesis: a systematic review of views concerning the taking of some potential chemopreventive agents",
+      "y": 2011
+    },
+    {
+      "a": "Cooke",
+      "d": "10.1177/1049732312452938",
+      "j": "Qual. Health. Res.",
+      "t": "Beyond PICO: the SPIDER tool for qualitative evidence synthesis",
+      "y": 2012
+    },
+    {
+      "a": "Aromataris",
+      "d": "",
+      "j": "",
+      "t": "JBI Manual for Evidence Synthesis",
+      "y": 2020
+    },
+    {
+      "a": "Campbell",
+      "d": "10.1136/bmj.l6890",
+      "j": "Br. Med. J.",
+      "t": "Synthesis without meta-analysis (SWiM) in systematic reviews: reporting guideline",
+      "y": 2020
+    },
+    {
+      "a": "Page",
+      "d": "10.1136/bmj.n71",
+      "j": "Br. Med. J.",
+      "t": "The PRISMA 2020 statement: an updated guideline for reporting systematic reviews",
+      "y": 2021
+    },
+    {
+      "a": "Rethlefsen",
+      "d": "10.1186/s13643-020-01542-z",
+      "j": "Syst. Rev.",
+      "t": "PRISMA-S: an extension to the PRISMA statement for reporting literature searches in systematic reviews",
+      "y": 2021
+    },
+    {
+      "a": "Valizadeh",
+      "d": "10.1186/s12874-022-01631-8",
+      "j": "BMC. Med. Res. Methodol.",
+      "t": "Abstract screening using the automated tool Rayyan: results of effectiveness in three diagnostic test accuracy systematic reviews",
+      "y": 2022
+    },
+    {
+      "a": "Huang",
+      "d": "10.14742/ajet.9467",
+      "j": "Australas. J. Educ. Technol.",
+      "t": "Exploring the integration and utilisation of generative AI in formative e-assessments: a case study in higher education",
+      "y": 2024
+    },
+    {
+      "a": "Thi",
+      "d": "10.6706/TIESPJ.202412_15(2).0002",
+      "j": "Taiwan Int. ESP J.",
+      "t": "Understanding Vietnamese English majors' use and acceptance of AI-powered tools for English academic writing at university",
+      "y": 2024
+    },
+    {
+      "a": "Zhang",
+      "d": "10.1186/s41239-024-00467-0",
+      "j": "Int. J. Educ. Technol. High. Educ.",
+      "t": "Do you have AI dependency? The roles of academic self-efficacy, academic stress, and performance expectations on problematic AI usage behavior",
+      "y": 2024
+    },
+    {
+      "a": "Albannai",
+      "d": "10.1016/j.ijme.2025.101254",
+      "j": "Int. J. Manag. Educ.",
+      "t": "From classroom to boardroom: ethical and cognitive challenges of ChatGPT use among DBA students in business problem-solving",
+      "y": 2025
+    },
+    {
+      "a": "Alhur",
+      "d": "10.2196/74947",
+      "j": "JMIR Med Educ.",
+      "t": "Paradox of AI in higher education: qualitative inquiry into AI dependency among educators in Palestine",
+      "y": 2025
+    },
+    {
+      "a": "Alkaabi",
+      "d": "10.20448/jeelr.v12i2.6746",
+      "j": "J. Educ. e-Learn. Res.",
+      "t": "ChatGPT in higher education: opportunities, challenges, and required competencies in the absence of guiding policies",
+      "y": 2025
+    },
+    {
+      "a": "Andewi",
+      "d": "10.64731/jsel.v20i2.282318",
+      "j": "J. Stud. Engl. Lang.",
+      "t": "From prompting to proficiency: a mixed-methods analysis of prompting with ChatGPT versus lecturer interaction in an EFL classroom",
+      "y": 2025
+    },
+    {
+      "a": "Ba",
+      "d": "10.1111/bjet.13605",
+      "j": "Br. J. Educ. Technol.",
+      "t": "Investigating the impact of ChatGPT-assisted feedback on the dynamics and outcomes of online inquiry-based discussion",
+      "y": 2025
+    },
+    {
+      "a": "Brummernhenrich",
+      "d": "10.1111/bjet.13569",
+      "j": "Br. J. Educ. Technol.",
+      "t": "Applying social cognition to feedback chatbots: enhancing trustworthiness through politeness",
+      "y": 2025
+    },
+    {
+      "a": "Cooper",
+      "d": "10.1007/s10956-025-10200-9",
+      "j": "J. Sci. Educ. Technol.",
+      "t": "Intersections of mind and machine: navigating the nexus of artificial intelligence, science education, and the preparation of Pre-service teachers",
+      "y": 2025
+    },
+    {
+      "a": "Hanna",
+      "d": "10.1111/1460-6984.70088",
+      "j": "Int. J. Lang. Commun. Disord.",
+      "t": "Stench of errors or the shine of potential: the challenge of (ir)Responsible use of ChatGPT in speech-language pathology",
+      "y": 2025
+    },
+    {
+      "a": "Harkkl",
+      "d": "10.14221/1835-517X.6925",
+      "j": "Aust. J. Teach. Educ.",
+      "t": "Generative AI highlights the contrast between Students' dualistic epistemic practices and teacher education learning objectives",
+      "y": 2025
+    },
+    {
+      "a": "Hong",
+      "d": "10.30564/fls.v7i7.10072",
+      "j": "Forum Linguist. Stud.",
+      "t": "Cognitive offload instruction with generative AI: a quasi-experimental study on critical thinking gains in English writing",
+      "y": 2025
+    },
+    {
+      "a": "Izquierdo-Condoy",
+      "d": "10.2196/76340",
+      "j": "J. Med. Internet. Res.",
+      "t": "Generative artificial intelligence in medical education: enhancing critical thinking or undermining cognitive autonomy?",
+      "y": 2025
+    },
+    {
+      "a": "Li",
+      "d": "10.1177/07356331241289824",
+      "j": "J. Educ. Comput. Res.",
+      "t": "InquiryGPT: augmenting ChatGPT for enhancing inquiry-based learning in STEM education",
+      "y": 2025
+    },
+    {
+      "a": "Lin",
+      "d": "10.3390/systems13100840",
+      "j": "Systems",
+      "t": "A systematic review of generative AI in K-12: mapping goals, activities, roles, and outcomes via the 3P model",
+      "y": 2025
+    },
+    {
+      "a": "Pakdel",
+      "d": "",
+      "j": "Lang. Teach. Res",
+      "t": "Navigating AI writing tools in medical education: a SWOT analysis of L2 academic writing perspectives.",
+      "y": 2025
+    },
+    {
+      "a": "Peters",
+      "d": "10.1007/s40979-025-00201-x",
+      "j": "Int. J. Educ. Integr.",
+      "t": "Redefining assessment tasks to promote students' creativity and integrity in the age of generative artificial intelligence",
+      "y": 2025
+    },
+    {
+      "a": "Raitskaya",
+      "d": "10.17323/jle.2025.27387",
+      "j": "J. Lang. Educ.",
+      "t": "Enhancing critical thinking skills in ChatGPT-human interaction: a scoping review",
+      "y": 2025
+    },
+    {
+      "a": "Tomaszewski",
+      "d": "10.1016/j.acalib.2025.103113",
+      "j": "J. Acad. Librariansh.",
+      "t": "Mnemonic evaluative frameworks in scholarly publications: a cited reference analysis across disciplines and AI-mediated contexts",
+      "y": 2025
+    },
+    {
+      "a": "Ugras",
+      "d": "10.3390/computers14090368",
+      "j": "Computers",
+      "t": "ChatGPT in early childhood science education: can it offer innovative effective solutions to overcome challenges?",
+      "y": 2025
+    },
+    {
+      "a": "Urban",
+      "d": "10.1111/bjet.13591",
+      "j": "Br. J. Educ. Technol.",
+      "t": "ChatGPT can make mistakes. Check important info.\" epistemic beliefs and metacognitive accuracy in students' integration of ChatGPT content into academic writing",
+      "y": 2025
+    },
+    {
+      "a": "Vinyard",
+      "d": "10.1353/pla.2025.a971030",
+      "j": "Portal",
+      "t": "Student perspectives on using generative artificial intelligence for research: a qualitative approach",
+      "y": 2025
+    },
+    {
+      "a": "Wang",
+      "d": "10.1016/j.caeai.2025.100488",
+      "j": "Comput. Educ.: Artif. Intell.",
+      "t": "AI Tools and POE model in educational technology learning: exploring participant experiences using thematic analysis",
+      "y": 2025
+    },
+    {
+      "a": "Waziana",
+      "d": "10.22108/are.2025.145896.2564",
+      "j": "Appl. Res. Engl. Lang.",
+      "t": "Exploring ChatGPT's impact on critical, creative, and reflective thinking skills: a mixed-methods study in an Indonesian EFL classroom",
+      "y": 2025
+    },
+    {
+      "a": "Al-Atrash",
+      "d": "10.1007/s44282-026-00350-5",
+      "j": "Discov. Glob. Soc.",
+      "t": "Qualitative insights into EFL students' use of ChatGPT-assisted autonomous learning for enhancing self-directed learning in Palestinian higher education",
+      "y": 2026
+    },
+    {
+      "a": "Allaire",
+      "d": "10.1080/0047231X.2026.2650312",
+      "j": "J. Coll. Sci. Teach",
+      "t": "From skepticism to innovation in 5E-asy steps: harnessing ChatGPT for 5E science lesson planning",
+      "y": 2026
+    },
+    {
+      "a": "Athanassopoulos",
+      "d": "10.3390/educsci16020228",
+      "j": "Educ. Sci.",
+      "t": "Teacher education students' practices, benefits, and challenges in the use of generative AI tools in higher education",
+      "y": 2026
+    },
+    {
+      "a": "Balart",
+      "d": "10.3390/a19030179",
+      "j": "Algorithms",
+      "t": "A systematic literature review on the pedagogical implications and impact of GenAI on students' critical thinking",
+      "y": 2026
+    },
+    {
+      "a": "Borzanovic",
+      "d": "",
+      "j": "Educ. Inf. Technol",
+      "t": "Student perceptions of generative AI tools in higher education: a cross-regional study of use, ethics, and educational utility",
+      "y": 2026
+    },
+    {
+      "a": "Cevikbas",
+      "d": "",
+      "j": "ZDM Mathematics Educationn",
+      "t": "The use of large language models to solve mathematical modeling problems: preservice mathematics teachers' use practices, perceived affordances and challenges, and trustworthiness judgments of AI-generated outputs",
+      "y": 2026
+    },
+    {
+      "a": "Chase",
+      "d": "",
+      "j": "Assess. Eval. High. Educ",
+      "t": "Thinking to learn: managing the risks of outsourcing to GenAI",
+      "y": 2026
+    },
+    {
+      "a": "Erlangga",
+      "d": "10.25304/rlt.v34.3563",
+      "j": "Res. Learn. Technol.",
+      "t": "Unpacking the cognitive and ethical pathways of generative AI tools in higher education: a PLS-SEM study of learning performance mediation and moderation effects",
+      "y": 2026
+    },
+    {
+      "a": "Fujimoto",
+      "d": "10.24507/icicelb.17.04.391",
+      "j": "ICIC Express Lett. B: Appl.",
+      "t": "A literature review on the use of generative ai in English language education",
+      "y": 2026
+    },
+    {
+      "a": "Hua",
+      "d": "10.1108/JICES-05-2025-0118",
+      "j": "J. Inf. Commun. Ethics Soc.",
+      "t": "Two years after ChatGPT: a thematic analysis of first-year students' reflections on AI tool use in higher education",
+      "y": 2026
+    },
+    {
+      "a": "Li",
+      "d": "10.1016/j.caeai.2026.100571",
+      "j": "Comput. Educ.: Artif. Intell.",
+      "t": "The cognitive impact of ChatGPT in higher education: a systematic review of critical and creative thinking outcomes",
+      "y": 2026
+    },
+    {
+      "a": "Pachava",
+      "d": "10.47857/irjms.2026.v07i02.09619",
+      "j": "Int. Res. J. Multidiscip. Scope.",
+      "t": "Over-reliance on large language models in higher education: ethical and institutional challenges in responsible AI integration",
+      "y": 2026
+    },
+    {
+      "a": "Pandey",
+      "d": "10.1007/s00146-025-02566-6",
+      "j": "AI Soc.",
+      "t": "Epistemic trust in generative AI for higher education scale (ETGAI-HE scale)",
+      "y": 2026
+    },
+    {
+      "a": "Schorr",
+      "d": "10.1016/j.caeai.2026.100575",
+      "j": "Comput. Educ.: Artif. Intell.",
+      "t": "Learning-to-learn in the age of generative AI: a scoping review and conceptual framework",
+      "y": 2026
+    },
+    {
+      "a": "Susena",
+      "d": "",
+      "j": "Read. Psychol",
+      "t": "When AI becomes a reader and an authority: a systematic review of epistemic, affective, and moral dimensions of AI-mediated Reading",
+      "y": 2026
+    },
+    {
+      "a": "Vendrell",
+      "d": "10.1016/j.caeai.2026.100572",
+      "j": "Comput. Educ.: Artif. Intell.",
+      "t": "Scaffolding critical thinking with generative AI: design principles for integrating large language models in higher education",
+      "y": 2026
+    }
+  ],
+  "source": "Crossref reference list (reference text read automatically; spot-check spellings)",
+  "strands": [
+    {
+      "kind": "method",
+      "name": "Systematic-review machinery",
+      "note": "The evidence-synthesis apparatus the paper runs on, borrowed wholesale from health research.",
+      "refs": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "kind": "debate",
+      "name": "Offloading versus critical thinking",
+      "note": "The controversy the review is built around: whether handing work to a model costs or builds thinking.",
+      "refs": [
+        19,
+        20,
+        25,
+        31,
+        35,
+        38,
+        42,
+        45,
+        47
+      ]
+    },
+    {
+      "kind": "frame",
+      "name": "Epistemic beliefs, trust and authority",
+      "note": "The conceptual frame: what students take AI output to be, and on what grounds they accept it.",
+      "refs": [
+        15,
+        18,
+        26,
+        28,
+        44,
+        46
+      ]
+    },
+    {
+      "kind": "debate",
+      "name": "Dependency, over-reliance and integrity",
+      "note": "A parallel argument that treats the problem as behavioural and institutional rather than epistemic.",
+      "refs": [
+        9,
+        10,
+        11,
+        17,
+        24,
+        43
+      ]
+    },
+    {
+      "kind": "context",
+      "name": "Practice studies in higher and teacher education",
+      "note": "Empirical accounts of what students and teachers actually do with the tools.",
+      "refs": [
+        7,
+        12,
+        14,
+        16,
+        21,
+        22,
+        27,
+        29,
+        30,
+        33,
+        34,
+        36,
+        37,
+        41
+      ]
+    },
+    {
+      "kind": "context",
+      "name": "Other / case context: language learning settings",
+      "note": "Language-classroom studies that supply much of the review's raw evidence.",
+      "refs": [
+        8,
+        13,
+        23,
+        32,
+        39,
+        40
+      ]
+    }
+  ],
+  "tracedAt": "2026-09-21"
+}

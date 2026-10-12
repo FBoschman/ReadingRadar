@@ -1,0 +1,20 @@
+{
+  "authors": "Baumann",
+  "caveat": "In German.",
+  "date": "2026-09-15",
+  "doi": "10.15460/8mr72f02",
+  "kind": "paper",
+  "lang": "de",
+  "run": "2026-09-19",
+  "score": 4,
+  "source": "Crossref",
+  "status": "new",
+  "themes": [
+    "dbr"
+  ],
+  "title": "Auditierbare Prinzipiengenese in Design-Based Research",
+  "url": "https://doi.org/10.15460/8mr72f02",
+  "venue": "EDeR. Educational Design Research",
+  "why": "Makes the derivation of design principles auditable — tackles a known rigour gap in DBR.",
+  "wildcard": false
+}

@@ -1,0 +1,22 @@
+{
+  "authors": "Pena-del-Valle, Hare, Dinnie",
+  "caveat": "Title, authors and date were read off the journal's article listing; the abstract was not read this run, so the method and what the authors mean by 'system thinking' still need checking.",
+  "date": "2026-10-06",
+  "doi": "10.1007/s11213-026-09784-z",
+  "kind": "paper",
+  "lang": "en",
+  "run": "2026-10-12",
+  "score": 4,
+  "source": "Springer article listing: Systemic Practice and Action Research",
+  "status": "new",
+  "themes": [
+    "td",
+    "cx",
+    "eco"
+  ],
+  "title": "Leading to Action & Transformation? How Researchers are Applying System Thinking to Overcome Food System Challenges",
+  "url": "https://doi.org/10.1007/s11213-026-09784-z",
+  "venue": "Systemic Practice and Action Research",
+  "why": "Asks what researchers actually do with systems thinking once they are inside food-system work. That gap between systems vocabulary and systems practice is the one your CARN argument turns on.",
+  "wildcard": false
+}

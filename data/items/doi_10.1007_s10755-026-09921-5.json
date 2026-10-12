@@ -1,0 +1,21 @@
+{
+  "authors": "Polgar, Cheng, Vallenas, Pokhrel, Gladwin, Ellis",
+  "caveat": "One-year pilot, autoethnographic, very small n; read it as a design case, not as evidence.",
+  "date": "2026-06-03",
+  "doi": "10.1007/s10755-026-09921-5",
+  "kind": "paper",
+  "lang": "en",
+  "run": "2026-10-05",
+  "score": 3,
+  "source": "Web search + publisher page (Crossref API blocked)",
+  "status": "new",
+  "themes": [
+    "td",
+    "eco"
+  ],
+  "title": "Shaping Transdisciplinary Research with Partners on Climate Projects",
+  "url": "https://doi.org/10.1007/s10755-026-09921-5",
+  "venue": "Innovative Higher Education",
+  "why": "Collaborative autoethnography of a transdisciplinary PhD model run with a regional government - a close analogue to lectoraat work with a province.",
+  "wildcard": false
+}

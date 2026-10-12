@@ -1,0 +1,20 @@
+{
+  "authors": "ScienceGuide",
+  "caveat": "",
+  "date": "2026-09",
+  "kind": "discourse",
+  "lang": "nl",
+  "run": "2026-09-19",
+  "score": 3,
+  "source": "ScienceGuide",
+  "status": "new",
+  "themes": [
+    "ai",
+    "dec"
+  ],
+  "title": "Onderzoekers voorlopig nog sterk afhankelijk van Google BigQuery, maar \"niet ideaal\"",
+  "url": "https://www.scienceguide.nl/2026/09/onderzoekers-voorlopig-nog-sterk-afhankelijk-van-google-bigquery-maar-niet-ideaal/",
+  "venue": "ScienceGuide",
+  "why": "Dutch researchers' dependence on big-tech infrastructure — digital sovereignty and commons.",
+  "wildcard": false
+}

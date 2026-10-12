@@ -1,0 +1,21 @@
+{
+  "authors": "Crimmins, Sanders O'Leary, Strempel",
+  "caveat": "Australian academic sample.",
+  "date": "2026-07-16",
+  "doi": "10.1080/07294360.2026.2700227",
+  "kind": "paper",
+  "lang": "en",
+  "run": "2026-09-19",
+  "score": 4,
+  "source": "Crossref",
+  "status": "new",
+  "themes": [
+    "ai",
+    "dec"
+  ],
+  "title": "Cognitive offloading, critical pedagogy, and connectivist learning shape academic responses to generative AI in higher education: transforming resistance into pedagogical care",
+  "url": "https://doi.org/10.1080/07294360.2026.2700227",
+  "venue": "Higher Education Research & Development",
+  "why": "Reads staff resistance to AI through critical pedagogy and care rather than as a skills gap.",
+  "wildcard": false
+}

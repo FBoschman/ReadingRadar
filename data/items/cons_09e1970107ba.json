@@ -1,0 +1,22 @@
+{
+  "authors": "J. Holzer et al.",
+  "caveat": "Survey of 61 Canadian researchers, all self-reported; the rightsholders themselves are not among the respondents.",
+  "date": "2026",
+  "doi": "",
+  "kind": "paper",
+  "lang": "en",
+  "run": "2026-10-05",
+  "score": 4,
+  "source": "Consensus",
+  "status": "new",
+  "themes": [
+    "td",
+    "par",
+    "dec"
+  ],
+  "title": "Stakeholder and rightsholder engagement in environmental research: Lessons from Canadian scholars engaging diverse groups",
+  "url": "https://consensus.app/papers/details/09e1970107ba587988efede6d26b6aff/",
+  "venue": "People and Nature",
+  "why": "The rightsholder/stakeholder distinction is a sharper tool than 'stakeholder' for the CDC Urban Innovation course on participatory research in public space.",
+  "wildcard": false
+}

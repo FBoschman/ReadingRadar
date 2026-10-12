@@ -1,0 +1,20 @@
+{
+  "authors": "Lynn, O'Gorman, Rosati",
+  "caveat": "European regional data; check whether Dutch polder regions resemble the cases used.",
+  "date": "2026-09-21",
+  "doi": "10.1007/s11625-026-01907-8",
+  "kind": "paper",
+  "lang": "en",
+  "run": "2026-09-28",
+  "score": 4,
+  "source": "Journal watch: Sustainability Science",
+  "status": "new",
+  "themes": [
+    "eco"
+  ],
+  "title": "From the \"death of distance\" to digitalisation traps: a general purpose technology perspective on peripheral regions",
+  "url": "https://doi.org/10.1007/s11625-026-01907-8",
+  "venue": "Sustainability Science",
+  "why": "Names the trap where digital infrastructure deepens rather than closes regional gaps - a caution to carry into Digital Twin Flevoland.",
+  "wildcard": false
+}

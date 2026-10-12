@@ -1,0 +1,21 @@
+{
+  "authors": "Apetrei, Jager, Lang",
+  "caveat": "Network metrics can hide power asymmetries.",
+  "date": "2026-07-07",
+  "doi": "10.1007/s11625-026-01865-1",
+  "kind": "paper",
+  "lang": "en",
+  "run": "2026-09-19",
+  "score": 4,
+  "source": "Crossref",
+  "status": "new",
+  "themes": [
+    "td",
+    "eco"
+  ],
+  "title": "Unpacking knowledge systems for collective action towards sustainability: a social network perspective",
+  "url": "https://doi.org/10.1007/s11625-026-01865-1",
+  "venue": "Sustainability Science",
+  "why": "Network view of knowledge systems — a possible method for mapping who learns from whom in a stakeholder ecosystem.",
+  "wildcard": false
+}

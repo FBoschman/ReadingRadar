@@ -1,0 +1,20 @@
+{
+  "authors": "Zagami",
+  "caveat": "Single-university survey.",
+  "date": "2026-09-09",
+  "doi": "10.1186/s41239-026-00625-6",
+  "kind": "paper",
+  "lang": "en",
+  "run": "2026-09-19",
+  "score": 3,
+  "source": "Crossref",
+  "status": "new",
+  "themes": [
+    "ai"
+  ],
+  "title": "Guarded adoption of generative AI in higher education: high-achieving students, successful-student identity, and epistemic agency in a single-university mixed-methods survey",
+  "url": "https://doi.org/10.1186/s41239-026-00625-6",
+  "venue": "Int. J. of Educational Technology in Higher Education",
+  "why": "Empirical data on how students protect their epistemic agency when using GenAI.",
+  "wildcard": false
+}

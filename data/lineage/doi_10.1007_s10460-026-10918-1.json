@@ -1,0 +1,709 @@
+{
+  "absent": "PAR's Latin American roots (Fals-Borda, Freire) are absent despite the participatory topic; Santos is not cited.",
+  "confidence": "medium",
+  "earliest": 1962,
+  "forYou": "A direct Tsing lineage for your CARN workshop: Friction (2005) → Demeulenaere's 'transformative frictions' (2014) → this paper. Long's 'battlefields of knowledge' is a useful older ally for the substrate argument.",
+  "itemId": "doi_10.1007_s10460-026-10918-1",
+  "median": 2011,
+  "method": "References from Crossref; strands and narrative by Claude, grounded only in the reference list and title.",
+  "narrative": [
+    "Two older roots meet here. From development studies comes the farmer-first tradition: Chambers' 'Putting the last first' (1983) and Richards' 'Indigenous agricultural revolution' (1985). From rural sociology comes Norman Long's actor-oriented view that knowledge is made at 'interfaces' between actors (1989, 1992).",
+    "Agrawal's 1995 critique of the indigenous/scientific divide sets the debate the paper answers. Its own frame comes from Tsing's 'Friction' (2005), which gives the title, and Haraway's situated knowledges (1988).",
+    "It is positioned in the transdisciplinary literature (Max-Neef; Pohl; Polk; Scholz), with a thin but explicit power strand (Gaventa's power cube; Fritz on power in TD)."
+  ],
+  "parsed": 78,
+  "refCount": 84,
+  "refs": [
+    {
+      "a": "Adefurin",
+      "d": "10.13140/RG.2.2.32544.58889",
+      "j": "",
+      "t": "A Detailed Map of Rice Production Areas in Mangrove Ecosystems in West-Africa in 2013",
+      "y": 2016
+    },
+    {
+      "a": "Agrawal",
+      "d": "10.1111/j.1467-7660.1995.tb00560.x",
+      "j": "Development & Change",
+      "t": "Dismantling the Divide Between Indigenous and Scientific Knowledge",
+      "y": 1995
+    },
+    {
+      "a": "Agrawal",
+      "d": "10.1111/1468-2451.00382",
+      "j": "International Social Science Journal",
+      "t": "Indigenous knowledge and the politics of classification",
+      "y": 2002
+    },
+    {
+      "a": "Appiah",
+      "d": "10.4159/9780674982178",
+      "j": "",
+      "t": "As If: Idealization and Ideals",
+      "y": 2017
+    },
+    {
+      "a": "Botha",
+      "d": "10.5367/oa.2014.0175",
+      "j": "Outlook on Agriculture",
+      "t": "Lessons on Transdisciplinary Research in a Co-Innovation Programme in the New Zealand Agricultural Sector",
+      "y": 2014
+    },
+    {
+      "a": "Bouyoucos",
+      "d": "10.2134/agronj1962.00021962005400050028x",
+      "j": "Agronomy Journal",
+      "t": "Hydrometer Method Improved for Making Particle Size Analyses of Soils",
+      "y": 1962
+    },
+    {
+      "a": "Bracken",
+      "d": "10.1111/j.1475-5661.2006.00218.x",
+      "j": "Transactions of the Institute of British Geographers",
+      "t": "What do you mean? The importance of language in developing interdisciplinary research",
+      "y": 2006
+    },
+    {
+      "a": "Bracken",
+      "d": "10.1080/09640568.2014.921596",
+      "j": "Journal of Environmental Planning and Management",
+      "t": "Transdisciplinary research: understanding the stakeholder perspective",
+      "y": 2015
+    },
+    {
+      "a": "Briggs",
+      "d": "10.1191/1464993405ps105oa",
+      "j": "Progress in Development Studies",
+      "t": "The use of indigenous knowledge in development: problems and challenges",
+      "y": 2005
+    },
+    {
+      "a": "Chambers",
+      "d": "",
+      "j": "",
+      "t": "Rural development: Putting the last first",
+      "y": 1983
+    },
+    {
+      "a": "Chinseu",
+      "d": "10.1002/ldr.3190",
+      "j": "Land Degradation & Development",
+      "t": "Why do smallholder farmers dis-adopt conservation agriculture? Insights from Malawi",
+      "y": 2019
+    },
+    {
+      "a": "Cormier-Salem",
+      "d": "10.4000/books.irdeditions.4974",
+      "j": "",
+      "t": "Rivières du Sud: Sociétés et Mangroves Ouest-Africaines",
+      "y": 1999
+    },
+    {
+      "a": "Cronin",
+      "d": "10.1093/scipol/scae050",
+      "j": "Science & Public Policy",
+      "t": "Whose knowledge counts? Power dynamics in the co-production of knowledge and innovation",
+      "y": 2024
+    },
+    {
+      "a": "Dannecker",
+      "d": "10.14764/10.ASEAS-0042",
+      "j": "Austrian Journal of South-East Asian Studies",
+      "t": "Transdisciplinarity 'Meets' Power Structures: Challenges and Experiences of a Capacity Building Project",
+      "y": 2020
+    },
+    {
+      "a": "Davidson",
+      "d": "",
+      "j": "",
+      "t": "Sacred rice: An Ethnography of identity, Environment, and development in Rural West Africa",
+      "y": 2016
+    },
+    {
+      "a": "Defoer",
+      "d": "10.1016/S0167-8809(98)00142-X",
+      "j": "Agriculture, Ecosystems & Environment",
+      "t": "Participatory action research and quantitative analysis for nutrient management in southern Mali",
+      "y": 1998
+    },
+    {
+      "a": "Demeulenaere",
+      "d": "10.3167/fcl.2014.690104",
+      "j": "Focaal",
+      "t": "A political ontology of seeds: The transformative frictions of a farmers' movement in Europe",
+      "y": 2014
+    },
+    {
+      "a": "Demir",
+      "d": "10.1111/j.1467-6443.2011.01386.x",
+      "j": "Journal of Historical Sociology",
+      "t": "Lost in Translation? Try Second Language Learning: Understanding Movements of Ideas and Practices",
+      "y": 2011
+    },
+    {
+      "a": "Dewulf",
+      "d": "10.5751/ES-02142-120214",
+      "j": "Ecology and Society",
+      "t": "A Framing Approach to Cross-disciplinary Research Collaboration",
+      "y": 2007
+    },
+    {
+      "a": "DiSessa",
+      "d": "10.1080/07370008.1985.9649008",
+      "j": "Cognition & Instruction",
+      "t": "Toward an Epistemology of Physics",
+      "y": 1993
+    },
+    {
+      "a": "DiSessa",
+      "d": "10.1007/978-3-319-72170-5_5",
+      "j": "",
+      "t": "A friendly introduction to \"knowledge in pieces\"",
+      "y": 2018
+    },
+    {
+      "a": "Donaldson",
+      "d": "10.1068/a42483",
+      "j": "Environment & Planning A",
+      "t": "Mess among Disciplines: Interdisciplinarity in Environmental Research",
+      "y": 2010
+    },
+    {
+      "a": "Evenson",
+      "d": "10.1126/science.1078710",
+      "j": "Science",
+      "t": "Assessing the Impact of the Green Revolution, 1960 to 2000",
+      "y": 2003
+    },
+    {
+      "a": "Farrington",
+      "d": "10.1016/0269-7475(88)90107-9",
+      "j": "Agricultural Administration and Extension",
+      "t": "Farmer participatory research: A review of concepts and recent fieldwork",
+      "y": 1988
+    },
+    {
+      "a": "Feder",
+      "d": "10.1111/j.1477-9552.2004.tb00094.x",
+      "j": "Journal of Agricultural Economics",
+      "t": "The Acquisition and Diffusion of Knowledge: The Case of Pest Management Training in Farmer Field Schools",
+      "y": 2004
+    },
+    {
+      "a": "Fischer",
+      "d": "10.1057/s41599-025-05634-w",
+      "j": "Humanities and Social Sciences Communications",
+      "t": "Evaluating transdisciplinary methods: a new scale for measuring knowledge integration",
+      "y": 2025
+    },
+    {
+      "a": "Fritz",
+      "d": "10.14512/gaia.29.1.9",
+      "j": "GAIA",
+      "t": "Tracing power in transdisciplinary sustainability research: an exploration",
+      "y": 2020
+    },
+    {
+      "a": "Gaventa",
+      "d": "10.1111/j.1759-5436.2006.tb00320.x",
+      "j": "IDS Bulletin",
+      "t": "Finding the Spaces for Change: A Power Analysis",
+      "y": 2006
+    },
+    {
+      "a": "Glover",
+      "d": "10.1016/j.njas.2010.11.006",
+      "j": "NJAS Wageningen Journal of Life Sciences",
+      "t": "The System of Rice Intensification: Time for an empirical turn",
+      "y": 2011
+    },
+    {
+      "a": "Glover",
+      "d": "10.5367/oa.2016.0235",
+      "j": "Outlook on Agriculture",
+      "t": "The Adoption Problem; or Why We Still Understand so Little about Technological Change in African Agriculture",
+      "y": 2016
+    },
+    {
+      "a": "Haraway",
+      "d": "10.2307/3178066",
+      "j": "Feminist Studies",
+      "t": "Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective",
+      "y": 1988
+    },
+    {
+      "a": "Hart",
+      "d": "10.13140/2.1.1677.5362",
+      "j": "",
+      "t": "Evolving the three Sisters: The changing histories of maize, bean, and squash",
+      "y": 2008
+    },
+    {
+      "a": "Horn",
+      "d": "10.1007/s11625-022-01113-2",
+      "j": "Sustainability Science",
+      "t": "Epistemic stability and epistemic adaptability: interdisciplinary knowledge integration competencies",
+      "y": 2022
+    },
+    {
+      "a": "Ingold",
+      "d": "10.5871/bacad/9780197264355.003.0003",
+      "j": "Proceedings of the British Academy",
+      "t": "Anthropology is Not Ethnography",
+      "y": 2008
+    },
+    {
+      "a": "Ingold",
+      "d": "10.14318/hau4.1.021",
+      "j": "HAU: Journal of Ethnographic Theory",
+      "t": "That's enough about ethnography!",
+      "y": 2014
+    },
+    {
+      "a": "Kapayou",
+      "d": "10.1007/s10460-022-10336-z",
+      "j": "Agriculture and Human Values",
+      "t": "Reuniting the Three Sisters: collaborative science with Native growers",
+      "y": 2023
+    },
+    {
+      "a": "Kohnert",
+      "d": "10.1111/j.1467-9523.1988.tb01036.x",
+      "j": "Sociologia Ruralis",
+      "t": "Socialism without liberation: Land reclamation projects in Guinea-Bissau",
+      "y": 1988
+    },
+    {
+      "a": "Krohn",
+      "d": "10.1093/oxfordhb/9780198733522.013.5",
+      "j": "",
+      "t": "Interdisciplinary cases and disciplinary knowledge: Epistemic challenges of interdisciplinary research",
+      "y": 2017
+    },
+    {
+      "a": "Lewandowski",
+      "d": "10.1007/BF01530644",
+      "j": "Agriculture and Human Values",
+      "t": "Diohe'ko, the Three Sisters in Seneca life",
+      "y": 1987
+    },
+    {
+      "a": "Long",
+      "d": "",
+      "j": "",
+      "t": "Encounters at the interface: A perspective on social discontinuities in rural development",
+      "y": 1989
+    },
+    {
+      "a": "Long",
+      "d": "",
+      "j": "",
+      "t": "Battlefields of knowledge: Interlocking of theory and practice in social research and development",
+      "y": 1992
+    },
+    {
+      "a": "Ludwig",
+      "d": "10.2993/0278-0771-40.1.3",
+      "j": "Journal of Ethnobiology",
+      "t": "Philosophy of Ethnobiology: Understanding Knowledge Integration and Its Limitations",
+      "y": 2020
+    },
+    {
+      "a": "Lyon",
+      "d": "10.1007/BF01530522",
+      "j": "Agriculture and Human Values",
+      "t": "How farmers research and learn: The case of arable farmers of East Anglia, UK",
+      "y": 1996
+    },
+    {
+      "a": "Šūmane",
+      "d": "10.1016/j.jrurstud.2017.01.020",
+      "j": "Journal of Rural Studies",
+      "t": "Local and farmers' knowledge matters! How integrating informal and formal knowledge enhances sustainable and resilient agriculture",
+      "y": 2018
+    },
+    {
+      "a": "Marchesi",
+      "d": "10.1215/22011919-8142308",
+      "j": "Environmental Humanities",
+      "t": "Justus von Liebig Makes the World: Soil Properties and Social Change in the Nineteenth Century",
+      "y": 2020
+    },
+    {
+      "a": "Martiarena",
+      "d": "10.1080/1389224X.2023.2169480",
+      "j": "Journal of Agricultural Education and Extension",
+      "t": "Endogenous learning and innovation in African smallholder agriculture: lessons from Guinea-Bissau",
+      "y": 2024
+    },
+    {
+      "a": "Max-Neef",
+      "d": "10.1016/j.ecolecon.2005.01.014",
+      "j": "Ecological Economics",
+      "t": "Foundations of transdisciplinarity",
+      "y": 2005
+    },
+    {
+      "a": "Moon",
+      "d": "10.1111/cobi.12326",
+      "j": "Conservation Biology",
+      "t": "A Guide to Understanding Social Science Research for Natural Scientists",
+      "y": 2014
+    },
+    {
+      "a": "Moser",
+      "d": "10.1016/S0308-521X(02)00041-0",
+      "j": "Agricultural Systems",
+      "t": "The disappointing adoption dynamics of a yield-increasing, low external-input technology",
+      "y": 2003
+    },
+    {
+      "a": "Musvoto",
+      "d": "10.1016/j.agsy.2015.03.008",
+      "j": "Agricultural Systems",
+      "t": "Applying a transdisciplinary process to define a research agenda in a smallholder irrigated farming system",
+      "y": 2015
+    },
+    {
+      "a": "Newell",
+      "d": "",
+      "j": "",
+      "t": "Advancing interdisciplinary studies",
+      "y": 1997
+    },
+    {
+      "a": "Nightingale",
+      "d": "10.1111/area.12195",
+      "j": "Area",
+      "t": "Adaptive scholarship and situated knowledges? Hybrid methodologies and plural epistemologies",
+      "y": 2016
+    },
+    {
+      "a": "Odden",
+      "d": "10.1002/sce.21452",
+      "j": "Science Education",
+      "t": "Defining sensemaking: Bringing clarity to a fragmented theoretical construct",
+      "y": 2019
+    },
+    {
+      "a": "Pohl",
+      "d": "10.1016/j.futures.2011.03.001",
+      "j": "Futures",
+      "t": "What is progress in transdisciplinary research?",
+      "y": 2011
+    },
+    {
+      "a": "Polk",
+      "d": "10.1016/j.futures.2014.11.001",
+      "j": "Futures",
+      "t": "Transdisciplinary co-production: Designing and testing a transdisciplinary research framework",
+      "y": 2015
+    },
+    {
+      "a": "Pretty",
+      "d": "10.1177/0049085719960102",
+      "j": "Social Change",
+      "t": "Participation, learning and sustainability: Emerging challenges for agricultural development",
+      "y": 1996
+    },
+    {
+      "a": "Pérez-Toro",
+      "d": "",
+      "j": "",
+      "t": "La agricultura milpera de los mayas",
+      "y": 1981
+    },
+    {
+      "a": "Reed",
+      "d": "10.5751/ES-03564-1504r01",
+      "j": "Ecology and Society",
+      "t": "What is Social Learning?",
+      "y": 2010
+    },
+    {
+      "a": "Ribeiro",
+      "d": "",
+      "j": "Soronda",
+      "t": "Barragens em bolanhas de água salgada",
+      "y": 1987
+    },
+    {
+      "a": "Richards",
+      "d": "",
+      "j": "",
+      "t": "Indigenous agricultural revolution: Ecology and food production in West Africa",
+      "y": 1985
+    },
+    {
+      "a": "Röling",
+      "d": "10.1007/BF01530451",
+      "j": "Agriculture and Human Values",
+      "t": "Transforming extension for sustainable agriculture: The case of integrated pest management in rice",
+      "y": 1994
+    },
+    {
+      "a": "Rosendahl",
+      "d": "10.1016/j.futures.2014.10.011",
+      "j": "Futures",
+      "t": "Scientists' situated knowledge: Strong objectivity in transdisciplinarity",
+      "y": 2015
+    },
+    {
+      "a": "Sandoval",
+      "d": "10.1007/s10745-024-00549-7",
+      "j": "Human Ecology",
+      "t": "Bridging knowledges and practice: Understanding how mangrove swamp rice farmers predict the tides",
+      "y": 2024
+    },
+    {
+      "a": "Schön",
+      "d": "",
+      "j": "",
+      "t": "Educating the reflective practitioner",
+      "y": 1987
+    },
+    {
+      "a": "Schön",
+      "d": "",
+      "j": "",
+      "t": "The reflective practitioner: How professionals think in action",
+      "y": 1991
+    },
+    {
+      "a": "Scholz",
+      "d": "10.1007/s11625-015-0338-0",
+      "j": "Sustainability Science",
+      "t": "Transdisciplinarity at the crossroads",
+      "y": 2015
+    },
+    {
+      "a": "Selener",
+      "d": "",
+      "j": "",
+      "t": "Farmer-to-farmer extension: Lessons from the field",
+      "y": 1997
+    },
+    {
+      "a": "Sillitoe",
+      "d": "10.1016/j.futures.2008.07.004",
+      "j": "Futures",
+      "t": "Future of indigenous knowledge research in development",
+      "y": 2009
+    },
+    {
+      "a": "Simandan",
+      "d": "10.1177/2043820619850013",
+      "j": "Dialogues in Human Geography",
+      "t": "Revisiting positionality and the thesis of situated knowledge",
+      "y": 2019
+    },
+    {
+      "a": "Sousa",
+      "d": "10.1007/s10745-018-9980-3",
+      "j": "Human Ecology",
+      "t": "'The Tides Rhyme with the Moon': Knowledge transmission and strong spring tides",
+      "y": 2018
+    },
+    {
+      "a": "Stuiver",
+      "d": "",
+      "j": "",
+      "t": "The power of experience: Farmers' knowledge and sustainable innovations in agriculture",
+      "y": 2004
+    },
+    {
+      "a": "Suresh Umar",
+      "d": "",
+      "j": "Journal of Traditional and Folk Practices",
+      "t": "Scientific validation of traditional knowledge on techniques for sorting Myristica spp. seeds",
+      "y": 2021
+    },
+    {
+      "a": "Tengö",
+      "d": "10.1016/j.cosust.2016.12.005",
+      "j": "Current Opinion in Environmental Sustainability",
+      "t": "Weaving knowledge systems in IPBES, CBD and beyond—lessons learned for sustainability",
+      "y": 2017
+    },
+    {
+      "a": "Tomlinson",
+      "d": "10.1017/CBO9781139946575",
+      "j": "",
+      "t": "The botany of mangroves",
+      "y": 2016
+    },
+    {
+      "a": "Tsing",
+      "d": "10.2307/j.ctt7s1xk",
+      "j": "",
+      "t": "Friction: An ethnography of global connection",
+      "y": 2005
+    },
+    {
+      "a": "Wamsler",
+      "d": "10.1016/j.envsci.2017.03.016",
+      "j": "Environmental Science and Policy",
+      "t": "Stakeholder involvement in strategic adaptation planning: Transdisciplinarity and co-production",
+      "y": 2017
+    },
+    {
+      "a": "Zamanian",
+      "d": "10.1016/j.scitotenv.2024.171631",
+      "j": "Science of the Total Environment",
+      "t": "Acidification of European croplands by nitrogen fertilization",
+      "y": 2024
+    },
+    {
+      "a": "Zhang",
+      "d": "10.3390/microorganisms12081683",
+      "j": "Microorganisms",
+      "t": "Effects of long-term application of nitrogen fertilizer on soil acidification",
+      "y": 2024
+    }
+  ],
+  "source": "Crossref reference list (reference text read automatically; spot-check spellings)",
+  "strands": [
+    {
+      "kind": "root",
+      "name": "Farmer-first and participatory development",
+      "note": "The 1980s–90s turn to farmers' own knowledge in development studies.",
+      "refs": [
+        9,
+        59,
+        23,
+        60,
+        42,
+        55,
+        66,
+        15,
+        70,
+        24,
+        43
+      ]
+    },
+    {
+      "kind": "root",
+      "name": "Actor-oriented sociology: knowledge at the interface",
+      "note": "Norman Long's 'interface' and 'battlefields of knowledge': knowledge as negotiated between actors.",
+      "refs": [
+        39,
+        40
+      ]
+    },
+    {
+      "kind": "debate",
+      "name": "Indigenous vs scientific knowledge debate",
+      "note": "Agrawal's critique of the divide and its aftermath.",
+      "refs": [
+        1,
+        2,
+        8,
+        67,
+        72,
+        41,
+        71
+      ]
+    },
+    {
+      "kind": "frame",
+      "name": "Friction and anthropology of encounter",
+      "note": "Tsing's friction and Ingold's anthropology give the title and the frame.",
+      "refs": [
+        74,
+        33,
+        17,
+        16,
+        34,
+        3
+      ]
+    },
+    {
+      "kind": "frame",
+      "name": "Situated knowledges (feminist epistemology)",
+      "note": "Haraway's partial perspective, applied to scientists' own position.",
+      "refs": [
+        30,
+        61,
+        51,
+        68
+      ]
+    },
+    {
+      "kind": "method",
+      "name": "Transdisciplinary research and knowledge integration",
+      "note": "The TD literature the paper positions itself in.",
+      "refs": [
+        50,
+        46,
+        6,
+        18,
+        21,
+        53,
+        4,
+        7,
+        54,
+        65,
+        49,
+        37,
+        75,
+        32,
+        25
+      ]
+    },
+    {
+      "kind": "debate",
+      "name": "Power in co-production",
+      "note": "Who sets the terms of knowledge integration.",
+      "refs": [
+        27,
+        26,
+        13,
+        12
+      ]
+    },
+    {
+      "kind": "frame",
+      "name": "Learning and sense-making",
+      "note": "Reflective practice and cognitive accounts of learning.",
+      "refs": [
+        63,
+        64,
+        19,
+        57,
+        20,
+        52
+      ]
+    },
+    {
+      "kind": "context",
+      "name": "Other / case context",
+      "note": "Empirical, regional or topical sources not assigned to a strand.",
+      "refs": [
+        5,
+        56,
+        38,
+        58,
+        36,
+        11,
+        22,
+        48,
+        31,
+        28,
+        47,
+        0,
+        14,
+        29,
+        73,
+        69,
+        10,
+        44,
+        35,
+        45,
+        62,
+        76,
+        77
+      ]
+    }
+  ],
+  "tracedAt": "2026-09-19"
+}

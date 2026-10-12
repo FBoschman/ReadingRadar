@@ -1,0 +1,22 @@
+{
+  "authors": "Rienties, Bektik, Coughlan",
+  "caveat": "Open University setting with resources most hbo lectoraten do not have.",
+  "date": "2027-01",
+  "doi": "10.1016/j.compedu.2026.105746",
+  "kind": "paper",
+  "lang": "en",
+  "run": "2026-09-28",
+  "score": 4,
+  "source": "Crossref",
+  "status": "new",
+  "themes": [
+    "dbr",
+    "ai",
+    "eco"
+  ],
+  "title": "A five-study design-based research approach to co-design an institutional AI digital assistant",
+  "url": "https://doi.org/10.1016/j.compedu.2026.105746",
+  "venue": "Computers & Education",
+  "why": "A rare DBR study that reports five linked cycles at institutional scale - useful as a worked example of how design principles are actually accumulated and reported.",
+  "wildcard": false
+}

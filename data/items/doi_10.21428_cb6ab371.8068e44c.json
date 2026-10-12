@@ -1,0 +1,21 @@
+{
+  "authors": "Ford",
+  "caveat": "Preprint on CrimRxiv, not peer reviewed; treat the empirical claims as provisional.",
+  "date": "2026-09-21",
+  "doi": "10.21428/cb6ab371.8068e44c",
+  "kind": "paper",
+  "lang": "en",
+  "run": "2026-09-28",
+  "score": 4,
+  "source": "Crossref",
+  "status": "new",
+  "themes": [
+    "ai",
+    "pc"
+  ],
+  "title": "The Copilot Constable: Generative AI, Professional Judgement and Internal Legitimacy in Policing",
+  "url": "https://doi.org/10.21428/cb6ab371.8068e44c",
+  "venue": "CrimRxiv",
+  "why": "Professional judgement under AI in a high-stakes occupation where legitimacy is the currency - a sharper test case than the student essay.",
+  "wildcard": false
+}

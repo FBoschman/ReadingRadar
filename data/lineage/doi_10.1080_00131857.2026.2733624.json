@@ -1,0 +1,113 @@
+{
+  "absent": "No critical, feminist or decolonial scholarship, no education-research literature on teaching critical thinking, and nothing on professional judgement — though the paper generalises about educators and students.",
+  "confidence": "low",
+  "forYou": "An unusually short lineage for an argument about professional judgement: Dewey plus three recent psychology sources. Next to your Professional Criticality reading, the missing middle is what stands out.",
+  "itemId": "doi_10.1080_00131857.2026.2733624",
+  "median": 2010,
+  "method": "References from the paper; strands and narrative by Claude, grounded only in that list.",
+  "narrative": [
+    "The paper's root is Dewey (1910, 1933): critical thinking as careful, reflective consideration of belief. That definition is quoted in the first endnote and carries the whole argument.",
+    "Its debate is the old one about whether thinking can be taught on its own. McPeck (1981) said no; Bailin et al. (1999) tried to conceptualise the field. Kirkham sides with stand-alone teaching and leaves the debate in a footnote.",
+    "The virtue turn comes from McGilchrist (2021), whose distinction between rationality and reason underwrites the closing conception. The empirical layer is thin and recent: David et al. (2024) on the unpleasantness of mental effort, Haidt (2024) on adolescent anxiety, Gerlich (2025) on cognitive offloading."
+  ],
+  "parsed": 8,
+  "refCount": 8,
+  "refs": [
+    {
+      "a": "Dewey",
+      "d": "",
+      "j": "",
+      "t": "How we think",
+      "y": 1910
+    },
+    {
+      "a": "Dewey",
+      "d": "",
+      "j": "",
+      "t": "How we think: A restatement of the relation of reflective thinking to the educative process",
+      "y": 1933
+    },
+    {
+      "a": "McPeck",
+      "d": "",
+      "j": "",
+      "t": "Critical thinking and education",
+      "y": 1981
+    },
+    {
+      "a": "Bailin",
+      "d": "10.1080/002202799183133",
+      "j": "Journal of Curriculum Studies",
+      "t": "Conceptualizing critical thinking",
+      "y": 1999
+    },
+    {
+      "a": "McGilchrist",
+      "d": "",
+      "j": "",
+      "t": "The matter with things: Our brains, our delusions, and the unmaking of the world",
+      "y": 2021
+    },
+    {
+      "a": "David",
+      "d": "10.1037/bul0000443",
+      "j": "Psychological Bulletin",
+      "t": "The unpleasantness of thinking: A meta-analytic review of the association between mental effort and negative affect",
+      "y": 2024
+    },
+    {
+      "a": "Haidt",
+      "d": "",
+      "j": "",
+      "t": "The anxious generation: How the great rewiring of childhood is causing an epidemic of mental illness",
+      "y": 2024
+    },
+    {
+      "a": "Gerlich",
+      "d": "10.3390/soc15010006",
+      "j": "Societies",
+      "t": "AI tools in society: Impacts on cognitive offloading and the future of critical thinking",
+      "y": 2025
+    }
+  ],
+  "source": "The article's own reference list (p. 12), read from the PDF",
+  "strands": [
+    {
+      "kind": "root",
+      "name": "Pragmatist root: Dewey",
+      "note": "Critical thinking as active, persistent, careful consideration — quoted in note 1 as the definition behind the paper.",
+      "refs": [
+        0,
+        1
+      ]
+    },
+    {
+      "kind": "debate",
+      "name": "The general vs domain-specific debate",
+      "note": "McPeck's argument against stand-alone teaching and Bailin et al.'s conceptualisation; the paper sets this debate aside rather than settling it.",
+      "refs": [
+        2,
+        3
+      ]
+    },
+    {
+      "kind": "frame",
+      "name": "Reason beyond rationality",
+      "note": "McGilchrist's distinction between rationality and reason gives the paper its 'humbler, older' conception of thinking.",
+      "refs": [
+        4
+      ]
+    },
+    {
+      "kind": "context",
+      "name": "Psychology of effort, attention and offloading",
+      "note": "The empirical layer: effort is unpleasant, adolescence has become more anxious, AI use is linked to cognitive offloading.",
+      "refs": [
+        5,
+        6,
+        7
+      ]
+    }
+  ],
+  "tracedAt": "2026-09-28"
+}

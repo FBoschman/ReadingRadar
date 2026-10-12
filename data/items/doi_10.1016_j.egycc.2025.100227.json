@@ -1,0 +1,21 @@
+{
+  "authors": "Aragon, Budowle, Duba",
+  "caveat": "Check how priorities were aggregated and who was left out of the storytelling sample.",
+  "date": "2026-12",
+  "doi": "10.1016/j.egycc.2025.100227",
+  "kind": "paper",
+  "lang": "en",
+  "run": "2026-09-21",
+  "score": 4,
+  "source": "Crossref",
+  "status": "new",
+  "themes": [
+    "par",
+    "eco"
+  ],
+  "title": "Wyoming Voices: Digital storytelling as a participatory method to co-identify community priorities amid energy transitions",
+  "url": "https://doi.org/10.1016/j.egycc.2025.100227",
+  "venue": "Energy and Climate Change",
+  "why": "A workable participatory method for surfacing priorities in a contested transition - transferable to the CDC Urban Innovation fieldwork in public space.",
+  "wildcard": false
+}

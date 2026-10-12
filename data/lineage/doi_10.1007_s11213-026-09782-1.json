@@ -1,0 +1,251 @@
+{
+  "absent": "Participatory action research appears only through one 2021 review: there is no Fals Borda, Freire or Latin American PAR, nothing decolonial or Global South, and no complexity theory of the Juarrero, Levin or Tsing kind despite the paper's systems framing.",
+  "confidence": "medium",
+  "forYou": "If you want this model for 'Substrate Matters' or the CDC Urban Innovation workshops, note that its ancestry is soft systems plus training evaluation, not participatory or decolonial research, so it will measure whether a workshop ran well rather than whether it shifted who holds the knowledge.",
+  "itemId": "doi_10.1007_s11213-026-09782-1",
+  "median": 2017,
+  "method": "References read from the Springer article page rather than Crossref, which was blocked this run; strands and narrative by Claude, grounded only in the reference list and title. One entry ('REBUILD') carries no author or year on the page and is recorded as listed.",
+  "narrative": "The spine of this reference list is British soft systems thinking. Checkland's thirty-year retrospective (2000) sits at the root, and Jackson carries it forward twice over: first as creative holism and critical systems practice (2006), then in a 2025 reassessment that reads systems thinking through action research. Midgley's community operational research (2018), Herron (2025) and Weaver (2026) keep that line current, and Rosenhead's survey of problem structuring methods (2006) with Tavella's study of facilitated modelling (2015) supply the mechanics of getting a group to think together.\n\nGrafted onto that root is a quite different literature: how to run a workshop. Gray's Gamestorming (2010), Storvang (2017) and Thoring (2020) treat the workshop as a research instrument, while Pavelin (2014), Sufi (2018) and Fadlelmola (2019) are 'ten simple rules' guidance. The evaluation half of the paper comes from somewhere else again: Kirkpatrick's four levels (2006, 2007), applied to research-methods training by Abdulghani (2014) and set against Rushmer's realist evaluation of knowledge exchange (2014).\n\nParticipation enters late and thinly. Scharmer's Theory U (2015), Ellstrom's interactive research (2020) and Keahey's review of participatory action research and sustainable development (2021) are the only places where the question of whose knowledge counts is put directly, and none of them is load-bearing. The median year is 2017, so this is a recent list, but its newest sources (Stapleton 2026, Pathan 2023) are the Irish circular-economy case rather than the methodology.",
+  "parsed": 24,
+  "refCount": 24,
+  "refs": [
+    {
+      "a": "Checkland",
+      "d": "",
+      "j": "Syst Res Behav Sci",
+      "t": "Soft systems methodology: a thirty year retrospective",
+      "y": 2000
+    },
+    {
+      "a": "Jackson",
+      "d": "",
+      "j": "Syst Res Behav Sci",
+      "t": "Creative holism: a critical systems approach to complex problem situations",
+      "y": 2006
+    },
+    {
+      "a": "Kirkpatrick",
+      "d": "",
+      "j": "Berrett-Koehler Publishers",
+      "t": "Evaluating Training Programs: The Four Levels",
+      "y": 2006
+    },
+    {
+      "a": "Rosenhead",
+      "d": "",
+      "j": "J Oper Res Soc",
+      "t": "Past, present and future of problem structuring methods",
+      "y": 2006
+    },
+    {
+      "a": "Kirkpatrick",
+      "d": "",
+      "j": "Berrett-Koehler Publishers",
+      "t": "Implementing the Four Levels: A Practical Guide for Effective Evaluation of Training Programs",
+      "y": 2007
+    },
+    {
+      "a": "Gray",
+      "d": "",
+      "j": "O'Reilly Media",
+      "t": "Gamestorming: A Playbook for Innovators, Rulebreakers, and Changemakers",
+      "y": 2010
+    },
+    {
+      "a": "Abdulghani",
+      "d": "",
+      "j": "Med Teach",
+      "t": "Research methodology workshops evaluation using the kirkpatrick's model: Translating theory into practice",
+      "y": 2014
+    },
+    {
+      "a": "Pavelin",
+      "d": "",
+      "j": "PLoS Comput Biol",
+      "t": "Ten simple rules for running interactive workshops",
+      "y": 2014
+    },
+    {
+      "a": "Rushmer",
+      "d": "",
+      "j": "Public Health",
+      "t": "Using interactive workshops to prompt knowledge exchange: a realist evaluation of a knowledge to action initiative",
+      "y": 2014
+    },
+    {
+      "a": "Scharmer",
+      "d": "",
+      "j": "J Corpor Citizens",
+      "t": "Theory U : From ego-system to eco-system economies",
+      "y": 2015
+    },
+    {
+      "a": "Tavella",
+      "d": "",
+      "j": "Group Decis Negot",
+      "t": "Dynamics of group knowledge production in facilitated modelling workshops: an exploratory study",
+      "y": 2015
+    },
+    {
+      "a": "Storvang",
+      "d": "",
+      "j": "Springer, Singapore",
+      "t": "Using workshops in business research: A framework to diagnose, plan, facilitate and analyze workshops",
+      "y": 2017
+    },
+    {
+      "a": "Midgley",
+      "d": "",
+      "j": "European J Oper Res",
+      "t": "What is community operational research?",
+      "y": 2018
+    },
+    {
+      "a": "Sufi",
+      "d": "",
+      "j": "Public Library of Science",
+      "t": "Ten simple rules for measuring the impact of workshops",
+      "y": 2018
+    },
+    {
+      "a": "Fadlelmola",
+      "d": "",
+      "j": "Public Library of Science",
+      "t": "Ten simple rules for organizing a webinar series",
+      "y": 2019
+    },
+    {
+      "a": "Ellstrom",
+      "d": "",
+      "j": "J Manuf Technol Manag",
+      "t": "Interactive research: concepts, contributions and challenges",
+      "y": 2020
+    },
+    {
+      "a": "Thoring",
+      "d": "",
+      "j": "Proceedings of the 53rd Hawaii International Conference on System Sciences (HICSS 2020)",
+      "t": "Workshops as a research method: Guidelines for designing and evaluating artifacts through workshops",
+      "y": 2020
+    },
+    {
+      "a": "Keahey",
+      "d": "",
+      "j": "Syst Pract Action Res",
+      "t": "Sustainable development and participatory action research: a systematic review",
+      "y": 2021
+    },
+    {
+      "a": "Pathan",
+      "d": "",
+      "j": "Sustainability",
+      "t": "The role of artificial intelligence within circular economy activities - a view from Ireland",
+      "y": 2023
+    },
+    {
+      "a": "Herron",
+      "d": "",
+      "j": "Syst Res Behav Sci",
+      "t": "The resonance of Mike Jackson's work with the use of systems ideas in community operational research",
+      "y": 2025
+    },
+    {
+      "a": "Jackson",
+      "d": "",
+      "j": "Syst Res Behav Sci",
+      "t": "The future of systems thinking through the lens of action research and critical systems practice",
+      "y": 2025
+    },
+    {
+      "a": "Stapleton",
+      "d": "",
+      "j": "Circ Econ Sustainabil",
+      "t": "A review of circular economy and the construction sector in Ireland: Barriers and enablers for circular economy adoption",
+      "y": 2026
+    },
+    {
+      "a": "Weaver",
+      "d": "",
+      "j": "Syst Pract Action Res",
+      "t": "Declaring worldviews in SSM for sustainability & community learning",
+      "y": 2026
+    },
+    {
+      "a": "REBUILD",
+      "d": "",
+      "j": "",
+      "t": "REBUILD",
+      "y": null
+    }
+  ],
+  "source": "Reference list read off the publisher's article page at link.springer.com (Crossref API unreachable this run; spot-check spellings)",
+  "strands": [
+    {
+      "kind": "root",
+      "name": "Soft systems and critical systems practice",
+      "note": "The tradition the model grows out of: Checkland's soft systems methodology as reworked by Jackson into critical systems practice, and still being argued over in 2025-26.",
+      "refs": [
+        0,
+        1,
+        12,
+        19,
+        20,
+        22
+      ]
+    },
+    {
+      "kind": "method",
+      "name": "Problem structuring and facilitated modelling",
+      "note": "The operational-research line that supplies the machinery for running a structured group session.",
+      "refs": [
+        3,
+        10
+      ]
+    },
+    {
+      "kind": "method",
+      "name": "Workshops as a research method",
+      "note": "The how-to literature, much of it 'ten simple rules' papers and practitioner playbooks rather than research.",
+      "refs": [
+        5,
+        7,
+        11,
+        13,
+        14,
+        16
+      ]
+    },
+    {
+      "kind": "frame",
+      "name": "Training evaluation: the Kirkpatrick levels",
+      "note": "The evaluation frame the paper borrows, which treats a workshop as a training event with reaction, learning, behaviour and results.",
+      "refs": [
+        2,
+        4,
+        6,
+        8
+      ]
+    },
+    {
+      "kind": "debate",
+      "name": "Interactive and participatory research",
+      "note": "The thinner strand where the question of who the research is with, rather than on, is actually raised.",
+      "refs": [
+        9,
+        15,
+        17
+      ]
+    },
+    {
+      "kind": "context",
+      "name": "Other / case context",
+      "note": "The Irish circular-economy and construction material the workshops were run in, plus an unattributed project reference.",
+      "refs": [
+        18,
+        21,
+        23
+      ]
+    }
+  ],
+  "tracedAt": "2026-10-12"
+}

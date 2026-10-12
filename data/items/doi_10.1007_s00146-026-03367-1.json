@@ -1,0 +1,21 @@
+{
+  "authors": "Glawatzki",
+  "caveat": "Discourse analysis of corporate material; no claim about what users take up.",
+  "date": "2026-09-21",
+  "doi": "10.1007/s00146-026-03367-1",
+  "kind": "paper",
+  "lang": "en",
+  "run": "2026-09-28",
+  "score": 4,
+  "source": "Crossref",
+  "status": "new",
+  "themes": [
+    "ai",
+    "dec"
+  ],
+  "title": "Constructing AI power: anthropomorphising imaginaries of generative AI by AI companies",
+  "url": "https://doi.org/10.1007/s00146-026-03367-1",
+  "venue": "AI & SOCIETY",
+  "why": "Reads vendor language as a power move - useful when institutions adopt the vendors' vocabulary for AI literacy without noticing.",
+  "wildcard": false
+}

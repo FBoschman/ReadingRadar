@@ -1,0 +1,21 @@
+{
+  "authors": "",
+  "caveat": "The article itself could not be read this run: only the headline and link were available, so read it before citing.",
+  "date": "2026-10",
+  "doi": "",
+  "kind": "discourse",
+  "lang": "nl",
+  "run": "2026-10-05",
+  "score": 3,
+  "source": "ScienceGuide (headline and link only; page not fetchable)",
+  "status": "new",
+  "themes": [
+    "cx",
+    "ai"
+  ],
+  "title": "Arrogant om te denken dat een model het menselijk lichaam volledig kan nabootsen",
+  "url": "https://www.scienceguide.nl/2026/10/arrogant-om-te-denken-dat-een-model-het-menselijk-lichaam-volledig-kan-nabootsen/",
+  "venue": "ScienceGuide",
+  "why": "A Dutch argument about the limits of modelling fidelity - the objection Digital Twin Flevoland will meet sooner or later, in the register Dutch partners use.",
+  "wildcard": false
+}

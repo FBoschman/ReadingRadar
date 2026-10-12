@@ -1,0 +1,22 @@
+# Windows and Office temporary files
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+~$*
+*.tmp
+*.laccdb
+
+# Editors and tools
+.vscode/
+.idea/
+*.swp
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Local scratch files
+scratch/
+tmp/

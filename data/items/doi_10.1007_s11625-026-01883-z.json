@@ -1,0 +1,21 @@
+{
+  "authors": "Arthur, DesRoches, Fischer",
+  "caveat": "Antifragility is contested and lightly evidenced; the paper may not resolve that.",
+  "date": "2026-09-21",
+  "doi": "10.1007/s11625-026-01883-z",
+  "kind": "paper",
+  "lang": "en",
+  "run": "2026-09-28",
+  "score": 4,
+  "source": "Journal watch: Sustainability Science",
+  "status": "new",
+  "themes": [
+    "cx",
+    "td"
+  ],
+  "title": "From resilience to antifragility? Satisfying human needs in a disruptive world",
+  "url": "https://doi.org/10.1007/s11625-026-01883-z",
+  "venue": "Sustainability Science",
+  "why": "Tests whether antifragility adds anything to resilience - worth reading sceptically alongside the Juarrero strand of 'Substrate Matters'.",
+  "wildcard": false
+}

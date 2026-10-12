@@ -1,0 +1,21 @@
+{
+  "authors": "Rosero-Toro, Romero-Duque, Ruan-Soto",
+  "caveat": "Published 13 May 2026, so outside this week's window. The publisher page truncates the author list, so the middle authors are unverified; Cano-Contreras is listed last.",
+  "date": "2026-05-13",
+  "doi": "10.1007/s11625-026-01825-9",
+  "kind": "paper",
+  "lang": "en",
+  "run": "2026-10-12",
+  "score": 4,
+  "source": "Web search + publisher page",
+  "status": "new",
+  "themes": [
+    "td",
+    "dec"
+  ],
+  "title": "The elusive sustainability paradox: a critical review of transdisciplinary research integration",
+  "url": "https://doi.org/10.1007/s11625-026-01825-9",
+  "venue": "Sustainability Science",
+  "why": "A critical review of the distance between integrative rhetoric and actual transdisciplinary practice, written largely from Latin America. The sceptical counterweight your td reading is thin on.",
+  "wildcard": false
+}

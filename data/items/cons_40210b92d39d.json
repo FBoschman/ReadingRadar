@@ -1,0 +1,20 @@
+{
+  "authors": "Devitt et al.",
+  "caveat": "Consensus returns no publisher, DOI or month for this entry, so the record is thin. Verify the book exists in the form described before citing it.",
+  "date": "2026",
+  "doi": "",
+  "kind": "paper",
+  "lang": "en",
+  "run": "2026-10-12",
+  "score": 3,
+  "source": "Consensus",
+  "status": "new",
+  "themes": [
+    "dbr"
+  ],
+  "title": "Implementing Design-Based Research in Education",
+  "url": "https://consensus.app/papers/details/40210b92d39d5aadb1b2de5f0a9b6fef/",
+  "venue": "Book; publisher not stated by the source",
+  "why": "A new book-length DBR guide covering sustainable partnerships, creative design workshops and scaling. Worth checking as a teaching text for the research strand of the CDC Urban Innovation course.",
+  "wildcard": false
+}

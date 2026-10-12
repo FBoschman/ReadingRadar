@@ -1,0 +1,21 @@
+{
+  "authors": "Jackson, Lambert, Coetzee",
+  "caveat": "Conceptual; MDPI journal.",
+  "date": "2026-09-08",
+  "doi": "10.3390/educsci16091466",
+  "kind": "paper",
+  "lang": "en",
+  "run": "2026-09-19",
+  "score": 4,
+  "source": "Crossref",
+  "status": "new",
+  "themes": [
+    "td",
+    "eco"
+  ],
+  "title": "Assessing Transdisciplinary Work-Integrated Learning for Sustainable Development: A Programmatic Approach",
+  "url": "https://doi.org/10.3390/educsci16091466",
+  "venue": "Education Sciences",
+  "why": "Programmatic assessment for TD learning with external partners — practical for curriculum design.",
+  "wildcard": false
+}

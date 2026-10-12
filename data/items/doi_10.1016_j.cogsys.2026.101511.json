@@ -1,0 +1,21 @@
+{
+  "authors": "Gangemi, Lucifora",
+  "caveat": "Cognitive-systems framing; the educational claim is inferred, not tested with students.",
+  "date": "2026-10",
+  "doi": "10.1016/j.cogsys.2026.101511",
+  "kind": "paper",
+  "lang": "en",
+  "run": "2026-09-28",
+  "score": 4,
+  "source": "Crossref",
+  "status": "new",
+  "themes": [
+    "ai",
+    "pc"
+  ],
+  "title": "Critical friction: neurosymbolic support in the offloading-boosting competence tradeoff",
+  "url": "https://doi.org/10.1016/j.cogsys.2026.101511",
+  "venue": "Cognitive Systems Research",
+  "why": "Proposes deliberate friction as a design property rather than a usability failure - a mechanism your Professional Criticality work could name and test.",
+  "wildcard": false
+}

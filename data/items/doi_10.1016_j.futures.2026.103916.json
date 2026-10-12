@@ -1,0 +1,22 @@
+{
+  "authors": "Muiderman, Enserink, Daalhuizen",
+  "caveat": "Policy-analytic; check whether local actors participated or were only represented.",
+  "date": "2026-12",
+  "doi": "10.1016/j.futures.2026.103916",
+  "kind": "paper",
+  "lang": "en",
+  "ratedAt": "2026-10-12T08:07:34.499Z",
+  "run": "2026-09-28",
+  "score": 5,
+  "source": "Journal watch: Futures",
+  "status": "skip",
+  "themes": [
+    "eco",
+    "td"
+  ],
+  "title": "Governing rural futures: Structuring diverse perspectives on future problems and pathways to understand Dutch policy challenges",
+  "url": "https://doi.org/10.1016/j.futures.2026.103916",
+  "venue": "Futures",
+  "why": "Dutch rural governance futures with explicit attention to whose problem framing wins - directly usable for Digital Twin Flevoland.",
+  "wildcard": false
+}

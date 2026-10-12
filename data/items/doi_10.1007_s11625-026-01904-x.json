@@ -1,0 +1,21 @@
+{
+  "authors": "Elbakidze, Pelyukh, Elmqvist",
+  "caveat": "Metadata only this run. Check whether 'civic ecology practices' is used in Krasny and Tidball's sense or more loosely.",
+  "date": "2026-10-05",
+  "doi": "10.1007/s11625-026-01904-x",
+  "kind": "paper",
+  "lang": "en",
+  "run": "2026-10-12",
+  "score": 3,
+  "source": "Journal watch: Sustainability Science",
+  "status": "new",
+  "themes": [
+    "par",
+    "eco"
+  ],
+  "title": "Greening in turbulent times: insights into civic ecology practices across Ukraine",
+  "url": "https://doi.org/10.1007/s11625-026-01904-x",
+  "venue": "Sustainability Science",
+  "why": "Civic ecology practice where the institutions are not holding. A hard case against the assumption that participatory public-space work needs a stable municipality behind it.",
+  "wildcard": false
+}

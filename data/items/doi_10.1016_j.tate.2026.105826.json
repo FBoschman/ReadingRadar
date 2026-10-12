@@ -1,0 +1,22 @@
+{
+  "authors": "Yang, Zhang, Luo",
+  "caveat": "Exploratory single-context DBR; design principles may be thin.",
+  "date": "2026-12",
+  "doi": "10.1016/j.tate.2026.105826",
+  "kind": "paper",
+  "lang": "en",
+  "run": "2026-09-28",
+  "score": 5,
+  "source": "Crossref",
+  "status": "new",
+  "themes": [
+    "dbr",
+    "ai",
+    "pc"
+  ],
+  "title": "Sustaining teachers' epistemic agency in AI-supported instructional design: An exploratory design-based study of a conversational-function approach",
+  "url": "https://doi.org/10.1016/j.tate.2026.105826",
+  "venue": "Teaching and Teacher Education",
+  "why": "Design-based research aimed squarely at keeping teachers' epistemic agency intact while using AI - the design counterpart to your AI and Professional Criticality argument.",
+  "wildcard": false
+}

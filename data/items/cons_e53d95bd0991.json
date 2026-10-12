@@ -1,0 +1,22 @@
+{
+  "authors": "Dawson et al.",
+  "caveat": "Framework paper with no empirical test. Uhl-Bien's complexity leadership is about organisational adaptation, not Juarrero's enabling constraints, so the two should not be run together.",
+  "date": "2026",
+  "doi": "",
+  "kind": "paper",
+  "lang": "en",
+  "run": "2026-10-12",
+  "score": 3,
+  "source": "Consensus; Journal watch: Computers and Education: Artificial Intelligence",
+  "status": "new",
+  "themes": [
+    "cx",
+    "ai",
+    "eco"
+  ],
+  "title": "Leveraging complex systems: Leading for transformative change",
+  "url": "https://consensus.app/papers/details/e53d95bd099157bca773d116197baaaa/",
+  "venue": "Computers and Education: Artificial Intelligence",
+  "why": "Turns Complexity Leadership Theory into a management framework (SPARK) for institutions absorbing generative AI: the administrative mirror image of your AI and Professional Criticality argument, and a clear case of complexity used as a steering vocabulary.",
+  "wildcard": false
+}

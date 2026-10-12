@@ -1,0 +1,400 @@
+{
+  "absent": "No participatory action research lineage (Freire, Fals-Borda) and no Global South or decolonial sources; the theory base is Anglo-European public administration and STS.",
+  "confidence": "medium",
+  "earliest": 1973,
+  "forYou": "Levin et al. (2012) on 'super wicked problems' argues for policies that constrain our future selves: constraint as a design tool, close to Juarrero's enabling constraints.",
+  "itemId": "doi_10.1007_s11625-026-01877-x",
+  "median": 2017,
+  "method": "References from Crossref; strands and narrative by Claude, grounded only in the reference list and title.",
+  "narrative": [
+    "The root is Rittel and Webber's 'Dilemmas in a general theory of planning' (1973). The paper follows its revival in policy studies (Head; Alford) and then steps into the 2019 Policy and Society debate that asked whether 'wickedness' had become an empty label.",
+    "Its move is to relocate the problem: dilemmas are not properties of problems but arise at boundaries between sectors. For that it borrows from science and technology studies (Gieryn's boundary-work, Star's boundary objects) and from paradox theory in organisation studies (Lewis; Vangen).",
+    "A less common layer is time and space: Barbara Adam's timescapes and Doreen Massey's relational space frame why cross-sector dilemmas persist."
+  ],
+  "parsed": 42,
+  "refCount": 43,
+  "refs": [
+    {
+      "a": "Adam",
+      "d": "",
+      "j": "",
+      "t": "Timescapes of modernity: The environment and invisible hazards",
+      "y": 1998
+    },
+    {
+      "a": "Adam",
+      "d": "",
+      "j": "",
+      "t": "Time",
+      "y": 2004
+    },
+    {
+      "a": "Adam",
+      "d": "",
+      "j": "",
+      "t": "Of timescapes, futures and timeprints",
+      "y": 2008
+    },
+    {
+      "a": "Alford",
+      "d": "10.1177/0095399713481601",
+      "j": "Administration & Society",
+      "t": "Wicked problems: Implications for public policy and management",
+      "y": 2015
+    },
+    {
+      "a": "Alford",
+      "d": "10.1080/14494035.2017.1361634",
+      "j": "Policy and Society",
+      "t": "Wicked and less wicked problems: a typology and a contingency framework",
+      "y": 2017
+    },
+    {
+      "a": "Bannick",
+      "d": "",
+      "j": "Public Policy and Administration",
+      "t": "Governance without we. Wicked problems and collaborative governance",
+      "y": 2024
+    },
+    {
+      "a": "Brown",
+      "d": "",
+      "j": "",
+      "t": "Tackling wicked problems through the transdisciplinary imagination",
+      "y": 2010
+    },
+    {
+      "a": "Crowley",
+      "d": "10.1007/s11077-017-9302-4",
+      "j": "Policy Sciences",
+      "t": "The enduring challenge of wicked problems",
+      "y": 2017
+    },
+    {
+      "a": "Denford",
+      "d": "10.1080/14719037.2022.2124535",
+      "j": "Public Management Review",
+      "t": "Assessing the relevance of governmental characteristics to address wicked problems",
+      "y": 2024
+    },
+    {
+      "a": "Dobson",
+      "d": "",
+      "j": "",
+      "t": "Slow planning: Timescapes, power and democracy",
+      "y": 2025
+    },
+    {
+      "a": "Dunleavy",
+      "d": "",
+      "j": "Public Money & Management",
+      "t": "From old public administration to new public management",
+      "y": 1994
+    },
+    {
+      "a": "Gieryn",
+      "d": "10.2307/2095325",
+      "j": "American Sociological Review",
+      "t": "Boundary-work and the demarcation of science from non-science",
+      "y": 1983
+    },
+    {
+      "a": "Guston",
+      "d": "10.1177/016224390102600401",
+      "j": "Science, Technology & Human Values",
+      "t": "Boundary organizations in environmental policy and science: An introduction",
+      "y": 2001
+    },
+    {
+      "a": "Head",
+      "d": "",
+      "j": "Public Policy",
+      "t": "Wicked problems in public policy",
+      "y": 2008
+    },
+    {
+      "a": "Head",
+      "d": "10.1016/j.landurbplan.2016.07.011",
+      "j": "Landscape and Urban Planning",
+      "t": "Working with wicked problems in socio-ecological systems",
+      "y": 2016
+    },
+    {
+      "a": "Head",
+      "d": "10.1080/14494035.2018.1488797",
+      "j": "Policy and Society",
+      "t": "Forty years of wicked problems literature: Forging closer links to policy studies",
+      "y": 2019
+    },
+    {
+      "a": "Hutter",
+      "d": "10.1080/14649357.2021.2008172",
+      "j": "Planning Theory & Practice",
+      "t": "Time, temporality and planning – Comments on the state of the art",
+      "y": 2022
+    },
+    {
+      "a": "Innes",
+      "d": "10.1016/j.landurbplan.2016.03.016",
+      "j": "Landscape and Urban Planning",
+      "t": "Collaborative rationality as a strategy for working with wicked problems",
+      "y": 2016
+    },
+    {
+      "a": "Joosse",
+      "d": "",
+      "j": "Public Policy and Administration",
+      "t": "The marginalization of policy integration: Dynamics of integrated policymaking",
+      "y": 2024
+    },
+    {
+      "a": "Langley",
+      "d": "10.5465/annals.2017.0089",
+      "j": "Academy of Management Annals",
+      "t": "Boundary work among groups, occupations, and organizations: from cartography to process",
+      "y": 2019
+    },
+    {
+      "a": "Lawrence",
+      "d": "10.1016/j.oneear.2021.12.010",
+      "j": "One Earth",
+      "t": "Characteristics, potentials and challenges of transdisciplinary research",
+      "y": 2022
+    },
+    {
+      "a": "Levin",
+      "d": "10.1007/s11077-012-9151-0",
+      "j": "Policy Sciences",
+      "t": "Overcoming the tragedy of super wicked problems: constraining our future selves",
+      "y": 2012
+    },
+    {
+      "a": "Lewis",
+      "d": "10.1177/0021886314522322",
+      "j": "Journal of Applied Behavioral Science",
+      "t": "Paradox as a metatheoretical perspective: Sharpening the focus and widening the scope",
+      "y": 2014
+    },
+    {
+      "a": "Likhacheva",
+      "d": "10.1007/s11625-023-01373-6",
+      "j": "Sustainability Science",
+      "t": "An exploration of the influence of problem wickedness on project pluralism",
+      "y": 2023
+    },
+    {
+      "a": "Lönngren",
+      "d": "10.1080/13504509.2020.1859415",
+      "j": "Int. J. of Sustainable Development & World Ecology",
+      "t": "Wicked problems: a mapping review of the literature",
+      "y": 2021
+    },
+    {
+      "a": "Massey",
+      "d": "",
+      "j": "Geographische Zeitschrift",
+      "t": "Philosophy and politics of spatiality: some considerations",
+      "y": 1999
+    },
+    {
+      "a": "Massey",
+      "d": "",
+      "j": "",
+      "t": "For space",
+      "y": 2005
+    },
+    {
+      "a": "Miller",
+      "d": "10.1016/j.envsci.2018.01.016",
+      "j": "Environmental Science & Policy",
+      "t": "Co-production in global sustainability: Histories and theories",
+      "y": 2018
+    },
+    {
+      "a": "Noordegraaf",
+      "d": "10.1080/14494035.2019.1617970",
+      "j": "Policy and Society",
+      "t": "Weaknesses of wickedness: a critical perspective on wickedness theory",
+      "y": 2019
+    },
+    {
+      "a": "Palmer",
+      "d": "10.1332/27523349Y2024D000000027",
+      "j": "Global Social Challenges Journal",
+      "t": "The situatedness of dilemmas in boundary spaces: Uncovering paradoxical conditions",
+      "y": 2025
+    },
+    {
+      "a": "Pesch",
+      "d": "10.1177/0095399720934010",
+      "j": "Administration & Society",
+      "t": "The wickedness of Rittel and Webber's dilemmas",
+      "y": 2020
+    },
+    {
+      "a": "Peters",
+      "d": "10.1080/14494035.2019.1626595",
+      "j": "Policy and Society",
+      "t": "Are wicked problems really so wicked? Perceptions of policy problems",
+      "y": 2019
+    },
+    {
+      "a": "Polk",
+      "d": "10.1007/s11625-014-0247-7",
+      "j": "Sustainability Science",
+      "t": "Achieving the promise of transdisciplinarity: a critical exploration",
+      "y": 2014
+    },
+    {
+      "a": "Rittel",
+      "d": "10.1007/BF01405730",
+      "j": "Policy Sciences",
+      "t": "Dilemmas in a general theory of planning",
+      "y": 1973
+    },
+    {
+      "a": "Sediri",
+      "d": "10.3390/su12155895",
+      "j": "Sustainability",
+      "t": "Transformability as a wicked problem: a cautionary tale?",
+      "y": 2020
+    },
+    {
+      "a": "Star",
+      "d": "",
+      "j": "",
+      "t": "The structure of ill-structured solutions: Boundary objects and distributed problem solving",
+      "y": 1988
+    },
+    {
+      "a": "Star",
+      "d": "10.1177/030631289019003001",
+      "j": "Social Studies of Science",
+      "t": "Institutional ecology, 'translations', and boundary objects",
+      "y": 1989
+    },
+    {
+      "a": "Star",
+      "d": "10.1177/0162243910377624",
+      "j": "Science, Technology & Human Values",
+      "t": "This is not a boundary object: Reflections on the origin of a concept",
+      "y": 2010
+    },
+    {
+      "a": "Termeer",
+      "d": "10.1080/14494035.2019.1617971",
+      "j": "Policy and Society",
+      "t": "A critical assessment of the wicked problem concept: relevance and usefulness",
+      "y": 2019
+    },
+    {
+      "a": "Turnbull",
+      "d": "10.1080/14494035.2018.1488796",
+      "j": "Policy and Society",
+      "t": "Problematizing 'wickedness'. A critique of the wicked problems concept",
+      "y": 2019
+    },
+    {
+      "a": "Vangen",
+      "d": "10.1111/puar.12683",
+      "j": "Public Administration Review",
+      "t": "Developing a practice-oriented theory on collaboration: A paradox lens",
+      "y": 2016
+    },
+    {
+      "a": "Ziergermann",
+      "d": "10.1007/s11625-022-01187-y",
+      "j": "Sustainability Science",
+      "t": "Spanning the boundaries between policy, politics and science to solve wicked problems",
+      "y": 2023
+    }
+  ],
+  "source": "Crossref reference list (reference text read automatically; spot-check spellings)",
+  "strands": [
+    {
+      "kind": "root",
+      "name": "Wicked-problems canon",
+      "note": "The paper's backbone: Rittel & Webber's 1973 planning theory and its policy-studies revival.",
+      "refs": [
+        33,
+        13,
+        21,
+        3,
+        14,
+        4,
+        7,
+        15,
+        34,
+        24,
+        23,
+        8
+      ]
+    },
+    {
+      "kind": "debate",
+      "name": "The 2019 critique of 'wickedness'",
+      "note": "A Policy and Society special issue that questioned whether 'wicked' is still a useful concept; the paper takes a position here.",
+      "refs": [
+        28,
+        38,
+        39,
+        31,
+        30
+      ]
+    },
+    {
+      "kind": "frame",
+      "name": "Boundary work and boundary objects (STS)",
+      "note": "Science and technology studies on how groups draw and cross boundaries; used to locate where dilemmas arise.",
+      "refs": [
+        11,
+        35,
+        36,
+        12,
+        37,
+        19,
+        41,
+        29
+      ]
+    },
+    {
+      "kind": "frame",
+      "name": "Paradox and collaborative governance",
+      "note": "Organisation and public-administration theory on paradox and collaboration.",
+      "refs": [
+        10,
+        22,
+        40,
+        17,
+        5,
+        18
+      ]
+    },
+    {
+      "kind": "method",
+      "name": "Transdisciplinarity and co-production",
+      "note": "Where the paper positions itself as research practice.",
+      "refs": [
+        6,
+        32,
+        27,
+        20
+      ]
+    },
+    {
+      "kind": "frame",
+      "name": "Time and space",
+      "note": "An unusual layer: sociology of time and relational geography.",
+      "refs": [
+        0,
+        25,
+        1,
+        26,
+        2,
+        16,
+        9
+      ]
+    }
+  ],
+  "tracedAt": "2026-09-19"
+}

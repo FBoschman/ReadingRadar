@@ -1,0 +1,21 @@
+{
+  "authors": "Dedeurwaerdere, Jahn, Newig",
+  "caveat": "Evidence is European project-level; check whether the governance options it proposes are reachable inside HBO funding rules.",
+  "date": "2026-01-21",
+  "doi": "10.1016/j.envsci.2026.104318",
+  "kind": "paper",
+  "lang": "en",
+  "run": "2026-10-05",
+  "score": 5,
+  "source": "Journal watch: Environmental Science & Policy (via web search; Crossref blocked)",
+  "status": "new",
+  "themes": [
+    "td",
+    "eco"
+  ],
+  "title": "Governing the trade-off between the co-production of actionable knowledge and academic publishing in transdisciplinary sustainability research",
+  "url": "https://doi.org/10.1016/j.envsci.2026.104318",
+  "venue": "Environmental Science & Policy",
+  "why": "Jahn and Newig name the bind every lectoraat lives in: projects default to dissemination because publishing is what pays. Useful ammunition when arguing about what counts as output at Windesheim.",
+  "wildcard": false
+}

@@ -1,0 +1,21 @@
+{
+  "authors": "Suazo Galdames, Santiesteban Velázquez, Saracostti",
+  "caveat": "Check inclusion criteria; review quality varies in this journal.",
+  "date": "2026-09-03",
+  "doi": "10.3389/feduc.2026.1878665",
+  "kind": "paper",
+  "lang": "en",
+  "run": "2026-09-19",
+  "score": 4,
+  "source": "Crossref",
+  "status": "new",
+  "themes": [
+    "ai",
+    "pc"
+  ],
+  "title": "Between cognitive offloading and critical autonomy: a systematic review of the epistemic implications of generative AI in higher education",
+  "url": "https://doi.org/10.3389/feduc.2026.1878665",
+  "venue": "Frontiers in Education",
+  "why": "Quick map of evidence on GenAI and epistemic agency for your AI & curriculum papers.",
+  "wildcard": false
+}

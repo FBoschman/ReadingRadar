@@ -1,0 +1,22 @@
+{
+  "authors": "O'Brien et al.",
+  "caveat": "Dated 2025 and Consensus gives no month, so the 12-month window could not be verified. A practice paper: Cynefin is applied, not tested.",
+  "date": "2025",
+  "doi": "",
+  "kind": "paper",
+  "lang": "en",
+  "run": "2026-10-12",
+  "score": 3,
+  "source": "Consensus",
+  "status": "new",
+  "themes": [
+    "cx",
+    "dbr",
+    "dec"
+  ],
+  "title": "Leadership by Learning Design: embrace complexity where it exists",
+  "url": "https://consensus.app/papers/details/db677dc4788f5bfcbb5c7766fd68b44a/",
+  "venue": "Journal of Learning Development in Higher Education",
+  "why": "Applies the Cynefin framework to learning design for climate action and decolonisation, and names constructive alignment itself as complicit in reducing complex problems to tidy predetermined outcomes.",
+  "wildcard": false
+}

@@ -1,0 +1,22 @@
+{
+  "authors": "Küçükuncular",
+  "caveat": "'Epistemic pollution' is borrowed metaphor; check it is defined rather than asserted.",
+  "date": "2026-09-23",
+  "doi": "10.1007/s44163-026-02318-5",
+  "kind": "paper",
+  "lang": "en",
+  "run": "2026-09-28",
+  "score": 4,
+  "source": "Crossref",
+  "status": "new",
+  "themes": [
+    "dec",
+    "ai",
+    "pc"
+  ],
+  "title": "Hallucination as epistemic pollution: epistemic injustice and credibility in futures-oriented science education",
+  "url": "https://doi.org/10.1007/s44163-026-02318-5",
+  "venue": "Discover Artificial Intelligence",
+  "why": "Frames AI error as a collective epistemic harm rather than an individual verification problem - a sharper way to argue why criticality is a shared capacity.",
+  "wildcard": false
+}

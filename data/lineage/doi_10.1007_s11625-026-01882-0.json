@@ -1,0 +1,1128 @@
+{
+  "absent": "Although it uses 'response-ability', decolonial authors (Santos, Mignolo) and PAR are absent; power is handled through psychology and organisation theory rather than political economy.",
+  "confidence": "medium",
+  "earliest": 1958,
+  "forYou": "Pereira et al. (2020) and Charli-Joseph et al. (2023) come from the same 'Pathways' network as Ely et al. (2020) in your project: a direct thread to your extraction-loss evidence.",
+  "itemId": "doi_10.1007_s11625-026-01882-0",
+  "median": 2018,
+  "method": "References from Crossref; strands and narrative by Claude, grounded only in the reference list and title.",
+  "narrative": [
+    "The unexpected root is psychotherapy: Berne's transactional analysis (1958) and Karpman's drama triangle (1968). The paper reads sustainability discourse as a drama of victims, rescuers and persecutors, and TD processes as prone to the same roles.",
+    "The way out comes from the relational turn: Haraway's 'Staying with the trouble' (2016), Barad (2007) and Bozalek's 'response-ability' in higher education (2023), joined to recent 'relational paradigm' work in sustainability science (Walsh; West).",
+    "It sits inside the mainstream TD canon (Lang 2012; Norström 2020; Lawrence 2022) and the inner-transformation strand (O'Brien; Woiwode; Wamsler). Pereira's transformative spaces and Charli-Joseph's Xochimilco work link it to the Pathways network in your project."
+  ],
+  "parsed": 131,
+  "refCount": 131,
+  "refs": [
+    {
+      "a": "Abizadeh",
+      "d": "10.1177/0032321721996941",
+      "j": "Political Studies",
+      "t": "The grammar of social power: power-to, power-with, power-despite and power-over",
+      "y": 2023
+    },
+    {
+      "a": "Abson",
+      "d": "",
+      "j": "Ambio",
+      "t": "Leverage points for sustainability transformation",
+      "y": 2017
+    },
+    {
+      "a": "Anđelković",
+      "d": "10.1080/01609513.2023.2228384",
+      "j": "Social Work with Groups",
+      "t": "Drama triangle roles-linking attachment and mentalization with internalizing and externalizing problems",
+      "y": 2024
+    },
+    {
+      "a": "Andersen",
+      "d": "10.1037/0033-295x.109.4.619",
+      "j": "Psychological Review",
+      "t": "The relational self: an interpersonal social-cognitive theory",
+      "y": 2002
+    },
+    {
+      "a": "Argyris",
+      "d": "",
+      "j": "Reflections",
+      "t": "Teaching smart people how to learn",
+      "y": 2002
+    },
+    {
+      "a": "Axelsson",
+      "d": "10.3390/su12176995",
+      "j": "Sustainability",
+      "t": "The challenge of transdisciplinary research: learning by evaluation for sustainable transport infrastructures",
+      "y": 2020
+    },
+    {
+      "a": "Barad",
+      "d": "10.1215/9780822388128",
+      "j": "",
+      "t": "Meeting the universe halfway: quantum physics and the entanglement of matter and meaning",
+      "y": 2007
+    },
+    {
+      "a": "Berger",
+      "d": "10.1093/jcr/ucab010",
+      "j": "Journal of Consumer Research",
+      "t": "What makes content engaging? How emotional dynamics shape success",
+      "y": 2021
+    },
+    {
+      "a": "Berne",
+      "d": "10.1176/appi.psychotherapy.1958.12.4.735",
+      "j": "American Journal of Psychotherapy",
+      "t": "Transactional analysis: a new and effective method of group therapy",
+      "y": 1958
+    },
+    {
+      "a": "Berry",
+      "d": "",
+      "j": "",
+      "t": "The outrage industry: political opinion media and the new incivility",
+      "y": 2013
+    },
+    {
+      "a": "Billett",
+      "d": "10.1007/s10584-009-9605-3",
+      "j": "Climatic Change",
+      "t": "Dividing climate change: global warming in the Indian mass media",
+      "y": 2010
+    },
+    {
+      "a": "Böhme",
+      "d": "10.1007/s11625-024-01510-9",
+      "j": "Sustainability Science",
+      "t": "Conducting sustainability research in the anthropocene: toward a relational approach",
+      "y": 2024
+    },
+    {
+      "a": "Boyce",
+      "d": "",
+      "j": "",
+      "t": "Climate change and the media",
+      "y": 2009
+    },
+    {
+      "a": "Boykoff",
+      "d": "",
+      "j": "",
+      "t": "Media coverage of climate change: current trends, strengths, weaknesses",
+      "y": 2007
+    },
+    {
+      "a": "Bozalek",
+      "d": "10.1007/978-3-031-34996-6_4",
+      "j": "",
+      "t": "Responsibility, privileged irresponsibility and response-ability: higher education, coloniality and ecological damage",
+      "y": 2023
+    },
+    {
+      "a": "Brady",
+      "d": "10.1073/pnas.1618923114",
+      "j": "PNAS",
+      "t": "Emotion shapes the diffusion of moralized content in social networks",
+      "y": 2017
+    },
+    {
+      "a": "Brandt",
+      "d": "10.1016/j.ecolecon.2013.04.008",
+      "j": "Ecological Economics",
+      "t": "A review of transdisciplinary research in sustainability science",
+      "y": 2013
+    },
+    {
+      "a": "Branny",
+      "d": "10.1007/s11625-024-01571-w",
+      "j": "Sustainability Science",
+      "t": "Introducing listening as a weak method for advancing sustainability and interdisciplinary scholarship",
+      "y": 2025
+    },
+    {
+      "a": "Broadbent",
+      "d": "10.1177/2378023116670660",
+      "j": "Socius",
+      "t": "Conflicting climate change frames in a global field of media discourse",
+      "y": 2016
+    },
+    {
+      "a": "Bruhn",
+      "d": "",
+      "j": "",
+      "t": "How personalities and participant interactions shape co-creative transdisciplinary processes",
+      "y": 2017
+    },
+    {
+      "a": "Bruhn",
+      "d": "10.3389/fpsyg.2021.676989",
+      "j": "Frontiers in Psychology",
+      "t": "How can transformative sustainability research benefit from integrating insights from psychology?",
+      "y": 2021
+    },
+    {
+      "a": "Bruhn",
+      "d": "",
+      "j": "",
+      "t": "Mehr sein, weniger brauchen: was Nachhaltigkeit mit unseren Beziehungen zu tun hat",
+      "y": 2021
+    },
+    {
+      "a": "Bruhn",
+      "d": "10.1007/978-3-031-60974-9_7",
+      "j": "",
+      "t": "Safe spaces in unsafe environments: experiences from COP26",
+      "y": 2024
+    },
+    {
+      "a": "Burgess",
+      "d": "10.1080/0261547052000325008",
+      "j": "Social Work Education",
+      "t": "A model for enhancing individual and organisational learning of emotional intelligence: the drama and winner's triangles",
+      "y": 2005
+    },
+    {
+      "a": "Cabello",
+      "d": "10.5751/ES-15662-290422",
+      "j": "Ecology and Society",
+      "t": "Tales on co-response-ability in times of environmental polarization",
+      "y": 2024
+    },
+    {
+      "a": "Caniglia",
+      "d": "10.1038/s41893-020-00616-z",
+      "j": "Nature Sustainability",
+      "t": "A pluralistic and integrated approach to action-oriented knowledge for sustainability",
+      "y": 2021
+    },
+    {
+      "a": "Chabay",
+      "d": "10.3390/su11205680",
+      "j": "Sustainability",
+      "t": "Influence of narratives of vision and identity on collective behavior change",
+      "y": 2019
+    },
+    {
+      "a": "Charli-Joseph",
+      "d": "10.1007/s11625-022-01224-w",
+      "j": "Sustainability Science",
+      "t": "Enabling collective agency for sustainability transformations through reframing in the Xochimilco social–ecological system",
+      "y": 2023
+    },
+    {
+      "a": "Chen",
+      "d": "10.1007/978-1-4419-7988-9_7",
+      "j": "",
+      "t": "The relational self",
+      "y": 2011
+    },
+    {
+      "a": "Choy",
+      "d": "",
+      "j": "Transactional Analysis Journal",
+      "t": "The winner's triangle",
+      "y": 1990
+    },
+    {
+      "a": "Clark",
+      "d": "",
+      "j": "Journal of Research Administration",
+      "t": "Escaping the drama triangle: strategies for successful research administration",
+      "y": 2020
+    },
+    {
+      "a": "Clarke",
+      "d": "10.4324/9780429477669",
+      "j": "",
+      "t": "Object relations and social relations: the implications of the relational turn in psychoanalysis",
+      "y": 2018
+    },
+    {
+      "a": "Cuomo",
+      "d": "10.1111/j.1527-2001.2011.01220.x",
+      "j": "Hypatia",
+      "t": "Climate change, vulnerability, and responsibility",
+      "y": 2011
+    },
+    {
+      "a": "Dagnet",
+      "d": "10.46830/wriib.20.00021",
+      "j": "",
+      "t": "A vision for a robust global stocktake",
+      "y": 2020
+    },
+    {
+      "a": "Dommnich",
+      "d": "10.1007/s11612-024-00772-2",
+      "j": "Gruppe. Interaktion. Organisation.",
+      "t": "On psychosocial group dynamics during multilateral conference negotiations: experiences from COP28",
+      "y": 2024
+    },
+    {
+      "a": "Edmondson",
+      "d": "10.2307/2666999",
+      "j": "Administrative Science Quarterly",
+      "t": "Psychological safety and learning behavior in work teams",
+      "y": 1999
+    },
+    {
+      "a": "Edmondson",
+      "d": "10.1146/annurev-orgpsych-031413-091305",
+      "j": "Annual Review of Organizational Psychology",
+      "t": "Psychological safety: the history, renaissance, and future of an interpersonal construct",
+      "y": 2014
+    },
+    {
+      "a": "Ellen Good",
+      "d": "10.22230/cjc.2008v33n2a2017",
+      "j": "Canadian Journal of Communication",
+      "t": "The framing of climate change in Canadian, American, and international newspapers",
+      "y": 2008
+    },
+    {
+      "a": "Emerald",
+      "d": "",
+      "j": "",
+      "t": "The power of TED: the empowerment dynamic",
+      "y": 2016
+    },
+    {
+      "a": "Fazey",
+      "d": "10.1016/j.erss.2017.11.026",
+      "j": "Energy Research & Social Science",
+      "t": "Ten essentials for action-oriented and second order energy transitions, transformations and climate change research",
+      "y": 2018
+    },
+    {
+      "a": "Fraude",
+      "d": "",
+      "j": "GAIA",
+      "t": "Creating space for reflection and dialogue: new modes of communication for empowering climate action",
+      "y": 2021
+    },
+    {
+      "a": "Frermann",
+      "d": "10.18653/v1/2023.acl-long.486",
+      "j": "",
+      "t": "Conflicts, villains, resolutions: towards models of narrative media framing",
+      "y": 2023
+    },
+    {
+      "a": "Fritz",
+      "d": "10.1186/s40309-020-0161-4",
+      "j": "European Journal of Futures Research",
+      "t": "Whose knowledge, whose values? An empirical analysis of power in transdisciplinary sustainability research",
+      "y": 2020
+    },
+    {
+      "a": "Füssel",
+      "d": "10.1016/j.gloenvcha.2010.07.009",
+      "j": "Global Environmental Change",
+      "t": "How inequitable is the global distribution of responsibility, capability, and vulnerability to climate change",
+      "y": 2010
+    },
+    {
+      "a": "Garai",
+      "d": "10.1016/j.crsust.2022.100130",
+      "j": "Current Research in Environmental Sustainability",
+      "t": "Climate change and cultural responses of indigenous people: a case from Bangladesh",
+      "y": 2022
+    },
+    {
+      "a": "GCF",
+      "d": "",
+      "j": "",
+      "t": "Decoding climate communication: stories to save the world",
+      "y": 2022
+    },
+    {
+      "a": "Gehring",
+      "d": "10.2139/ssrn.4456361",
+      "j": "",
+      "t": "Analyzing climate change policy narratives with the character-role narrative framework",
+      "y": 2023
+    },
+    {
+      "a": "Graham",
+      "d": "",
+      "j": "",
+      "t": "The triangle of victim, rescuer, persecutor: what it is and how to get out",
+      "y": 2017
+    },
+    {
+      "a": "Guenther",
+      "d": "10.1093/oso/9780197642238.001.0001",
+      "j": "",
+      "t": "The language of climate politics: fossil-fuel propaganda and how to fight it",
+      "y": 2024
+    },
+    {
+      "a": "Hakkarainen",
+      "d": "10.1007/s11625-025-01717-4",
+      "j": "Sustainability Science",
+      "t": "Entanglements of knowledge and action in sustainability science: reclaiming reflexivity to embrace the uncomfortable",
+      "y": 2025
+    },
+    {
+      "a": "Haraway",
+      "d": "",
+      "j": "Environmental Humanities",
+      "t": "Anthropocene, capitalocene, plantationocene, chthulucene: making kin",
+      "y": 2015
+    },
+    {
+      "a": "Haraway",
+      "d": "10.1215/9780822373780",
+      "j": "",
+      "t": "Staying with the trouble: making kin in the Chthulucene",
+      "y": 2016
+    },
+    {
+      "a": "Harris",
+      "d": "10.1080/00330124.2019.1686996",
+      "j": "Professional Geographer",
+      "t": "Telling stories about climate change",
+      "y": 2020
+    },
+    {
+      "a": "Hermwille",
+      "d": "10.1016/j.erss.2023.103263",
+      "j": "Energy Research & Social Science",
+      "t": "Of hopeful narratives and historical injustices: just transition narratives in European coal regions",
+      "y": 2023
+    },
+    {
+      "a": "Hirsch Hadorn",
+      "d": "10.1016/j.ecolecon.2005.12.002",
+      "j": "Ecological Economics",
+      "t": "Implications of transdisciplinarity for sustainability research",
+      "y": 2006
+    },
+    {
+      "a": "Horcea-Milcu",
+      "d": "10.1017/sus.2024.12",
+      "j": "Global Sustainability",
+      "t": "Transformative research for sustainability: characteristics, tensions, and moving forward",
+      "y": 2024
+    },
+    {
+      "a": "Hulme",
+      "d": "10.1111/j.1475-4959.2008.00266.x",
+      "j": "Geographical Journal",
+      "t": "The conquering of climate: discourses of fear and their dissolution",
+      "y": 2008
+    },
+    {
+      "a": "Hulme",
+      "d": "10.1017/CBO9780511841200",
+      "j": "",
+      "t": "Why we disagree about climate change: understanding controversy, inaction and opportunity",
+      "y": 2009
+    },
+    {
+      "a": "Ilya",
+      "d": "",
+      "j": "",
+      "t": "Beyond the drama triangle: the overcoming self",
+      "y": 2015
+    },
+    {
+      "a": "IPBES",
+      "d": "",
+      "j": "",
+      "t": "Assessment report on the underlying causes of biodiversity loss and the determinants of transformative change",
+      "y": 2024
+    },
+    {
+      "a": "Ives",
+      "d": "10.1007/s11625-023-01368-3",
+      "j": "Sustainability Science",
+      "t": "IMAGINE sustainability: integrated inner-outer transformation in research, education and practice",
+      "y": 2023
+    },
+    {
+      "a": "Jacobson",
+      "d": "10.1017/9781009249553",
+      "j": "",
+      "t": "No miracles needed: how today's technology can save our climate and clean our air",
+      "y": 2023
+    },
+    {
+      "a": "Jasanoff",
+      "d": "",
+      "j": "Theory, Culture & Society",
+      "t": "A new climate for society",
+      "y": 2010
+    },
+    {
+      "a": "Juri",
+      "d": "10.3389/fsufs.2022.887034",
+      "j": "Frontiers in Sustainable Food Systems",
+      "t": "Food systems transformations in South America: a transdisciplinary process rooted in Uruguay",
+      "y": 2022
+    },
+    {
+      "a": "Kahan",
+      "d": "10.1038/nclimate1547",
+      "j": "Nature Climate Change",
+      "t": "The polarizing impact of science literacy and numeracy on perceived climate change risks",
+      "y": 2012
+    },
+    {
+      "a": "Karpman",
+      "d": "",
+      "j": "Transactional Analysis Bulletin",
+      "t": "Fairy tales and script drama analysis",
+      "y": 1968
+    },
+    {
+      "a": "Karpman",
+      "d": "",
+      "j": "",
+      "t": "A game free life: the drama triangle and the compassion triangle",
+      "y": 2014
+    },
+    {
+      "a": "Klein",
+      "d": "10.3390/su12041515",
+      "j": "Sustainability",
+      "t": "Sustainability and collaboration: crossdisciplinary and cross-sector horizons",
+      "y": 2020
+    },
+    {
+      "a": "Korotov",
+      "d": "10.1057/9780230362963_3",
+      "j": "",
+      "t": "The rescuer syndrome",
+      "y": 2012
+    },
+    {
+      "a": "Kubin",
+      "d": "",
+      "j": "Annals of the International Communication Association",
+      "t": "The role of (social) media in political polarization: a systematic review",
+      "y": 2021
+    },
+    {
+      "a": "L'Abate",
+      "d": "10.1080/01926180701870163",
+      "j": "American Journal of Family Therapy",
+      "t": "The drama triangle: an attempt to resurrect a neglected pathogenic model in family therapy",
+      "y": 2009
+    },
+    {
+      "a": "Lampis",
+      "d": "10.1007/s10591-017-9403-4",
+      "j": "Contemporary Family Therapy",
+      "t": "The role of differentiation of self and dyadic adjustment in predicting codependency",
+      "y": 2017
+    },
+    {
+      "a": "Lang",
+      "d": "10.1007/s11625-011-0149-x",
+      "j": "Sustainability Science",
+      "t": "Transdisciplinary research in sustainability science: practice, principles, and challenges",
+      "y": 2012
+    },
+    {
+      "a": "Lang",
+      "d": "10.1007/s11625-017-0497-2",
+      "j": "Sustainability Science",
+      "t": "Bridging divides in sustainability science",
+      "y": 2017
+    },
+    {
+      "a": "Larigauderie",
+      "d": "10.1371/journal.pbio.3003387",
+      "j": "PLoS Biology",
+      "t": "Transformative change to address biodiversity loss is urgent and possible",
+      "y": 2025
+    },
+    {
+      "a": "Lawrence",
+      "d": "10.1016/j.oneear.2021.12.010",
+      "j": "One Earth",
+      "t": "Characteristics, potentials, and challenges of transdisciplinary research",
+      "y": 2022
+    },
+    {
+      "a": "Lempinen",
+      "d": "10.1080/14693062.2025.2460665",
+      "j": "Climate Policy",
+      "t": "Unions, fossil fuel workers, and the energy transition",
+      "y": 2025
+    },
+    {
+      "a": "Lindley",
+      "d": "",
+      "j": "Journal of Clinical Psychology",
+      "t": "Codependency: predictors and psychometric issues",
+      "y": 1999
+    },
+    {
+      "a": "Liras",
+      "d": "",
+      "j": "Clinica",
+      "t": "How to break free of the drama triangle and victim consciousness",
+      "y": 2015
+    },
+    {
+      "a": "Mar",
+      "d": "",
+      "j": "",
+      "t": "Fostering reflection, dialogue and collaboration among actors at the UN Climate Change Conferences",
+      "y": 2021
+    },
+    {
+      "a": "Mar",
+      "d": "10.1002/wcc.832",
+      "j": "WIREs Climate Change",
+      "t": "Learning and community building in support of collective action: toward a new climate of communication at the COP",
+      "y": 2023
+    },
+    {
+      "a": "McGregor",
+      "d": "",
+      "j": "",
+      "t": "Challenges of transdisciplinary collaboration: a conceptual literature review",
+      "y": 2017
+    },
+    {
+      "a": "McMahon",
+      "d": "",
+      "j": "",
+      "t": "The drama triangle",
+      "y": 2005
+    },
+    {
+      "a": "Molek-Kozakowska",
+      "d": "10.1177/1750481312471668",
+      "j": "Discourse & Communication",
+      "t": "Towards a pragma-linguistic framework for the study of sensationalism in news headlines",
+      "y": 2013
+    },
+    {
+      "a": "Morris",
+      "d": "10.1007/s10584-019-02425-6",
+      "j": "Climatic Change",
+      "t": "Stories vs. facts: triggering emotion and action-taking on climate change",
+      "y": 2019
+    },
+    {
+      "a": "Mousoulidou",
+      "d": "10.3390/ejihpe14060109",
+      "j": "European Journal of Investigation in Health, Psychology and Education",
+      "t": "Social media news headlines and their influence on well-being",
+      "y": 2024
+    },
+    {
+      "a": "Noor",
+      "d": "",
+      "j": "",
+      "t": "Big oil privately acknowledged efforts to downplay climate crisis, joint committee investigation finds",
+      "y": 2024
+    },
+    {
+      "a": "Norström",
+      "d": "10.1038/s41893-019-0448-2",
+      "j": "Nature Sustainability",
+      "t": "Principles for knowledge co-production in sustainability research",
+      "y": 2020
+    },
+    {
+      "a": "NRC",
+      "d": "",
+      "j": "",
+      "t": "Roadblocks and bridges to transdisciplinary research",
+      "y": 2013
+    },
+    {
+      "a": "O'Brien",
+      "d": "10.1016/j.cosust.2018.04.010",
+      "j": "Current Opinion in Environmental Sustainability",
+      "t": "Is the 1.5°C target possible? Exploring the three spheres of transformation",
+      "y": 2018
+    },
+    {
+      "a": "Obergassel",
+      "d": "",
+      "j": "",
+      "t": "Success factors for the global stocktake under the Paris Agreement",
+      "y": 2019
+    },
+    {
+      "a": "Olausson",
+      "d": "10.1080/17524032.2011.585026",
+      "j": "Environmental Communication",
+      "t": "\"We're the ones to blame\": citizens' representations of climate change and the role of the media",
+      "y": 2011
+    },
+    {
+      "a": "Padmanabhan",
+      "d": "10.4324/9781315441481",
+      "j": "",
+      "t": "Transdisciplinary research and sustainability",
+      "y": 2017
+    },
+    {
+      "a": "Pansardi",
+      "d": "10.4324/9781003200673-4",
+      "j": "",
+      "t": "The new concepts of power? Power-over, power-to and power-with",
+      "y": 2021
+    },
+    {
+      "a": "Partzsch",
+      "d": "10.1080/09644016.2016.1256961",
+      "j": "Environmental Politics",
+      "t": "'Power with' and 'power to' in environmental politics and the transition to sustainability",
+      "y": 2017
+    },
+    {
+      "a": "Pearce",
+      "d": "10.1002/wcc.366",
+      "j": "WIREs Climate Change",
+      "t": "Communicating climate change: conduits, content, and consensus",
+      "y": 2015
+    },
+    {
+      "a": "Pereira",
+      "d": "10.3390/ijerph120606027",
+      "j": "Int. J. Environmental Research and Public Health",
+      "t": "Organising a safe space for navigating social-ecological transformations to sustainability",
+      "y": 2015
+    },
+    {
+      "a": "Pereira",
+      "d": "10.2307/26796848",
+      "j": "Ecology and Society",
+      "t": "Designing transformative spaces for sustainability in social-ecological systems",
+      "y": 2018
+    },
+    {
+      "a": "Pereira",
+      "d": "10.1007/s11625-019-00749-x",
+      "j": "Sustainability Science",
+      "t": "Transformative spaces in the making: key lessons from nine cases in the Global South",
+      "y": 2020
+    },
+    {
+      "a": "Pohl",
+      "d": "",
+      "j": "Sozialwissenschaften und Berufspraxis",
+      "t": "Gestaltung transdisziplinärer Forschung",
+      "y": 2008
+    },
+    {
+      "a": "Popa",
+      "d": "10.1016/j.futures.2014.02.002",
+      "j": "Futures",
+      "t": "A pragmatist approach to transdisciplinarity in sustainability research: from complex systems theory to reflexive science",
+      "y": 2015
+    },
+    {
+      "a": "Power",
+      "d": "",
+      "j": "",
+      "t": "The audit society: rituals of verification",
+      "y": 1997
+    },
+    {
+      "a": "Rauschmayer",
+      "d": "",
+      "j": "",
+      "t": "The transition to sustainability as interbeing... or: from oncology to ontology",
+      "y": 2019
+    },
+    {
+      "a": "Reed",
+      "d": "10.1002/pan3.10496",
+      "j": "People and Nature",
+      "t": "Guiding principles for transdisciplinary sustainability research and practice",
+      "y": 2023
+    },
+    {
+      "a": "Reynolds",
+      "d": "10.1177/20530196221095569",
+      "j": "Anthropocene Review",
+      "t": "Communication of solar geoengineering science",
+      "y": 2023
+    },
+    {
+      "a": "Roberts",
+      "d": "10.1177/0020715209105147",
+      "j": "International Journal of Comparative Sociology",
+      "t": "Ecologically unequal exchange, ecological debt, and climate justice",
+      "y": 2009
+    },
+    {
+      "a": "Rocha",
+      "d": "",
+      "j": "",
+      "t": "Historical responsibility for climate change",
+      "y": 2015
+    },
+    {
+      "a": "Sachs",
+      "d": "10.1017/9781009210058",
+      "j": "",
+      "t": "Sustainable development report 2022",
+      "y": 2022
+    },
+    {
+      "a": "Schein",
+      "d": "10.1016/0090-2616(93)90052-3",
+      "j": "Organizational Dynamics",
+      "t": "On dialogue, culture, and organizational learning",
+      "y": 1993
+    },
+    {
+      "a": "Schein",
+      "d": "10.4324/9781351286046",
+      "j": "",
+      "t": "A new psychology for sustainability leadership: the hidden power of ecological worldviews",
+      "y": 2017
+    },
+    {
+      "a": "Schneider",
+      "d": "10.1016/j.envsci.2019.08.017",
+      "j": "Environmental Science & Policy",
+      "t": "Transdisciplinary co-production of knowledge and sustainability transformations: three generic mechanisms of impact generation",
+      "y": 2019
+    },
+    {
+      "a": "Schön",
+      "d": "",
+      "j": "",
+      "t": "The reflective practitioner: how professionals think in action",
+      "y": 1992
+    },
+    {
+      "a": "Seiferth",
+      "d": "10.1002/pan3.70116",
+      "j": "People and Nature",
+      "t": "The role of relational learning in knowledge co-production",
+      "y": 2025
+    },
+    {
+      "a": "Shreedhar",
+      "d": "10.1111/cobi.14015",
+      "j": "Conservation Biology",
+      "t": "Experimental evidence of the impact of framing of actors and victims in conservation narratives",
+      "y": 2022
+    },
+    {
+      "a": "Simon",
+      "d": "10.1177/0956247818787177",
+      "j": "Environment & Urbanization",
+      "t": "The challenges of transdisciplinary knowledge production: from unilocal to comparative research",
+      "y": 2018
+    },
+    {
+      "a": "Solomon",
+      "d": "",
+      "j": "Transactional Analysis Journal",
+      "t": "Transactional analysis theory: the basics",
+      "y": 2003
+    },
+    {
+      "a": "Supran",
+      "d": "10.1016/j.oneear.2021.04.014",
+      "j": "One Earth",
+      "t": "Rhetoric and frame analysis of ExxonMobil's climate change communications",
+      "y": 2021
+    },
+    {
+      "a": "UN",
+      "d": "",
+      "j": "",
+      "t": "Global sustainable development report 2023",
+      "y": 2023
+    },
+    {
+      "a": "Vogel",
+      "d": "10.1007/s11625-021-01016-8",
+      "j": "Sustainability Science",
+      "t": "Getting to the heart of transformation",
+      "y": 2022
+    },
+    {
+      "a": "Walsh",
+      "d": "10.1007/s13280-020-01322-y",
+      "j": "Ambio",
+      "t": "Towards a relational paradigm in sustainability research, practice, and education",
+      "y": 2020
+    },
+    {
+      "a": "Wamsler",
+      "d": "10.1016/j.envsci.2020.06.005",
+      "j": "Environmental Science & Policy",
+      "t": "Enabling new mindsets and transformative skills for negotiating and activating climate action",
+      "y": 2020
+    },
+    {
+      "a": "Wamsler",
+      "d": "",
+      "j": "Climatic Change",
+      "t": "At the intersection of mind and climate change: integrating inner dimensions of climate change into policymaking and practice",
+      "y": 2022
+    },
+    {
+      "a": "Warlenius",
+      "d": "10.1016/j.gloenvcha.2014.10.014",
+      "j": "Global Environmental Change",
+      "t": "Reversing the arrow of arrears: the concept of ecological debt and its value for environmental justice",
+      "y": 2015
+    },
+    {
+      "a": "West",
+      "d": "",
+      "j": "",
+      "t": "The Karpman drama triangle explained",
+      "y": 2020
+    },
+    {
+      "a": "West",
+      "d": "10.1080/26395916.2020.1814417",
+      "j": "Ecosystems and People",
+      "t": "A relational turn for sustainability science? Relational thinking, leverage points and transformations",
+      "y": 2020
+    },
+    {
+      "a": "Wiek",
+      "d": "",
+      "j": "GAIA",
+      "t": "Challenges of transdisciplinary research as interactive knowledge generation",
+      "y": 2007
+    },
+    {
+      "a": "Wiek",
+      "d": "10.1093/reseval/rvt031",
+      "j": "Research Evaluation",
+      "t": "Toward a methodological scheme for capturing societal effects of participatory sustainability research",
+      "y": 2014
+    },
+    {
+      "a": "Woiwode",
+      "d": "10.1007/s11625-020-00882-y",
+      "j": "Sustainability Science",
+      "t": "Inner transformation to sustainability as a deep leverage point",
+      "y": 2021
+    },
+    {
+      "a": "Worland",
+      "d": "",
+      "j": "",
+      "t": "ExxonMobil wants you to take responsibility for climate change, study says",
+      "y": 2021
+    },
+    {
+      "a": "Xu",
+      "d": "10.1016/j.im.2024.104031",
+      "j": "Information & Management",
+      "t": "Examining how emotions affect online audience retention",
+      "y": 2024
+    },
+    {
+      "a": "Zürn",
+      "d": "10.1111/gpol.12004",
+      "j": "Global Policy",
+      "t": "The paradox of climate engineering",
+      "y": 2013
+    }
+  ],
+  "source": "Crossref reference list (reference text read automatically; spot-check spellings)",
+  "strands": [
+    {
+      "kind": "root",
+      "name": "Transactional analysis: the drama triangle",
+      "note": "The paper's surprising root: Berne's transactional analysis (1958) and Karpman's drama triangle (1968) of victim, rescuer and persecutor.",
+      "refs": [
+        8,
+        65,
+        29,
+        77,
+        115,
+        82,
+        23,
+        70,
+        68,
+        66,
+        58,
+        78,
+        38,
+        47,
+        71,
+        30,
+        123,
+        124,
+        2
+      ]
+    },
+    {
+      "kind": "frame",
+      "name": "Relational turn and response-ability",
+      "note": "Haraway, Barad and the relational paradigm in sustainability science.",
+      "refs": [
+        3,
+        6,
+        28,
+        50,
+        51,
+        31,
+        102,
+        119,
+        123,
+        124,
+        14,
+        11,
+        24,
+        112
+      ]
+    },
+    {
+      "kind": "method",
+      "name": "Transdisciplinary sustainability science",
+      "note": "The mainstream TD canon.",
+      "refs": [
+        54,
+        125,
+        99,
+        72,
+        16,
+        88,
+        126,
+        100,
+        73,
+        81,
+        92,
+        114,
+        110,
+        5,
+        67,
+        87,
+        25,
+        75,
+        63,
+        103,
+        55,
+        49,
+        17
+      ]
+    },
+    {
+      "kind": "frame",
+      "name": "Inner transformation and transformative spaces",
+      "note": "Leverage points, inner dimensions and safe spaces for transformation.",
+      "refs": [
+        96,
+        1,
+        109,
+        19,
+        89,
+        39,
+        97,
+        26,
+        120,
+        98,
+        127,
+        20,
+        21,
+        118,
+        121,
+        60,
+        27,
+        22
+      ]
+    },
+    {
+      "kind": "frame",
+      "name": "Power and organisational learning",
+      "note": "Power-to/power-with and psychological safety.",
+      "refs": [
+        111,
+        108,
+        101,
+        35,
+        4,
+        36,
+        94,
+        42,
+        93,
+        0
+      ]
+    },
+    {
+      "kind": "context",
+      "name": "Climate narratives, media and polarisation",
+      "note": "The 'drama' of climate discourse the paper diagnoses.",
+      "refs": [
+        13,
+        56,
+        37,
+        57,
+        12,
+        10,
+        62,
+        91,
+        64,
+        9,
+        83,
+        95,
+        18,
+        15,
+        84,
+        52,
+        69,
+        116,
+        113,
+        41,
+        46,
+        53
+      ]
+    },
+    {
+      "kind": "debate",
+      "name": "Climate justice and responsibility",
+      "note": "Historical responsibility and ecological debt.",
+      "refs": [
+        105,
+        43,
+        32,
+        122,
+        106
+      ]
+    },
+    {
+      "kind": "context",
+      "name": "Other / case context",
+      "note": "Empirical, regional or topical sources not assigned to a strand.",
+      "refs": [
+        130,
+        90,
+        33,
+        7,
+        40,
+        79,
+        128,
+        44,
+        45,
+        107,
+        61,
+        80,
+        104,
+        117,
+        34,
+        48,
+        59,
+        85,
+        86,
+        129,
+        74,
+        76
+      ]
+    }
+  ],
+  "tracedAt": "2026-09-19"
+}

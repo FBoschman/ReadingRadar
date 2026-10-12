@@ -1,0 +1,21 @@
+{
+  "authors": "Davis, Heyd-Metzuyanim",
+  "caveat": "Written for maths education; check how much of the nesting logic survives translation to multi-stakeholder settings.",
+  "date": "2026-09-24",
+  "doi": "10.1007/s10649-026-10553-x",
+  "kind": "paper",
+  "lang": "en",
+  "ratedAt": "2026-10-12T08:09:22.658Z",
+  "run": "2026-09-28",
+  "score": 5,
+  "source": "Crossref",
+  "status": "skip",
+  "themes": [
+    "cx"
+  ],
+  "title": "Nested syntheses: a complexity-informed approach to incommensurability in mathematics education",
+  "url": "https://doi.org/10.1007/s10649-026-10553-x",
+  "venue": "Educational Studies in Mathematics",
+  "why": "Brent Davis on holding incommensurate theories together without collapsing them into one - a working answer to the problem 'Substrate Matters' poses about enabling constraints across knowledge traditions.",
+  "wildcard": false
+}

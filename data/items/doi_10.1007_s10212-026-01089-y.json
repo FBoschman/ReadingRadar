@@ -1,0 +1,21 @@
+{
+  "authors": "Cong-Lem, Thuy-Dung",
+  "caveat": "Published 24 March 2026, outside the window. A scoping review, so the effect claims belong to the primary studies and the 'AI-specific' definitions of critical thinking are the authors' reading of them.",
+  "date": "2026-03-24",
+  "doi": "10.1007/s10212-026-01089-y",
+  "kind": "paper",
+  "lang": "en",
+  "run": "2026-10-12",
+  "score": 4,
+  "source": "Web search + publisher page",
+  "status": "new",
+  "themes": [
+    "ai",
+    "pc"
+  ],
+  "title": "Towards a framework for understanding and assessing critical thinking in generative AI-enhanced learning environments: a scoping review",
+  "url": "https://doi.org/10.1007/s10212-026-01089-y",
+  "venue": "European Journal of Psychology of Education",
+  "why": "Twenty-nine empirical studies on how critical thinking is being redefined around generative AI, with verification, justification and self-regulated use as the design levers. This is the literature your Professional Criticality papers argue with.",
+  "wildcard": false
+}

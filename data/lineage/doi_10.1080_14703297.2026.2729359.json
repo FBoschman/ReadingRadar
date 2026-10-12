@@ -1,0 +1,168 @@
+{
+  "absent": "No critical AI scholarship (no Bender, Crawford or epistemic-injustice work), no philosophy of technology behind the 'epistemic agent' claim, and no connectivism critics beyond Kop & Hill.",
+  "confidence": "low",
+  "forYou": "The pre-AI layer is the interesting part for Professional Criticality: strip the model out and stages 1, 2 and 4 are inquiry, source criticism and knowledge circulation. Bovill's co-creation is also the bridge to your participatory work.",
+  "itemId": "doi_10.1080_14703297.2026.2729359",
+  "median": 2021,
+  "method": "References read from the article; strands and narrative by Claude, grounded only in those citations.",
+  "narrative": [
+    "The root is Siemens (2005): learning as forming and traversing connections, with knowledge residing partly in non-human nodes. Kop and Hill (2008) appear as the early assessment of that claim.",
+    "Around it sits a pre-AI pedagogy layer — student-generated questions (Chin & Brown 2002; Aflalo 2021), critical reflection (Mezirow 1998; Ash & Clayton 2009; Helyer 2015) and simulation-based training (Bell et al. 2008). The four stages are largely this tradition, re-sequenced around a model.",
+    "The co-creation vocabulary comes from Bovill (2016, 2020), whose concern is redistributing power between students and staff. The rest of the citations are 2023-2026 AI-in-education papers, including Draxler et al. (2024) on AI ghostwriting, which anchors the epistemic-ownership avenue."
+  ],
+  "parsed": 14,
+  "refCount": 80,
+  "refs": [
+    {
+      "a": "Chin",
+      "d": "",
+      "j": "",
+      "t": "Student-generated questions",
+      "y": 2002
+    },
+    {
+      "a": "Siemens",
+      "d": "",
+      "j": "",
+      "t": "Connectivism: A learning theory for the digital age",
+      "y": 2005
+    },
+    {
+      "a": "Mezirow",
+      "d": "",
+      "j": "Adult Education Quarterly",
+      "t": "On critical reflection",
+      "y": 1998
+    },
+    {
+      "a": "Fredricks",
+      "d": "",
+      "j": "Review of Educational Research",
+      "t": "School engagement: Potential of the concept, state of the evidence",
+      "y": 2004
+    },
+    {
+      "a": "Bell",
+      "d": "10.1080/09585190802200173",
+      "j": "Int. J. of HRM",
+      "t": "Current issues and future directions in simulation-based training",
+      "y": 2008
+    },
+    {
+      "a": "Kop",
+      "d": "",
+      "j": "IRRODL",
+      "t": "Connectivism: Learning theory of the future or vestige of the past?",
+      "y": 2008
+    },
+    {
+      "a": "Ash",
+      "d": "10.57186/jalhe_2009_v1a2p25-48",
+      "j": "J. of Applied Learning in HE",
+      "t": "Generating, deepening, and documenting learning: critical reflection in applied learning",
+      "y": 2009
+    },
+    {
+      "a": "Dawson",
+      "d": "",
+      "j": "",
+      "t": "Problem-based learning in hospitality education",
+      "y": 2012
+    },
+    {
+      "a": "Helyer",
+      "d": "",
+      "j": "J. of Work-Applied Management",
+      "t": "Learning through reflection",
+      "y": 2015
+    },
+    {
+      "a": "Bovill",
+      "d": "10.1007/s10734-015-9896-4",
+      "j": "Higher Education",
+      "t": "Addressing potential challenges in co-creating learning and teaching",
+      "y": 2016
+    },
+    {
+      "a": "Bovill",
+      "d": "10.1007/s10734-019-00453-w",
+      "j": "Higher Education",
+      "t": "Co-creation in learning and teaching: the case for a whole-class approach",
+      "y": 2020
+    },
+    {
+      "a": "Aflalo",
+      "d": "10.1177/1469787418769120",
+      "j": "Active Learning in Higher Education",
+      "t": "Students generating questions as a way of learning",
+      "y": 2021
+    },
+    {
+      "a": "Borge",
+      "d": "10.1007/s11412-024-09437-0",
+      "j": "ijCSCL",
+      "t": "Using generative AI as a simulation to support higher-order thinking",
+      "y": 2024
+    },
+    {
+      "a": "Draxler",
+      "d": "",
+      "j": "",
+      "t": "The AI Ghostwriter Effect",
+      "y": 2024
+    }
+  ],
+  "source": "Works cited in the body text and the start of the reference list, read from the PDF",
+  "strands": [
+    {
+      "kind": "root",
+      "name": "Connectivism",
+      "note": "Siemens' theory and Kop & Hill's early assessment of it: the base the paper extends.",
+      "refs": [
+        1,
+        5
+      ]
+    },
+    {
+      "kind": "frame",
+      "name": "Questioning, reflection and experiential learning",
+      "note": "The pre-AI pedagogy the stages rest on: student-generated questions, critical reflection, simulation.",
+      "refs": [
+        0,
+        2,
+        6,
+        8,
+        4,
+        7,
+        11
+      ]
+    },
+    {
+      "kind": "frame",
+      "name": "Co-creation in higher education",
+      "note": "Bovill's student-staff co-creation, borrowed as vocabulary for student-GenAI work.",
+      "refs": [
+        9,
+        10
+      ]
+    },
+    {
+      "kind": "context",
+      "name": "Engagement",
+      "note": "Fredricks' cognitive-affective-behavioural model, used for research avenue 1.",
+      "refs": [
+        3
+      ]
+    },
+    {
+      "kind": "debate",
+      "name": "GenAI in education (2024-2026)",
+      "note": "The fast-moving recent literature on simulation, hallucination and authorship that supplies most citations.",
+      "refs": [
+        12,
+        13
+      ]
+    }
+  ],
+  "tracedAt": "2026-09-28"
+}

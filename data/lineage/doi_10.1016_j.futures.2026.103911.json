@@ -1,0 +1,698 @@
+{
+  "absent": "Almost entirely European, and almost entirely white political theory: no Fals Borda or Latin American PAR, no Santos or ecology of knowledges, no Tsing or Juarrero. Conde (2022) on unsettling coloniality is the single decolonial entry in 79 references, so agonism arrives here as Mouffe's argument rather than as a conversation with Southern traditions that theorised conflict in participation first.",
+  "confidence": "medium",
+  "forYou": "This is the clearest available answer to the problem your ecosystems work keeps hitting: what to do when stakeholders genuinely disagree and consensus methods paper over it. The reflexive-evaluation apparatus (Regeer, Van Mierlo, Verwoerd) is Dutch, close to home, and directly transferable to how you evaluate the CDC Urban Innovation course and Digital Twin Flevoland - and agonism is a sharper tool than 'enabling constraints' for the conflict half of 'Substrate Matters'.",
+  "itemId": "doi_10.1016_j.futures.2026.103911",
+  "median": 2020,
+  "method": "References from Crossref; strands and narrative by Claude, grounded only in the reference list and title.",
+  "narrative": "The oldest root is unglamorous: Parks (1981) on citizens as co-producers of public services, picked up by Verschuere (2012) and Bryson (2017). Alongside it runs the sustainability-science line from Cash (2003) through Bremer (2017), Lemos (2018), Miller (2020) and Norstrom (2020), which by Chambers (2021, 2022) had hardened into principles and modes. Durose (2022) and Verwoerd (2023) mark the point where that literature starts asking whether co-production is a good concept at all.\n\nThe critical counter-current is just as long. Cooke (2003) on participation as the new tyranny, Klenk (2015) on the integration imperative, Jordan (2016) on neoliberalism in PAR, Delvenne (2020), Turnhout (2020), Carr (2021) on institutional ceremonies and Struminska-Kutra (2022) on taking power seriously all say the same thing in different registers: participation can absorb dissent rather than act on it. The paper's answer is Mouffe (2000, 2013). Agonistic pluralism is recent in this field - Koutsouris (2022) brought it to education, Chivers (2025) and Popa (2025) to policy and technology governance - so the paper is working a thin and current seam.\n\nUnderneath both sits a specifically Dutch methodological apparatus: reflexive monitoring in action (Van Mierlo, 2010), dynamic learning agendas (van Veen, 2014) and the Natuurpact reflexive evaluations (Verwoerd, 2019, 2020, 2021; Brouwers, 2022), with Regeer (2011, 2024) framing transdisciplinarity for transformation. Zuiderent-Jerak's own STS lineage - Jasanoff (1996), Callon (2005), situated intervention (2015), Laurent (2016), Lezaun (2017) - supplies the idea that the evaluator is inside the experiment, not outside judging it.",
+  "parsed": 79,
+  "refCount": 79,
+  "refs": [
+    {
+      "a": "Arkesteijn",
+      "d": "10.1177/1356389014564719",
+      "j": "Evaluation: The International Journal of Theory, Research and Practice",
+      "t": "The need for reflexive evaluation approaches in development cooperation",
+      "y": 2015
+    },
+    {
+      "a": "Asayama",
+      "d": "10.1177/2053019619843678",
+      "j": "Anthropocene Review",
+      "t": "Beyond solutionist science for the Anthropocene: To navigate the contentious atmosphere of solar geoengineering",
+      "y": 2019
+    },
+    {
+      "a": "Bremer",
+      "d": "10.1002/wcc.482",
+      "j": "WIREs Climate Change",
+      "t": "Co-production in climate change research: Reviewing different perspectives",
+      "y": 2017
+    },
+    {
+      "a": "Brouwers",
+      "d": "10.1016/j.envsci.2022.07.033",
+      "j": "Environmental Science & Policy",
+      "t": "Accommodating coexisting impact rationales in knowledge co-production: The case of the Natuurpact reflexive evaluation",
+      "y": 2022
+    },
+    {
+      "a": "Bryson",
+      "d": "10.1080/14719037.2016.1192164",
+      "j": "Public Management Review",
+      "t": "Towards a multi-actor theory of public value co-creation",
+      "y": 2017
+    },
+    {
+      "a": "Callon",
+      "d": "10.1177/0170840605056393",
+      "j": "Organization Studies",
+      "t": "Economic markets as calculative collective devices",
+      "y": 2005
+    },
+    {
+      "a": "Candy",
+      "d": "",
+      "j": "Journal of Futures Studies",
+      "t": "Open space for futures: A brief introduction",
+      "y": 2005
+    },
+    {
+      "a": "Carr",
+      "d": "",
+      "j": "The Routledge international handbook of mad studies",
+      "t": "Institutional ceremonies?: The (im) possibilities of transformative co-production in mental health",
+      "y": 2021
+    },
+    {
+      "a": "Cash",
+      "d": "10.1073/pnas.1231332100",
+      "j": "Proceedings of the National Academy of Sciences",
+      "t": "Knowledge systems for sustainable development",
+      "y": 2003
+    },
+    {
+      "a": "Chambers",
+      "d": "",
+      "j": "Ctheory",
+      "t": "Language and politics: Agonistic discourse in the west wing",
+      "y": 2001
+    },
+    {
+      "a": "Chambers",
+      "d": "10.1016/j.gloenvcha.2021.102422",
+      "j": "Global Environmental Change",
+      "t": "Co-productive agility and four collaborative pathways to sustainability transformations",
+      "y": 2022
+    },
+    {
+      "a": "Chambers",
+      "d": "10.1038/s41893-021-00755-x",
+      "j": "Nature Sustainability",
+      "t": "Six modes of co-production for sustainability",
+      "y": 2021
+    },
+    {
+      "a": "Chivers",
+      "d": "10.1007/s13280-025-02158-0",
+      "j": "Ambio",
+      "t": "Agonistic pluralism for enhancing the co-design of agri-environmental policy",
+      "y": 2025
+    },
+    {
+      "a": "Cin",
+      "d": "10.1080/13645579.2024.2411703",
+      "j": "International Journal of Social Research Methodology",
+      "t": "The politics of co-production and inclusive deliberation in participatory research",
+      "y": 2025
+    },
+    {
+      "a": "Conde",
+      "d": "10.17351/ests2022.479",
+      "j": "",
+      "t": "Knowledge co-production in scientific and activist alliances: Unsettling coloniality",
+      "y": 2022
+    },
+    {
+      "a": "Cooke",
+      "d": "",
+      "j": "",
+      "t": "Participation: The new tyranny",
+      "y": 2003
+    },
+    {
+      "a": "Cornish",
+      "d": "10.1038/s43586-023-00214-1",
+      "j": "Nature Reviews Methods Primers",
+      "t": "Participatory action research",
+      "y": 2023
+    },
+    {
+      "a": "Cronin",
+      "d": "",
+      "j": "",
+      "t": "Moving forward together? Exploring the functioning and politics of Knowledge and Innovation co-production partnerships in the European agri-food systems",
+      "y": 2022
+    },
+    {
+      "a": "Dedding",
+      "d": "10.1080/09650792.2020.1743733",
+      "j": "Educational Action Research",
+      "t": "Exploring the boundaries of 'good' participatory action research in times of increasing popularity: dealing with constraints in local policy for digital inclusion",
+      "y": 2021
+    },
+    {
+      "a": "Delvenne",
+      "d": "10.1080/09505431.2019.1668369",
+      "j": "Science as Culture",
+      "t": "Breaking bad with the participatory turn? Accelerating time and intensifying value in participatory experiments",
+      "y": 2020
+    },
+    {
+      "a": "Durose",
+      "d": "10.1016/j.futures.2022.102999",
+      "j": "Futures",
+      "t": "Is co-production a 'good' concept? Three responses",
+      "y": 2022
+    },
+    {
+      "a": "Earl",
+      "d": "",
+      "j": "",
+      "t": "Outcome mapping: Building learning and reflection into development programs",
+      "y": 2002
+    },
+    {
+      "a": "Felt",
+      "d": "10.1177/0162243915626989",
+      "j": "Science Technology and Human Values",
+      "t": "Transdisciplinary sustainability research in practice: Between imaginaries of collective experimentation and entrenched academic value orders",
+      "y": 2016
+    },
+    {
+      "a": "Filipe",
+      "d": "10.1371/journal.pbio.2001403",
+      "j": "PLOS Biology",
+      "t": "The co-production of what? Knowledge, values, and social relations in health care",
+      "y": 2017
+    },
+    {
+      "a": "Grijseels",
+      "d": "",
+      "j": "Disability and Society",
+      "t": "Technologies for inclusive employment: beyond the prosthetic fix-social transformation axis",
+      "y": 2021
+    },
+    {
+      "a": "Grijseels",
+      "d": "",
+      "j": "",
+      "t": "Experimenting for transformation: The case of technologies for inclusive employment",
+      "y": 2024
+    },
+    {
+      "a": "Holscher",
+      "d": "10.1016/j.futures.2022.103025",
+      "j": "Futures",
+      "t": "Co-producing transformative visions for Europe in 2100: A multi-scale approach to orientate transformations under climate change",
+      "y": 2022
+    },
+    {
+      "a": "Hyysalo",
+      "d": "10.1016/j.destud.2019.05.002",
+      "j": "Design Studies",
+      "t": "Codesign for transitions governance: A mid-range pathway creation toolset for accelerating sociotechnical change",
+      "y": 2019
+    },
+    {
+      "a": "Jasanoff",
+      "d": "10.1177/030631296026002008",
+      "j": "Social Studies of Science",
+      "t": "Beyond epistemology: Relativism and engagement in the politics of science",
+      "y": 1996
+    },
+    {
+      "a": "Jordan",
+      "d": "10.1080/09650792.2015.1105145",
+      "j": "Educational Action Research",
+      "t": "Re-politicizing participatory action research: Unmasking neoliberalism and the illusions of participation",
+      "y": 2016
+    },
+    {
+      "a": "Karpen",
+      "d": "",
+      "j": "International Journal of Design",
+      "t": "Service design in the context of complexity: Moving between plurality and tension towards a future research agenda",
+      "y": 2021
+    },
+    {
+      "a": "Kember",
+      "d": "10.4324/9780203299159",
+      "j": "Cyberfeminism and artificial life",
+      "t": "Cyberfeminism and artificial life",
+      "y": 2003
+    },
+    {
+      "a": "Klaassen",
+      "d": "",
+      "j": "Assessment of Responsible Innovation: Methods and Practices",
+      "t": "Reflexive monitoring in action as a methodology for learning and enacting responsible research and innovation",
+      "y": 2021
+    },
+    {
+      "a": "Klenk",
+      "d": "10.1016/j.envsci.2015.05.017",
+      "j": "Environmental Science & Policy",
+      "t": "Climate change and transdisciplinary science: Problematizing the integration imperative",
+      "y": 2015
+    },
+    {
+      "a": "Kok",
+      "d": "10.1007/s11625-021-01033-7",
+      "j": "Sustainability Science",
+      "t": "Unraveling the politics of 'doing inclusion' in transdisciplinarity for sustainable transformation",
+      "y": 2021
+    },
+    {
+      "a": "Koolmees",
+      "d": "",
+      "j": "",
+      "t": "Kamervragen van het leden Van Beukering-Huijbregts en Van Eijs (beiden D66) over Speaksee",
+      "y": 2021
+    },
+    {
+      "a": "Koutsouris",
+      "d": "10.1080/00131911.2021.1889983",
+      "j": "Educational Review",
+      "t": "Agonism in education: a systematic scoping review and discussion of its educational potential",
+      "y": 2022
+    },
+    {
+      "a": "Kovacic",
+      "d": "10.1016/j.futures.2022.102984",
+      "j": "Futures",
+      "t": "Striking the balance: Sustainability and institutional transitions in the European environment agency",
+      "y": 2022
+    },
+    {
+      "a": "Kunseler",
+      "d": "10.1016/j.futures.2014.10.006",
+      "j": "Futures",
+      "t": "The reflective futures practitioner: Balancing salience, credibility and legitimacy in generating foresight knowledge with stakeholders",
+      "y": 2015
+    },
+    {
+      "a": "Laurent",
+      "d": "10.1177/0306312716668587",
+      "j": "Social Studies of Science",
+      "t": "Political experiments that matter: Ordering democracy from experimental sites",
+      "y": 2016
+    },
+    {
+      "a": "Lehtonen",
+      "d": "10.1016/j.futures.2022.102952",
+      "j": "Futures",
+      "t": "Empowering change for future-making: Developing agency by framing wicked problems through design",
+      "y": 2022
+    },
+    {
+      "a": "Lemos",
+      "d": "10.1038/s41893-018-0191-0",
+      "j": "Nature Sustainability",
+      "t": "To co-produce or not to co-produce",
+      "y": 2018
+    },
+    {
+      "a": "Lezaun",
+      "d": "",
+      "j": "Handbook of Science and Technology Studies",
+      "t": "7. Experiments in Participation",
+      "y": 2017
+    },
+    {
+      "a": "Loorbach",
+      "d": "10.1016/j.futures.2009.11.009",
+      "j": "Futures",
+      "t": "The practice of transition management: Examples and lessons from four distinct cases",
+      "y": 2010
+    },
+    {
+      "a": "Miller",
+      "d": "10.1016/j.envsci.2018.01.016",
+      "j": "Environmental Science & Policy",
+      "t": "Co-production in global sustainability: Histories and theories",
+      "y": 2020
+    },
+    {
+      "a": "Mouffe",
+      "d": "",
+      "j": "",
+      "t": "The democratic paradox",
+      "y": 2000
+    },
+    {
+      "a": "Mouffe",
+      "d": "",
+      "j": "",
+      "t": "",
+      "y": 2005
+    },
+    {
+      "a": "Mouffe",
+      "d": "",
+      "j": "",
+      "t": "Agonistics: Thinking the world politically",
+      "y": 2013
+    },
+    {
+      "a": "Nikolakis",
+      "d": "10.1016/j.futures.2020.102603",
+      "j": "Futures",
+      "t": "Participatory backcasting: Building pathways towards reconciliation?",
+      "y": 2020
+    },
+    {
+      "a": "Norstrom",
+      "d": "10.1038/s41893-019-0448-2",
+      "j": "Nature Sustainability",
+      "t": "Principles for knowledge co-production in sustainability research",
+      "y": 2020
+    },
+    {
+      "a": "Parks",
+      "d": "10.1111/j.1541-0072.1981.tb01208.x",
+      "j": "Policy Studies Journal",
+      "t": "Consumers as coproducers of public services: some economic and institutional considerations",
+      "y": 1981
+    },
+    {
+      "a": "Popa",
+      "d": "10.1016/j.esr.2025.101734",
+      "j": "Energy Strategy Reviews",
+      "t": "Taking value conflicts seriously: Technological pluralism as an approach to hydrogen governance",
+      "y": 2025
+    },
+    {
+      "a": "Regeer",
+      "d": "",
+      "j": "Transdisciplinarity for transformation: Responding to societal challenges through multi-actor, reflexive practices",
+      "t": "What is that thing called 'transdisciplinarity for transformation'?",
+      "y": 2024
+    },
+    {
+      "a": "Regeer",
+      "d": "",
+      "j": "",
+      "t": "Licence to grow - Innovating sustainable development by connecting values",
+      "y": 2011
+    },
+    {
+      "a": "Robinson",
+      "d": "10.1016/S0016-3287(03)00039-9",
+      "j": "Futures",
+      "t": "Future subjunctive: Backcasting as social learning",
+      "y": 2003
+    },
+    {
+      "a": "Rutting",
+      "d": "10.1016/j.futures.2022.102988",
+      "j": "Futures",
+      "t": "Strengthening foresight for governance of social-ecological systems: An interdisciplinary perspective",
+      "y": 2022
+    },
+    {
+      "a": "Sarkki",
+      "d": "10.1016/j.envsci.2015.02.016",
+      "j": "Environmental Science and Policy",
+      "t": "Adding \"iterativity\" to the credibility, relevance, legitimacy: A novel scheme to highlight dynamic aspects of science-policy interfaces",
+      "y": 2015
+    },
+    {
+      "a": "Schuijer",
+      "d": "",
+      "j": "",
+      "t": "Wading through the Mud: Reflections on shaping RRI in practice",
+      "y": 2021
+    },
+    {
+      "a": "Schuitmaker-Warnaar",
+      "d": "",
+      "j": "Sustainability (Switzerland)",
+      "t": "Institutionalizing reflexivity for sustainability: Two cases in health care",
+      "y": 2021
+    },
+    {
+      "a": "Smutylo",
+      "d": "",
+      "j": "",
+      "t": "Outcome mapping: A method for tracking behavioural changes in development programs",
+      "y": 2005
+    },
+    {
+      "a": "Spronck",
+      "d": "10.1080/09505431.2021.1893681",
+      "j": "Science as Culture",
+      "t": "Empty minds: Innovating audience participation in symphonic practice",
+      "y": 2021
+    },
+    {
+      "a": "Struminska-Kutra",
+      "d": "10.1016/j.futures.2021.102881",
+      "j": "Futures",
+      "t": "Taking power seriously: Towards a power-sensitive approach for transdisciplinary action research",
+      "y": 2022
+    },
+    {
+      "a": "Toe Laer",
+      "d": "",
+      "j": "",
+      "t": "Tech-hulp voor arbeidsbeperkten: veel kansen, mitsen en maren",
+      "y": 2020
+    },
+    {
+      "a": "Turnhout",
+      "d": "10.1016/j.cosust.2019.11.009",
+      "j": "Current Opinion in Environmental Sustainability",
+      "t": "The politics of co-production: participation, power, and transformation",
+      "y": 2020
+    },
+    {
+      "a": "UWV",
+      "d": "",
+      "j": "",
+      "t": "Technologie voor inclusie werkt: lessen uit zeven pilots",
+      "y": 2020
+    },
+    {
+      "a": "Van Mierlo",
+      "d": "",
+      "j": "",
+      "t": "Reflexive monitoring in action. A guide for monitoring system innovation projects",
+      "y": 2010
+    },
+    {
+      "a": "van Oudheusden",
+      "d": "10.1080/17457823.2024.2434826",
+      "j": "Ethnography and Education",
+      "t": "Struggling with dilemmas when teaching ethnography in higher education: agony, agonistic sensemaking, and agonistic spacemaking",
+      "y": 2025
+    },
+    {
+      "a": "van Veen",
+      "d": "10.1504/IJLC.2014.063147",
+      "j": "International Journal of Learning and Change",
+      "t": "Supporting reflective practices in social change processes with the dynamic learning agenda; an example of learning about the process towards disability inclusive development",
+      "y": 2014
+    },
+    {
+      "a": "Van Veen",
+      "d": "",
+      "j": "",
+      "t": "Characteristics of reflexive evaluation: A literature review conducted in the context of the Natuurpact (2014-2027) evaluation",
+      "y": 2016
+    },
+    {
+      "a": "Verschuere",
+      "d": "10.1007/s11266-012-9307-8",
+      "j": "VOLUNTAS: International Journal of Voluntary and Nonprofit Organizations",
+      "t": "Co-production: The state of the art in research and the future agenda",
+      "y": 2012
+    },
+    {
+      "a": "Verwoerd",
+      "d": "10.1093/scipol/scac045",
+      "j": "Science and Public Policy",
+      "t": "Negotiating space for knowledge co-production",
+      "y": 2023
+    },
+    {
+      "a": "Verwoerd",
+      "d": "",
+      "j": "",
+      "t": "The value of a reflexive evaluation approach in the eyes of researchers A review of the Natuurpact evaluation (2014-2017)",
+      "y": 2019
+    },
+    {
+      "a": "Verwoerd",
+      "d": "10.1177/1356389020969721",
+      "j": "Evaluation",
+      "t": "How to normalize reflexive evaluation? Navigating between legitimacy and integrity",
+      "y": 2021
+    },
+    {
+      "a": "Verwoerd",
+      "d": "10.1016/j.envsci.2019.10.011",
+      "j": "Environmental Science & Policy",
+      "t": "Combining the roles of evaluator and facilitator: Assessing societal impacts of transdisciplinary research while building capacities to improve its quality",
+      "y": 2020
+    },
+    {
+      "a": "Wyborn",
+      "d": "10.1111/cobi.13671",
+      "j": "Conservation Biology",
+      "t": "An agenda for research and action toward diverse and just futures for life on Earth",
+      "y": 2021
+    },
+    {
+      "a": "Zuiderent",
+      "d": "",
+      "j": "Scandinavian Journal of Information Systems",
+      "t": "Blurring the center: On the politics of ethnography",
+      "y": 2002
+    },
+    {
+      "a": "Zuiderent-Jerak",
+      "d": "",
+      "j": "",
+      "t": "Situated intervention: Sociological experiments in health care",
+      "y": 2015
+    },
+    {
+      "a": "Zuiderent-jerak",
+      "d": "10.3384/VS.2001-559.153145",
+      "j": "",
+      "t": "Ineffable Cultures or Material Devices : What Valuation Studies can Learn from the Disappearance of Ensured Solidarity in a Health Care Market",
+      "y": 2015
+    },
+    {
+      "a": "Zuiderent-Jerak",
+      "d": "",
+      "j": "",
+      "t": "A socio-economic bussiness case for policy decision makers",
+      "y": 2020
+    }
+  ],
+  "source": "Crossref reference list (reference text read automatically; spot-check spellings)",
+  "strands": [
+    {
+      "kind": "root",
+      "name": "Co-production: from public services to sustainability science",
+      "note": "The mainstream lineage the paper inherits, running from Ostrom-era co-production of public services to the principles-and-modes literature of the last decade.",
+      "refs": [
+        50,
+        8,
+        69,
+        4,
+        2,
+        23,
+        41,
+        44,
+        49,
+        11,
+        10,
+        20,
+        70
+      ]
+    },
+    {
+      "kind": "frame",
+      "name": "Agonistic political theory",
+      "note": "Mouffe's argument that democratic life needs adversaries rather than consensus, and the small set of authors who have carried it into education, policy design and technology governance.",
+      "refs": [
+        45,
+        9,
+        46,
+        47,
+        36,
+        12,
+        51,
+        66
+      ]
+    },
+    {
+      "kind": "debate",
+      "name": "The critique of participation",
+      "note": "The controversy the paper enters: participation as tyranny, as neoliberal alibi, as a politics of inclusion that hides who decides.",
+      "refs": [
+        15,
+        33,
+        29,
+        19,
+        63,
+        7,
+        34,
+        18,
+        14,
+        17,
+        61,
+        13
+      ]
+    },
+    {
+      "kind": "method",
+      "name": "Reflexive evaluation and monitoring",
+      "note": "The Dutch methodological apparatus the authors evaluate with - reflexive monitoring in action, dynamic learning agendas, outcome mapping and the Natuurpact evaluations.",
+      "refs": [
+        21,
+        59,
+        65,
+        53,
+        67,
+        0,
+        56,
+        68,
+        71,
+        73,
+        72,
+        32,
+        58,
+        3,
+        52
+      ]
+    },
+    {
+      "kind": "frame",
+      "name": "STS: situated intervention and experimental politics",
+      "note": "Zuiderent-Jerak's own tradition, where the researcher intervenes inside the setting and the experiment is itself a political device.",
+      "refs": [
+        28,
+        75,
+        31,
+        5,
+        76,
+        77,
+        22,
+        39,
+        42,
+        78,
+        60,
+        57
+      ]
+    },
+    {
+      "kind": "method",
+      "name": "Futures, foresight and transition design",
+      "note": "The Futures-journal neighbourhood the article is published into: backcasting, visioning, transition management and design-led future-making.",
+      "refs": [
+        54,
+        6,
+        43,
+        38,
+        1,
+        27,
+        48,
+        74,
+        30,
+        26,
+        37,
+        40,
+        55
+      ]
+    },
+    {
+      "kind": "context",
+      "name": "Other / case context",
+      "note": "The inclusive-employment technology case itself, including Dutch policy documents and pilot reports.",
+      "refs": [
+        62,
+        64,
+        24,
+        35,
+        16,
+        25
+      ]
+    }
+  ],
+  "tracedAt": "2026-09-28"
+}

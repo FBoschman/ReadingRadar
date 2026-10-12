@@ -1,0 +1,20 @@
+{
+  "authors": "ScienceGuide",
+  "caveat": "",
+  "date": "2026-08",
+  "kind": "discourse",
+  "lang": "nl",
+  "ratedAt": "2026-10-03T13:42:42.286Z",
+  "run": "2026-09-19",
+  "score": 3,
+  "source": "ScienceGuide",
+  "status": "skip",
+  "themes": [
+    "ai"
+  ],
+  "title": "Wetenschap als geheel kan niet worden geautomatiseerd, maar onderdelen ervan wel",
+  "url": "https://www.scienceguide.nl/2026/08/eindhovense-onderzoekers-bouwen-digitale-controleur-voor-wetenschappelijke-artikelen/",
+  "venue": "ScienceGuide",
+  "why": "TU/e tool that checks papers automatically — AI in the research process itself.",
+  "wildcard": false
+}

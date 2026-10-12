@@ -1,0 +1,22 @@
+{
+  "authors": "Agnieszka Zielinska et al.",
+  "caveat": "Built from EU project documents and action plans, so the plans may well outrun what happened.",
+  "date": "2026",
+  "doi": "",
+  "kind": "paper",
+  "lang": "en",
+  "ratedAt": "2026-10-05T09:26:14.971Z",
+  "run": "2026-10-05",
+  "score": 3,
+  "source": "Consensus",
+  "status": "skip",
+  "themes": [
+    "eco",
+    "par"
+  ],
+  "title": "Building impactful and inclusive TVET ecosystems: a multiple-case study of challenges and co-designed actions in post-compulsory learning",
+  "url": "https://consensus.app/papers/details/21e7119b0a2555eaa4ad954ec58dc060/",
+  "venue": "Education + Training",
+  "why": "Quadruple-helix ecosystem work in seven mid-sized European cities, which is the scale Zwolle actually operates at rather than the metropolitan scale most living-lab papers assume.",
+  "wildcard": true
+}

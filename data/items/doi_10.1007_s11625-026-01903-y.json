@@ -1,0 +1,22 @@
+{
+  "authors": "Chen, Mao",
+  "caveat": "Metadata came from the journal's online-first list; the abstract was not read, so the inclusion criteria and what the review counts as participation are unverified.",
+  "date": "2026-10-05",
+  "doi": "10.1007/s11625-026-01903-y",
+  "kind": "paper",
+  "lang": "en",
+  "run": "2026-10-12",
+  "score": 4,
+  "source": "Journal watch: Sustainability Science",
+  "status": "new",
+  "themes": [
+    "td",
+    "par",
+    "eco"
+  ],
+  "title": "Art-science collaboration for sustainability challenges: a systematic review of scholarship, sustainability framings, and stakeholder participation",
+  "url": "https://doi.org/10.1007/s11625-026-01903-y",
+  "venue": "Sustainability Science",
+  "why": "Reviews how art-science work frames sustainability and who actually gets to take part. A route into the material and aesthetic register you want for substrate, and for public-space work with residents.",
+  "wildcard": false
+}

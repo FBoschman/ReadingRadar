@@ -1,0 +1,21 @@
+{
+  "authors": "Choopani",
+  "caveat": "Evidence is session reflections, e-portfolios and group interviews from one course; no DOI was captured this run, so the record points at the Consensus entry.",
+  "date": "2026",
+  "doi": "",
+  "kind": "paper",
+  "lang": "en",
+  "run": "2026-10-12",
+  "score": 3,
+  "source": "Consensus; Journal watch: EDeR. Educational Design Research",
+  "status": "new",
+  "themes": [
+    "dbr",
+    "eco"
+  ],
+  "title": "Cross-Cultural Implementation of Sustainability in Fashion Design Education through a Design-Based Research Approach",
+  "url": "https://consensus.app/papers/details/731b064c696d5119b0f2bb77bac2d2f2/",
+  "venue": "EDeR. Educational Design Research",
+  "why": "Four DBR cycles across Germany and Iran that treat the course and its materials as knowledge-generating artefacts. A usable worked example of Research Through Design logic inside a professional programme.",
+  "wildcard": false
+}

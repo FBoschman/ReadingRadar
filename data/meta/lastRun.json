@@ -1,0 +1,46 @@
+{
+  "date": "2026-10-12",
+  "harvested": 51,
+  "kept": 18,
+  "label": "Weekly run",
+  "notes": "Second consecutive run with the radar's main plumbing broken, and the diagnosis is now firm: in a scheduled run WebFetch will only load a URL that has appeared verbatim in a WebSearch result. That rules out every API (Crossref, Bluesky, any RSS feed) and any constructed query URL, and it is not a transient failure - clearing a host at one path does not clear another path on the same host. The shell is no help: the egress proxy denies CONNECT to api.crossref.org. ScienceDirect adds a second, separate block (robots.txt), so all 10 Elsevier journals on the watch list are dark. The fix is on the task side, not in the prompt: either give this scheduled task a permission mode that auto-approves fetches, or paste the Crossref, Bluesky and feed base URLs into the stored prompt in a form the permission layer accepts. Until then the working route is: web-search to surface a publisher listing page, then fetch it - which is how Sustainability Science and Systemic Practice and Action Research were swept this week. Because there is no from-pub-date filter on that route, the window was again widened to 'published in 2026 and not already on the radar'; the 7 items dated before October carry the exact date and a caveat saying so. Housekeeping: no skip items are older than 12 weeks, so nothing was deleted.",
+  "sources": [
+    {
+      "name": "Crossref topic search (8 themes)",
+      "status": "failed - api.crossref.org unreachable twice over: WebFetch returns PROVENANCE_REQUIRED because a scheduled run can only fetch a URL that appeared verbatim in a web-search result, and the container's egress proxy answers 403 to CONNECT api.crossref.org:443. Fetching the Crossref documentation page first did not clear the host; nor does a host already cleared at another path (tested with link.springer.com), so the rule is strictly per-URL"
+    },
+    {
+      "name": "Journal watch: 3/20 journals covered",
+      "status": "partial - Sustainability Science swept directly via its Springer online-first page (3 items); Educational Philosophy and Theory, EDeR and Computers and Education: AI covered indirectly via Consensus (3 items). The 10 Elsevier titles have no route at all: sciencedirect.com returns ROBOTS_DISALLOWED. The 5 Taylor & Francis titles and Action Research (SAGE) were not fetchable either. Journal of Participatory Research Methods is on a fetchable platform and goes first in the rotation next run"
+    },
+    {
+      "name": "Consensus: 2 searches (cx, dbr)",
+      "status": "ok - 8 items kept; fired one at a time, no rate limit. Next themes: par, then ai"
+    },
+    {
+      "name": "Bluesky",
+      "status": "failed - public.api.bsky.app refused by the same per-URL fetch rule; 0 accounts read, no list lookup. Second run in a row"
+    },
+    {
+      "name": "RSS feeds",
+      "status": "none configured - and no point adding any until the fetch restriction is lifted, since a feed URL would be refused the same way"
+    },
+    {
+      "name": "ScienceGuide",
+      "status": "partial - the news archive page was readable and gave 5 October headlines, but the individual article pages were refused, so the one item kept is headline-only"
+    },
+    {
+      "name": "Springer article and online-first listing pages (fallback route that worked)",
+      "status": "ok - this is the find of the run: a journal's /articles or /online-first page on link.springer.com is fetchable once its URL has been surfaced by a web search, and it gives title, authors and exact publication date for several papers at once. 5 items came from two such pages, and single article pages gave full metadata for 4 more"
+    },
+    {
+      "name": "Calls and events",
+      "status": "ok - RAAK-PRO November 2026 added (full application closes 17 November, but the mandatory intentieverklaring closed 3 September and the call page says new applications are not currently possible). Nothing new from NRO with a date that could be read on the source page"
+    },
+    {
+      "name": "ROOTS lineage",
+      "status": "partial - lineageRequests had no queued entries. Crossref reference lists were unavailable, so one lineage was built from the reference list printed on the Springer article page instead (24 refs, recorded as such in the source and method fields). Only 1 of up to 5 traced, because each trace costs a slow publisher-page fetch"
+    }
+  ],
+  "unique": 34
+}

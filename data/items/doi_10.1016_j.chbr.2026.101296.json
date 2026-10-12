@@ -1,0 +1,20 @@
+{
+  "authors": "Raccanello, Burro, Vicentini",
+  "caveat": "Self-report survey; antecedent claims are correlational.",
+  "date": "2026-12",
+  "doi": "10.1016/j.chbr.2026.101296",
+  "kind": "paper",
+  "lang": "en",
+  "run": "2026-09-21",
+  "score": 3,
+  "source": "Crossref",
+  "status": "new",
+  "themes": [
+    "ai"
+  ],
+  "title": "How do higher education students feel using ChatGPT? A multi-country survey on epistemic emotions and their antecedents",
+  "url": "https://doi.org/10.1016/j.chbr.2026.101296",
+  "venue": "Computers in Human Behavior Reports",
+  "why": "Epistemic emotions are an underused lens on AI use - closer to what students actually experience than competence checklists.",
+  "wildcard": false
+}

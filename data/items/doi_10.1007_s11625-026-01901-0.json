@@ -1,0 +1,21 @@
+{
+  "authors": "Kallis",
+  "caveat": "The author is a central figure in the field being assessed, so read it as a position paper. Metadata only; abstract not read.",
+  "date": "2026-10-05",
+  "doi": "10.1007/s11625-026-01901-0",
+  "kind": "paper",
+  "lang": "en",
+  "run": "2026-10-12",
+  "score": 3,
+  "source": "Journal watch: Sustainability Science",
+  "status": "new",
+  "themes": [
+    "dec",
+    "td"
+  ],
+  "title": "The state of degrowth research and how to assess it",
+  "url": "https://doi.org/10.1007/s11625-026-01901-0",
+  "venue": "Sustainability Science",
+  "why": "A stock-take of degrowth scholarship by one of its architects. Low keyword fit, but it sits directly behind the degrowth-curriculum and epistemic-justice material already on the radar.",
+  "wildcard": true
+}

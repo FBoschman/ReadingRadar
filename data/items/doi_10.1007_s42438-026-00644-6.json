@@ -1,0 +1,21 @@
+{
+  "authors": "Pietarinen, Shi",
+  "caveat": "Conceptual and untested; check whether the criteria can actually be operationalised in assessment design rather than only argued.",
+  "date": "2026-05-02",
+  "doi": "10.1007/s42438-026-00644-6",
+  "kind": "paper",
+  "lang": "en",
+  "run": "2026-10-05",
+  "score": 4,
+  "source": "Web search + publisher page (Crossref API blocked)",
+  "status": "new",
+  "themes": [
+    "ai",
+    "pc"
+  ],
+  "title": "Manipulation and Deception in Generative AI-Mediated Education: Preserving Epistemic Agency, Critical Thinking, and Creativity",
+  "url": "https://doi.org/10.1007/s42438-026-00644-6",
+  "venue": "Postdigital Science and Education",
+  "why": "Tries to state criteria that separate legitimate pedagogical AI use from manipulation, which is exactly the line your AI and Professional Criticality papers need to draw.",
+  "wildcard": false
+}
