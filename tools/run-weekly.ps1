@@ -22,7 +22,7 @@ if ($DryRun) { $arguments += '--dry-run' }
 if ($NoPush) { $arguments += '--no-push' }
 
 "=== Reading Radar weekly cycle, started $(Get-Date -Format 'u') ===" | Out-File -FilePath $log -Append -Encoding utf8
-& py -3 @arguments 2>&1 | Tee-Object -FilePath $log -Append
+& py -3 @arguments 2>&1 | Tee-Object -FilePath $log -Append -Encoding utf8
 $code = $LASTEXITCODE
 "=== finished with exit code $code, $(Get-Date -Format 'u') ===" | Out-File -FilePath $log -Append -Encoding utf8
 
